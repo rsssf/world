@@ -4,19 +4,21 @@
   
 
 
-## Brazil 2010
+== Brazil 2010
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Série A, see §sa›
 ‹Copa do Brasil, see §cb›
 ‹Série B, see §sb›
 ‹Série C, see §sc›
 ‹Série D, see §sd›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série A  ‹§sa›
+==== Série A  ‹§sa›
 
-
+<!-- start pre -->
 Participants
 
 Atlético C Goianiense (Goiânia-GO)      Fluminense FC (Rio de Janeiro-RJ)
@@ -969,12 +971,13 @@ Topscorer: Jonas (Grêmio), 23 goals.
      Neymar (Santos), 17 goals.
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa do Brasil  ‹§cb›
+==== Copa do Brasil  ‹§cb›
 
-
+<!-- start pre -->
 Participants:
 
 Clubs classified due to state competitions performance:
@@ -1320,12 +1323,13 @@ FINAL
 SANTOS Champions of Copa do Brasil 2010 and classified to Copa Libertadores 2011.
 
 Topscorer: Neymar (Santos), 11 goals.
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série B  ‹§sb›
+==== Série B  ‹§sb›
 
-
+<!-- start pre -->
 Participants
 
 América FC (Belo Horizonte-MG)          ADRC Icasa (Juazeiro do Norte-CE)
@@ -1922,12 +1926,13 @@ Table:
 Topscorer: Alessandro (Ipatinga), 21 goals.
      Fábio Júnior (América-MG), 19 goals.
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série C  ‹§sc›
+==== Série C  ‹§sc›
 
-
+<!-- start pre -->
 Participants
 
 ABC Futebol Clube (Natal-RN)
@@ -1937,7 +1942,7 @@ Grêmio Esportivo BRASIL (Pelotas-RS)
 CAMPINENSE Clube (Campina Grande-PB)
 Sociedade Esportiva e Recreativa CAXIAS do Sul (Caxias do Sul-RS)
 Associação CHAPECOENSE de Futebol (Chapecó-SC)
-Clube de Regatas Brasil – CRB (Maceió-AL)
+Clube de Regatas Brasil - CRB (Maceió-AL)
 CRICIÚMA Esporte Clube (Criciúma-SC)
 FORTALEZA Esporte Clube (Fortaleza-CE)
 Sociedade Esportiva do GAMA (Brasília-DF)
@@ -2385,12 +2390,13 @@ Final standings:
 
 Topscorer: Bruno Rangel (Paysandu), 8 goals.
      Cascata (ABC) and Felipe Mamão (Águia), 5 goals.
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série D  ‹§sd›
+==== Série D  ‹§sd›
 
-
+<!-- start pre -->
 Participants
 
 Relegated from the Série C 2009:
@@ -3040,6 +3046,7 @@ Final standings:
 
 Topscorer: Danilo Pitbull (Guarany), 11 goals.
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -3052,9 +3059,10 @@ Topscorer: Danilo Pitbull (Guarany), 11 goals.
 ‹list of 2nd division champions, see page braz2champ›.
 
 ‹list of cup winners, see page brazcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Martin Arenlind
 
@@ -3064,7 +3072,7 @@ Author: RSSSF Brazil
 Last updated: 25 Mar 2024
 
 
-**(C) Copyright RSSSF and RSSSF Brazil 2012/24**
+(C) Copyright RSSSF and RSSSF Brazil 2012/24
 You are free to copy
 this document in whole or part provided that proper acknowledgement is given to
 the author. All rights reserved.

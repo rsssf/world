@@ -4,19 +4,21 @@
   
 
 
-## Brazil 2020/21
+== Brazil 2020/21
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Série A, see §sa›
 ‹Copa do Brasil, see §cb›
 ‹Supercopa do Brasil, see §supcb›
 ‹Série B, see §sb›
 ‹Série C, see §sc›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série A  ‹§sa›
+==== Série A  ‹§sa›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Flamengo              38  21  8  9  68-48  71  [C]  Champions
@@ -640,12 +642,13 @@ Final Table:
 19.Coritiba              38   7 10 21  31-54  31  [P]  Relegated
 20.Botafogo              38   5 12 21  32-62  27       Relegated
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa do Brasil 2020/21  ‹§cb›
+==== Copa do Brasil 2020/21  ‹§cb›
 
-
+<!-- start pre -->
 Participants
 
 ABC/RN - ABC Futebol Clube (Natal/RN)
@@ -988,21 +991,23 @@ Grêmio/RS                 0-1  Palmeiras/SP
 2nd Leg [Mar 7, 2021]
 Palmeiras/SP              2-0  Grêmio/RS
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Supercopa do Brasil 2021  ‹§supcb›
+==== Supercopa do Brasil 2021  ‹§supcb›
 
-
+<!-- start pre -->
 [Apr 11, 2021, Brasília]
 Flamengo/RJ               2-2  Palmeiras/SP              [6-5 pen (no extra time)]
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série B  ‹§sb›
+==== Série B  ‹§sb›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Chapecoense           38  20 13  5  42-21  73  [R]  Promoted
@@ -1018,7 +1023,7 @@ Final Table:
 10.CRB             38  15  7 16  48-47  52
 11.Cruzeiro              38  14 13 11  39-32  49  [R]  [-6]
 12.Brasil de Pelotas     38  11 16 11  31-33  49
-13.Guaraní               38  13  9 16  41-48  48
+13.Guarani               38  13  9 16  41-48  48
 14.Vitória               38  11 15 12  45-45  48
 15.Confiança             38  12 10 16  38-46  46  [P]
 16.Náutico           38  10 14 14  35-42  44  [P]
@@ -1030,12 +1035,13 @@ Final Table:
 
 Promoted: Vila Nova, Remo, Brusque, Londrina
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série C  ‹§sc›
+==== Série C  ‹§sc›
 
-
+<!-- start pre -->
 First Stage
 
 Final Tables:
@@ -1096,6 +1102,7 @@ Remo            2-3 Vila Nova
 
 Promoted from 4th level: Altos, Floresta, Mirassol, Novorizontino
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -1108,17 +1115,18 @@ Promoted from 4th level: Altos, Floresta, Mirassol, Novorizontino
 ‹list of 2nd division champions, see page braz2champ›.
 
 ‹list of cup winners, see page brazcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
 
 Author: RSSSF Brazil
-Last updated: 4 Jul 2023
+Last updated: 8 Dec 2025
 
 
-**(C) Copyright RSSSF and RSSSF Brazil 2020/23**
+(C) Copyright RSSSF and RSSSF Brazil 2020/25
 You are free to copy
 this document in whole or part provided that proper acknowledgement is given to
 the author. All rights reserved.

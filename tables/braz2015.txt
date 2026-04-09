@@ -4,17 +4,19 @@
   
 
 
-## Brazil 2015
+== Brazil 2015
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Série A, see §sa›
 ‹Copa do Brasil, see §cb›
 ‹Série B, see §sb›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série A  ‹§sa›
+==== Série A  ‹§sa›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Corinthians           38  24  9  5  71-31  81  Champions
@@ -112,7 +114,7 @@ Round 4
 Ponte Preta   3-1  Chapecoense
  [Tiago Alves 5', Biro Biro 47', Renato Cajá 90'+2'; Gil 88']
 Coritiba   1-2  Avaí
- [Paulinho 49'; Anderson Lopes 45', Roberto 78']
+ [Paulinho 49'; Anderson Lopes 0'45", Roberto 78']
 Joinville   1-2  Atlético/PR
  [Rafael Costa 64'; Nikão 29', Douglas Coutinho 32']
 [May 31]
@@ -133,7 +135,7 @@ Figueirense   2-1  Cruzeiro
 Round 5
 [Jun 3]
 Vasco da Gama   0-3  Ponte Preta
- [Diego Olivera 55', Tiago Alves 38', Borges 76']
+ [Diego Olivera 0'55", Tiago Alves 38', Borges 76']
 Atlético/PR   1-0  Figueirense
  [Nikão 19']
 Chapecoense   2-0  Joinville
@@ -540,7 +542,7 @@ Sport     0-1  Flamengo
 Chapecoense   1-3  Corinthians
  [Bruno Rangel 45'+3'; Elias 10', Vágner Love 13', Jádson 89'p]
 Palmeiras   3-2  Joinville
- [Gabriel Jesus 48', 67', Dudu 23'; Marcelinho Paraíba 26',27']
+ [Gabriel Jesus 0'48", 67', Dudu 23'; Marcelinho Paraíba 26',27']
 Fluminense   1-2  Atlético/MG
  [Wellington Paulista 46'; Giovanni Augusto 21', Patric 82']
 Cruzeiro   0-1  Santos
@@ -854,7 +856,7 @@ Cruzeiro   3-0  Sport
  [Willians 58'p, Durval 61'og, Marcos Vinícius 66']
 [Nov 18]
 Goiás     1-3  Coritiba
- [Fred 79'; Juan 25', João Paulo 45'+2', Henrique Almeida 90'+3']
+ [Fred 79'; Juan 0'25", João Paulo 45'+2', Henrique Almeida 90'+3']
 Avaí     2-1  Joinville
  [André Lima 18', Everton Silva 87'; Fernando Viana 42']
 Atlético/PR   3-3  Palmeiras
@@ -963,12 +965,13 @@ Final Table:
 19.Goiás                 38  10  8 20  39-49  38  Relegated
 20.Joinville             38   7 10 21  26-48  31  Relegated
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa do Brasil  ‹§cb›
+==== Copa do Brasil  ‹§cb›
 
-
+<!-- start pre -->
 Participants:
 
 Clubs classified to Taça Libertadores da América (and bye to 1/8 Finals):
@@ -1437,12 +1440,13 @@ PALMEIRAS Champions of Copa do Brasil 2015 and classified to Copa Libertadores 2
 
 Topscorers: Gabriel (Santos), 8 goals
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série B  ‹§sb›
+==== Série B  ‹§sb›
 
-
+<!-- start pre -->
 Participants
 
 ABC Futebol Clube (Natal-RN)
@@ -2407,6 +2411,7 @@ Topscorer: Zé Carlos (CRB), 19 goals.
 
 Promoted: Vila Nova FC (Goiânia), Londrina EC,
           Tupi FC (Juiz de Fora), GE Brasil (Pelotas)
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -2419,9 +2424,10 @@ Promoted: Vila Nova FC (Goiânia), Londrina EC,
 ‹list of 2nd division champions, see page braz2champ›.
 
 ‹list of cup winners, see page brazcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
 
@@ -2429,7 +2435,7 @@ Author: RSSSF Brazil
 Last updated: 29 Dec 2021
 
 
-**(C) Copyright RSSSF and RSSSF Brazil 2015/21**
+(C) Copyright RSSSF and RSSSF Brazil 2015/21
 You are free to copy
 this document in whole or part provided that proper acknowledgement is given to
 the author. All rights reserved.

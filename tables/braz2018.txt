@@ -4,17 +4,19 @@
   
 
 
-## Brazil 2018
+== Brazil 2018
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Série A, see §sa›
 ‹Copa do Brasil, see §cb›
 ‹Série B, see §sb›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série A  ‹§sa›
+==== Série A  ‹§sa›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Palmeiras             38  23 11  4  64-26  80       Champions
@@ -632,12 +634,13 @@ Final Table:
 
 Promoted: Fortaleza, CSA, Avaí, Goiás
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa do Brasil  ‹§cb›
+==== Copa do Brasil  ‹§cb›
 
-
+<!-- start pre -->
 Participants:
 
 Clubs classified to Taça Libertadores da América (and bye to 1/8 Finals):
@@ -1041,12 +1044,13 @@ CRUZEIRO champions of Copa do Brasil 2018 and classified to Copa Libertadores 20
 
 Topscorers: GABRIEL (Santos), NEÍLTON (Vitória) and RÔMULO (Avaí), 4 goals
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série B  ‹§sb›
+==== Série B  ‹§sb›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Fortaleza             38  21  8  9  54-33  71  [P]  Promoted
@@ -1058,7 +1062,7 @@ Final Table:
  6.Atlético/GO           38  16 11 11  57-51  59  [R]
  7.Vila Nova             38  14 15  9  41-36  57
  8.Londrina              38  15 10 13  45-42  55
- 9.Guaraní               38  14 12 12  44-39  54
+ 9.Guarani               38  14 12 12  44-39  54
 10.Coritiba              38  13 13 12  40-44  52  [R]
 11.Brasil de Pelotas     38  13 11 14  36-35  50
 12.CRB             38  12 12 14  35-39  48
@@ -1073,6 +1077,7 @@ Final Table:
 20.Boa Esporte           38   7  9 22  26-49  30       Relegated
 
 Promoted: Operário Ferroviário (Ponta Grossa), Cuiabá, Botafogo/SP, Bragantino
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -1085,17 +1090,18 @@ Promoted: Operário Ferroviário (Ponta Grossa), Cuiabá, Botafogo/SP, Bragantin
 ‹list of 2nd division champions, see page braz2champ›.
 
 ‹list of cup winners, see page brazcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
 
 Author: RSSSF Brazil
-Last updated: 29 Dec 2021
+Last updated: 8 Dec 2025
 
 
-**(C) Copyright RSSSF and RSSSF Brazil 2018/21**
+(C) Copyright RSSSF and RSSSF Brazil 2018/25
 You are free to copy
 this document in whole or part provided that proper acknowledgement is given to
 the author. All rights reserved.

@@ -4,9 +4,9 @@
   
 
 
-## Brazil 2000 - Copa João Havelange
+== Brazil 2000 - Copa João Havelange
 
-
+<!-- start pre -->
 After the end of the 1999 championship, Gama contested in a common justice court its
 relegation, caused by the decision of the sports justice court to award Botafogo-RJ and
 Internacional victories over São Paulo.  Common justice ruled in favour of the team from
@@ -2064,10 +2064,11 @@ Topscorers:
 
 ‹list of 2nd division champions, see page braz2champ›.
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Guillermo Rivera, Antônio Message Jr.
 and Miguel Alvim Gonzalez
@@ -2081,7 +2082,7 @@ and Miguel Alvim Gonzalez
 Last updated: 15 Aug 2001
 
 
-**(C) Copyright Guillermo Rivera, Antônio Message Jr.,
-Miguel Alvim Gonzalez and RSSSF 2000/01**
+(C) Copyright Guillermo Rivera, Antônio Message Jr.,
+Miguel Alvim Gonzalez and RSSSF 2000/01
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

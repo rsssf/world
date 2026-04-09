@@ -4,9 +4,9 @@
   
 
 
-## Brazil 1995
+== Brazil 1995
 
-
+<!-- start pre -->
 
 *       SERIE A  - - FIRST PHASE
 *             Round 1 (20/08/95)
@@ -1684,12 +1684,11 @@ Both finalists were promoted.
 
 ‹list of 2nd division champions, see page braz2champ›.
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
-
-</A>
+== About this document
 
 Thanks to Luiz Alberto, Antonio Message Jr., Manoel Mendonca, Ricardo Pontes,
 Marcelo Leme de Arruda and Hector Villa Martinez.
@@ -1699,7 +1698,7 @@ Prepared and maintained by RSSSF Brazil for the ‹Rec.Sport.Soccer Statistics F
 Author: RSSSF Brazil
 Last updated: 2 Apr 2005
 
-**(C) Copyright RSSSF and RSSSF Brazil 1995/2005**
+(C) Copyright RSSSF and RSSSF Brazil 1995/2005
 You are free to copy
 this document in whole or part provided that proper acknowledgement is given to
 RSSSF Brazil. All rights reserved.

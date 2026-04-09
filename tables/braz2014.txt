@@ -4,16 +4,18 @@
   
 
 
-## Brazil 2014
+== Brazil 2014
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Série A, see §sa›
 ‹Copa do Brasil, see §cb›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série A  ‹§sa›
+==== Série A  ‹§sa›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Cruzeiro              38  24  8  6  67-38  80  Champions
@@ -623,12 +625,13 @@ Final Table:
 20.Criciúma              38   7 11 20  28-56  32  Relegated
 
 Promoted: Joinville, Ponte Preta, Vasco da Gama, Avaí
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa do Brasil  ‹§cb›
+==== Copa do Brasil  ‹§cb›
 
-
+<!-- start pre -->
 Participants:
 
 Clubs classified to Taça Libertadores da América (and bye to 1/8 Finals):
@@ -1092,6 +1095,7 @@ FINAL
 ATLÉTICO MINEIRO Champions of Copa do Brasil 2014 and classified to Copa Libertadores 2015.
 
 Topscorers: Bill (Ceará), Gabriel (Santos), Léo Gamalho (Santa Cruz), 6 goals
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -1104,9 +1108,10 @@ Topscorers: Bill (Ceará), Gabriel (Santos), Léo Gamalho (Santa Cruz), 6 goals
 ‹list of 2nd division champions, see page braz2champ›.
 
 ‹list of cup winners, see page brazcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
 
@@ -1114,7 +1119,7 @@ Author: RSSSF Brazil
 Last updated: 13 May 2015
 
 
-**(C) Copyright RSSSF and RSSSF Brazil 2014/15**
+(C) Copyright RSSSF and RSSSF Brazil 2014/15
 You are free to copy
 this document in whole or part provided that proper acknowledgement is given to
 the author. All rights reserved.

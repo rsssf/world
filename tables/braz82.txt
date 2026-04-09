@@ -4,9 +4,9 @@
   
 
 
-## Brazil 1982
+== Brazil 1982
 
-
+<!-- start pre -->
 Taça de Ouro - Championship
 
 Participants
@@ -1735,10 +1735,11 @@ Campo Grande Promoted To 1983 Taça De Ouro.
 ‹list of 2nd division champions, see page braz2champ›.
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 ‹Source, see page ../sources›: [pla]
 
@@ -1756,6 +1757,6 @@ Author: Ricardo Pontes
 Last updated: 18 Jan 2000
 
 
-**(C) Copyright Ricardo Pontes and RSSSF 1999/2000**
+(C) Copyright Ricardo Pontes and RSSSF 1999/2000
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

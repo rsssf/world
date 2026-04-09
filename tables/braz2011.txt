@@ -4,19 +4,21 @@
   
 
 
-## Brazil 2011
+== Brazil 2011
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Série A, see §sa›
 ‹Copa do Brasil, see §cb›
 ‹Série B, see §sb›
 ‹Série C, see §sc›
 ‹Série D, see §sd›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série A  ‹§sa›
+==== Série A  ‹§sa›
 
-
+<!-- start pre -->
 Participants
 
 América FC (Belo Horizonte-MG)         [1] Cruzeiro EC (Belo Horizonte-MG) [1]
@@ -979,12 +981,13 @@ Top 4 qualified to 2012 Libertadores (Santos already qualified as 2011 Libertado
 and Vasco da Gama already qualified as 2011 Copa do Brasil champions).
 Teams placed 6-13 (except Santos) qualified to 2012 Sudamericana.
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa do Brasil  ‹§cb›
+==== Copa do Brasil  ‹§cb›
 
-
+<!-- start pre -->
 Participants:
 
 Clubs classified due to state competitions performance:
@@ -1324,12 +1327,13 @@ VASCO Champions of Copa do Brasil 2011 and classified to Copa Libertadores 2012.
 
 Topscorers: Rafael Coelho (Avaí), William (Avaí), Adriano (Palmeiras) and
             Kléber (Palmeiras), 5 goals.
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série B  ‹§sb›
+==== Série B  ‹§sb›
 
-
+<!-- start pre -->
 Participants
 
 ABC FC (Natal-RN)      ADRC Icasa (Juazeiro do Norte-CE)
@@ -1945,12 +1949,13 @@ Topscorer: Kiesa (Náutico), 21 goals.
 (-) - Teams relegated from 2010 Série A (1st level)
 (+) - Teams promoted from 2010 Série C (3rd level)
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série C  ‹§sc›
+==== Série C  ‹§sc›
 
-
+<!-- start pre -->
 Participants
 
 ÁGUIA de Marabá Futebol Clube (Marabá-PA)
@@ -1961,7 +1966,7 @@ BRASILIENSE Futebol Clube (Brasília-DF)         [2]
 CAMPINENSE Clube (Campina Grande-PB)
 Sociedade Esportiva e Recreativa CAXIAS do Sul (Caxias do Sul-RS)
 Associação CHAPECOENSE de Futebol (Chapecó-SC)
-Clube de Regatas Brasil – CRB (Maceió-AL)
+Clube de Regatas Brasil - CRB (Maceió-AL)
 FORTALEZA Esporte Clube (Fortaleza-CE)
 GUARANY Sporting Club (Sobral-CE)
 JOINVILLE Esporte Clube (Joinville-SC)
@@ -2369,12 +2374,13 @@ CRB            1-3 Joinville
 Joinville      4-0 CRB
 
 *** JOINVILLE are Brazil 2011 3rd level (Série C) champions ***
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série D  ‹§sd›
+==== Série D  ‹§sd›
 
-
+<!-- start pre -->
 Participants
 
 Relegated from the Série C 2010:
@@ -3164,6 +3170,7 @@ Final Standings
 
 Topscorer: Marcinho (Oeste), Fernando (Cuiabá), 11 goals.
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -3176,9 +3183,10 @@ Topscorer: Marcinho (Oeste), Fernando (Cuiabá), 11 goals.
 ‹list of 2nd division champions, see page braz2champ›.
 
 ‹list of cup winners, see page brazcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Martin Arenlind
 
@@ -3188,7 +3196,7 @@ Author: RSSSF Brazil
 Last updated: 20 Feb 2024
 
 
-**(C) Copyright RSSSF and RSSSF Brazil 2012/24**
+(C) Copyright RSSSF and RSSSF Brazil 2012/24
 You are free to copy
 this document in whole or part provided that proper acknowledgement is given to
 the author. All rights reserved.

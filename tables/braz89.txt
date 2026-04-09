@@ -4,9 +4,9 @@
   
 
 
-## Brazil 1989
+== Brazil 1989
 
-
+<!-- start pre -->
 1st LEVEL
 
 PARTICIPANTS
@@ -609,8 +609,8 @@ Table
  4-Guarani             8  2  3  3   8-10   7  Relegated
  5-Sport               8  0  3  5   3-11   3  Relegated
 
-<strong>Final
-</strong>
+Final
+
 Since Vasco da Gama had a better season record, they earned a bonus point to
 the final, the right to choose were the first leg would be held (the choice
 was the city of São Paulo).
@@ -1789,12 +1789,11 @@ Grêmio FBPA were the 1989 winners of the Copa do Brasil.
 
 ‹list of 2nd division champions, see page braz2champ›.
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
-
-</A>
+== About this document
 
 Thanks to Ricardo Pontes.
 
@@ -1805,7 +1804,7 @@ Prepared and maintained by RSSSF Brazil for the ‹Rec.Sport.Soccer Statistics F
 Author: RSSSF Brazil
 Last updated: 2 Apr 2005
 
-**(C) Copyright RSSSF and RSSSF Brazil 1995/2005**
+(C) Copyright RSSSF and RSSSF Brazil 1995/2005
 You are free to copy
 this document in whole or part provided that proper acknowledgement is given to
 RSSSF Brazil. All rights reserved.

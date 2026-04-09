@@ -4,9 +4,9 @@
   
 
 
-## Brazil 1997
+== Brazil 1997
 
-
+<!-- start pre -->
 The two teams relegated last season, Fluminense and Bragantino, will
 be kept in the first division, which will play with 26 teams this
 year.  Atletico Paranaense will start with -5 points because of
@@ -1701,10 +1701,11 @@ Table:
 
 ‹list of 2nd division champions, see page braz2champ›.
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Marcelo Leme de Arruda,
 Miguel Alvim Gonzalez and Julio Bovi Diogo
@@ -1718,7 +1719,7 @@ and Julio Bovi Diogo
 Last updated: 18 Feb 2000
 
 
-**(C) Copyright Marcelo Leme de Arruda, Miguel Alvim Gonzalez, Julio Bovi Diogo
-and RSSSF 1999/2000**
+(C) Copyright Marcelo Leme de Arruda, Miguel Alvim Gonzalez, Julio Bovi Diogo
+and RSSSF 1999/2000
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

@@ -4,9 +4,9 @@
   
 
 
-## Brazil 1983 (Taça de Ouro and Taça de Prata)
+== Brazil 1983 (Taça de Ouro and Taça de Prata)
 
-
+<!-- start pre -->
 TAÇA DE OURO - 1983 [Brazilian Championship]
 
 Participants
@@ -1898,10 +1898,11 @@ CA Juventus (São Paulo) are the 1983 Brazilian 2nd level champions
 
 ‹list of 2nd division champions, see page braz2champ›.
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 ‹Source, see page ../sources›: [pla]
 
@@ -1919,7 +1920,7 @@ Ricardo Pontes
 Last updated: 7 May 2000
 
 
-**(C) Copyright Ricardo Pontes
-and RSSSF 1998/2000**
+(C) Copyright Ricardo Pontes
+and RSSSF 1998/2000
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

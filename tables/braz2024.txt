@@ -4,38 +4,43 @@
   
 
 
-## Brazil 2024
+== Brazil 2024
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Série A, see §sa›
+‹Copa do Brasil, see §cb›
+‹Série B, see §sb›
+‹Série C, see §sc›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série A  ‹§sa›
+==== Série A  ‹§sa›
 
+<!-- start pre -->
+Final Table:
 
-Table:
-
- 1.Flamengo              13   8  3  2  22-12  27
- 2.Palmeiras             13   8  2  3  18- 9  26  [C]
- 3.Botafogo              13   7  3  3  21-13  24
- 4.Bahia                 13   7  3  3  21-16  24
- 5.Athletico/PR          13   6  4  3  16-10  22
- 6.São Paulo             13   6  3  4  20-15  21
- 7.Cruzeiro              12   6  2  4  16-16  20
- 8.Fortaleza             12   5  5  2  13-12  20
- 9.RB Bragantino         13   5  4  4  17-15  19
-10.Internacional         11   5  3  3  10- 8  18
-11.Atlético/MG           12   4  6  2  18-16  18
-12.Juventude             12   4  4  4  15-17  16  [P]
-13.Criciúma              11   3  4  4  18-19  13  [P]
-14.Cuiabá                13   3  4  6  14-17  13
-15.Vitória               13   3  3  7  14-20  12  [P]
-16.Vasco da Gama         13   3  2  8  13-25  11
+ 1.Botafogo              38  23 10  5  59-29  79       Champions
+ 2.Palmeiras             38  22  7  9  60-33  73  [C]
+ 3.Flamengo              38  20 10  8  61-42  70
+ 4.Fortaleza             38  19 11  8  53-39  68
+ 5.Internacional         38  18 11  9  53-36  65
+ 6.São Paulo             38  17  8 13  53-43  59
+ 7.Corinthians           38  15 11 12  54-45  56
+ 8.Bahia                 38  15  8 15  49-49  53
+ 9.Cruzeiro              38  14 10 14  43-41  52
+10.Vasco da Gama         38  14  8 16  43-56  50
+11.Vitória               38  13  8 17  45-52  47  [P]
+12.Atlético/MG           38  11 14 13  47-54  47
+13.Fluminense            38  12 10 16  33-39  46
+14.Grêmio                38  12  9 17  44-50  45
+15.Juventude             38  11 12 15  48-59  45  [P]
+16.RB Bragantino         38  10 14 14  44-48  44
 ------------------------------------------------
-17.Atlético/GO           13   2  5  6  11-16  11  [P]
-18.Grêmio                11   3  1  7   8-12  10
-19.Corinthians           13   1  6  6   9-15   9
-20.Fluminense            13   1  3  9  10-21   6
+17.Athletico/PR          38  11  9 18  40-46  42       Relegated
+18.Criciúma              38   9 11 18  42-61  38  [P]  Relegated
+19.Atlético/GO           38   7  9 22  29-58  30  [P]  Relegated
+20.Cuiabá                38   6 12 20  29-49  30       Relegated
 
 Round 1
 [Apr 13]
@@ -79,8 +84,8 @@ Palmeiras       0-0 Flamengo
 Vitória         2-2 Bahia
 Atlético/GO     0-3 São Paulo
 Botafogo        5-1 Juventude
-[tba]
-Criciúma         -  Fortaleza
+[Jul 24]
+Criciúma        1-1 Fortaleza
 
 Round 4
 [Apr 27]
@@ -109,9 +114,10 @@ Botafogo        1-2 Bahia
 Cuiabá          0-2 Palmeiras
 [Jun 5]
 Juventude       1-0 Atlético/GO
-[tba]
-Cruzeiro         -  Internacional
-Grêmio           -  Criciúma
+[Aug 28]
+Cruzeiro        0-0 Internacional
+[Sep 25]
+Grêmio          1-2 Criciúma
 
 Round 6
 [May 11]
@@ -126,9 +132,10 @@ Vasco da Gama   2-1 Vitória
 São Paulo       2-1 Fluminense
 [Jun 9]
 Criciúma        2-5 Cuiabá
-[tba]
-Atlético/MG      -  Grêmio
-Internacional    -  Juventude
+[Aug 14]
+Internacional   2-1 Juventude
+[Oct 9]
+Atlético/MG     2-1 Grêmio
 
 Round 7
 [Jun 1]
@@ -232,78 +239,596 @@ Palmeiras       2-0 Corinthians
 
 Round 14
 [Jul 3]
-Criciúma         -  Cruzeiro
-Cuiabá           -  Botafogo
-Vasco da Gama    -  Fortaleza
-Athletico/PR     -  São Paulo
-Atlético/MG      -  Flamengo
-Bragantino       -  Atlético/GO
+Criciúma        1-0 Cruzeiro
+Cuiabá          1-2 Botafogo
+Vasco da Gama   2-0 Fortaleza
+Athletico/PR    1-2 São Paulo
+Atlético/MG     2-4 Flamengo
+Bragantino      3-1 Atlético/GO
 [Jul 4]
-Bahia            -  Juventude
-Grêmio           -  Palmeiras
-Corinthians      -  Vitória
-Fluminense       -  Internacional
+Bahia           2-0 Juventude
+Grêmio          2-2 Palmeiras
+Corinthians     3-2 Vitória
+Fluminense      1-1 Internacional
 
 Round 15
 [Jul 6]
-Flamengo         -  Cuiabá
-São Paulo        -  Bragantino
+Flamengo        1-1 Cuiabá
+São Paulo       2-0 Bragantino
 [Jul 7]
-Cruzeiro         -  Corinthians
-Fortaleza        -  Fluminense
-Juventude        -  Grêmio
-Atlético/GO      -  Athletico/PR
-Palmeiras        -  Bahia
-Vitória          -  Criciúma
-Botafogo         -  Atlético/MG
-Internacional    -  Vasco da Gama
+Cruzeiro        3-0 Corinthians
+Fortaleza       1-0 Fluminense
+Juventude       3-0 Grêmio
+Atlético/GO     1-2 Athletico/PR
+Palmeiras       2-0 Bahia
+Vitória         2-1 Criciúma
+Internacional   1-2 Vasco da Gama
+Botafogo        3-0 Atlético/MG
 
-Table:
+Round 16
+[Jul 10]
+Grêmio          0-2 Cruzeiro
+Athletico/PR    1-3 Bahia
+Vasco da Gama   2-0 Corinthians
+[Jul 11]
+Palmeiras       3-1 Atlético/GO
+Criciúma        1-1 Fluminense
+Flamengo        1-2 Fortaleza
+Atlético/MG     2-1 São Paulo
+Vitória         0-1 Botafogo
+[Sep 5]
+Cuiabá          0-0 Juventude
+[Sep 25]
+Bragantino      2-2 Internacional
 
- 1.Flamengo              13   8  3  2  22-12  27
- 2.Palmeiras             13   8  2  3  18- 9  26  [C]
- 3.Botafogo              13   7  3  3  21-13  24
- 4.Bahia                 13   7  3  3  21-16  24
- 5.Athletico/PR          13   6  4  3  16-10  22
- 6.São Paulo             13   6  3  4  20-15  21
- 7.Cruzeiro              12   6  2  4  16-16  20
- 8.Fortaleza             12   5  5  2  13-12  20
- 9.RB Bragantino         13   5  4  4  17-15  19
-10.Internacional         11   5  3  3  10- 8  18
-11.Atlético/MG           12   4  6  2  18-16  18
-12.Juventude             12   4  4  4  15-17  16  [P]
-13.Criciúma              11   3  4  4  18-19  13  [P]
-14.Cuiabá                13   3  4  6  14-17  13
-15.Vitória               13   3  3  7  14-20  12  [P]
-16.Vasco da Gama         13   3  2  8  13-25  11
+Round 17
+[Jul 13]
+Bahia           1-2 Cuiabá
+Cruzeiro        2-1 Bragantino
+[Jul 16]
+Juventude       1-1 Atlético/MG
+Corinthians     2-1 Criciúma
+[Jul 17]
+Atlético/GO     0-1 Vasco da Gama
+São Paulo       1-0 Grêmio
+Botafogo        1-0 Palmeiras
+Fortaleza       3-1 Vitória
+[Oct 22]
+Fluminense      1-0 Athletico/PR
+[Oct 30]
+Internacional   1-1 Flamengo
+
+Round 18
+[Jul 20]
+Flamengo        2-1 Criciúma
+Botafogo        1-0 Internacional
+Palmeiras       2-0 Cruzeiro
+[Jul 21]
+Grêmio          2-0 Vitória
+Atlético/MG     2-0 Vasco da Gama
+Bahia           0-1 Corinthians
+Fortaleza       3-1 Atlético/GO
+Juventude       0-0 São Paulo
+Bragantino      1-0 Athletico/PR
+Cuiabá          0-1 Fluminense
+
+Round 19
+[Jul 24]
+Cruzeiro        2-0 Juventude
+São Paulo       2-2 Botafogo
+Vitória         1-2 Flamengo
+Atlético/GO     1-1 Bahia
+Fluminense      1-0 Palmeiras
+[Jul 25]
+Corinthians     2-2 Grêmio
+[Aug 28]
+Criciúma        1-0 Bragantino
+[Sep 11]
+Internacional   2-1 Fortaleza
+[Oct 24]
+Vasco da Gama   1-0 Cuiabá
+[Nov 16]
+Athletico/PR    1-0 Atlético/MG
+
+Round 20
+[Jul 27]
+Juventude       1-2 Criciúma
+Palmeiras       0-2 Vitória
+Bahia           1-1 Internacional
+Botafogo        0-3 Cruzeiro
+Fortaleza       1-0 São Paulo
+[Jul 28]
+Bragantino      0-1 Fluminense
+Flamengo        2-0 Atlético/GO
+Atlético/MG     2-1 Corinthians
+Cuiabá          1-2 Athletico/PR
+Grêmio          1-0 Vasco da Gama
+
+Round 21
+[Aug 3]
+Vitória         1-0 Cuiabá
+Vasco da Gama   2-2 Bragantino
+Atlético/GO     1-4 Botafogo
+Criciúma        2-1 Atlético/MG
+São Paulo       1-0 Flamengo
+[Aug 4]
+Athletico/PR    0-2 Grêmio
+Corinthians     1-1 Juventude
+Fluminense      1-0 Bahia
+Internacional   1-1 Palmeiras
+[Aug 5]
+Cruzeiro        1-2 Fortaleza
+
+Round 22
+[Aug 10]
+Fortaleza       1-0 Criciúma
+Cuiabá          1-3 Grêmio
+Corinthians     1-1 Bragantino
+Cruzeiro        0-0 Atlético/MG
+Vasco da Gama   2-0 Fluminense
+[Aug 11]
+Juventude       3-2 Botafogo
+Bahia           2-0 Vitória
+Flamengo        1-1 Palmeiras
+São Paulo       1-0 Atlético/GO
+Internacional   2-2 Athletico/PR
+
+Round 23
+[Aug 17]
+Atlético/MG     1-1 Cuiabá
+Grêmio          0-2 Bahia
+Bragantino      1-2 Fortaleza
+Fluminense      0-0 Corinthians
+[Aug 18]
+Atlético/GO     1-0 Internacional
+Criciúma        2-2 Vasco da Gama
+Palmeiras       2-1 São Paulo
+Athletico/PR    1-2 Juventude
+Botafogo        4-1 Flamengo
+[Aug 19]
+Vitória         2-2 Cruzeiro
+
+Round 24
+[Aug 24]
+Atlético/GO     2-1 Juventude
+Palmeiras       5-0 Cuiabá
+Atlético/MG     0-2 Fluminense
+[Aug 25]
+Bahia           0-0 Botafogo
+Criciúma        0-1 Grêmio
+Fortaleza       1-0 Corinthians
+São Paulo       2-1 Vitória
+Internacional   1-0 Cruzeiro
+Flamengo        2-1 Bragantino
+[Aug 26]
+Vasco da Gama   2-1 Athletico/PR
+
+Round 25
+[Aug 31]
+Cuiabá          2-1 Criciúma
+Botafogo        2-0 Fortaleza
+[Sep 1]
+Cruzeiro        3-1 Atlético/GO
+Grêmio          2-3 Atlético/MG
+Corinthians     2-1 Flamengo
+Athletico/PR    0-2 Palmeiras
+Fluminense      2-0 São Paulo
+Juventude       1-3 Internacional
+Bragantino      2-1 Bahia
+Vitória         0-1 Vasco da Gama
+
+Round 26
+[Sep 14]
+Atlético/GO     0-2 Vitória
+Athletico/PR    1-1 Fortaleza
+Botafogo        2-1 Corinthians
+[Sep 15]
+Juventude       2-1 Fluminense
+Palmeiras       5-0 Criciúma
+Bragantino      2-2 Grêmio
+Bahia           3-0 Atlético/MG
+Cruzeiro        0-1 São Paulo
+Flamengo        1-1 Vasco da Gama
+[Sep 16]
+Internacional   3-0 Cuiabá
+
+Round 27
+[Sep 21]
+Corinthians     3-0 Atlético/GO
+Vitória         1-0 Juventude
+Fluminense      0-1 Botafogo
+Fortaleza       4-1 Bahia
+[Sep 22]
+Atlético/MG     3-0 Bragantino
+Vasco da Gama   0-1 Palmeiras
+Cuiabá          0-0 Cruzeiro
+Grêmio          3-2 Flamengo
+São Paulo       1-3 Internacional
+Criciúma        0-0 Athletico/PR
+
+Round 28
+[Sep 28]
+Palmeiras       2-1 Atlético/MG
+Botafogo        0-0 Grêmio
+[Sep 29]
+Juventude       1-1 Bragantino
+Atlético/GO     1-0 Fluminense
+Fortaleza       1-0 Cuiabá
+São Paulo       3-1 Corinthians
+Bahia           1-0 Criciúma
+Cruzeiro        1-1 Vasco da Gama
+Internacional   3-1 Vitória
+Flamengo        1-0 Athletico/PR
+
+Round 29
+[Oct 3]
+Criciúma        2-0 Atlético/GO
+Fluminense      1-0 Cruzeiro
+[Oct 4]
+Grêmio          3-1 Fortaleza
+[Oct 5]
+Athletico/PR    0-1 Botafogo
+Atlético/MG     2-2 Vitória
+Bragantino      0-0 Palmeiras
+Bahia           0-2 Flamengo
+Corinthians     2-2 Internacional
+Cuiabá          2-0 São Paulo
+Vasco da Gama   1-1 Juventude
+
+Round 30
+[Oct 16]
+Fortaleza       1-1 Atlético/MG
+São Paulo       3-0 Vasco da Gama
+[Oct 17]
+Corinthians     5-2 Athletico/PR
+Flamengo        0-2 Fluminense
+[Oct 18]
+Atlético/GO     0-0 Cuiabá
+Botafogo        1-1 Criciúma
+Cruzeiro        1-1 Bahia
+[Oct 19]
+Internacional   1-0 Grêmio
+Vitória         1-0 Bragantino
+[Oct 20]
+Juventude       3-5 Palmeiras
+
+Round 31
+[Oct 26]
+Flamengo        4-2 Juventude
+Grêmio          3-1 Atlético/GO
+Palmeiras       2-2 Fortaleza
+Vitória         2-1 Fluminense
+Atlético/MG     1-3 Internacional
+Bragantino      0-1 Botafogo
+Athletico/PR    3-0 Cruzeiro
+Criciúma        1-1 São Paulo
+[Oct 28]
+Cuiabá          0-1 Corinthians
+Vasco da Gama   3-2 Bahia
+
+Round 32
+[Nov 1]
+Fluminense      2-2 Grêmio
+Bragantino      0-0 Cuiabá
+[Nov 2]
+Athletico/PR    1-2 Vitória
+Juventude       0-3 Fortaleza
+[Nov 4]
+Corinthians     2-0 Palmeiras
+[Nov 5]
+Bahia           0-3 São Paulo
+Botafogo        3-0 Vasco da Gama
+Internacional   2-0 Criciúma
+[Nov 6]
+Atlético/GO     1-0 Atlético/MG
+Cruzeiro        0-1 Flamengo
+
+Round 33
+[Nov 8]
+Internacional   2-0 Fluminense
+Palmeiras       1-0 Grêmio
+[Nov 9]
+Botafogo        0-0 Cuiabá
+Vitória         1-2 Corinthians
+Atlético/GO     0-0 Bragantino
+Cruzeiro        2-1 Criciúma
+Fortaleza       3-0 Vasco da Gama
+Juventude       2-1 Bahia
+São Paulo       2-1 Athletico/PR
+[Nov 13]
+Flamengo        0-0 Atlético/MG
+
+Round 34
+[Nov 20]
+Corinthians     2-1 Cruzeiro
+Athletico/PR    2-0 Atlético/GO
+Criciúma        0-1 Vitória
+Bragantino      1-1 São Paulo
+Bahia           1-2 Palmeiras
+Cuiabá          1-2 Flamengo
+Grêmio          2-2 Juventude
+Atlético/MG     0-0 Botafogo
+[Nov 21]
+Vasco da Gama   0-1 Internacional
+[Nov 22]
+Fluminense      2-2 Fortaleza
+
+Round 35
+[Nov 23]
+Atlético/GO     0-1 Palmeiras
+Botafogo        1-1 Vitória
+Juventude       1-1 Cuiabá
+São Paulo       2-2 Atlético/MG
+[Nov 24]
+Bahia           1-1 Athletico/PR
+Corinthians     3-1 Vasco da Gama
+Internacional   4-1 Bragantino
+[Nov 26]
+Fluminense      0-0 Criciúma
+Fortaleza       0-0 Flamengo
+[Nov 27]
+Cruzeiro        1-1 Grêmio
+
+Round 36
+[Nov 26]
+Atlético/MG     2-3 Juventude
+Palmeiras       1-3 Botafogo
+[Nov 30]
+Criciúma        2-4 Corinthians
+Cuiabá          1-2 Bahia
+Vasco da Gama   2-2 Atlético/GO
+[Dec 1]
+Flamengo        3-2 Internacional
+Grêmio          2-1 São Paulo
+Athletico/PR    1-1 Fluminense
+Bragantino      1-1 Cruzeiro
+Vitória         2-0 Fortaleza
+
+Round 37
+[Dec 3]
+Corinthians     3-0 Bahia
+[Dec 4]
+Vasco da Gama   2-0 Atlético/MG
+Criciúma        0-3 Flamengo
+São Paulo       1-2 Juventude
+Vitória         1-1 Grêmio
+Atlético/GO     3-1 Fortaleza
+Cruzeiro        1-2 Palmeiras
+Internacional   0-1 Botafogo
+[Dec 5]
+Athletico/PR    1-2 Bragantino
+Fluminense      1-0 Cuiabá
+
+Round 38 [Dec 8]
+Atlético/MG     1-0 Athletico/PR
+Bahia           2-0 Atlético/GO
+Botafogo        2-1 São Paulo
+Cuiabá          1-2 Vasco da Gama
+Flamengo        2-2 Vitória
+Fortaleza       3-0 Internacional
+Grêmio          0-3 Corinthians
+Juventude       0-1 Cruzeiro
+Palmeiras       0-1 Fluminense
+Bragantino      5-1 Criciúma
+
+Final Table:
+
+ 1.Botafogo              38  23 10  5  59-29  79       Champions
+ 2.Palmeiras             38  22  7  9  60-33  73  [C]
+ 3.Flamengo              38  20 10  8  61-42  70
+ 4.Fortaleza             38  19 11  8  53-39  68
+ 5.Internacional         38  18 11  9  53-36  65
+ 6.São Paulo             38  17  8 13  53-43  59
+ 7.Corinthians           38  15 11 12  54-45  56
+ 8.Bahia                 38  15  8 15  49-49  53
+ 9.Cruzeiro              38  14 10 14  43-41  52
+10.Vasco da Gama         38  14  8 16  43-56  50
+11.Vitória               38  13  8 17  45-52  47  [P]
+12.Atlético/MG           38  11 14 13  47-54  47
+13.Fluminense            38  12 10 16  33-39  46
+14.Grêmio                38  12  9 17  44-50  45
+15.Juventude             38  11 12 15  48-59  45  [P]
+16.RB Bragantino         38  10 14 14  44-48  44
 ------------------------------------------------
-17.Atlético/GO           13   2  5  6  11-16  11  [P]
-18.Grêmio                11   3  1  7   8-12  10
-19.Corinthians           13   1  6  6   9-15   9
-20.Fluminense            13   1  3  9  10-21   6
+17.Athletico/PR          38  11  9 18  40-46  42       Relegated
+18.Criciúma              38   9 11 18  42-61  38  [P]  Relegated
+19.Atlético/GO           38   7  9 22  29-58  30  [P]  Relegated
+20.Cuiabá                38   6 12 20  29-49  30       Relegated
 
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Copa do Brasil 2024  ‹§cb›
+
+<!-- start pre -->
+1/8 Finals
+
+First Legs
+[Jul 30]
+São Paulo       2-0 Goiás
+Botafogo        1-1 Bahia
+[Jul 31]
+Athletico/PR    2-0 Bragantino
+CRB             2-2 Atlético/MG
+Flamengo        2-0 Palmeiras
+Atlético/GO     1-1 Vasco da Gama
+Corinthians     0-0 Grêmio
+[Aug 1]
+Juventude       3-2 Fluminense
+
+Second Legs
+[Aug 6]
+Vasco da Gama   1-0 Atlético/GO
+[Aug 7]
+Bragantino      2-3 Athletico/PR
+Atlético/MG     3-0 CRB
+Bahia           1-0 Botafogo
+Palmeiras       1-0 Flamengo
+Grêmio          0-0 Corinthians     [1-3 pen]
+Fluminense      2-2 Juventude
+[Aug 8]
+Goiás           0-0 São Paulo
+
+Quarterfinals
+
+First Legs
+[Aug 28]
+São Paulo       0-1 Atlético/MG
+Bahia           0-1 Flamengo
+[Aug 29]
+Vasco da Gama   2-1 Athletico/PR
+Juventude       2-1 Corinthians
+
+Second Legs
+[Sep 11]
+Corinthians     3-1 Juventude
+Athletico/PR    2-1 Vasco da Gama   [4-5 pen]
+[Sep 12]
+Atlético/MG     0-0 São Paulo
+Flamengo        1-0 Bahia
+
+Semifinals
+
+First Legs [Oct 2]
+Atlético/MG     2-1 Vasco da Gama
+Flamengo        1-0 Corinthians
+
+Second Legs
+[Oct 19]
+Vasco da Gama   1-1 Atlético/MG
+[Oct 20]
+Corinthians     0-0 Flamengo
+
+Final
+
+First Leg [Nov 3]
+Flamengo        3-1 Atlético/MG
+
+Second Leg [Nov 10]
+Atlético/MG     0-1 Flamengo
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Série B  ‹§sb›
+
+<!-- start pre -->
+Final Table:
+
+ 1.Santos                38  20  8 10  57-32  68  [R]  Promoted
+ 2.Mirassol              38  19 10  9  42-26  67       Promoted
+ 3.Sport Recife          38  19  9 10  57-37  66       Promoted
+ 4.Ceará                 38  19  7 12  59-41  64       Promoted
+------------------------------------------------
+ 5.Novorizontino         38  18 10 10  43-31  64
+ 6.Goiás                 38  18  9 11  56-32  63  [R]
+ 7.Operário Ferroviário  38  16 10 12  34-32  58  [P]
+ 8.América/MG            38  15 13 10  50-35  58  [R]
+ 9.Vila Nova             38  16  7 15  42-54  55
+10.Avaí                  38  14 11 13  34-32  53
+11.Amazonas              38  14 10 14  31-37  52  [P]
+12.Coritiba              38  14  8 16  41-44  50
+13.Paysandu              38  12 14 12  41-43  50  [P]
+14.Botafogo/SP           38  11 12 15  36-51  45
+15.Chapecoense           38  11 11 16  34-45  44
+16.CRB             38  11 10 17  38-45  43
+------------------------------------------------
+17.Ponte Preta           38  10  8 20  37-55  38       Relegated
+18.Ituano                38  11  4 23  43-63  37       Relegated
+19.Brusque               38   8 12 18  24-44  36  [P]  Relegated
+20.Guarani               38   8  9 21  33-53  33       Relegated
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Série C  ‹§sc›
+
+<!-- start pre -->
+First Stage (Grupo A)
+
+Final Table:
+
+ 1.Botafogo/PB           19  12  5  2  33-21  41       Qualified
+ 2.Athletic              19  12  4  3  39-21  40  [P]  Qualified
+ 3.Ferroviária           19   9  9  1  22- 9  36  [P]  Qualified
+ 4.São Bernardo          19  10  5  4  29-16  35       Qualified
+ 5.Volta Redonda         19  10  4  5  30-28  34       Qualified
+ 6.Ypiranga              19   9  4  6  22-18  31       Qualified
+ 7.Londrina              19   7  8  4  24-21  29  [R]  Qualified
+ 8.Remo                  19   8  2  9  21-23  26       Qualified
+ - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.Náutico           19   6  7  6  34-25  25
+10.CSA                   19   6  7  6  22-26  25
+11.Figueirense           19   6  6  7  19-21  24
+12.Tombense              19   5  8  6  22-21  23  [R]
+13.Confiança             19   6  4  9  20-22  22
+14.ABC                   19   5  7  7  18-20  22  [R]
+15.Caxias                19   6  3 10  20-27  21  [P]
+16.Floresta              19   5  4 10  15-27  19
+------------------------------------------------
+17.Sampaio Corrêa        19   4  7  8  16-21  19  [R]  Relegated
+18.Aparecidense          19   3  7  9  18-28  16       Relegated
+19.Ferroviário           19   3  6 10  19-38  15  [P]  Relegated
+20.São José              19   2  5 12  12-22  11       Relegated
+
+Second Stage
+
+Final Tables:
+
+Grupo B
+ 1.Volta Redonda          6   3  3  0   8- 4  12       Promoted
+ 2.Remo                   6   2  3  1   6- 7   9       Promoted
+------------------------------------------------
+ 3.Botafogo/PB            6   1  2  3   5- 5   5
+ 4.São Bernardo           6   1  2  3   5- 8   5
+
+Grupo C
+ 1.Athletic               6   3  1  2  11- 8  10  [P]  Promoted
+ 2.Ferroviária            6   3  1  2  12-12  10  [P]  Promoted
+------------------------------------------------
+ 3.Londrina               6   2  1  3  11-12   7  [R]
+ 4.Ypiranga               6   1  3  2   6- 8   6
+
+Championship Final
+
+First Leg [Oct 12]
+Volta Redonda   1-0 Athletic
+
+Second Leg [Oct 19]
+Athletic        0-2 Volta Redonda
+
+Promoted from 4th level: Retrô (Camaragibe), Anápolis, Maringá, Olímpica (Itabaiana)
+
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 ‹2023, see page braz2023›
+
+‹2025, see page braz2025›
 
 ‹list of champions, see page brazchamp›.
 
 ‹list of 2nd division champions, see page braz2champ›.
 
 ‹list of cup winners, see page brazcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
-Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
-
-Author: RSSSF Brazil
-Last updated: 2 Jul 2024
+Prepared and maintained by Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
 
 
-**(C) Copyright RSSSF and RSSSF Brazil 2024**
+Author: Karel Stokkermans
 
-You are free to copy
-this document in whole or part provided that proper acknowledgement is given to
-the author. All rights reserved.
+Last updated: 8 Dec 2025
+
+
+(C) Copyright Karel Stokkermans and RSSSF 2024/25
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

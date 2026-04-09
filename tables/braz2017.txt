@@ -4,17 +4,19 @@
   
 
 
-## Brazil 2017
+== Brazil 2017
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Série A, see §sa›
 ‹Copa do Brasil, see §cb›
 ‹Série B, see §sb›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série A  ‹§sa›
+==== Série A  ‹§sa›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Corinthians           38  21  9  8  50-30  72       Champions
@@ -647,12 +649,13 @@ Final Table:
 20.Atlético/GO           38   9  9 20  38-56  36  [P]  Relegated
 
 Promoted: América/MG, Internacional, Ceará, Paraná
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa do Brasil  ‹§cb›
+==== Copa do Brasil  ‹§cb›
 
-
+<!-- start pre -->
 Participants:
 
 Clubs classified to Taça Libertadores da América (and bye to 1/8 Finals):
@@ -1062,12 +1065,13 @@ CRUZEIRO champions of Copa do Brasil 2017 and classified to Copa Libertadores 20
 
 Topscorers: LÉO GAMALHO (Goiás), LUCAS BARRIOS (Grêmio) and RAFAEL SÓBIS (Cruzeiro), 5 goals
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série B  ‹§sb›
+==== Série B  ‹§sb›
 
-
+<!-- start pre -->
 Final Table:
 
  1.América/MG            38  20 13  5  46-25  73  [R]  Promoted
@@ -1086,7 +1090,7 @@ Final Table:
 13.Criciúma           38  12 12 14  41-46  48
 14.Goiás                 38  12  9 17  35-46  45
 15.CRB             38  12  9 17  35-50  45
-16.Guaraní               38  11 11 16  36-46  44  [P]
+16.Guarani               38  11 11 16  36-46  44  [P]
 ------------------------------------------------
 17.Luverdense           38  10 14 14  38-40  44       Relegated
 18.Santa Cruz            38   8 13 17  43-54  37  [R]  Relegated
@@ -1095,6 +1099,7 @@ Final Table:
 
 Promoted: CSA, Fortaleza, São Bento, Sampaio Corrêa
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -1107,17 +1112,18 @@ Promoted: CSA, Fortaleza, São Bento, Sampaio Corrêa
 ‹list of 2nd division champions, see page braz2champ›.
 
 ‹list of cup winners, see page brazcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
 
 Author: RSSSF Brazil
-Last updated: 29 Dec 2021
+Last updated: 8 Dec 2025
 
 
-**(C) Copyright RSSSF and RSSSF Brazil 2017/21**
+(C) Copyright RSSSF and RSSSF Brazil 2017/25
 You are free to copy
 this document in whole or part provided that proper acknowledgement is given to
 the author. All rights reserved.

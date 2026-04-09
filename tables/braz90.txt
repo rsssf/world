@@ -4,9 +4,9 @@
   
 
 
-## Brazil 1990
+== Brazil 1990
 
-
+<!-- start pre -->
 CAMPEONATO BRASILEIRO DE 1990
 1990 BRAZILIAN CHAMPIONSHIP (1st LEVEL)
 
@@ -1619,10 +1619,11 @@ CR Flamengo were the 1990 Copa do Brasil champions
 
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 ‹Source, see page ../sources›: [pla]
 
@@ -1638,7 +1639,7 @@ and Julio Bovi Diogo
 Last updated: 18 Feb 2000
 
 
-**(C) Copyright Ricardo Pontes, Marcelo Leme de Arruda,
-Julio Bovi Diogo and RSSSF 1999/2000**
+(C) Copyright Ricardo Pontes, Marcelo Leme de Arruda,
+Julio Bovi Diogo and RSSSF 1999/2000
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

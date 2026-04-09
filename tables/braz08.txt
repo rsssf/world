@@ -4,9 +4,9 @@
   
 
 
-## Brazil 2008
+== Brazil 2008
 
-
+<!-- start pre -->
 Participants
 
 C Atlético Mineiro (Belo Horizonte-MG)  Goiás EC (Goiânia-GO)
@@ -942,10 +942,11 @@ Final Table:
 
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
 
@@ -953,7 +954,7 @@ Author: RSSSF Brazil
 Last updated: 21 May 2009
 
 
-**(C) Copyright RSSSF and RSSSF Brazil 2008/09**
+(C) Copyright RSSSF and RSSSF Brazil 2008/09
 You are free to copy
 this document in whole or part provided that proper acknowledgement is given to
 the author. All rights reserved.

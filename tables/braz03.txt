@@ -4,9 +4,9 @@
   
 
 
-## Brazil 2003
+== Brazil 2003
 
-
+<!-- start pre -->
 Participants
 
 C Atlético Mineiro (Belo Horizonte-MG)      Grêmio FBPA (Porto Alegre-RS)
@@ -1883,10 +1883,11 @@ Alecsandro      (Vitória for Criciúma)                          1
 
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 List of goalscorers thanks to Gurgen Mahari
 
@@ -1895,7 +1896,7 @@ Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹R
 Author: RSSSF Brazil
 Last updated: 25 Apr 2004
 
-**(C) Copyright RSSSF and RSSSF Brazil 2002/04**
+(C) Copyright RSSSF and RSSSF Brazil 2002/04
 You are free to copy
 this document in whole or part provided that proper acknowledgement is given to
 the author. All rights reserved.

@@ -4,17 +4,19 @@
   
 
 
-## Brazil 2012
+== Brazil 2012
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Série A, see §sa›
 ‹Copa do Brasil, see §cb›
 ‹Série B, see §sb›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série A  ‹§sa›
+==== Série A  ‹§sa›
 
-
+<!-- start pre -->
 Participants
 
 Atlético C Goianiense (Goiânia-GO)     Grêmio FBPA (Porto Alegre-RS)
@@ -308,7 +310,7 @@ Corinthians   1-1  Portuguesa
 Internacional   4-1  Atlético/GO
  [Elton 20', Dagoberto 46', Jajá 58', Fred 75'; Reniê 27']
 Figueirense   0-2  São Paulo
- [Ademilson 49', Willian José 90'+3']
+ [Ademilson 49", Willian José 90'+3']
 Palmeiras   3-0  Náutico                [played in Barueri-SP]
  [Obina 18', Mazinho 30', Márcio Araújo 50']
 Cruzeiro   1-0  Flamengo
@@ -956,12 +958,13 @@ Topscorer: Fred (Fluminense), 19 goals.
      Bruno Mineiro (Portuguesa) and Barcos (Palmeiras), 14 goals each.
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa do Brasil  ‹§cb›
+==== Copa do Brasil  ‹§cb›
 
-
+<!-- start pre -->
 Participants:
 
 Clubs classified due to state competitions performance:
@@ -1309,12 +1312,13 @@ FINAL
 PALMEIRAS Champions of Copa do Brasil 2012 and classified to Copa Libertadores 2013.
 
 Topscorers: Luís Fabiano (São Paulo), 8 goals.
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série B  ‹§sb›
+==== Série B  ‹§sb›
 
-
+<!-- start pre -->
 Participants
 
 ABC FC (Natal-RN)        Criciúma EC (SC)
@@ -1326,7 +1330,7 @@ Avaí FC (Florianópolis-SC)      Ipatinga FC (MG)
 Boa EC (Varginha-MG)        Joinville EC (SC)
 CA Bragantino (Bragança Paulista-SP)    Paraná Clube (Curitiba-PR)
 Ceará SC (Fortaleza-CE)        São Caetano FL (São Caetano do Sul-SP)
-Clube de Regatas Brasil – CRB (Maceió-AL)  EC Vitória (Salvador-BA)
+Clube de Regatas Brasil - CRB (Maceió-AL)  EC Vitória (Salvador-BA)
 
 [1] Plays home matches in/Manda seus jogos em Goianinha-RN.
 [2] Former/antigo Americana FL.
@@ -1914,6 +1918,7 @@ Table:
 
 
 Topscorer: Zé Carlos (Criciúma), 27 goals.
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -1926,9 +1931,10 @@ Topscorer: Zé Carlos (Criciúma), 27 goals.
 ‹list of 2nd division champions, see page braz2champ›.
 
 ‹list of cup winners, see page brazcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
 
@@ -1936,7 +1942,7 @@ Author: RSSSF Brazil
 Last updated: 7 Jun 2013
 
 
-**(C) Copyright RSSSF and RSSSF Brazil 2012/13**
+(C) Copyright RSSSF and RSSSF Brazil 2012/13
 You are free to copy
 this document in whole or part provided that proper acknowledgement is given to
 the author. All rights reserved.

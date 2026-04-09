@@ -4,15 +4,20 @@
   
 
 
-## Brazil 2023
+== Brazil 2023
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Série A, see §sa›
+‹Copa do Brasil, see §cb›
+‹Série B, see §sb›
+‹Série C, see §sc›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série A  ‹§sa›
+==== Série A  ‹§sa›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Palmeiras             38  20 10  8  64-33  70  [C]  Champions
@@ -730,8 +735,172 @@ Final Table:
 19.Coritiba              38   8  6 24  41-73  30       Relegated
 20.América/MG            38   5  9 24  42-81  24       Relegated
 
-Promoted: Atlético/GO, Criciúma, Juventude, Vitória
+<!-- end pre -->
 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Copa do Brasil 2023  ‹§cb›
+
+<!-- start pre -->
+1/8 Finals
+
+First Legs [May 17]
+América/MG      2-0 Internacional
+Sport Recife    0-2 São Paulo
+Athletico/PR    3-2 Botafogo
+Fluminense      0-0 Flamengo
+Santos          0-0 Bahia
+Palmeiras       3-0 Fortaleza
+Atlético/MG     2-0 Corinthians
+Grêmio          1-1 Cruzeiro
+
+Second Legs
+[May 31]
+Internacional   3-1 América/MG      [4-5 pen]
+Botafogo        1-0 Athletico/PR    [2-4 pen]
+Bahia           1-1 Santos          [4-3 pen]
+Fortaleza       1-0 Palmeiras
+Corinthians     2-0 Atlético/MG     [3-1 pen]
+Cruzeiro        0-1 Grêmio
+[Jun  1]
+São Paulo       1-3 Sport Recife    [5-3 pen]
+Flamengo        2-0 Fluminense
+
+Quarterfinals
+
+First Legs
+[Jul 4]
+Bahia           1-1 Grêmio
+[Jul 5]
+América/MG      1-0 Corinthians
+São Paulo       1-0 Palmeiras
+Flamengo        2-1 Athletico/PR
+
+Second Legs
+[Jul 12]
+Grêmio          1-1 Bahia           [4-3 pen]
+Athletico/PR    0-2 Flamengo
+[Jul 13]
+Palmeiras       1-2 São Paulo
+[Jul 15]
+Corinthians     3-2 América/MG      [3-1 pen]
+
+Semifinals
+
+First Legs
+[Jul 25]
+Corinthians     2-1 São Paulo
+[Jul 26]
+Grêmio          0-2 Flamengo
+
+Second Legs [Aug 16]
+São Paulo       2-0 Corinthians
+Flamengo        1-0 Grêmio
+
+Final
+
+First Leg [Sep 17]
+Flamengo        0-1 São Paulo
+
+Second Leg [Sep 24]
+São Paulo       1-1 Flamengo
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Série B  ‹§sb›
+
+<!-- start pre -->
+Final Table:
+
+ 1.Vitória               38  22  6 10  50-31  72  [P]  Promoted
+ 2.Juventude             38  18 11  9  42-31  65  [R]  Promoted
+ 3.Criciúma              38  19  7 12  45-33  64       Promoted
+ 4.Atlético/GO           38  17 13  8  56-45  64  [R]  Promoted
+------------------------------------------------
+ 5.Novorizontino         38  19  6 13  48-30  63
+ 6.Mirassol              38  18  9 11  42-31  63  [P]
+ 7.Sport Recife          38  17 12  9  59-40  63
+ 8.Vila Nova             38  17 10 11  49-30  61
+ 9.CRB             38  16  9 13  45-39  57
+10.Guarani               38  15 12 11  42-33  57
+11.Ceará                 38  13 11 14  40-45  50  [R]
+12.Botafogo/SP           38  12 11 15  25-42  47  [P]
+13.Avaí                  38  10 14 14  31-48  44  [R]
+14.Ituano                38   9 15 14  33-38  42
+15.Ponte Preta           38   9 15 14  24-35  42
+16.Chapecoense           38   9 13 16  38-43  40
+------------------------------------------------
+17.Sampaio Corrêa        38   8 15 15  31-43  39       Relegated
+18.Tombense              38   9 10 19  37-50  37       Relegated
+19.Londrina              38   7 10 21  31-58  31       Relegated
+20.ABC                   38   5 13 20  28-51  28  [P]  Relegated
+
+<!-- end pre -->
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+==== Série C  ‹§sc›
+
+<!-- start pre -->
+First Stage (Grupo A)
+
+Final Table:
+
+ 1.Operário Ferroviário  19  10  6  3  19-10  36  [R]  Qualified
+ 2.Volta Redonda         19  10  3  6  33-19  33       Qualified
+ 3.Amazonas              19   9  5  5  23-20  32  [P]  Qualified
+ 4.Brusque               19   9  4  6  25-14  31  [R]  Qualified
+ 5.São José              19   8  7  4  30-21  31       Qualified
+ 6.Botafogo/PB           19   7  9  3  25-20  30       Qualified
+ 7.Paysandu              19   8  5  6  21-26  29       Qualified
+ 8.São Bernardo          19   7  8  4  20-17  29  [P]  Qualified
+ - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.Confiança             19   8  4  7  23-26  28
+10.Náutico           19   6  9  4  25-24  27  [R]
+11.Remo                  19   6  7  6  20-18  25
+12.CSA                   19   5  9  5  15-13  24  [R]
+13.Ypiranga              19   6  5  8  26-23  23
+14.Floresta              19   5  8  6  14-17  23
+15.Aparecidense          19   6  4  9  17-20  22
+16.Figueirense           19   5  7  7  19-18  22
+------------------------------------------------
+17.Manaus                19   5  5  9  13-24  20       Relegated
+18.América/RN            19   4  7  8  12-21  19  [P]  Relegated
+19.Altos                 19   2  7 10  14-28  13       Relegated
+20.Pouso Alegre          19   3  3 13  11-26  12  [P]  Relegated
+
+Second Stage
+
+Final Tables:
+
+Grupo B
+ 1.Brusque                6   4  1  1   9- 7  13  [R]  Promoted
+ 2.Operário Ferroviário   6   2  1  3   9- 9   7  [R]  Promoted
+------------------------------------------------
+ 3.São Bernardo           6   2  1  3   6- 6   7  [P]
+ 4.São José               6   1  3  2   5- 7   6
+
+Grupo C
+ 1.Amazonas               6   4  0  2   9- 4  12  [P]  Promoted
+ 2.Paysandu               6   3  1  2   7- 6  10       Promoted
+------------------------------------------------
+ 3.Volta Redonda          6   3  1  2   6- 7  10
+ 4.Botafogo/PB            6   1  0  5   6-11   3
+
+Championship Final
+
+First Leg [Oct 15]
+Amazonas        0-0 Brusque
+
+Second Leg [Oct 22]
+Brusque         1-2 Amazonas
+
+Promoted from 4th level: Ferroviário AC (Fortaleza), Ferroviária (Araraquara),
+                         Athletic (São João del-Rei), Caxias (Caxias do Sul)
+
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -744,19 +913,20 @@ Promoted: Atlético/GO, Criciúma, Juventude, Vitória
 ‹list of 2nd division champions, see page braz2champ›.
 
 ‹list of cup winners, see page brazcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Martin Arenlind
 
 Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
 
 Author: RSSSF Brazil
-Last updated: 1 May 2024
+Last updated: 8 Dec 2025
 
 
-**(C) Copyright RSSSF and RSSSF Brazil 2023/24**
+(C) Copyright RSSSF and RSSSF Brazil 2023/25
 
 You are free to copy
 this document in whole or part provided that proper acknowledgement is given to

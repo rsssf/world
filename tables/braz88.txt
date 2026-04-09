@@ -4,9 +4,9 @@
   
 
 
-## Brazil 1988
+== Brazil 1988
 
-
+<!-- start pre -->
 II Copa União (1st level)
 
 PARTICIPANTS
@@ -816,9 +816,9 @@ The penalties shootouts rule no longer applied in the finals.
 
 [Feb 15 and 19/1989]
 Bahia          2-1  0-0  Internacional
-  [Bobô (2); Leomir]
+  [Bobô (2); Leomir]<!-- end pre -->
 
-19/fevereiro/1989
+<!-- start pre -->19/fevereiro/1989
 INTERNACIONAL 0X0 BAHIA
 Local: Beira Rio (Porto Alegre-RS);
 Juiz: Dulcídio Wanderley Boschilia (SP);
@@ -829,9 +829,9 @@ Luís Fernando e Luís Carlos Martins; Maurício (Hêider), Nílson e Edu Lima (
 Técnico: Abel Braga.
 BAHIA : Ronaldo, Tarantini, João Marcelo, Claudir (Newmar) e Paulo Róbson; Paulo Rodrigues,
 Gil Sergipano, Zé Carlos e Bobô (Osmar); Charles e Marquinhos.
-Técnico: Evaristo de Macedo.
+Técnico: Evaristo de Macedo. <!-- end pre -->
 
-EC Bahia were the 1988 Brazilian Champions
+<!-- start pre -->EC Bahia were the 1988 Brazilian Champions
 
 Final Table
  1-Bahia          29 13  4/ 3 (4)  5  33-23  52
@@ -1966,10 +1966,11 @@ clubs.
 
 ‹list of 2nd division champions, see page braz2champ›.
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 ‹Source, see page ../sources›: [pla].
 
@@ -1983,7 +1984,7 @@ Authors: Ricardo Pontes and Marcelo Leme de Arruda
 Last updated: 2 Apr 2005
 
 
-**(C) Copyright Ricardo Pontes, Marcelo Leme de Arruda and RSSSF 1999/2005**
+(C) Copyright Ricardo Pontes, Marcelo Leme de Arruda and RSSSF 1999/2005
 
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

@@ -4,17 +4,19 @@
   
 
 
-## Brazil 2016
+== Brazil 2016
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Série A, see §sa›
 ‹Copa do Brasil, see §cb›
 ‹Série B, see §sb›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série A  ‹§sa›
+==== Série A  ‹§sa›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Palmeiras             38  24  8  6  62-32  80       Champions
@@ -616,12 +618,13 @@ Final Table:
 18.Figueirense           38   8 13 17  30-50  37       Relegated
 19.Santa Cruz            38   8  7 23  45-69  31  [P]  Relegated
 20.América/MG            38   7  7 24  23-58  28  [P]  Relegated
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa do Brasil  ‹§cb›
+==== Copa do Brasil  ‹§cb›
 
-articipants:
+<!-- start pre -->articipants:
 
 Clubs classified to Taça Libertadores da América (and bye to 1/8 Finals):
 
@@ -1071,12 +1074,13 @@ GRÊMIO champions of Copa do Brasil 2016 and classified to Copa Libertadores 201
 
 Topscorer: MARINHO (Vitória), 6 goals
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série B  ‹§sb›
+==== Série B  ‹§sb›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Atlético/GO           38  22 10  6  60-35  76       Promoted
@@ -1102,7 +1106,8 @@ Final Table:
 19.Bragantino           38   8  8 22  30-54  32       Relegated
 20.Sampaio Corrêa        38   5 12 21  29-57  27       Relegated
 
-Promoted: Boa Esporte (Varginha), Guaraní, ABC, Juventude (Caxias)
+Promoted: Boa Esporte (Varginha), Guarani, ABC, Juventude (Caxias)
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -1115,17 +1120,18 @@ Promoted: Boa Esporte (Varginha), Guaraní, ABC, Juventude (Caxias)
 ‹list of 2nd division champions, see page braz2champ›.
 
 ‹list of cup winners, see page brazcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
 
 Author: RSSSF Brazil
-Last updated: 29 Dec 2021
+Last updated: 8 Dec 2025
 
 
-**(C) Copyright RSSSF and RSSSF Brazil 2016/21**
+(C) Copyright RSSSF and RSSSF Brazil 2016/25
 You are free to copy
 this document in whole or part provided that proper acknowledgement is given to
 the author. All rights reserved.

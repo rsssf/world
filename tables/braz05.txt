@@ -4,9 +4,9 @@
   
 
 
-## Brazil 2005
+== Brazil 2005
 
-
+<!-- start pre -->
 Participants
 
 C Atlético Mineiro (Belo Horizonte-MG)      Goiás EC (Goiânia-GO)
@@ -1651,10 +1651,11 @@ Renan           (São Paulo for Santos)                 1
 
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 List of scorers thanks to Gurgen Mahari
 
@@ -1663,7 +1664,7 @@ Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹R
 Author: RSSSF Brazil
 Last updated: 29 Apr 2006
 
-**(C) Copyright RSSSF and RSSSF Brazil 2005/06**
+(C) Copyright RSSSF and RSSSF Brazil 2005/06
 You are free to copy
 this document in whole or part provided that proper acknowledgement is given to
 the author. All rights reserved.

@@ -4,9 +4,9 @@
   
 
 
-## Brazil 2009
+== Brazil 2009
 
-
+<!-- start pre -->
 
 Participants
 
@@ -615,6 +615,7 @@ Final Table:
 19.Náutico           38 10  8 20  48-71  38  Relegated
 20.Sport Recife      38  7 10 21  48-71  31  Relegated
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -633,9 +634,10 @@ Final Table:
 ‹list of 2nd division champions, see page braz2champ›.
 
 ‹list of cup winners, see page brazcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
 
@@ -643,7 +645,7 @@ Author: RSSSF Brazil
 Last updated: 13 Dec 2012
 
 
-**(C) Copyright RSSSF and RSSSF Brazil 2009/12**
+(C) Copyright RSSSF and RSSSF Brazil 2009/12
 You are free to copy
 this document in whole or part provided that proper acknowledgement is given to
 the author. All rights reserved.

@@ -4,16 +4,18 @@
   
 
 
-## Brazil 2013
+== Brazil 2013
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Série A, see §sa›
 ‹Copa do Brasil, see §cb›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série A  ‹§sa›
+==== Série A  ‹§sa›
 
-
+<!-- start pre -->
 Participants
 
 C Atlético Mineiro (Belo Horizonte-MG)     Goiás EC (Goiânia-GO)
@@ -365,7 +367,7 @@ Coritiba        0-1 Vasco da Gama
 Portuguesa      2-1 São Paulo
  [Diogo 37',78'; Lucas Evangelista 46']
 Internacional   2-2 Atlético/PR
- [Juan 14', Otavinho 87'; João Paulo 37', Éderson 74']
+ [Juan 14', Otavinho 87'; João Paulo 37", Éderson 74']
 Bahia           0-3 Grêmio
  [Riveros 68', Maxi Rodríguez 77', Guilherme Biteco 89']
 Ponte Preta     3-1 Criciúma
@@ -750,7 +752,7 @@ Round 30
 Fluminense      1-1 Ponte Preta
  [Diego Sacoman 84'og; Rafael Ratão 81']
 Náutico         1-5 Santos
- [Maikon Leite 50'; Thiago Ribeiro 40', Cícero 21',89', Éverton Costa 24', Cicinho 26']
+ [Maikon Leite 50'; Thiago Ribeiro 40", Cícero 21',89', Éverton Costa 24', Cicinho 26']
 Corinthians     1-0 Criciúma
  [Alexandre Pato 59']
 [Oct 20]
@@ -956,12 +958,13 @@ NB: both Flamengo and Portuguesa had 4 points deducted on Dec 16 for fielding
     (like Flamengo) had been mathematically safe from relegation before their
     final match was even played
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa do Brasil  ‹§cb›
+==== Copa do Brasil  ‹§cb›
 
-
+<!-- start pre -->
 Obs.: From 2012 to 2013, CBF changed the classification criteria to Copa do Brasil.
           Now, Copa do Brasil will have 86 participants, being:
 
@@ -1476,6 +1479,7 @@ FINAL
 FLAMENGO Champions of Copa do Brasil 2013 and classified to Copa Libertadores 2014.
 
 Topscorer: Luís Fabiano (São Paulo), 9 goals.
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -1488,9 +1492,10 @@ Topscorer: Luís Fabiano (São Paulo), 9 goals.
 ‹list of 2nd division champions, see page braz2champ›.
 
 ‹list of cup winners, see page brazcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
 
@@ -1498,7 +1503,7 @@ Author: RSSSF Brazil
 Last updated: 15 May 2014
 
 
-**(C) Copyright RSSSF and RSSSF Brazil 2013/14**
+(C) Copyright RSSSF and RSSSF Brazil 2013/14
 You are free to copy
 this document in whole or part provided that proper acknowledgement is given to
 the author. All rights reserved.

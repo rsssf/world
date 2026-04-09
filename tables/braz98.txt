@@ -2,8 +2,7 @@
      source: https://rsssf.org/tablesb/braz98.html
     -->
   
-<html>
-
+<!-- start pre -->
 Brazil 1998 Championship
 
 Table:
@@ -2089,6 +2088,4 @@ Table
 
 Last updated: 22 Apr 1999
 
-
-</html>
-
+<!-- end pre -->
