@@ -40,10 +40,10 @@ Round 24 [Mar 21]                     =>  ▪ Round 24 ▪  Mar 21
 Round 24 [Mar 21,22]                  =>  ▪ Round 24 ▪  Mar 21 & 22
 Round 24 [Mar 21-23]                  =>  ▪ Round 24 ▪  Mar 21-23
 Round 7 [Aug 30,31; Sep 1]            =>  ▪ Round 7 ▪  Aug 30,31; Sep 1
-Final [Jun 10, 2004, Imst]            =>  ▪ Final ▪  Jun 10 2004, Imst
+Final [Jun 10, 2004, Imst]            =>  ▪ Final ▪  Jun 10 2004 @ Imst
 Final [May 20]                        =>  ▪ Final ▪  May 20
-Final [May 29, Wembley; att: 11,689]  =>  ▪ Final ▪  May 29, Wembley; att: 11,689
-[Apr 11 2021, Brasília]               =>  _ Apr 11 2021 _, Brasília
+Final [May 29, Wembley; att: 11,689]  =>  ▪ Final ▪  May 29 @ Wembley; att: 11,689
+[Apr 11 2021, Brasília]               =>  _ Apr 11 2021 _ @ Brasília
 ```
 
 (iiii) converting goal lines enclosed in brackets (`[...]`) - following a match line with a score - into football.txt-style enclosed in parentheses (`()`).  
