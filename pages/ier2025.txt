@@ -1,0 +1,134 @@
+  <!--
+     source: https://rsssf.org/tablesi/ier2025.html
+    -->
+  
+
+
+== Ireland 2025
+
+
+
+
+
+==== SSE Airtricity League  ‹§premier›
+
+<!-- $table1$ -->
+
+
+▪ Promotion/Relegation Playoff ▪
+
+_ Nov 7 _, Drumcondra
+Bray            1-2 Waterford
+
+NB: both remain at former level
+
+
+
+
+
+==== FAI Cup  ‹§faicup›
+
+▪ Preliminary Round ▪
+_ May 11 _
+North End United            1-4 Castlebar Celtic
+_ May 15 _
+Wayside Celtic              4-0 River Valley Rangers
+_ May 16 _
+Crumlin United              4-2 Lucan United
+_ May 17 _
+Midleton                    0-6 Killester Donnycarney
+College Corinthians         1-2 Bangor Celtic
+Fairview Rangers            4-0 Baldoyle United
+Ringmahon Rangers           1-3 UCC
+St Mochta's                 4-0 Douglas Hall
+_ May 18 _
+Leicester Celtic            2-1 Fanad United
+Salthill Devon              2-1 Liffey Wanderers
+Tolka Rovers                3-1 Janesboro
+St. Michael's               w/o Usher Celtic
+
+▪ Round 1 ▪
+_ Jul 18 _
+Bray                        3-0 Wayside Celtic
+Drogheda                    5-0 Crumlin United
+Dundalk                     0-2 Sligo
+Finn Harps                  3-0 UCD
+Galway                      2-0 Tolka Rovers
+Kerry                       2-1 Athlone                     (aet)
+Killester Donnycarney       0-7 Bohemians
+Treaty United               1-5 Derry
+Waterford                   5-1 St Mochta's
+Shamrock                    4-0 Wexford
+_ Jul 19 _
+Cork                        3-0 Leicester Celtic
+Salthill Devon              1-0 St. Michael's
+Bangor Celtic               0-2 Cobh Ramblers
+Fairview Rangers            0-4 Shelbourne
+_ Jul 20 _
+Castlebar Celtic            3-6 Longford
+Saint Patrick's             8-0 UCC
+
+▪ 1/8 Finals ▪
+_ Aug 15 _
+Bohemians                   0-1 Sligo
+Cork                        2-1 Waterford
+Finn Harps                  3-1 Bray
+Kerry                       2-0 Cobh Ramblers
+Salthill Devon              0-4 Galway
+_ Aug 16 _
+Derry                       1-1 Drogheda                    (aet, 0-3 pen)
+_ Aug 17 _
+Saint Patrick's             2-0 Shelbourne
+Shamrock                    2-1 Longford
+
+▪ Quarterfinals ▪
+_ Sep 12 _
+Drogheda                    1-1 Shamrock                    (aet, 4-5 pen)
+Finn Harps                  0-3 Cork
+Kerry                       4-3 Sligo                       (aet)
+_ Sep 14 _
+Saint Patrick's             3-1 Galway                      (aet)
+
+▪ Semifinals ▪
+_ Oct 3 _
+Cork                        3-0 Saint Patrick's
+_ Oct 5 _
+Shamrock                    6-1 Kerry
+
+▪ Final ▪  Nov 9
+Shamrock                    2-0 Cork
+
+
+
+
+
+==== First Division  ‹§first›
+
+<!-- $table2$ -->
+
+
+NB: one match between Kerry and Finn Harps declared void as both fielded ineligible players
+
+Promotion Playoff  ‹§prom›
+
+▪ Semifinals ▪
+
+▪ First Legs ▪  Oct 24
+UCD             0-1 Bray
+Treaty United   1-0 Cobh
+
+▪ Second Legs ▪  Oct 28
+Bray            3-2 UCD
+Cobh            1-1 Treaty United   (aet)
+
+▪ Final ▪  Nov 2
+Bray            1-0 Treaty United
+
+NB: Bray Wanderers ‹play off, see §prorel› against 9th team top flight (Waterford)
+
+
+
+
+
+<!-- $about$ -->
+

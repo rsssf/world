@@ -1,0 +1,92 @@
+  <!--
+     source: https://rsssf.org/tablesm/mex2026.html
+    -->
+  
+
+
+== Mexico 2025/26
+
+
+
+
+
+==== Liga MX  ‹§pdn›
+
+‹Apertura 2025, see §1aper› | ‹Clausura 2026, see §1clau›
+
+Apertura 2025  ‹§1aper›
+
+‹Regular Stage, see §apreg› | ‹Playoffs, see §applay›
+
+▪ Regular Stage ▪
+
+<!-- $table1$ -->
+
+
+Playoffs (Liguilla)  ‹§applay›
+
+Play-In Round A [Nov 20]
+Tijuana              3-1 FC Juárez
+Play-In Round B [Nov 20]
+Pachuca              3-1 Pumas
+
+NB: Tijuana qualified for quarterfinals; Pumas eliminated
+
+Play-In Round A-B [Nov 23]
+FC Juárez            2-1 Pachuca
+
+NB: FC Juárez qualified for quarterfinals; Pachuca eliminated
+
+▪ Quarterfinals ▪
+
+▪ First Legs ▪
+_ Nov 26 _
+FC Juárez            1-2 Toluca
+Monterrey            2-0 América
+Tijuana              3-0 Tigres
+_ Nov 27 _
+Guadalajara          0-0 Cruz Azul
+
+▪ Second Legs ▪
+_ Nov 29 _
+América              2-1 Monterrey
+Toluca               0-0 FC Juárez
+Tigres               5-0 Tijuana
+_ Nov 30 _
+Cruz Azul            3-2 Guadalajara
+
+▪ Semifinals ▪
+
+▪ First Legs ▪  Dec 3
+Cruz Azul            1-1 Tigres
+Monterrey            1-0 Toluca
+
+▪ Second Legs ▪  Dec 6
+Toluca               3-2 Monterrey
+Tigres               1-1 Cruz Azul
+
+NB: Tigres and Toluca qualified on better record regular season
+
+▪ Final ▪
+
+▪ First Leg ▪  Dec 11
+Tigres               1-0 Toluca
+
+▪ Second Leg ▪  Dec 14
+Toluca               2-1 Tigres               (aet, 9-8 pen)
+
+Clausura 2026  ‹§1clau›
+
+‹Regular Stage, see §clreg› | ‹Playoffs, see §clplay›
+
+▪ Regular Stage ▪
+
+Playoffs (Liguilla)  ‹§clplay›
+
+
+
+
+
+
+<!-- $about$ -->
+

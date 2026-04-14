@@ -1,0 +1,789 @@
+  <!--
+     source: https://rsssf.org/tablesb/belg2025.html
+    -->
+  
+
+
+== Belgium 2024/25
+
+
+
+
+
+==== Pro League  ‹§pro›
+
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
+
+▪ Regular Stage ▪
+
+<!-- $table1$ -->
+
+
+▪ Round 1 ▪
+_ Jul 26 _
+Club Brugge       1-1 Mechelen
+_ Jul 27 _
+Dender            0-0 Union
+Beerschot         0-0 Leuven
+Anderlecht        1-0 Sint-Truiden
+_ Jul 28 _
+Genk              0-0 Standard
+Kortrijk           0-1 Gent
+Charleroi         0-1 Antwerp
+Westerlo          3-0 Cercle Brugge
+
+▪ Round 2 ▪
+_ Aug 2 _
+Union             3-1 Beerschot
+_ Aug 3 _
+Mechelen          2-4 Westerlo
+Leuven            3-1 Genk
+Sint-Truiden      1-4 Charleroi
+_ Aug 4 _
+Antwerp           1-2 Anderlecht
+Cercle Brugge     1-2 Kortrijk
+Standard          1-0 Club Brugge
+Gent              1-2 Dender
+
+▪ Round 3 ▪
+_ Aug 9 _
+Standard          0-0 Mechelen
+_ Aug 10 _
+Dender            4-1 Kortrijk
+Westerlo          4-3 Union
+Anderlecht        1-1 Leuven
+_ Aug 11 _
+Genk              3-2 Club Brugge
+Antwerp           6-1 Sint-Truiden
+Charleroi         1-0 Gent
+Cercle Brugge     4-1 Beerschot
+
+▪ Round 4 ▪
+_ Aug 16 _
+Union             1-0 Charleroi
+_ Aug 17 _
+Beerschot         3-4 Genk
+Sint-Truiden      3-3 Dender
+Mechelen          1-3 Anderlecht
+_ Aug 18 _
+Club Brugge       1-0 Antwerp
+Leuven            1-1 Cercle Brugge
+Kortrijk           1-0 Standard
+Gent              4-1 Westerlo
+
+▪ Round 5 ▪
+_ Aug 24 _
+Westerlo          1-1 Leuven
+Antwerp           0-1 Mechelen
+_ Aug 25 _
+Dender            1-2 Club Brugge
+Sint-Truiden      0-0 Union
+Standard          1-0 Beerschot
+Charleroi         1-0 Kortrijk
+_ Sep 17 _
+Anderlecht        0-2 Genk
+Cercle Brugge     2-1 Gent
+
+▪ Round 6 ▪
+_ Aug 30 _
+Genk              1-0 Westerlo
+_ Aug 31 _
+Mechelen          5-2 Charleroi
+Beerschot         1-2 Dender
+Leuven            2-0 Standard
+_ Sep 1 _
+Club Brugge       3-0 Cercle Brugge
+Gent              1-1 Antwerp
+Union             0-0 Anderlecht
+Kortrijk           1-1 Sint-Truiden
+
+▪ Round 7 ▪
+_ Sep 13 _
+Dender            0-2 Standard
+_ Sep 14 _
+Cercle Brugge     2-3 Genk
+Kortrijk           0-3 Club Brugge
+Anderlecht        2-2 Westerlo
+_ Sep 15 _
+Antwerp           2-0 Union
+Sint-Truiden      2-1 Leuven
+Charleroi         3-0 Beerschot
+Gent              2-0 Mechelen
+
+▪ Round 8 ▪
+_ Sep 20 _
+Standard          0-0 Union
+_ Sep 21 _
+Beerschot         0-3 Sint-Truiden
+Westerlo          1-2 Antwerp
+Anderlecht        0-0 Charleroi
+_ Sep 22 _
+Club Brugge       2-4 Gent
+Mechelen          2-0 Cercle Brugge
+Genk              4-0 Dender
+Leuven            1-1 Kortrijk
+
+▪ Round 9 ▪
+_ Sep 27 _
+Charleroi         1-1 Club Brugge
+_ Sep 28 _
+Genk              2-1 Mechelen
+Standard          1-2 Westerlo
+Dender            1-1 Anderlecht
+_ Sep 29 _
+Antwerp           awd Beerschot         [awarded 5-0; abandoned at 4-0 in 75' due
+Union             3-0 Kortrijk            to crowd trouble]
+Gent              3-0 Leuven
+Cercle Brugge     1-1 Sint-Truiden
+
+▪ Round 10 ▪
+_ Oct 4 _
+Westerlo          2-2 Beerschot
+_ Oct 5 _
+Mechelen          5-0 Leuven
+Kortrijk           2-1 Genk
+Dender            1-0 Charleroi
+_ Oct 6 _
+Anderlecht        3-0 Standard
+Antwerp           3-0 Cercle Brugge
+Club Brugge       1-1 Union
+Sint-Truiden      1-1 Gent
+
+▪ Round 11 ▪
+_ Oct 18 _
+Beerschot         2-1 Anderlecht
+_ Oct 19 _
+Westerlo          1-2 Club Brugge
+Cercle Brugge     0-0 Dender
+Union             0-0 Gent
+_ Oct 20 _
+Genk              3-2 Sint-Truiden
+Leuven            1-1 Antwerp
+Standard          2-1 Charleroi
+Mechelen          3-0 Kortrijk
+
+▪ Round 12 ▪
+_ Oct 25 _
+Kortrijk           1-0 Beerschot
+_ Oct 26 _
+Charleroi         0-2 Leuven
+Dender            2-5 Mechelen
+Sint-Truiden      2-0 Westerlo
+_ Oct 27 _
+Club Brugge       2-1 Anderlecht
+Antwerp           3-0 Standard
+Gent              0-2 Genk
+Union             1-3 Cercle Brugge
+
+▪ Round 13 ▪
+_ Nov 1 _
+Westerlo          2-0 Dender
+_ Nov 2 _
+Standard          2-1 Sint-Truiden
+Leuven            0-1 Club Brugge
+Mechelen          1-1 Union
+_ Nov 3 _
+Genk              2-0 Antwerp
+Cercle Brugge     2-0 Charleroi
+Anderlecht        4-0 Kortrijk
+Beerschot         0-0 Gent
+
+▪ Round 14 ▪
+_ Nov 8 _
+Sint-Truiden      2-1 Mechelen
+_ Nov 9 _
+Kortrijk           1-2 Antwerp
+Dender            1-1 Leuven
+Charleroi         1-0 Westerlo
+_ Nov 10 _
+Cercle Brugge     0-5 Anderlecht
+Gent              5-0 Standard
+Union             4-0 Genk
+Beerschot         2-2 Club Brugge
+
+▪ Round 15 ▪
+_ Nov 22 _
+Antwerp           1-1 Dender
+_ Nov 23 _
+Club Brugge       7-0 Sint-Truiden
+Standard          1-0 Cercle Brugge
+Genk              3-0 Charleroi
+_ Nov 24 _
+Mechelen          3-0 Beerschot
+Leuven            1-1 Union
+Anderlecht        6-0 Gent
+Westerlo          4-0 Kortrijk
+
+<!-- $table2$ -->
+
+
+▪ Round 16 ▪
+_ Nov 29 _
+Kortrijk           3-1 Mechelen
+_ Nov 30 _
+Club Brugge       4-1 Dender
+Charleroi         1-1 Standard
+_ Dec 1 _
+Sint-Truiden      2-2 Genk
+Beerschot         3-2 Cercle Brugge
+Leuven            0-0 Anderlecht
+Union             2-1 Antwerp
+Westerlo          2-2 Gent
+
+▪ Round 17 ▪
+_ Dec 7 _
+Genk              3-2 Kortrijk
+Mechelen          1-2 Club Brugge
+Standard          1-1 Leuven
+Gent              2-0 Sint-Truiden
+_ Dec 8 _
+Antwerp           1-3 Charleroi
+Cercle Brugge     0-0 Union
+Anderlecht        2-1 Beerschot
+Dender            1-0 Westerlo
+
+▪ Round 18 ▪
+_ Dec 13 _
+Mechelen          1-1 Antwerp
+_ Dec 14 _
+Beerschot         0-0 Standard
+Leuven            1-0 Charleroi
+Kortrijk           0-3 Dender
+_ Dec 15 _
+Club Brugge       2-0 Genk
+Union             3-1 Westerlo
+Sint-Truiden      0-2 Anderlecht
+Gent              1-1 Cercle Brugge
+
+▪ Round 19 ▪
+_ Dec 20 _
+Westerlo          1-1 Mechelen
+_ Dec 21 _
+Charleroi         2-1 Sint-Truiden
+Dender            1-3 Antwerp
+Beerschot         2-2 Kortrijk
+_ Dec 22 _
+Genk              2-0 Anderlecht
+Standard          0-1 Gent
+Union             2-2 Club Brugge
+Cercle Brugge     1-0 Leuven
+
+▪ Round 20 ▪
+_ Dec 26 _
+Antwerp           2-2 Genk
+Club Brugge       4-3 Westerlo
+Kortrijk           0-1 Charleroi
+Mechelen          0-0 Standard
+Gent              1-3 Union
+_ Dec 27 _
+Leuven            2-0 Beerschot
+Anderlecht        2-3 Dender
+Sint-Truiden      1-1 Cercle Brugge
+
+▪ Round 21 ▪
+_ Jan 10 _
+Standard          1-0 Kortrijk
+_ Jan 11 _
+Westerlo          1-2 Sint-Truiden
+Genk              2-0 Leuven
+Charleroi         1-2 Union
+_ Jan 12 _
+Beerschot         1-1 Antwerp
+Dender            0-0 Gent
+Anderlecht        0-3 Club Brugge
+Cercle Brugge     1-0 Mechelen
+
+▪ Round 22 ▪
+_ Jan 17 _
+Gent              1-1 Charleroi
+_ Jan 18 _
+Dender            0-1 Cercle Brugge
+Mechelen          1-2 Genk
+Club Brugge       4-2 Beerschot
+_ Jan 19 _
+Kortrijk           0-2 Anderlecht
+Union             1-0 Leuven
+Sint-Truiden      1-2 Standard
+Antwerp           3-2 Westerlo
+
+▪ Round 23 ▪
+_ Jan 24 _
+Sint-Truiden      1-1 Antwerp
+_ Jan 25 _
+Westerlo          1-2 Genk
+Charleroi         1-1 Cercle Brugge
+Club Brugge       1-1 Kortrijk
+_ Jan 26 _
+Standard          1-0 Dender
+Beerschot         0-4 Union
+Anderlecht        4-1 Mechelen
+Leuven            0-0 Gent
+
+▪ Round 24 ▪
+_ Jan 31 _
+Leuven            1-0 Mechelen
+_ Feb 1 _
+Charleroi         5-0 Dender
+Cercle Brugge     1-1 Standard
+Genk              1-0 Beerschot
+_ Feb 2 _
+Antwerp           2-1 Club Brugge
+Union             2-1 Sint-Truiden
+Gent              1-0 Anderlecht
+Kortrijk           1-2 Westerlo
+
+▪ Round 25 ▪
+_ Feb 7 _
+Mechelen          3-3 Gent
+_ Feb 8 _
+Club Brugge       1-0 Leuven
+Dender            2-1 Sint-Truiden
+Genk              2-1 Cercle Brugge
+_ Feb 9 _
+Anderlecht        2-0 Antwerp
+Kortrijk           1-2 Union
+Westerlo          4-2 Standard
+Beerschot         1-1 Charleroi
+
+▪ Round 26 ▪
+_ Feb 14 _
+Standard          1-2 Genk
+_ Feb 15 _
+Leuven            3-2 Dender
+Antwerp           2-1 Kortrijk
+Sint-Truiden      2-2 Club Brugge
+_ Feb 16 _
+Gent              3-2 Beerschot
+Union             0-1 Mechelen
+Charleroi         0-1 Anderlecht
+Cercle Brugge     1-1 Westerlo
+
+▪ Round 27 ▪
+_ Feb 21 _
+Mechelen          1-1 Sint-Truiden
+_ Feb 22 _
+Dender            0-0 Beerschot
+Westerlo          1-3 Charleroi
+Antwerp           2-2 Leuven
+_ Feb 23 _
+Club Brugge       1-2 Standard
+Genk              0-0 Gent
+Anderlecht        0-2 Union
+Kortrijk           1-1 Cercle Brugge
+
+▪ Round 28 ▪
+_ Feb 28 _
+Charleroi         1-1 Genk
+_ Mar 1 _
+Cercle Brugge     0-0 Antwerp
+Gent              1-1 Club Brugge
+Sint-Truiden      4-2 Kortrijk
+Union             4-1 Dender
+_ Mar 2 _
+Beerschot         1-0 Mechelen
+Standard          0-2 Anderlecht
+Leuven            0-0 Westerlo
+
+▪ Round 29 ▪
+_ Mar 7 _
+Sint-Truiden      2-0 Beerschot
+_ Mar 8 _
+Kortrijk           2-0 Leuven
+Charleroi         0-1 Mechelen
+Dender            0-1 Genk
+_ Mar 9 _
+Cercle Brugge     1-3 Club Brugge
+Westerlo          2-0 Anderlecht
+Antwerp           0-1 Gent
+Union             3-0 Standard
+
+▪ Round 30 ▪
+_ Mar 15 _
+Genk              2-1 Union
+_ Mar 16 _
+Standard          0-0 Antwerp
+Anderlecht        3-0 Cercle Brugge
+Beerschot         1-2 Westerlo
+Club Brugge       4-2 Charleroi
+Gent              1-2 Kortrijk
+Mechelen          2-1 Dender
+Leuven            3-2 Sint-Truiden
+
+<!-- $table3$ -->
+
+
+▪ Playoff Stage ▪
+
+‹Playoff 1, see §po1› | ‹Playoff 2, see §po2› | ‹Relegation Playoff, see §po3›
+
+Playoff 1  ‹§po1›
+
+<!-- $table4$ -->
+
+
+NB: bonus points regular stage (halved, rounded upward) between square brackets
+[*] gained an additional half point due to rounding; in case of a tie on points,
+    ranked below a club which did not profit from rounding
+
+▪ Round 1 ▪
+_ Mar 29 _
+Union             5-1 Antwerp
+_ Mar 30 _
+Club Brugge       2-0 Anderlecht
+Genk              4-0 Gent
+
+▪ Round 2 ▪
+_ Apr 5 _
+Gent              0-3 Union
+_ Apr 6 _
+Antwerp           2-3 Club Brugge
+Anderlecht        1-2 Genk
+
+▪ Round 3 ▪
+_ Apr 12 _
+Union             2-0 Anderlecht
+_ Apr 13 _
+Antwerp           0-1 Gent
+Club Brugge       1-0 Genk
+
+▪ Round 4 ▪  Apr 20
+Anderlecht        0-0 Antwerp
+Genk              1-2 Union
+Gent              0-5 Club Brugge
+
+▪ Round 5 ▪
+_ Apr 23 _
+Anderlecht        5-0 Gent
+Antwerp           1-1 Genk
+_ Apr 24 _
+Club Brugge       0-1 Union
+
+▪ Round 6 ▪  Apr 27
+Gent              0-1 Anderlecht
+Genk              0-1 Antwerp
+Union             0-0 Club Brugge
+
+▪ Round 7 ▪
+_ May 1 _
+Antwerp           1-3 Anderlecht
+Club Brugge       4-1 Gent
+_ May 3 _
+Union             1-0 Genk
+
+▪ Round 8 ▪
+_ May 10 _
+Anderlecht        0-1 Union
+_ May 11 _
+Gent              0-3 Antwerp
+Genk              0-2 Club Brugge
+
+▪ Round 9 ▪
+_ May 17 _
+Antwerp           0-4 Union
+_ May 18 _
+Anderlecht        1-3 Club Brugge
+Gent              1-4 Genk
+
+▪ Round 10 ▪  May 25
+Club Brugge       1-1 Antwerp
+Genk              2-1 Anderlecht
+Union             3-1 Gent
+
+<!-- $table5$ -->
+
+
+NB: bonus points regular stage (halved, rounded upward) between square brackets
+[*] gained an additional half point due to rounding; in case of a tie on points,
+    ranked below a club which did not profit from rounding
+
+Playoff 2  ‹§po2›
+
+<!-- $table6$ -->
+
+
+NB: bonus points regular stage (halved, rounded upward) between square brackets
+[*] gained an additional half point due to rounding; in case of a tie on points,
+    ranked below a club which did not profit from rounding
+
+▪ Round 1 ▪
+_ Mar 28 _
+Leuven            0-0 Charleroi
+_ Mar 29 _
+Standard          2-2 Mechelen
+_ Mar 30 _
+Dender            1-0 Westerlo
+
+▪ Round 2 ▪
+_ Apr 4 _
+Mechelen          5-2 Dender
+_ Apr 5 _
+Westerlo          2-2 Leuven
+_ Apr 6 _
+Charleroi         1-0 Standard
+
+▪ Round 3 ▪
+_ Apr 11 _
+Westerlo          2-2 Charleroi
+_ Apr 13 _
+Mechelen          1-1 Leuven
+Dender            1-1 Standard
+
+▪ Round 4 ▪  Apr 19
+Leuven            4-4 Dender
+Charleroi         3-0 Mechelen
+Standard          1-1 Westerlo
+
+▪ Round 5 ▪  Apr 22
+Dender            2-1 Charleroi
+Mechelen          2-3 Westerlo
+Standard          0-1 Leuven
+
+▪ Round 6 ▪  Apr 26
+Leuven            1-1 Standard
+Westerlo          2-2 Mechelen
+Charleroi         4-1 Dender
+
+▪ Round 7 ▪
+_ May 2 _
+Westerlo          4-2 Dender
+_ May 3 _
+Leuven            1-2 Mechelen
+_ May 4 _
+Standard          0-1 Charleroi
+
+▪ Round 8 ▪
+_ May 9 _
+Charleroi         4-3 Westerlo
+_ May 10 _
+Mechelen          0-0 Standard
+_ May 11 _
+Dender            5-0 Leuven
+
+▪ Round 9 ▪
+_ May 16 _
+Leuven            0-2 Westerlo
+_ May 17 _
+Standard          0-0 Dender
+_ May 18 _
+Mechelen          1-1 Charleroi
+
+▪ Round 10 ▪  May 24
+Charleroi         2-1 Leuven
+Dender            2-2 Mechelen
+Westerlo          0-0 Standard
+
+<!-- $table7$ -->
+
+
+NB: bonus points regular stage (halved, rounded upward) between square brackets
+[*] gained an additional half point due to rounding; in case of a tie on points,
+    ranked below a club which did not profit from rounding
+
+▪ Relegation Playoff ▪
+
+<!-- $table8$ -->
+
+
+NB: points regular stage between square brackets
+
+▪ Round 1 ▪
+_ Mar 29 _
+Beerschot         0-1 Sint-Truiden
+_ Mar 30 _
+Kortrijk           2-2 Cercle Brugge
+
+▪ Round 2 ▪
+_ Apr 5 _
+Cercle Brugge     2-1 Beerschot
+_ Apr 6 _
+Sint-Truiden      0-3 Kortrijk
+
+▪ Round 3 ▪  Apr 12
+Kortrijk           3-2 Beerschot
+Sint-Truiden      3-1 Cercle Brugge
+
+▪ Round 4 ▪
+_ Apr 25 _
+Beerschot         2-0 Kortrijk
+_ Apr 26 _
+Cercle Brugge     3-1 Sint-Truiden
+
+▪ Round 5 ▪
+_ May 3 _
+Cercle Brugge     0-2 Kortrijk
+_ May 4 _
+Sint-Truiden      2-1 Beerschot
+
+▪ Round 6 ▪  May 10
+Beerschot         4-2 Cercle Brugge
+Kortrijk           2-2 Sint-Truiden
+
+<!-- $table9$ -->
+
+
+NB: points regular stage between square brackets
+
+▪ Promotion/Relegation Playoff ▪
+
+▪ First Leg ▪  May 18
+Patro Eisden      1-5 Cercle Brugge
+
+▪ Second Leg ▪  May 23
+Cercle Brugge     3-1 Patro Eisden
+
+NB: both remain at former level
+
+
+
+
+
+==== Cup  ‹§cup›
+
+▪ 1/16 Finals ▪
+_ Oct 29 _
+Patro             4-1 Charleroi
+Zulte Waregem     2-1 Dender
+Westerlo          2-1 RWD Molenbeek
+_ Oct 30 _
+Beerschot         3-1 FC Liège
+Beveren           0-2 Genk
+Mechelen          3-1 La Louvière       (aet)
+Eupen             0-3 Union
+Kortrijk           1-0 Lokeren-Temse
+Leuven            2-0 Seraing
+Gent              7-0 Rochefort
+Club Brugge       6-1 Belisia Bilzen
+Standard          3-2 Lyra-L. Berlaar   (aet)
+Lierse            0-2 Sint-Truiden
+_ Oct 31 _
+Cercle Brugge     3-0 Olympic Charleroi
+Tubize-Braine     0-4 Anderlecht
+Antwerp           6-1 Deinze
+
+▪ 1/8 Finals ▪
+_ Dec 3 _
+Patro             1-3 Club Brugge
+_ Dec 4 _
+Leuven            5-0 Zulte Waregem
+Union             3-2 Gent
+Beerschot         2-2 Mechelen          (aet, 4-3 pen)
+Cercle Brugge     0-1 Sint-Truiden
+Genk              2-1 Standard          (aet)
+Kortrijk           0-0 Antwerp           (aet, 3-4 pen)
+_ Dec 5 _
+Anderlecht        4-1 Westerlo
+
+▪ Quarterfinals ▪
+_ Jan 7 _
+Club Brugge       3-0 Leuven
+Sint-Truiden      0-4 Genk
+_ Jan 8 _
+Antwerp           5-1 Union
+_ Jan 9 _
+Beerschot         0-1 Anderlecht
+
+▪ Semifinals ▪
+
+▪ First Legs ▪
+_ Jan 15 _
+Club Brugge       2-1 Genk
+_ Jan 16 _
+Anderlecht        1-0 Antwerp
+
+▪ Second Legs ▪
+_ Feb 5 _
+Genk              1-1 Club Brugge
+_ Feb 6 _
+Antwerp           2-2 Anderlecht
+
+▪ Final ▪  May 4
+Club Brugge       2-1 Anderlecht
+
+
+
+
+
+
+==== Challenger Pro League  ‹§tweede›
+
+<!-- $table10$ -->
+
+
+[*] Lierse Kempenzonen were renamed Lierse SK
+
+NB: Deinze initially had 3 points deducted for financial reasons but later were declared
+      bankrupt and all their results were annulled;
+    during the season it was decided that at least four youth teams are to play at the
+      second level, thus exempting Club NXT, RSCA Futures and Jong Genk from relegation
+
+Promotion Playoff  ‹§2prom›
+
+▪ Semifinals ▪
+
+▪ First Legs ▪  Apr 24
+Lokeren-Temse     2-0 RWD Molenbeek
+Patro Eisden      3-2 Beveren
+
+▪ Second Legs ▪  Apr 27
+RWD Molenbeek     3-2 Lokeren-Temse
+Beveren           1-2 Patro Eisden
+
+▪ Final ▪
+
+▪ First Leg ▪  May 3
+Lokeren-Temse     1-2 Patro Eisden
+
+▪ Second Leg ▪  May 11
+Patro Eisden      1-1 Lokeren-Temse
+
+NB: Patro Eisden Maasmechelen qualified for ‹promotion/relegation playoff, see §prorel›
+
+
+
+
+
+
+==== 1e Nationale  ‹§div1›
+
+Vlaanderen (VV)
+
+<!-- $table11$ -->
+
+
+Promoted: SK Roeselare, KFC Houtvenne, K. Diegem Sport, KVV Zelzate
+
+Wallonie (ACFF)
+
+Regular Season
+
+<!-- $table12$ -->
+
+
+Promotion Playoff
+
+<!-- $table13$ -->
+
+
+NB: bonus points regular stage (halved, rounded upward) between square brackets
+[*] gained an additional half point due to rounding; in case of a tie on points,
+    ranked below a club which did not profit from rounding
+
+▪ Relegation Playoff ▪
+
+<!-- $table14$ -->
+
+
+NB: Binche ranked last because of license refusal
+
+NB: bonus points regular stage (halved, rounded upward) between square brackets
+[*] gained an additional half point due to rounding; in case of a tie on points,
+    ranked below a club which did not profit from rounding
+
+Promoted: Crossing Schaerbeek, RFC Meux, RSC Habay-la-Neuve
+
+
+
+
+
+<!-- $about$ -->
+

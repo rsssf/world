@@ -1,0 +1,504 @@
+  <!--
+     source: https://rsssf.org/tabless/sau2025.html
+    -->
+  
+
+
+== Saudi Arabia 2024/25
+
+
+
+
+
+==== Saudi League  ‹§prof›
+
+<!-- $table1$ -->
+
+
+▪ Round 1 ▪
+_ Aug 22 _
+Taawun      1-0 Faiha'a
+Nasr        1-1 Ra'ed
+Wahda       3-3 Riyadh
+_ Aug 23 _
+Dhamk       0-1 Khaleej
+Ahly        2-0 Urooba
+Qadisiya    3-0 Fat'h
+_ Aug 24 _
+Khlood      0-1 Ittihad
+Ukhdood     0-3 Hilal
+Shabab      0-1 Ittifaq
+
+▪ Round 2 ▪
+_ Aug 27 _
+Fat'h       1-0 Ahly
+Faiha'a     1-4 Nasr
+Ra'ed       0-1 Qadisiya
+_ Aug 28 _
+Ittifaq     1-0 Ukhdood
+Hilal       3-2 Dhamk
+Wahda       2-1 Urooba
+_ Aug 29 _
+Riyadh      3-1 Khlood
+Ittihad     2-1 Taawun
+Khaleej     0-1 Shabab
+
+▪ Round 3 ▪
+_ Sep 13 _
+Taawun      2-0 Khaleej
+Dhamk       3-1 Ukhdood
+Nasr        1-1 Ahly
+_ Sep 14 _
+Fat'h       1-2 Ittifaq
+Faiha'a     0-5 Ra'ed
+Riyadh      0-3 Hilal
+_ Sep 15 _
+Qadisiya    0-1 Shabab
+Khlood      3-3 Urooba
+Ittihad     7-1 Wahda
+
+▪ Round 4 ▪
+_ Sep 19 _
+Ukhdood     0-0 Qadisiya
+Urooba      1-0 Fat'h
+Wahda       0-1 Khlood
+_ Sep 20 _
+Khaleej     0-0 Faiha'a
+Ahly        4-2 Dhamk
+Ittifaq     0-3 Nasr
+_ Sep 21 _
+Shabab      1-0 Taawun
+Ra'ed       1-2 Riyadh
+Hilal       3-1 Ittihad
+
+▪ Round 5 ▪
+_ Sep 27 _
+Nasr        2-0 Wahda
+Ittihad     4-1 Khaleej
+Qadisiya    1-0 Ahly
+_ Sep 28 _
+Fat'h       2-4 Ukhdood
+Urooba      1-0 Dhamk
+Khlood      2-4 Hilal
+_ Sep 29 _
+Faiha'a     2-0 Riyadh
+Shabab      2-1 Ra'ed
+Taawun      1-1 Ittifaq
+
+▪ Round 6 ▪
+_ Oct 3 _
+Ittifaq     0-1 Ra'ed
+Ukhdood     1-2 Ittihad
+Wahda       2-2 Faiha'a
+_ Oct 4 _
+Khaleej     1-0 Khlood
+Riyadh      2-1 Qadisiya
+Dhamk       1-0 Shabab
+_ Oct 5 _
+Nasr        3-0 Urooba
+Taawun      2-0 Fat'h
+Ahly        1-2 Hilal
+
+▪ Round 7 ▪
+_ Oct 18 _
+Khaleej     0-3 Ahly
+Hilal       3-0 Faiha'a
+Shabab      1-2 Nasr
+_ Oct 19 _
+Ra'ed       2-2 Wahda
+Dhamk       2-2 Taawun
+Ittihad     3-1 Qadisiya
+_ Oct 20 _
+Fat'h       1-1 Khlood
+Ukhdood     0-1 Riyadh
+Ittifaq     2-3 Urooba
+
+▪ Round 8 ▪
+_ Oct 24 _
+Urooba      0-3 Shabab
+Wahda       1-3 Khaleej
+Riyadh      0-1 Ittihad
+_ Oct 25 _
+Qadisiya    2-1 Dhamk
+Khlood      3-3 Nasr
+Ahly        1-1 Ukhdood
+_ Oct 26 _
+Faiha'a     1-1 Ittifaq
+Ra'ed       2-1 Fat'h
+Hilal       2-0 Taawun
+
+▪ Round 9 ▪
+_ Oct 31 _
+Shabab      3-1 Wahda
+Ukhdood     4-0 Urooba
+Ittihad     1-0 Ahly
+_ Nov 1 _
+Khaleej     4-0 Ra'ed
+Dhamk       2-2 Riyadh
+Nasr        1-1 Hilal
+_ Nov 2 _
+Fat'h       1-1 Faiha'a
+Taawun      1-1 Khlood
+Ittifaq     0-2 Qadisiya
+
+▪ Round 10 ▪
+_ Nov 7 _
+Qadisiya    2-0 Faiha'a
+Khlood      0-2 Shabab
+Urooba      0-2 Ittihad
+_ Nov 8 _
+Hilal       3-1 Ittifaq
+Ahly        2-0 Ra'ed
+Riyadh      0-1 Nasr
+_ Nov 9 _
+Fat'h       1-2 Khaleej
+Wahda       2-3 Dhamk
+Taawun      1-0 Ukhdood
+
+▪ Round 11 ▪
+_ Nov 22 _
+Faiha'a     0-1 Ahly
+Ukhdood     1-1 Shabab
+Nasr        1-2 Qadisiya
+_ Nov 23 _
+Ra'ed       3-1 Urooba
+Wahda       1-0 Taawun
+Khaleej     3-2 Hilal
+_ Nov 24 _
+Dhamk       2-1 Khlood
+Riyadh      0-0 Ittifaq
+Ittihad     2-0 Fat'h
+
+▪ Round 12 ▪
+_ Nov 28 _
+Faiha'a     0-1 Urooba
+Ukhdood     1-2 Khlood
+Fat'h       1-2 Riyadh
+_ Nov 29 _
+Qadisiya    1-0 Khaleej
+Nasr        2-0 Dhamk
+Ahly        1-0 Wahda
+_ Nov 30 _
+Ra'ed       0-1 Taawun
+Ittifaq     0-4 Ittihad
+Shabab      1-2 Hilal
+
+▪ Round 13 ▪
+_ Dec 5 _
+Dhamk       2-2 Faiha'a
+Wahda       2-3 Ukhdood
+Shabab      2-2 Fat'h
+_ Dec 6 _
+Khlood      0-3 Qadisiya
+Urooba      0-1 Riyadh
+Ittihad     2-1 Nasr
+_ Dec 7 _
+Khaleej     1-2 Ittifaq
+Hilal       3-2 Ra'ed
+Taawun      2-4 Ahly
+
+▪ Round 14 ▪
+_ Jan 9 _
+Fat'h       1-2 Wahda
+Riyadh      2-2 Khaleej
+Nasr        3-1 Ukhdood
+_ Jan 10 _
+Ittifaq     2-3 Khlood
+Ra'ed       0-2 Dhamk
+Ahly        3-2 Shabab
+_ Jan 11 _
+Urooba      0-5 Hilal
+Qadisiya    0-3 Taawun
+Faiha'a     1-1 Ittihad
+
+▪ Round 15 ▪
+_ Jan 15 _
+Shabab      2-1 Riyadh
+Dhamk       0-3 Ittifaq
+Khlood      1-0 Ahly
+_ Jan 16 _
+Ukhdood     1-2 Faiha'a
+Hilal       9-0 Fat'h
+Ittihad     4-1 Ra'ed
+_ Jan 17 _
+Khaleej     3-0 Urooba
+Wahda       0-3 Qadisiya
+Taawun      1-1 Nasr
+
+▪ Round 16 ▪
+_ Jan 20 _
+Faiha'a     1-0 Khlood
+Ra'ed       0-2 Ukhdood
+_ Jan 21 _
+Ittifaq     1-2 Ahly
+Khaleej     1-3 Nasr
+Riyadh      1-0 Taawun
+Hilal       4-1 Wahda
+_ Jan 22 _
+Urooba      0-2 Qadisiya
+Fat'h       2-1 Dhamk
+Ittihad     2-1 Shabab
+
+▪ Round 17 ▪
+_ Jan 25 _
+Khlood      2-1 Ra'ed
+Wahda       2-2 Ittifaq
+_ Jan 26 _
+Taawun      0-0 Urooba
+Ukhdood     1-2 Khaleej
+Ahly        5-0 Riyadh
+Nasr        3-1 Fat'h
+_ Jan 27 _
+Dhamk       2-1 Ittihad
+Shabab      2-1 Faiha'a
+Qadisiya    2-1 Hilal
+
+<!-- $table2$ -->
+
+
+▪ Round 18 ▪
+_ Jan 30 _
+Urooba      0-2 Ahly
+Riyadh      1-0 Wahda
+Ra'ed       1-2 Nasr
+_ Jan 31 _
+Faiha'a     0-0 Taawun
+Hilal       4-0 Ukhdood
+Ittifaq     3-1 Shabab
+_ Feb 1 _
+Khaleej     1-1 Dhamk
+Fat'h       1-1 Qadisiya
+Ittihad     4-3 Khlood
+
+▪ Round 19 ▪
+_ Feb 6 _
+Qadisiya    2-0 Ra'ed
+Shabab      5-1 Khaleej
+Taawun      1-2 Ittihad
+_ Feb 7 _
+Urooba      4-2 Wahda
+Nasr        3-0 Faiha'a
+Ahly        2-0 Fat'h
+_ Feb 8 _
+Khlood      3-2 Riyadh
+Ukhdood     0-2 Ittifaq
+Dhamk       2-2 Hilal
+
+▪ Round 20 ▪
+_ Feb 13 _
+Ukhdood     0-0 Dhamk
+Shabab      2-3 Qadisiya
+Ahly        2-3 Nasr
+_ Feb 14 _
+Urooba      2-0 Khlood
+Ittifaq     1-2 Fat'h
+Hilal       1-1 Riyadh
+_ Feb 15 _
+Khaleej     0-1 Taawun
+Ra'ed       0-2 Faiha'a
+Wahda       1-4 Ittihad
+
+▪ Round 21 ▪
+_ Feb 20 _
+Fat'h       1-0 Urooba
+Faiha'a     0-0 Khaleej
+Riyadh      1-3 Ra'ed
+_ Feb 21 _
+Dhamk       0-2 Ahly
+Qadisiya    2-0 Ukhdood
+Nasr        2-3 Ittifaq
+_ Feb 22 _
+Khlood      1-0 Wahda
+Taawun      2-2 Shabab
+Ittihad     4-1 Hilal
+
+▪ Round 22 ▪
+_ Feb 24 _
+Ukhdood     1-3 Fat'h
+Dhamk       1-2 Urooba
+_ Feb 25 _
+Ra'ed       1-2 Shabab
+Hilal       5-1 Khlood
+Wahda       0-2 Nasr
+Ahly        4-1 Qadisiya
+_ Feb 26 _
+Ittifaq     1-0 Taawun
+Riyadh      0-0 Faiha'a
+Khaleej     1-1 Ittihad
+
+▪ Round 23 ▪
+_ Feb 28 _
+Hilal       2-3 Ahly
+Urooba      awd Nasr        [awarded 0-3, originally 2-1;
+Shabab      2-0 Dhamk        Urooba fielded ineligible player]
+_ Mar 1 _
+Fat'h       1-2 Taawun
+Faiha'a     0-0 Wahda
+Khlood      2-1 Khaleej
+_ Mar 2 _
+Ittihad     1-1 Ukhdood
+Qadisiya    1-0 Riyadh
+Ra'ed       1-1 Ittifaq
+
+▪ Round 24 ▪
+_ Mar 6 _
+Khlood      2-1 Fat'h
+Qadisiya    1-1 Ittihad
+Wahda       3-1 Ra'ed
+_ Mar 7 _
+Ahly        2-2 Khaleej
+Faiha'a     0-2 Hilal
+Nasr        2-2 Shabab
+_ Mar 8 _
+Urooba      1-2 Ittifaq
+Taawun      3-0 Dhamk
+Riyadh      1-0 Ukhdood
+
+▪ Round 25 ▪
+_ Mar 13 _
+Fat'h       3-1 Ra'ed
+Ittihad     2-1 Riyadh
+Shabab      6-0 Urooba
+_ Mar 14 _
+Khaleej     0-2 Wahda
+Nasr        3-1 Khlood
+Dhamk       1-0 Qadisiya
+_ Mar 15 _
+Ukhdood     2-1 Ahly
+Ittifaq     0-2 Faiha'a
+Taawun      0-2 Hilal
+
+▪ Round 26 ▪
+_ Apr 4 _
+Khlood      0-2 Taawun
+Urooba      0-1 Ukhdood
+Hilal       1-3 Nasr
+_ Apr 5 _
+Qadisiya    1-1 Ittifaq
+Riyadh      0-0 Dhamk
+Ahly        2-2 Ittihad
+_ Apr 6 _
+Faiha'a     1-1 Fat'h
+Ra'ed       1-2 Khaleej
+Wahda       1-3 Shabab
+
+▪ Round 27 ▪
+_ Apr 10 _
+Shabab      2-0 Khlood
+Dhamk       0-1 Wahda
+Ittihad     2-0 Urooba
+_ Apr 11 _
+Ukhdood     1-1 Taawun
+Ra'ed       0-2 Ahly
+Ittifaq     1-1 Hilal
+_ Apr 12 _
+Khaleej     1-5 Fat'h
+Faiha'a     2-1 Qadisiya
+Nasr        2-1 Riyadh
+
+▪ Round 28 ▪
+_ Apr 17 _
+Ittifaq     1-0 Riyadh
+Hilal       3-0 Khaleej
+Shabab      0-0 Ukhdood
+Fat'h       2-0 Ittihad
+_ Apr 18 _
+Khlood      1-3 Dhamk
+Ahly        5-0 Faiha'a
+Qadisiya    2-1 Nasr
+_ Apr 19 _
+Urooba      0-4 Ra'ed
+Taawun      0-2 Wahda
+
+▪ Round 29 ▪
+_ Apr 21 _
+Hilal       2-2 Shabab
+Ittihad     3-2 Ittifaq
+_ Apr 22 _
+Dhamk       2-3 Nasr
+Wahda       2-3 Ahly
+_ Apr 23 _
+Riyadh      2-2 Fat'h
+Khlood      0-1 Ukhdood
+Khaleej     1-1 Qadisiya
+_ Apr 24 _
+Urooba      2-2 Faiha'a
+Taawun      4-3 Ra'ed
+
+▪ Round 30 ▪
+_ May 1 _
+Ukhdood     1-2 Wahda
+Riyadh      2-4 Urooba
+Fat'h       3-1 Shabab
+_ May 2 _
+Ittifaq     2-1 Khaleej
+Faiha'a     2-1 Dhamk
+Qadisiya    4-1 Khlood
+_ May 7 _
+Ra'ed       3-5 Hilal
+Ahly        2-0 Taawun
+Nasr        2-3 Ittihad
+
+▪ Round 31 ▪
+_ May 10 _
+Khlood      1-0 Ittifaq
+Wahda       1-0 Fat'h
+Khaleej     1-2 Riyadh
+_ May 11 _
+Shabab      3-1 Ahly
+Dhamk       1-0 Ra'ed
+Taawun      0-1 Qadisiya
+Ittihad     3-0 Faiha'a
+_ May 12 _
+Hilal       4-0 Urooba
+Ukhdood     0-9 Nasr
+
+▪ Round 32 ▪
+_ May 15 _
+Qadisiya    3-1 Wahda
+Riyadh      1-3 Shabab
+Ra'ed       1-3 Ittihad
+_ May 16 _
+Fat'h       3-4 Hilal
+Urooba      1-2 Khaleej
+Nasr        1-1 Taawun
+_ May 17 _
+Ittifaq     0-0 Dhamk
+Faiha'a     2-0 Ukhdood
+Ahly        4-1 Khlood
+
+▪ Round 33 ▪
+_ May 20 _
+Qadisiya    3-1 Urooba
+Taawun      3-2 Riyadh
+Shabab      2-3 Ittihad
+_ May 21 _
+Nasr        2-0 Khaleej
+Khlood      2-0 Faiha'a
+Wahda       1-1 Hilal
+_ May 22 _
+Ukhdood     1-0 Ra'ed
+Dhamk       0-1 Fat'h
+Ahly        1-3 Ittifaq
+
+▪ Round 34 ▪  May 26
+Ittifaq     2-1 Wahda
+Fat'h       3-2 Nasr
+Faiha'a     0-2 Shabab
+Hilal       2-0 Qadisiya
+Ittihad     1-0 Dhamk
+Khaleej     2-3 Ukhdood
+Urooba      3-2 Taawun
+Ra'ed       1-2 Khlood
+Riyadh      0-1 Ahly
+
+<!-- $table3$ -->
+
+
+
+
+
+
+
+<!-- $about$ -->
+

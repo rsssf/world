@@ -1,0 +1,111 @@
+  <!--
+     source: https://rsssf.org/tabless/skor2025.html
+    -->
+  
+
+
+== South Korea 2025
+
+
+
+
+
+==== K League 1  ‹§k1›
+
+‹Regular Stage, see §reg› | ‹Championship Group, see §champ› | ‹Relegation Group, see §rel›
+
+▪ Regular Stage ▪
+
+<!-- $table1$ -->
+
+
+[*] Jeju United were renamed Jeju SK
+
+Championship Group  ‹§champ›
+
+<!-- $table2$ -->
+
+
+Relegation Group  ‹§rel›
+
+<!-- $table3$ -->
+
+
+Promotion/Relegation Playoffs  ‹§prorel›
+
+▪ First Legs ▪
+_ Dec 3 _
+Suwon SB         0-1 Jeju
+_ Dec 5 _
+Bucheon          1-0 Suwon FC
+
+▪ Second Legs ▪
+_ Dec 7 _
+Jeju             1-0 Suwon SB
+_ Dec 8 _
+Suwon FC         2-3 Bucheon
+
+NB: Bucheon FC promoted, Suwon FC relegated
+
+
+
+
+
+==== Korea FA Cup  ‹§kfacup›
+
+▪ 1/8 Finals ▪  May 14
+Gangwon FC              2-1 Siheung Citizen
+Daejeon Hana Citizen    2-3 Jeonbuk Hyundai Motors
+Gimpo FC                2-1 Pohang Steelers
+FC Anyang               1-2 Daegu FC
+Daejeon Korail          1-2 FC Seoul
+Suwon FC                1-1 Gwangju FC              (aet, 3-4 pen)
+Ulsan HD                3-0 Incheon United
+Bucheon FC 1995         3-1 Gimcheon Sangmu         (aet)
+
+▪ Quarterfinals ▪  Jul 2
+Gwangju FC              1-0 Ulsan HD
+Gimpo FC                1-3 Bucheon FC 1995
+FC Seoul                0-1 Jeonbuk Hyundai Motors
+Daegu FC                1-2 Gangwon FC
+
+▪ Semifinals ▪
+
+▪ First Legs ▪  Aug 20
+Gwangju FC              2-0 Bucheon FC 1995
+Jeonbuk Hyundai Motors  1-1 Gangwon FC
+
+▪ Second Legs ▪  Aug 27
+Bucheon FC 1995         1-2 Gwangju FC
+Gangwon FC              1-2 Jeonbuk Hyundai Motors
+
+▪ Final ▪  Dec 6
+Gwangju FC              1-2 Jeonbuk Hyundai Motors
+
+
+
+
+
+
+==== K League 2  ‹§k2›
+
+<!-- $table4$ -->
+
+
+Promotion Playoffs  ‹§2prompo›
+
+▪ First Round ▪  Nov 27
+Seoul E-Land     0-1 Seongnam
+
+▪ Second Round ▪  Nov 30
+Bucheon          0-0 Seongnam
+
+NB: Bucheon qualified for ‹Promotion/Relegation Playoff, see §prorel› on better record regular season
+
+
+
+
+
+
+<!-- $about$ -->
+

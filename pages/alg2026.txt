@@ -1,0 +1,839 @@
+  <!--
+     source: https://rsssf.org/tablesa/alg2026.html
+    -->
+  
+
+
+== Algeria 2025/26
+
+
+
+
+
+==== Ligue 1  ‹§premiere›
+
+<!-- start pre -->Table:
+
+ 1.MC Alger      15  11  3  1  17- 6  36  [C]
+ 2.CR Belouizdad    15   6  6  3  20-14  24
+ 3.USM Alger      15   5  9  1  18-12  24
+ 4.MC Oran      15   6  5  4  18-13  23
+ 5.JS Kabylie      15   6  5  4  17-14  23
+ 6.Olympique Akbou    15   6  5  4  19-17  23  [P]
+ 7.CS Constantine    15   6  4  5  16-13  22
+ 8.JS Saoura      15   6  4  5  19-20  22
+ 9.USM Khenchela    15   5  6  4  15-13  21
+10.Ben Aknoun      15   5  6  4  15-15  21
+11.MB Rouissat      15   5  5  5  15-15  20  [P]
+12.Paradou AC      15   5  2  8  14-17  17
+13.ES Setif      15   3  7  5  13-20  16
+14.ASO Chlef      15   3  5  7  12-15  14
+-------------------------------------------------
+15.ES Mostaganem    15   2  3 10   8-16   9
+16.MC El Bayadh      15   1  3 11   8-24   6
+
+▪ Round 1 ▪
+_ Aug 21 _
+MC Oran          2-1 ES Ben Aknoun
+JS Saoura        1-2 MB Rouissat
+_ Aug 22 _
+MC El Bayadh        0-2 CS Constantine
+O Akbou          1-0 ES Mostaganem
+_ Aug 23 _
+Paradou AC        0-0 ASO Chlef
+USM Khenchela        1-1 ES Sétif
+_ Dec 8 _
+JS Kabylie        1-2 USM Alger
+MC Alger        2-1 CR Belouizdad
+
+▪ Round 2 ▪
+_ Aug 29 _
+O Akbou         1-0 MC Oran
+ES Sétif         1-1 JS Saoura
+MB Rouissat         1-0 MC El Bayadh
+_ Aug 30 _
+ES Mostaganem         2-0 CS Constantine
+ASO Chlef         1-2 USM Khenchela
+CR Belouizdad         1-0 Paradou AC
+_ Aug 31 _
+USM Alger         0-0 MC Alger
+ES Ben Aknoun         1-1 JS Kabylie
+
+▪ Round 3 ▪
+_ Sep 5 _
+MC Oran               0-0 ES Mostaganem
+JS Saoura             1-0 ASO Chlef
+MC El Bayadh          1-1 ES Sétif
+CS Constantine        2-0 MB Rouissat
+_ Sep 6 _
+Paradou AC            0-1 USM Alger
+USM Khenchela         1-1 CR Belouizdad
+JS Kabylie            0-0 O Akbou
+_ Dec 23 _
+MC Alger              1-0 ES Ben Aknoun
+
+▪ Round 4 ▪
+_ Oct 11 _
+ES Mostaganem         1-1 MB Rouissat
+ES Sétif              2-1 CS Constantine
+_ Oct 12 _
+ES Ben Aknoun         1-0 Paradou AC
+O Akbou               1-0 MC Alger
+MC Oran               2-0 JS Kabylie
+_ Oct 13 _
+ASO Chlef             2-0 MC El Bayadh
+CR Belouizdad         1-2 JS Saoura
+USM Alger             1-1 USM Khenchela
+
+▪ Round 5 ▪
+_ Oct 16 _
+MC Alger              3-2 MC Oran
+Paradou AC            1-2 O Akbou
+CS Constantine        2-2 ASO Chlef
+MB Rouissat           3-0 ES Sétif
+_ Oct 20 _
+USM Khenchela         1-1 ES Ben Aknoun
+JS Saoura             1-0 USM Alger
+MC El Bayadh          1-1 CR Belouizdad
+_ Oct 24 _
+JS Kabylie            1-0 ES Mostaganem
+
+▪ Round 6 ▪
+_ Oct 27 _
+ASO Chlef             1-1 MB Rouissat
+ES Ben Aknoun         1-1 JS Saoura
+MC Oran               3-1 Paradou AC
+_ Oct 28 _
+CR Belouizdad         2-2 CS Constantine
+O Akbou               1-1 USM Khenchela
+_ Oct 29 _
+USM Alger             1-1 MC El Bayadh
+ES Mostaganem         1-0 ES Sétif
+_ Jan 2 _
+JS Kabylie            1-1 MC Alger
+
+▪ Round 7 ▪
+_ Oct 3 _
+Paradou AC            1-2 JS Kabylie
+MB Rouissat           1-1 CR Belouizdad
+_ Oct 4 _
+MC El Bayadh          1-2 ES Ben Aknoun
+USM Khenchela         2-0 MC Oran
+ES Sétif              1-1 ASO Chlef
+JS Saoura             3-2 O Akbou
+CS Constantine        1-1 USM Alger
+MC Alger              1-0 ES Mostaganem
+
+▪ Round 8 ▪
+_ Nov 7 _
+ES Mostaganem         0-1 ASO Chlef
+O Akbou               1-0 MC El Bayadh
+_ Oct 18 _
+ES Ben Aknoun         1-0 CS Constantine
+MC Oran               1-1 JS Saoura
+_ Oct 21 _
+JS Kabylie            1-0 USM Khenchela
+_ Oct 22 _
+MC Alger              2-1 Paradou AC
+USM Alger             2-0 MB Rouissat
+_ Oct 25 _
+CR Belouizdad         3-1 ES Sétif
+
+▪ Round 9 ▪
+_ Oct 25 _
+MC El Bayadh          0-2 MC Oran
+CS Constantine        2-1 O Akbou
+MB Rouissat           0-0 ES Ben Aknoun
+_ Oct 26 _
+Paradou AC            1-0 ES Mostaganem
+_ Oct 29 _
+JS Saoura             2-2 JS Kabylie
+ASO Chlef             0-1 CR Belouizdad
+ES Sétif              1-3 USM Alger
+_ Oct 30 _
+USM Khenchela         0-1 MC Alger
+
+▪ Round 10 ▪
+_ Nov 1 _
+O Akbou               2-1 MB Rouissat
+MC Oran               1-0 CS Constantine
+_ Nov 2 _
+ES Ben Aknoun         0-1 ES Sétif
+ES Mostaganem         0-2 CR Belouizdad
+USM Alger             1-0 ASO Chlef
+_ Nov 3 _
+Paradou AC            2-0 USM Khenchela
+JS Kabylie            4-1 MC El Bayadh
+MC Alger              1-0 JS Saoura
+
+▪ Round 11 ▪
+_ Nov 8 _
+USM Khenchela         1-0 ES Mostaganem
+MB Rouissat           1-3 MC Oran
+ES Sétif              1-1 O Akbou
+CR Belouizdad         0-0 USM Alger
+_ Nov 9 _
+MC El Bayadh          0-1 MC Alger
+ASO Chlef             1-2 ES Ben Aknoun
+CS Constantine        1-0 JS Kabylie
+JS Saoura             1-2 Paradou AC
+
+▪ Round 12 ▪
+_ Nov 17 _
+ES Mostaganem         2-2 USM Alger
+_ Nov 20 _
+Paradou AC            2-0 MC El Bayadh
+MC Oran               0-0 ES Sétif
+_ Nov 21 _
+O Akbou               2-1 ASO Chlef
+_ Nov 22 _
+USM Khenchela         3-0 JS Saoura
+_ Jan 3 _
+ES Ben Aknoun         0-2 CR Belouizdad
+_ Jan 5 _
+JS Kabylie            1-1 MB Rouissat
+MC Alger              1-0 CS Constantine
+
+▪ Round 13 ▪
+_ Dec 18 _
+MB Rouissat           1-0 MC Alger
+ASO Chlef             1-0 MC Oran
+USM Alger             2-2 ES Ben Aknoun
+_ Dec 19 _
+MC El Bayadh          1-2 USM Khenchela
+CS Constantine        2-0 Paradou AC
+ES Sétif              1-0 JS Kabylie
+_ Dec 20 _
+JS Saoura             3-2 ES Mostaganem
+CR Belouizdad         3-2 O Akbou
+
+▪ Round 14 ▪
+_ Dec 20 _
+USM Khenchela         0-0 CS Constantine
+JS Saoura             2-1 MC El Bayadh
+_ Dec 27 _
+O Akbou               1-1 USM Alger
+Paradou AC            1-0 MB Rouissat
+JS Kabylie            2-1 ASO Chlef
+_ Dec 29 _
+ES Mostaganem         0-1 ES Ben Aknoun
+MC Oran               1-1 CR Belouizdad
+MC Alger              2-0 ES Sétif
+
+▪ Round 15 ▪
+_ Jan 8 _
+MC El Bayadh          1-0 ES Mostaganem
+ES Sétif              2-2 Paradou AC
+USM Alger             1-1 MC Oran
+ES Ben Aknoun         2-2 O Akbou
+_ Jan 9 _
+ASO Chlef             0-0 MC Alger
+CS Constantine        1-0 JS Saoura
+MB Rouissat           2-0 USM Khenchela
+CR Belouizdad         0-1 JS Kabylie
+
+<!-- $table1$ -->
+
+
+
+
+
+
+
+==== Coupe Nationale d'Algerie  ‹§coupe›
+
+National stage
+--------------
+1/32 Finals
+_ Dec 3 _
+CR Belouizdad          2-1 ORB Oued El-Fodda
+_ Dec 4 _
+Paradou AC          3-0 CRB Adrar
+US Faubourg          4-2 ASB Metlili Chaamba  (aet)
+MC Saïda          3-0 NRB Teleghma
+JS Kabylie          7-0 MB Hassi Messaoud
+NC Magra          0-0 USM Alger    (aet, 5-4 pen)
+MC Sidi Ali Boussidi   0-1 RC Arbaâ
+AS Khroub          2-0 Olympique Akbou
+WA Boufarik          3-0 US Naâma
+MC Alger          1-0 MC El-Bayadh
+ESF Bir El-Ater        2-0 DRB Kadiria
+_ Dec 5 _
+ESM Koléa          1-0 JS Bordj Menaïel
+ASO Chlef          1-0 CA Sidi Abdelmoumen
+MB Barika          1-0 O. Mers El-Hadjadj
+MO Béjaïa          1-2 USM El-Harrach
+MC Oran          1-2 ES Mostaganem
+CS Constantine          4-1 JS El-Biar    (aet)
+NA Husseïn-Dey          3-0 IRB Sedrata
+CR Béni Thour          1-1 ASM Oran    (aet, 3-4 pen)
+USM Khenchela          1-0 MB Rouissat
+_ Dec 6 _
+CA Batna          1-1 USM Annaba    (aet, 3-1 pen)
+FCB Frenda          2-1 CB Mila
+MO Constantine          3-1 CRB Kaïs
+NRB Bethioua          0-1 JS Saoura
+CR Témouchent          1-0 US El-Hemaïssa
+US Béchar Djedid       3-3 GC Mascara    [aet, 4-2]
+ES Sétif          1-0 CR Béni Tamou
+CRB Tessala          0-0 JSM Béjaïa    [aet, 7-8]
+NR Beni Oulbane        0-1 Amel Bousaâda
+WB Aïn Benian          2-1 SC Mecheria
+JB Aïn Kercha          1-0 CSSW Illizi
+ES Ben Aknoun          2-0 RA Aïn Defla
+
+▪ 1/16 Finals ▪
+_ Dec 11 _
+CA Batna          5-1 ESM Koléa
+Paradou AC           2-0 US Faubourg
+MB Barika          1-2 MC Saïda
+CS Constantine          3-0 CR Témouchent
+JSM Béjaïa          4-1 WA Boufarik
+Amel Bousaâda           0-1 NA Husseïn-Dey
+JB Aïn Kercha          0-2 ASM Oran
+_ Dec 12 _
+FCB Frenda          0-1 ASO Chlef
+USM El-Harrach           1-0 JS Kabylie
+US Béchar Djedid        0-4 ES Sétif
+_ Dec 13 _
+RC Arbaâ           0-1 ES Mostaganem
+JS Saoura          2-0 AS Khroub
+MC Alger          2-1 USM Khenchela
+ES Ben Aknoun          2-0 ESF Bir El-Ater
+_ Dec 14 _
+USM Alger          3-0 MO Constantine
+_ Dec 15 _
+WB Aïn Benian          1-5 CR Belouizdad
+
+▪ 1/8 Finals ▪
+_ Jan 12 _
+USM El-Harrach    2-3 USM Alger    (aet)
+_ Jan 13 _
+MC Alger    1-0 ES Ben Aknoun
+_ Jan 15 _
+CA Batna    3-3 Paradou AC    (aet, 3-1 Pen)
+ES Mostaganem    0-2 JS Saoura
+CR Belouizdad     3-0 ASM Oran
+_ Jan 16 _
+ASO Chlef      0-1 MC Saïda
+CS Constantine     2-1 ES Sétif    (aet)
+_ Jan 17 _
+JSM Béjaïa    3-0 NA Husseïn-Dey
+
+▪ Quarterfinals ▪
+_ Mar 3 _
+CR Belouizdad           -  MC Alger
+CS Constantine     -  JSM Béjaïa
+_ Mar 4 _
+USM Alger           -  JS Saoura
+CA Batna           -  MC Saida
+
+▪ Semifinals ▪  Apr 7
+
+▪ Final ▪
+
+
+
+
+
+
+==== Ligue 2  ‹§deuxieme›
+
+‹Groupe Centre-Est, see §2ce› | ‹Groupe Centre-Ouest, see §2co›
+
+Groupe Centre-Est  ‹§2ce›
+
+<!-- $table2$ -->
+
+
+
+▪ Round 1 ▪
+_ Sep 13 _
+NRB Beni Oualbane     1-1 JS Bordj Menaiel
+NC Magra         1-1 AS Khroub
+NRB Tleghma         0-0 USM Annaba
+CA Batna         2-2 US Chaouia
+MO Béjaia         2-0 MSP Batna
+JS Djijel         3-0 HB Chelghoum Laid
+_ Sep 14 _
+MO Constantine         1-0 CR Beni Thour
+_ Sep 16 _
+IB Khemis El Khechna  0-2 US Biskra
+
+▪ Round 2 ▪  Sep 20
+US Biskra         1-0 MO Constantine
+CR Beni Thour         1-1 JS Djijel
+HB Chelghoum Laid     0-2 MO Béjaia
+MSP Batna         0-1 NRB Tleghma
+US Chaouia         0-0 NRB Beni Thour
+USM Annaba         2-1 NC Magra
+AS Khroub         2-0 JS Bordj Menaiel
+IB Khemis El Khechna  0-2 CA Batna
+
+▪ Round 3 ▪
+_ Sep 26 _
+NRB Beni Thour         2-1 AS Khroub
+NC Magra         0-1 US Chaouia
+CA Batna         1-0 MSP Batna
+MO Béjaia         3-0 CR Beni Thour
+JS Djijel         1-1 US Biskra
+MO Constantine         2-0 IB Khemis El Khechna
+JS Bordj Menaiel      1-1 USM Annaba
+_ Sep 27 _
+NRB Tleghma         3-0 HB Chelghoum Laid
+
+▪ Round 4 ▪
+_ Oct 3 _
+US Biskra         3-0 MO Béjaia
+HB Chelghoum Laid     3-2 NRB Beni Thour
+MSP Batna         2-1 NC Magra
+US Chaouia         2-1 JS Bordj Menaiel
+USM Annaba         2-1 AS Khroub
+MO Constantine         0-1 CA Batna
+IB Khemis El Khechna  2-5 JS Djijel
+_ Oct 4 _
+CR Beni Thour         2-1 NRB Tleghma
+
+▪ Round 5 ▪
+_ Oct 16 _
+MO Béjaia         5-1 IB Khemis El Khechna
+_ Oct 17 _
+CR Beni Thour         1-0 USM Annaba
+NC Magra         3-1 HB Chelghoum Laid
+NRB Tleghma         0-0 US Biskra
+CA Batna         1-0 CR Beni Thour
+JS Djijel         1-0 MO Constantine
+AS Khroub         2-3 US Chaouia
+JS Bordj Menaiel      0-0 MSP Batna
+
+▪ Round 6 ▪  Oct 21
+US Biskra         2-1 CA Batna
+CR Beni Thour         1-0 NRB Beni Thour
+HB Chelghoum Laid     0-2 JS Bordj Menaiel
+MSP Batna         1-1 AS Khroub
+US Chaouia         0-0 USM Annaba
+JS Djijel         1-1 NC Magra
+MO Constantine         1-1 MO Béjaia
+IB Khemis El Khechna  1-2 NRB Tleghma
+
+▪ Round 7 ▪
+_ Oct 25 _
+NRB Beni Oulene        0-2 US Biskra
+NC Magra         2-0 CR Beni Thour
+NRB Tleghma         2-1 US Chaouia
+CA Batna         4-0 HB Chelghoum Laid
+MO Béjaia         2-1 JS Djijel
+USM Annaba         4-1 MSP Batna
+JS Bordj Menaiel      0-1 IB Khemis El Khechna
+_ Oct 26 _
+AS Khroub         0-0 MO Constantine
+
+▪ Round 8 ▪
+_ Oct 31 _
+US Biskra         1-1 JS Bordj Menaiel
+HB Chelghoum Laid     0-0 USM Annaba
+MSP Batna         0-1 US Chaouia
+MO Béjaia         0-1 NC Magra
+JS Djijel         2-0 CA Batna
+IB Khemis El Khechna  2-1 NRB Beni Oulene
+_ Nov 1 _
+CR Beni Thour         3-2 AS Khroub
+MO Constantine         1-0 NRB Tleghma
+
+▪ Round 9 ▪  Nov 8
+NRB Beni Oulbene      1-1 MSP Batna
+NC Magra         1-0 MO Constantine
+NRB Tleghma         3-0 JS Djijel
+CA Batna         2-1 MO Béjaia
+US Chaouia         2-0 HB Chelghoum Laid
+USM Annaba         1-0 IB Khemis El Khechna
+AS Khroub         0-1 US Biskra
+JS Bordj Menaiel      3-1 CR Beni Thour
+
+▪ Round 10 ▪
+_ Nov 18 _
+US Biskra         2-1 USM Annaba
+CR Beni Thour         1-0 US Chaouia
+HB Chelghoum Laid     1-1 MSP Batna
+CA Batna         1-1 NC Magra
+MO Béjaia         1-1 NRB Tleghma
+JS Djijel         1-0 NRB Beni Thour
+MO Constantine         1-1 JS Bordj Menaiel
+_ Nov 19 _
+IB Khemis El Khechna  1-1  AS Khroub
+
+▪ Round 11 ▪
+_ Nov 22 _
+NRB Beni Oulbane      2-0 MO Constantine
+NC Magra         0-1 US Biskra
+NRB Tleghma         0-0 CA Batna
+US Chaouia         1-1 MO Béjaia
+USM Annaba         2-1 CR Beni Thour
+JS Bordj Menaiel      1-1 JS Djijel
+_ Nov 23 _
+AS Khroub         2-0 HB Chelghoum Laid
+MSP Batna         1-1 IB Khemis El Khechna
+
+▪ Round 12 ▪
+_ Nov 28 _
+MO Béjaia         1-0 JS Bordj Menaiel
+_ Nov 29 _
+US Biskra         2-0 MSP Batna
+CR Beni Thour         3-1 HB Chelghoum Laid
+NRB Tleghma         0-0 NC Magra
+CA Batna         2-1 NRB Beni Oulbene
+JS Djijel         0-0 AS Khroub
+MO Constantine         2-1 USM Annaba
+_ Nov 30 _
+IB Khemis El Khechna  1-2 US Chaouia
+
+▪ Round 13 ▪  Dec 20
+NRB Beni Oulbane      1-1 NRB Tleghma
+NC Magra         1-1 IB Khemis El Khechna
+HB Chelghoum Laid     0-1 US Biskra
+MSP Batna         1-1 CR Beni Thour
+US Chaouia         3-0 MO Constantine
+USM Annaba         2-0 JS Djijel
+AS Khroub         0-0 MO Béjaia
+JS Bordj Menaiel      1-1 CA Batna
+
+▪ Round 14 ▪  Dec 26
+US Biskra         0-1 CR Beni Thour
+NC Magra         0-0 NRB Beni Oulbane
+NRB Tleghma         1-0 JS Bordj Menaiel
+CA Batna         1-0 AS Khroub
+MO Béjaia         1-0 USM Annaba
+JS Djijel         3-2 US Chaouia
+MO Constantine         3-0 MSP Batna
+IB Khemis El Khechna  2-0 HB Chelghoum Laid
+
+▪ Round 15 ▪  Jan 1
+NRB Beni Oulabane     1-1 MO Béjaia
+CR Beni Thour         2-1 IB Khemis El Khechna
+HB Chelghoum Laid     0-4 MO Constantine
+MSP Batna         1-3 JS Djijel
+US Chaouia         2-0 US Biskra
+USM Annaba         0-1 CA Batna
+AS Khroub         1-0 NRB Tleghma
+JS Bordj Menaiel      0-1 NC Magra
+
+<!-- $table3$ -->
+
+
+Groupe Centre-Ouest  ‹§2co›
+
+<!-- $table4$ -->
+
+
+▪ Round 1 ▪  Sep 13
+USM El Harrach         0-0 MC Saida
+RC Kouba         1-0 WA Mostaganem
+CRB Adrar         2-0 GC Mascara
+CR Témouchent         0-2 ASM Oran
+US Bechar Djedid      2-2 JS Tixraine
+JS El Biar         2-1 JSM Tiaret
+ESM Koléa         awd RC Arba     [awareded 3-0]
+NA Hussein Dey         2-0 WA Tlemcen
+
+▪ Round 2 ▪
+_ Sep 19 _
+USM El Harrach         1-0 US Bechar Djedid
+RC Arba         awd NA Hussein Dey   [awareded 0-3]
+JSM Tiaret         2-0 ESM Koléa
+ASM Oran         0-0 JS El Biar
+WA Mostaganem         1-0 CRB Adrar
+MC Saida         0-1 RC Kouba
+JS Tixraine         0-1 WA Tlemcen
+_ Sep 20 _
+GC Mascara         0-1 CR Témouchent
+
+▪ Round 3 ▪
+_ Sep 26 _
+NA Hussein Dey        0-2 JSM Tiaret
+US Bechar Djedid      0-1 ASM Oran
+_ Sep 27 _
+RC Kouba         0-0 USM El Harrach
+CRB Adrar         0-1 MC Saida
+CR Témouchent         1-1 WA Mostaganem
+JS El Biar         3-0 GC Mascara
+ESM Koléa         1-0 JS Texraine
+WA Tlemcen         3-1 RC Arba
+
+▪ Round 4 ▪
+_ Oct 3 _
+USM El Harrach         4-2 CRB Adrar
+RC Kouba         3-0 US Bechar Djedid
+JS Texraine         1-2 NA Hussein Dey
+ASM Oran         1-0 ESM Koléa
+WA Mostaganem         1-0 JS El Biar
+MC Saida         0-2 CR Témouchent
+_ Oct 4 _
+GC Mascara         0-1 WA Tlemcen
+JSM Tiaret         3-0 RC Arba
+
+▪ Round 5 ▪  Oct 17
+NA Hussein Dey         2-0 ASM Oran
+RC Arba         2-1 JS Texraine
+CRB Adrar         2-1 RC Kouba
+CR Témouchent         2-1 USM El Harrach
+US Bechar Djedid      1-2 WA Mostaganem
+JS El Biar         2-1 MC Saida
+ESM Koléa         1-0 GC Mascara
+WA Tlemcen         0-0 JSM Tiaret
+
+▪ Round 6 ▪  Oct 21
+USM El Harrach         0-1 JS El Biar
+RC Kouba         0-1 CR Témouchent
+CRB Adrar         2-1 ESM Koléa
+JS Texraine         1-0 JSM Tiaret
+ASM Oran         1-0 RC Arba
+GC Mascara         0-0 NA Hussein Dey
+MC Saida         4-2 US Bechar Djedid
+WA Mostaganem         1-2 WA Tlemcen
+
+▪ Round 7 ▪  Oct 25
+NA Hussein Dey         1-1 USM El Harrach
+RC Arba         0-1 RC Kouba
+JSM Tiaret         2-1 ASM Oran
+CR Témouchent         2-1 CRB Adrar
+US Bechar Djedid      1-0 GC Mascara
+JS El Biar         2-1 JS Texraine
+ESM Koléa         2-1 WA Mostaganem
+WA Tlemcen         1-1 MC Saida
+
+▪ Round 8 ▪  Oct 31
+RC Kouba         1-0 JS El Biar
+CRB Adrar         1-0 US Bechar Djedid
+CR Témouchent         1-1 ESM Koléa
+ASM Oran         2-1 JS Texraine
+GC Mascara         2-0 JSM Tiaret
+WA Mostaganem         1-1 RC Arba
+MC Saida         1-1 NA Hussein Dey
+USM El Harrach         2-0 WA Tlemcen
+
+▪ Round 9 ▪  Nov 7
+NA Hussein Dey         0-0 WA Mostaganem
+RC Arba         1-0 MC Saida
+JSM Tiaret         0-2 USM El Harrach
+JS Texraine         2-1 GC Mascara
+US Bechar Djedid      1-2 CR Témouchent
+JS El Biar         2-0 CRB Adrar
+ESM Koléa         0-0 RC Kouba
+WA Tlemcen        0-1 ASM Oran
+
+▪ Round 10 ▪  Nov 15
+USM El Harrach         2-1 RC Arba
+RC Kouba         1-1 NA Hussein Dey
+CR Témouchent         1-1 JS El Biar
+US Bechar Djedid      0-1 ESM Koléa
+GC Mascara         1-0 ASM Oran
+WA Mostaganem         2-1 JS Texraine
+MC Saida         2-1 JSM Tiaret
+CRB Adrar         0-1 WA Tlemcen
+
+▪ Round 11 ▪  Nov 22
+NA Hussein Dey         2-0 CRB Adrar
+RC Arba         0-0 GC Mascara
+JSM Tiaret         1-1 WA Mostaganem
+JS Texraine         1-3 CR Témouchent
+ASM Oran         0-1 USM El Harrach
+JS El Biar         2-0 US Bechar Djedid
+ESM Koléa         1-0 MC Saida
+WA Tlemcen         1-2 RC Kouba
+
+▪ Round 12 ▪
+_ Nov 28 _
+US Bechar Djedid      2-2 WA Tlemcen
+CR Témouchent         0-0 NA Hussein Dey
+MC Saida         2-1 ASM Oran
+WA Mostaganem         3-0 GC Mascara
+_ Nov 29 _
+USM El Harrach         1-0 JS Texraine
+RC Kouba         1-1 JSM Tiaret
+CRB Adrar         1-0 RC Arba
+JS El Biar         3-1 ESM Koléa
+
+▪ Round 13 ▪
+_ Dec 19 _
+NA Hussein Dey         1-1 US Bechar Djedid
+RC Arba         1-0 CR Témouchent
+JSM Tiaret         3-1 CRB Adrar
+JS Texraine         0-1 RC Kouba
+GC Mascara         1-0 MC Saida
+ESM Koléa         1-1 USM El Harrach
+WA Tlemcen         0-1 JS El Biar
+_ Dec 21 _
+ASM Oran         0-0 WA Mostaganem
+
+▪ Round 14 ▪
+_ Dec 26 _
+JS El Biar         1-0 NA Hussein Dey
+_ Dec 27 _
+USM El Harrach         4-1 GC Mascara
+RC Kouba         0-0 ASM Oran
+CRB Adrar         3-3 JS Texraine
+CR Témouchent         2-1 JSM Tiaret
+US Bechar Djedid      1-2 RC Arba
+MC Saida         2-0 WA Mostaganem
+ESM Koléa         3-2 WA Tlemcen
+
+▪ Round 15 ▪  Jan 3
+NA Hussein Dey         0-0 ESM Koléa
+RC Arba         1-3 JS El Biar
+JSM Tiaret         1-0 US Bechar Djedid
+JS Texraine         1-0 MC Saida
+ASM Oran         3-0 CRB Adrar
+GC Mascara         0-1 RC Kouba
+WA Mostaganem         1-3 USM El Harrach
+WA Tlemcen         1-0 CR Témouchent
+
+<!-- $table5$ -->
+
+
+
+
+
+
+
+==== Ligues Inter-Régions  ‹§troisieme›
+
+‹Groupe Est, see §3es› |  ‹Groupe Centre-Est, see §3ce› | ‹Groupe Centre-Ouest, see §3co› | ‹Groupe Ouest, see §3ou› | ‹Groupe Sud-Ouest, see §3so› | ‹Groupe Sud-Est, see §3se›
+
+Groupe Est  ‹§3es›
+
+ 1.ES Guelma             15   9  5  1   22- 6  32
+ ------------------------------------------------
+ 2.USF Constantine       15   9  3  3   21-12  30
+ 3.CRB Ain Fekroun       15   8  5  2   20-11  29
+ 4.US Boukhadra          15   7  6  2   16-09  27
+ 5.JSM Skikda            15   8  1  6   23-12  25
+ 6.IRB Sedrata           15   7  3  5   20-13  24
+ 7.CRB Kais              15   6  5  4   14-12  23
+ 8.NRB Tazouguert        15   7  2  6   20-19  23
+ 9.NASR El Fedjoudj      15   5  4  6   15-19  19
+10.JB Ain Kercha         15   5  2  8   11-15  17
+11.CB Mila               15   3  7  5    9-12  16
+12.CRB Ain Yagout        15   4  4  7   12-22  15 [-1]
+13.ASM Ain M'lila        15   3  6  6   11-15  15
+-------------------------------------------------
+14.US Tébessa            15   4  2  9   11-19  14
+15.A Bir Bouhouche       15   3  3  9   15-27  12
+16.NRC Boujelbana        15   2  3 10    8-24   9
+
+Groupe Centre-Est  ‹§3ce›
+
+ 1.JS Azazga             15  11  3  1   29- 9   36
+ -------------------------------------------------
+ 2.JSM Béjaia            15  11  3  1   26-10   36
+ 3.MC El Eulma           15   9  3  3   23-13   30
+ 4.RC Bougaa             15   8  5  2   20- 9   29
+ 5.JS Boumerdes          15   7  3  5   16-11   24
+ 6.AS Bordj Ghedir       15   5  6  4   13-14   21
+ 7.MB Barika             15   6  3  6   22-20   21
+ 8.ES Bouakeul           15   4  6  5   14-18   18
+ 9.A Bou Saada           15   5  3  7   12-18   18
+10.CRBE Milia            15   4  5  6   13-13   17
+11.AE Eulma              15   4  5  6   12-17   17
+12.AB Barika             15   4  4  7   19-24   16
+13.USB Berhoum           15   3  5  7   13-19   14
+--------------------------------------------------
+14.CB Beni Slimane       15   3  4  8   15-25   13
+15.USM Sétif             15   1  5  9    8-19    8
+16.E Sour El Ghozlane    15   2  3 10    6-22    8 [-1]
+
+Groupe Centre-Ouest  ‹§3co›
+
+ 1.MS Cherchell           15  10  1  4   28- 8  31
+ --------------------------------------------------
+ 2.USM Blida              15   9  3  3   17-10  30
+ 3.CR Zaouia              15   9  1  5   18- 8  28
+ 4.WAB Tissemsilt         15   8  1  6   17-14  25
+ 5.ORB Oued Fodda         15   8  1  6   21-10  25
+ 6.CRB Ain Oussera        15   6  4  5   17-15  22
+ 7.AE Médéa               15   6  3  6   17-20  21
+ 8.WB Meftah              15   6  3  6   12-16  21
+ 9.MCB Oued Sly           15   6  2  7   15-21  20
+10.RA Ain Defla           15   6  2  7   17-21  20
+11.WB Ain Benian          15   4  6  5   11- 9  18
+12.CRB Beni Tamou         15   5  3  7   12-14  17 [-1]
+13.SKAF Khemis            15   4  5  6    9-18  17
+--------------------------------------------------
+14.JS Hai Djebel          15   3  6  6   14-20  15
+15.WA Boufarik            15   3  4  8   12-16  13
+16.O Médéa                15   2  5  8   10-27  11
+
+Groupe Ouest  ‹§3ou›
+
+ 1.IRB Sidi m'hamed Benali 15 10  2  3   20- 5   32
+ -------------------------------------------------
+ 2.USM Bel Abbès          15   9  3  3   16- 8   30
+ 3.RC Relizane            15   8  3  4   15-11   27
+ 4.IR Bouhenni Tiaret     15   7  4  4   19-17   25
+ 5.IS Tighenif            15   6  7  2   21-11   24
+ 6.JS Bendaoud            15   6  5  4   17-15   23
+ 7.SCM Oran               15   5  6  4   15-14   21
+ 8.CAS Abdelmoumene       15   4  8  3   14-11   20
+ 9.FCB Telagh             15   4  6  5   10-13   18
+10.ICS Tlemcen            15   5  3  7   16-20   18
+11.IRB El Kerma           15   5  3  7   25-25   18
+12.JS Emir Abdelkader     15   5  2  8   12-19   17
+13.US Remchi              15   4  4  7   16-19   16
+--------------------------------------------------
+14.FCB Frenda             15   3  5  7   17-19   14
+15.O Sidi Ben Adda        15   2  8  5   11-15   14
+16.IRB Sougueur           15   2  1 12   12-34    6
+
+Groupe Sud-Ouest  ‹§3so›
+
+▪ Group A ▪
+ 1.IR Mecheria            7   4  2  1   10- 4   14
+ -------------------------------------------------
+ 2.SC Mecheria            7   4  3  0    8- 2   14 [-1]
+ 3.CFT Kheiter            7   4  1  2    9- 8   13
+ 4.IRM Ben Amar           7   4  0  3    7- 5   11 [-1]
+ 5.M Chouhada       7   2  4  1    8- 4    9 [-1]
+ 6.A Aïn Sefra            7   2  2  3    7- 7    8
+ 7.MC Ghassoul            7   0  2  5    8-18    1 [-1]
+ -------------------------------------------------
+ 8.US Naama               7   0  2  5    5-14   -2 [-2]
+
+▪ Group B ▪
+ 1.JRB Taghit             7   4  3  0   12- 7   15
+ -------------------------------------------------
+ 2.CRB Tindouf            7   5  0  2   17- 9   15
+ 3.NRB Fenoughil          7   3  1  3    7- 8   10
+ 4.NRC Hattaba Adrar      7   3  1  3    8- 5   10 [-1]
+ 5.NRB Sbaa               7   2  4  1   12-11    9 [-1]
+ 6.USM Tindouf            7   1  4  2    4- 6    7
+ 7.MCZ Hinoun             7   1  1  5    4-12    4
+ -------------------------------------------------
+ 8.CR Timimoune           7   0  4  3    4-10    3 [-1]
+
+Groupe Sud-Est  ‹§3se›
+
+ 1.IRB Nezla             15  12  3  0   27- 7   39
+ -------------------------------------------------
+ 2.NRB Touggourt         15  11  4  0   22- 8   37
+ 3.ASB Metlili Chaamba   15  11  1  3   27- 7   34
+ 4.IRB Kheneg            15   9  1  5   20-11   28
+ 5.US Hamaïssa           15   7  2  6   21-13   23
+ 6.O El Oued             15   6  5  4   17-15   22 [-1]
+ 7.MB Hassi Messaoud     15   6  4  5   15-17   22
+ 8.IRB Zaouia El Abidia  15   6  4  5   21-19   21 [-1]
+ 9.CRB Djamaa            15   6  2  7   17-15   20
+10.IRB Aflou             15   5  5  5   21-18   20
+11.RCG Sidi Saad         15   5  2  8   20-19   17
+12.O Magrane             15   4  5  6   15-18   17
+13.CSSW Illizi           15   5  2  8   19-19   17
+--------------------------------------------------
+14.USB Hassi R'mel       15   4  2  9   10-20   14
+15.US Souf               15   1  1 13    8-36    0 [-4]
+16.IRB Ouargla           15   1  1 13    9-44   -2 [-6]
+
+
+
+
+
+
+<!-- $about$ -->
+

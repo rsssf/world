@@ -1,0 +1,922 @@
+  <!--
+     source: https://rsssf.org/tablesa/aus2025.html
+    -->
+  
+
+
+== Australia 2024/25
+
+
+
+
+
+==== A-League  ‹§aleague›
+
+‹Preliminary Stage, see §prel› | ‹Playoff Stage, see §play›
+
+Preliminary Stage  ‹§prel›
+
+<!-- $table1$ -->
+
+
+▪ Round 1 ▪
+_ Oct 18 _
+Central Coast Mariners    0-0 Melbourne Victory
+_ Oct 19 _
+Auckland FC               2-0 Brisbane Roar
+Newcastle Jets            0-1 Melbourne City
+Western Sydney Wanderers  1-2 Sydney FC
+_ Oct 20 _
+Wellington Phoenix        1-1 Western United
+Macarthur FC              6-1 Perth Glory
+Adelaide United           bye
+
+▪ Round 2 ▪
+_ Oct 25 _
+Macarthur FC              1-2 Newcastle Jets
+_ Oct 26 _
+Adelaide United           1-1 Central Coast Mariners
+Melbourne City            1-3 Melbourne Victory
+Perth Glory               0-2 Wellington Phoenix
+_ Oct 27 _
+Auckland FC               1-0 Sydney FC
+Western United            1-1 Western Sydney Wanderers
+Brisbane Roar             bye
+
+▪ Round 3 ▪
+_ Nov 1 _
+Brisbane Roar             2-3 Sydney FC
+_ Nov 2 _
+Wellington Phoenix        0-2 Auckland FC
+Central Coast Mariners    0-0 Perth Glory
+Western Sydney Wanderers  3-4 Adelaide United
+_ Nov 3 _
+Melbourne Victory         2-1 Macarthur FC
+_ Nov 4 _
+Western United            0-1 Melbourne City
+Newcastle Jets            bye
+
+▪ Round 4 ▪
+_ Nov 8 _
+Western Sydney Wanderers  4-1 Newcastle Jets
+_ Nov 9 _
+Melbourne Victory         2-0 Brisbane Roar
+Adelaide United           2-1 Western United
+_ Nov 10 _
+Central Coast Mariners    0-3 Wellington Phoenix
+Sydney FC                 1-2 Macarthur FC
+Perth Glory               0-5 Melbourne City
+Auckland FC               bye
+
+▪ Round 5 ▪
+_ Nov 22 _
+Perth Glory               1-3 Western United
+Newcastle Jets            1-2 Central Coast Mariners
+_ Nov 23 _
+Brisbane Roar             2-3 Adelaide United
+Sydney FC                 4-2 Western Sydney Wanderers
+_ Nov 24 _
+Wellington Phoenix        1-0 Melbourne Victory
+Macarthur FC              0-1 Auckland FC
+Melbourne City            bye
+
+▪ Round 6 ▪
+_ Nov 29 _
+Adelaide United           2-2 Perth Glory
+_ Nov 30 _
+Auckland FC               2-0 Newcastle Jets
+Melbourne City            0-2 Western Sydney Wanderers
+Macarthur FC              4-4 Brisbane Roar
+_ Dec 1 _
+Western United            1-3 Melbourne Victory
+_ Jan 15 _
+Wellington Phoenix        0-0 Sydney FC
+Central Coast Mariners    bye
+
+▪ Round 7 ▪
+_ Dec 6 _
+Brisbane Roar             1-4 Melbourne City
+_ Dec 7 _
+Auckland FC               2-1 Wellington Phoenix
+Newcastle Jets            0-1 Adelaide United
+Western United            0-0 Macarthur FC
+_ Dec 8 _
+Melbourne Victory         2-0 Perth Glory
+Central Coast Mariners    2-1 Sydney FC
+Western Sydney Wanderers  bye
+
+▪ Round 8 ▪
+_ Dec 13 _
+Central Coast Mariners    0-4 Adelaide United
+_ Dec 14 _
+Wellington Phoenix        1-2 Macarthur FC
+Sydney FC                 3-4 Western United
+Western Sydney Wanderers  2-2 Brisbane Roar
+Perth Glory               0-4 Newcastle Jets
+_ Dec 15 _
+Melbourne City            2-2 Auckland FC
+Melbourne Victory         bye
+
+▪ Round 9 ▪
+_ Dec 20 _
+Adelaide United           3-3 Sydney FC
+_ Dec 21 _
+Auckland FC               0-4 Western United
+Brisbane Roar             0-1 Perth Glory
+Melbourne Victory         1-1 Melbourne City
+_ Dec 22 _
+Western Sydney Wanderers  4-1 Wellington Phoenix
+_ Dec 23 _
+Macarthur FC              1-1 Central Coast Mariners
+Newcastle Jets            bye
+
+▪ Round 10 ▪
+_ Dec 27 _
+Adelaide United           2-3 Western Sydney Wanderers
+Perth Glory               0-3 Macarthur FC
+_ Dec 28 _
+Wellington Phoenix        2-1 Newcastle Jets
+Central Coast Mariners    1-4 Auckland FC
+Sydney FC                 3-0 Melbourne Victory
+_ Dec 29 _
+Western United            1-0 Brisbane Roar
+Melbourne City            bye
+
+▪ Round 11 ▪
+_ Dec 31 _
+Central Coast Mariners    1-1 Melbourne City
+_ Jan 1 _
+Auckland FC               0-0 Melbourne Victory
+Western Sydney Wanderers  2-3 Macarthur FC
+_ Jan 7 _
+Brisbane Roar             0-1 Newcastle Jets
+_ Jan 8 _
+Sydney FC                 3-0 Perth Glory
+Adelaide United           bye
+Wellington Phoenix        bye
+Western United            bye
+
+▪ Round 12 ▪
+_ Jan 3 _
+Melbourne City            2-0 Wellington Phoenix
+Brisbane Roar             1-3 Central Coast Mariners
+Perth Glory               2-3 Western United
+_ Jan 4 _
+Newcastle Jets            2-2 Sydney FC
+Melbourne Victory         2-2 Western Sydney Wanderers
+_ Jan 6 _
+Macarthur FC              1-2 Adelaide United
+Auckland FC               bye
+
+▪ Round 13 ▪
+_ Jan 10 _
+Melbourne Victory         3-4 Western United
+_ Jan 11 _
+Wellington Phoenix        1-2 Adelaide United
+Melbourne City            1-0 Brisbane Roar
+Sydney FC                 4-1 Central Coast Mariners
+Perth Glory               1-0 Auckland FC
+_ Jan 12 _
+Newcastle Jets            1-3 Macarthur FC
+Western Sydney Wanderers  bye
+
+Moved Match [Jan 14]
+Perth Glory               1-2 Western Sydney Wanderers
+
+▪ Round 14 ▪
+_ Jan 17 _
+Western United            3-1 Newcastle Jets
+Western Sydney Wanderers  1-3 Central Coast Mariners
+_ Jan 18 _
+Auckland FC               3-0 Melbourne City
+Sydney FC                 3-4 Brisbane Roar
+Adelaide United           3-2 Melbourne Victory
+_ Jan 20 _
+Macarthur FC              1-2 Wellington Phoenix
+Perth Glory               bye
+
+Moved Match [Jan 22]
+Adelaide United           2-2 Auckland FC
+
+▪ Round 15 ▪
+_ Jan 24 _
+Melbourne Victory         2-0 Sydney FC
+_ Jan 25 _
+Wellington Phoenix        0-0 Central Coast Mariners
+Newcastle Jets            2-2 Perth Glory
+Macarthur FC              1-0 Melbourne City
+_ Jan 26 _
+Western Sydney Wanderers  0-1 Auckland FC
+_ Apr 22 _
+Brisbane Roar             1-1 Adelaide United
+Western United            bye
+
+Moved Match [Jan 29]
+Western United            2-2 Central Coast Mariners
+
+▪ Round 16 ▪
+_ Jan 7 _
+Melbourne City            2-0 Western United
+_ Jan 31 _
+Brisbane Roar             0-1 Western Sydney Wanderers
+_ Feb 1 _
+Auckland FC               2-1 Macarthur FC
+Sydney FC                 4-1 Adelaide United
+Central Coast Mariners    2-2 Newcastle Jets
+Perth Glory               0-2 Melbourne Victory
+Wellington Phoenix        bye
+
+▪ Round 17 ▪
+_ Feb 6 _
+Wellington Phoenix        1-1 Brisbane Roar
+_ Feb 7 _
+Adelaide United           1-0 Melbourne City
+Perth Glory               1-1 Central Coast Mariners
+_ Feb 8 _
+Newcastle Jets            3-0 Melbourne Victory
+Sydney FC                 3-3 Western Sydney Wanderers
+_ Feb 9 _
+Macarthur FC              2-2 Western United
+Auckland FC               bye
+
+▪ Round 18 ▪
+_ Feb 14 _
+Melbourne Victory         1-0 Wellington Phoenix
+_ Feb 15 _
+Melbourne City            1-0 Perth Glory
+Western United            0-2 Auckland FC
+Adelaide United           1-2 Newcastle Jets
+_ Feb 16 _
+Western Sydney Wanderers  2-1 Macarthur FC
+Central Coast Mariners    bye
+Sydney FC                 bye
+Brisbane Roar             bye
+
+▪ Round 19 ▪
+_ Feb 21 _
+Newcastle Jets            3-1 Brisbane Roar
+_ Feb 22 _
+Auckland FC               6-1 Wellington Phoenix
+Central Coast Mariners    0-4 Western Sydney Wanderers
+Melbourne Victory         2-2 Melbourne City
+Perth Glory               0-0 Sydney FC
+_ Feb 23 _
+Western United            3-0 Adelaide United
+Macarthur FC              bye
+
+▪ Round 20 ▪
+_ Feb 28 _
+Wellington Phoenix        0-1 Melbourne City
+Central Coast Mariners    1-3 Western United
+_ Mar 1 _
+Auckland FC               4-4 Adelaide United
+Brisbane Roar             1-1 Melbourne Victory
+Macarthur FC              0-2 Sydney FC
+_ Mar 2 _
+Western Sydney Wanderers  4-1 Perth Glory
+Newcastle Jets            bye
+
+▪ Round 21 ▪
+_ Mar 7 _
+Melbourne City            2-0 Macarthur FC
+_ Mar 8 _
+Adelaide United           1-1 Brisbane Roar
+Western United            4-1 Wellington Phoenix
+Melbourne Victory         3-0 Central Coast Mariners
+_ Mar 9 _
+Newcastle Jets            1-1 Auckland FC
+Perth Glory               bye
+Western Sydney Wanderers  bye
+Sydney FC                 bye
+
+Moved Match [Mar 12]
+Melbourne City            0-1 Newcastle Jets
+
+▪ Round 22 ▪
+_ Mar 14 _
+Adelaide United           4-5 Macarthur FC
+_ Mar 15 _
+Western Sydney Wanderers  4-2 Melbourne Victory
+Perth Glory               1-3 Brisbane Roar
+_ Mar 16 _
+Auckland FC               2-2 Central Coast Mariners
+Newcastle Jets            2-6 Western United
+Sydney FC                 1-1 Wellington Phoenix
+Melbourne City            bye
+
+▪ Round 23 ▪
+_ Mar 28 _
+Macarthur FC              3-3 Newcastle Jets
+_ Mar 29 _
+Wellington Phoenix        2-2 Western Sydney Wanderers
+Sydney FC                 2-3 Melbourne City
+Melbourne Victory         5-3 Adelaide United
+_ Mar 30 _
+Central Coast Mariners    3-1 Perth Glory
+Brisbane Roar             0-2 Auckland FC
+Western United            bye
+
+▪ Round 24 ▪
+_ Apr 4 _
+Brisbane Roar             1-5 Macarthur FC
+_ Apr 5 _
+Auckland FC               1-1 Western Sydney Wanderers
+Melbourne City            1-0 Central Coast Mariners
+Western United            3-1 Perth Glory
+Adelaide United           2-3 Sydney FC
+_ Apr 6 _
+Newcastle Jets            1-2 Wellington Phoenix
+Melbourne Victory         bye
+
+▪ Round 25 ▪
+_ Apr 11 _
+Melbourne City            3-2 Brisbane Roar
+_ Apr 12 _
+Wellington Phoenix        2-3 Melbourne Victory
+Sydney FC                 2-2 Auckland FC
+Newcastle Jets            6-0 Central Coast Mariners
+Perth Glory               4-1 Adelaide United
+_ Apr 13 _
+Western Sydney Wanderers  2-0 Western United
+Macarthur FC              bye
+
+▪ Round 26 ▪
+_ Apr 17 _
+Brisbane Roar             2-1 Western United
+_ Apr 18 _
+Adelaide United           3-2 Wellington Phoenix
+_ Apr 19 _
+Melbourne Victory         0-2 Auckland FC
+Western Sydney Wanderers  2-2 Melbourne City
+_ Apr 20 _
+Sydney FC                 3-2 Newcastle Jets
+Central Coast Mariners    2-2 Macarthur FC
+Perth Glory               bye
+
+▪ Round 27 ▪
+_ Apr 25 _
+Macarthur FC              1-2 Melbourne Victory
+_ Apr 26 _
+Brisbane Roar             1-0 Wellington Phoenix
+Newcastle Jets            0-1 Western Sydney Wanderers
+Melbourne City            0-0 Adelaide United
+_ Apr 27 _
+Auckland FC               1-0 Perth Glory
+Western United            1-0 Sydney FC
+Central Coast Mariners    bye
+
+▪ Round 28 ▪
+_ May 2 _
+Central Coast Mariners    1-2 Brisbane Roar
+_ May 3 _
+Melbourne City            5-1 Sydney FC
+Western United            4-2 Auckland FC
+Macarthur FC              1-3 Western Sydney Wanderers
+_ May 4 _
+Wellington Phoenix        0-2 Perth Glory
+Melbourne Victory         1-1 Newcastle Jets
+Adelaide United           bye
+
+<!-- $table2$ -->
+
+
+▪ Playoff Stage ▪
+
+▪ First Round ▪
+_ May 9 _
+Western United            3-2 Adelaide United
+_ May 10 _
+Western Sydney Wanderers  1-2 Melbourne Victory
+
+▪ Semifinals ▪
+
+▪ First Legs ▪
+_ May 16 _
+Western United            0-3 Melbourne City
+_ May 17 _
+Melbourne Victory         0-1 Auckland FC
+
+▪ Second Legs ▪  May 24
+Auckland FC               0-2 Melbourne Victory
+Melbourne City            1-1 Western United
+
+▪ Final ▪  May 31
+Melbourne City            1-0 Melbourne Victory
+
+
+
+
+
+
+==== Australian Championship 2025  ‹§ozchamp›
+
+NB: ianugural edition; replaced the National Premier Leagues final round
+
+Participants:
+ Champions Premier Leagues (8):
+   Canberra Croatia
+   NWS Spirit FC
+   Broadmeadow Magic
+   Moreton City Excelsior
+   MetroStars
+   South Hobart
+   Heidelberg United
+   Bayswater City
+ "Foundation Clubs" (8):
+   Avondale FC
+   Marconi Stallions
+   Preston Lions
+   South Melbourne
+   Sydney Olympic
+   Sydney United 58
+   APIA Leichhardt
+   Wollongong Wolves
+
+‹Group Stage, see §2grp› | ‹Playoff Stage, see §2play›
+
+Group Stage  ‹§2grp›
+
+Final Tables:
+
+▪ Group A ▪
+ 1. South Melbourne           6   5  1  0  13- 6  16  Qualified
+ 2. Moreton City Excelsior    6   2  2  2  15-13   8  Qualified
+ - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3. Sydney Olympic            6   2  1  3  14-14   7
+ 4. Broadmeadow Magic         6   1  0  5   8-17   3
+
+▪ Group B ▪
+ 1. Heidelberg United         6   3  3  0  15- 6  12  Qualified
+ 2. Marconi Stallions         6   3  1  2  10- 7  10  Qualified
+ - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3. Wollongong Wolves         6   3  1  2  13-11  10
+ 4. South Hobart              6   0  1  5   6-20   1
+
+▪ Group C ▪
+ 1. Avondale FC               6   3  3  0  12- 6  12  Qualified
+ 2. NWS Spirit FC             6   2  2  2   8- 9   8  Qualified
+ - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3. Preston Lions             6   1  4  1   7- 6   7
+ 4. Canberra Croatia          6   1  1  4   6-12   4
+
+▪ Group D ▪
+ 1. APIA Leichhardt           6   4  1  1  12- 4  13  Qualified
+ 2. MetroStars                6   3  1  2   7- 4  10  Qualified
+ - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 3. Bayswater City            6   3  1  2   7- 9  10
+ 4. Sydney United 58          6   0  1  5   5-14   1
+
+▪ Playoff Stage ▪
+
+▪ Quarterfinals ▪
+APIA Leichhardt           1-1 Marconi Stallions         [aet, Marconi on pen]
+Avondale FC               1-3 Moreton City Excelsior
+Heidelberg United         6-1 MetroStars
+South Melbourne           2-0 NWS Spirit FC
+
+▪ Semifinals ▪
+Marconi Stallions         1-0 Moreton City Excelsior
+South Melbourne           1-0 Heidelberg United
+
+▪ Final ▪
+Marconi Stallions         0-2 South Melbourne
+
+
+
+
+
+==== State Leagues 2025  ‹§states›
+
+‹Australian Capital Territory, see §act› | ‹New South Wales, see §nsw› | ‹Northern New South Wales, see §nnsw› | ‹Northern Territory, see §nth› | ‹Queensland, see §qld› | ‹South Australia, see §south› | ‹Tasmania, see §tas› | ‹Victoria, see §vic› | ‹Western Australia, see §west›
+
+
+
+
+
+===== Australian Capital Territory 2025  ‹§act›
+
+National Premier League
+
+<!-- $table3$ -->
+
+
+NB: Yoogali SC withdrew after the season
+
+▪ Finals ▪
+
+Minor Semifinal
+Monaro Panthers           5-1 Tuggeranong United
+
+Major Semifinal
+Canberra Croatia          2-3 Cooma Tigers FC
+
+Preliminary Final
+Canberra Croatia          1-2 Monaro Panthers
+
+Grand Final
+Cooma Tigers FC           3-0 Monaro Panthers
+
+Capital Premier League
+
+<!-- $table4$ -->
+
+
+Final Series
+ANU FC                    1-1 Canberra Juventus         [ANU FC on pen]
+Belconnen United          1-2 Canberra Olympic
+Belconnen United          1-3 ANU FC
+
+Grand Final
+Canberra Olympic          3-1 ANU FC
+
+State League One
+
+<!-- $table5$ -->
+
+
+Final Series
+UC Stars                  0-1 Majura FC
+Weston Molonglo Wanderers 2-1 ANU FC Blue
+
+Grand Final
+Weston Molonglo Wanderers 1-1 Majura FC                 [Majura FC on pen]
+
+State League Two
+
+<!-- $table6$ -->
+
+
+Final Series
+ANU FC Blue B             3-2 Cooma Tigers FC C
+Weston Molonglo Wand. B   2-0 Weston Molonglo Magpies
+
+Grand Final
+Weston Molonglo Wand. B   1-3 ANU FC Blue
+
+===== New South Wales 2025  ‹§nsw›
+
+National Premier League
+
+<!-- $table7$ -->
+
+
+Final Series
+Marconi Stallions           1-1 Sydney United 58            [Marconi Stallions on pen]
+Rockdale Ilinden            1-0 Blacktown City
+APIA Leichhardt             2-0 Marconi Stallions
+NWS Spirit FC               1-2 Rockdale Ilinden            (aet)
+
+Grand Final
+APIA Leichhardt             2-1 Rockdale Ilinden
+
+Promotion/Relegation Matches
+SD Raiders              2-2 1-0 Central Coast Mariners B
+
+New South Wales League One
+
+<!-- $table8$ -->
+
+
+Promotion/Relegation Matches
+Prospect United         1-2 3-1 Bonnyrigg White Eagles
+
+New South Wales League Two
+
+<!-- $table9$ -->
+
+
+Northern New South Wales - National Premier League  ‹§nnsw›
+
+<!-- $table10$ -->
+
+
+Final Series
+Lambton Jaffas              3-1 Maitland FC
+Edgeworth Eagles            1-2 Weston Bears
+Edgeworth Eagles            1-3 Lambton Jaffas
+Broadmeadow Magic           2-0 Weston Bears
+Weston Bears                0-2 Lambton Jaffas
+
+Grand Final
+Broadmeadow Magic           2-0 Lambton Jaffas
+
+Promotion/Relegation Matches
+Valentine Phoenix       0-0 2-0 Singleton Strikers
+Toronto Awaba           2-4 0-0 West Wallsend
+Valentine Phoenix           4-0 West Wallsend
+
+Northern New South Wales League One
+
+<!-- $table11$ -->
+
+
+Northern New South Wales - Newcastle Zone League One
+
+<!-- $table12$ -->
+
+
+Final Series
+Newcastle Suns              0-1 Kotara South
+University of Newcastle     4-0 Mayfield United
+Newcastle Croatia           6-2 Kotata South
+Newcastle Suns              1-3 University of Newcastle
+Kotara South                2-0 University of Newcastle
+
+Grand Final
+Newcastle Croatia           1-0 Kotara South
+
+===== Northern Territory 2025  ‹§nth›
+
+Norzone Premier League
+
+<!-- $table13$ -->
+
+
+Final Series
+Darwin Olympic              5-1 Darwin Hearts
+Azzurri United FC           2-1 Mindil Aces
+Darwin Hearts               0-2 Azzurri United FC
+
+Grand Final
+Darwin Olympic              0-3 Azzurri United FC
+
+Southern Premier League
+
+<!-- $table14$ -->
+
+
+Final Series
+Vikings FC                 10-0 Celtic FC
+Verdi FC                    2-0 Stormbirds SC
+Stormbirds SC               5-3 Vikings FC
+
+Grand Final
+Verdi FC                    0-5 Stormbirds SC
+
+===== Queensland 2025  ‹§qld›
+
+National Premier League
+
+<!-- $table15$ -->
+
+
+Final Series
+Gold Coast Knights          0-1 Lions FC
+Lions FC                    3-0 Peninsular Power
+Moreton City Excelsior      4-1 Eastern Suburbs
+
+Grand Final
+Moreton City Excelsior      1-2 Lions FC
+
+Queensland Premier League One
+
+<!-- $table16$ -->
+
+
+[*] Magic United 3 punten in mindering.
+
+Final Series
+Rochedale Rovers            3-0 Broadbeach United
+Magic United                2-1 Brisbane Strikers
+
+Grand Final
+Magic United                2-1 Rochedale Rovers
+
+Queensland Premier League Two
+
+<!-- $table17$ -->
+
+
+Final Series
+Robina City                 5-4 Grange Thistle
+North Star                  5-3 Moreton City Excelsior B
+
+Grand Final
+Robina City                 2-1 North Star
+
+Brisbane Premier League
+
+<!-- $table18$ -->
+
+
+Final Series
+Virginia United             4-1 Ipswich Knights
+Newmarket                   5-4 Carina
+
+Grand Final
+Virginia United             1-2 Newmarket
+
+===== South Australia 2025  ‹§south›
+
+National Premier League
+
+<!-- $table19$ -->
+
+
+Final Series
+FK Beograd                  1-2 Adelaide United B
+Croydon                     4-1 West Torrens Birkalla
+Adelaide United B       0-1 1-2 MetroStars
+Croydon                 1-1 0-0 Adelaide City               [Croydon on pen]
+
+Grand Final
+Croydon                     2-1 MetroStars
+
+State League One
+
+<!-- $table20$ -->
+
+
+Final Series
+Salisbury United            1-1 Adelaide Blue Eagles        [Salisbury United on pen]
+West Adelaide               4-0 Cumberland United
+Salisbury United        0-1 1-3 Sturt Lions
+West Adelaide           1-1 2-0 Fulham United
+
+Grand Final
+Sturt Lions                 2-3 West Adelaide               (aet)
+
+State League Two
+
+Final Tables:
+
+North
+ 1. Modbury Vista            21  13  3  5  52-34  42  Promotion Playoff
+ 2. Adelaide Atletico        21  11  5  5  42-27  38  Promotion Playoff
+ 3. Salisbury Inter          21  11  5  5  44-28  32  [-6]  Promotion Playoff
+ 4. Gawler Eagles            21   9  2 10  31-33  29  Promotion Playoff
+ 5. Port Adelaide            21   8  3 10  34-36  27
+ 6. Northern Demons          21   8  1 12  40-44  25
+ 7. Ghan United              21   8  3 10  39-44  21  [-6]
+ 8. Elizabeth Grove          21   4  2 15  24-60  14
+
+South
+ 1. Eastern United           21  14  3  4  78-25  45  Promotion Playoff
+ 2. Adelaide University      21  11  7  3  47-27  40  Promotion Playoff
+ 3. Western Strikers         21  10  5  6  37-30  35  Promotion Playoff
+ 4. Seaford Rangers          21   9  6  6  39-36  33  Promotion Playoff
+ 5. Adelaide Titans          21   7  4 10  27-38  25
+ 6. Noarlunga United         21   5  5 11  32-56  20
+ 7. Mount Barker United      21   4  5 12  25-51  17
+ 8. Adelaide Hills Hawks     21   3  7 11  24-46  16
+
+▪ Championship Playoff ▪
+Modbury Vista               0-2 Eastern United
+
+NB: Modbury Vista to semifinals promotion playoff
+
+Promotion Playoff
+
+▪ Round 1 ▪
+Salisbury Inter         2-2 1-2 Western Strikers
+Seaford Rangers         1-4 1-6 Adelaide Atletico
+Gawler Eagles           1-2 0-2 Adelaide University
+
+▪ Semifinals ▪
+Modbury Vista               6-0 Western Strikers
+Adelaide Atletico           1-1 Adelaide University         [Atletico on pen]
+
+▪ Final ▪
+Modbury Vista               0-2 Adelaide Atletico
+
+Amateur Division One
+
+Saturday
+
+<!-- $table21$ -->
+
+
+Sunday
+
+<!-- $table22$ -->
+
+
+===== Tasmania 2024  ‹§tas›
+
+National Premier League
+
+<!-- $table23$ -->
+
+
+NB: no final series
+
+Northern Championship
+
+<!-- $table24$ -->
+
+
+NB: no final series
+
+Southern Championship
+
+<!-- $table25$ -->
+
+
+NB: no final series; remaining matches not played
+
+===== Victoria 2025  ‹§vic›
+
+National Premier League
+
+<!-- $table26$ -->
+
+
+Final Series
+Dandenong Thunder           0-1 Dandenong City
+Oakleigh Cannons            1-2 Preston Lions
+Heidelberg United           2-1 Preston Lions
+Avondale Heights            0-1 Dandenong City
+
+Grand Final
+Heidelberg United           2-1 Dandenong City
+
+Victoria Premier League One
+
+<!-- $table27$ -->
+
+
+Promotion Matches
+
+▪ Semifinals ▪
+Brunswick City              3-1 North Sunshine Eagles
+Melbourne City B            4-3 Melbourne Srbija
+
+▪ Final ▪
+Melbourne City B            2-2 Brunswick City              [Melbourne on pen]
+
+Victoria Premier League Two
+
+<!-- $table28$ -->
+
+
+Promotion Matches
+
+▪ Semifinals ▪
+Altona City                 0-0 Springvale White Eagles     [Springvale on pen]
+Brunswick Juventus          2-1 Goulburn Valley Suns
+
+▪ Final ▪
+Brunswick Juventus          1-0 Springvale White Eagles
+
+State League Division One
+
+North/West
+
+<!-- $table29$ -->
+
+
+South/East
+
+<!-- $table30$ -->
+
+
+===== Western Australia 2025  ‹§west›
+
+National Premier League
+
+<!-- $table31$ -->
+
+
+Final Series
+Bayswater City              1-0 Kingsway Olympic
+Perth Red Star              2-2 Perth Glory B               [Glory B on pen]
+Kingsway Olympic            4-0 Perth Glory B
+
+Grand Final
+Bayswater City              2-1 Kingsway Olympic
+
+▪ Promotion/Relegation Playoff ▪
+Fremantle City          1-2 1-0 Kingsley-Westside           [Fremantle on pen]
+UWA-Nedlands            1-3 3-2 Joondalup City
+Fremantle City              2-1 Joondalup City
+
+State League Division One
+
+<!-- $table32$ -->
+
+
+▪ Promotion/Relegation Playoff ▪
+Forrestfield United     2-1 0-2 Kalamunda City
+East Perth FC           1-2 1-2 Cockburn City
+Kalamunda City              1-1 Cockburn City               [Cockburn on pen]
+
+State League Division Two
+
+<!-- $table33$ -->
+
+
+▪ Promotion/Relegation Playoff ▪
+Swan United                 0-1 North Beach
+Wanneroo City               2-3 Morley-Windmills
+
+Amateur Premier League
+
+<!-- $table34$ -->
+
+
+
+
+
+
+<!-- $about$ -->
+

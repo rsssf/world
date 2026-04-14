@@ -1,0 +1,554 @@
+  <!--
+     source: https://rsssf.org/tablesp/port2025.html
+    -->
+  
+
+
+== Portugal 2024/25
+
+
+
+
+
+==== Liga Portugal  ‹§liga1›
+
+<!-- $table1$ -->
+
+
+▪ Round 1 ▪
+_ Aug 9 _
+Sporting          3-1 Rio Ave
+_ Aug 10 _
+AVS               1-1 Nacional
+Casa Pia          0-1 Boavista
+Porto             3-0 Gil Vicente
+_ Aug 11 _
+Estoril           1-4 Santa Clara
+Famalicão         2-0 Benfica
+Farense           1-2 Moreirense
+Braga             1-1 Estrela Amadora
+_ Aug 12 _
+Arouca            0-1 Vitória Guimarães
+
+▪ Round 2 ▪
+_ Aug 16 _
+Santa Clara       0-2 Porto
+Gil Vicente       4-2 AVS
+_ Aug 17 _
+Rio Ave           1-0 Farense
+Nacional          1-6 Sporting
+Benfica           3-0 Casa Pia
+_ Aug 18 _
+Moreirense        3-1 Arouca
+Vitória Guimarães 1-0 Estoril
+Boavista          0-1 Braga
+_ Aug 19 _
+Estrela Amadora   0-3 Famalicão
+
+▪ Round 3 ▪
+_ Aug 23 _
+Farense           0-5 Sporting
+_ Aug 24 _
+Casa Pia          0-2 Santa Clara
+Porto             2-0 Rio Ave
+Benfica           1-0 Estrela Amadora
+Famalicão         1-0 Boavista
+_ Aug 25 _
+Arouca            1-0 Nacional
+Estoril           0-0 Gil Vicente
+AVS               1-0 Vitória Guimarães
+Braga             3-1 Moreirense
+
+▪ Round 4 ▪
+_ Aug 30 _
+Moreirense        1-1 Benfica
+_ Aug 31 _
+Santa Clara       2-1 AVS
+Boavista          0-0 Estoril
+Estrela Amadora   0-1 Casa Pia
+Sporting          2-0 Porto
+_ Sep 1 _
+Nacional          2-0 Farense
+Rio Ave           1-0 Arouca
+Gil Vicente       0-0 Braga
+Vitória Guimarães 2-1 Famalicão
+
+▪ Round 5 ▪
+_ Sep 13 _
+Arouca            0-3 Sporting
+_ Sep 14 _
+Casa Pia          3-1 Moreirense
+AVS               1-0 Rio Ave
+Benfica           4-1 Santa Clara
+Famalicão         1-1 Gil Vicente
+_ Sep 15 _
+Porto             2-1 Farense
+Estoril           1-0 Nacional
+Braga             0-2 Vitória Guimarães
+_ Sep 16 _
+Estrela Amadora   2-2 Boavista
+
+▪ Round 6 ▪
+_ Sep 20 _
+Nacional          0-3 Braga
+_ Sep 21 _
+Rio Ave           2-2 Estoril
+Santa Clara       1-0 Estrela Amadora
+Vitória Guimarães 0-3 Porto
+_ Sep 22 _
+Moreirense        0-0 Famalicão
+Gil Vicente       1-1 Casa Pia
+Farense           0-1 Arouca
+Sporting          3-0 AVS
+_ Sep 23 _
+Boavista          0-3 Benfica
+
+▪ Round 7 ▪
+_ Sep 27 _
+Estoril           0-3 Sporting
+_ Sep 28 _
+Estrela Amadora   2-1 Moreirense
+Casa Pia          1-1 Vitória Guimarães
+Benfica           5-1 Gil Vicente
+_ Sep 29 _
+Famalicão         0-0 Nacional
+Porto             4-0 Arouca
+Santa Clara       1-0 Boavista
+Braga             4-0 Rio Ave
+_ Sep 30 _
+AVS               0-0 Farense
+
+▪ Round 8 ▪
+_ Oct 4 _
+Rio Ave           1-1 Famalicão
+_ Oct 5 _
+Gil Vicente       3-0 Estrela Amadora
+Moreirense        1-0 Santa Clara
+Arouca            1-1 AVS
+Sporting          2-0 Casa Pia
+_ Oct 6 _
+Farense           1-0 Estoril
+Vitória Guimarães 2-2 Boavista
+Porto             2-1 Braga
+_ Dec 19 _
+Nacional          0-2 Benfica
+
+▪ Round 9 ▪
+_ Oct 25 _
+Casa Pia          1-0 Nacional
+Santa Clara       2-1 Gil Vicente
+_ Oct 26 _
+Estoril           4-1 Arouca
+Boavista          0-2 Moreirense
+Famalicão         0-3 Sporting
+Braga             2-0 Farense
+_ Oct 27 _
+Benfica           5-0 Rio Ave
+Estrela Amadora   2-2 Vitória Guimarães
+_ Oct 28 _
+AVS               0-5 Porto
+
+▪ Round 10 ▪
+_ Nov 1 _
+Sporting          5-1 Estrela Amadora
+_ Nov 2 _
+Rio Ave           2-2 Casa Pia
+Farense           1-2 Benfica
+Gil Vicente       1-2 Boavista
+_ Nov 3 _
+AVS               2-3 Famalicão
+Arouca            1-2 Braga
+Vitória Guimarães 1-0 Moreirense
+Porto             4-0 Estoril
+_ Nov 4 _
+Nacional          2-0 Santa Clara
+
+▪ Round 11 ▪
+_ Nov 8 _
+Moreirense        3-2 Gil Vicente
+_ Nov 9 _
+Casa Pia          1-1 Farense
+Estoril           0-0 AVS
+Famalicão         0-0 Arouca
+Boavista          0-2 Rio Ave
+_ Nov 10 _
+Estrela Amadora   2-0 Nacional
+Santa Clara       1-0 Vitória Guimarães
+Braga             2-4 Sporting
+Benfica           4-1 Porto
+
+▪ Round 12 ▪
+_ Nov 29 _
+Farense           1-0 Estrela Amadora
+_ Nov 30 _
+Rio Ave           3-2 Moreirense
+Nacional          0-0 Boavista
+Sporting          0-1 Santa Clara
+_ Dec 1 _
+Estoril           2-1 Famalicão
+Arouca            0-2 Benfica
+AVS               0-1 Braga
+_ Dec 2 _
+Vitória Guimarães 4-0 Gil Vicente
+Porto             2-0 Casa Pia
+
+▪ Round 13 ▪
+_ Dec 5 _
+Moreirense        2-1 Sporting
+_ Dec 6 _
+Braga             2-2 Estoril
+_ Dec 7 _
+Gil Vicente       2-1 Nacional
+Benfica           1-0 Vitória Guimarães
+Santa Clara       1-0 Rio Ave
+Famalicão         1-1 Porto
+_ Dec 8 _
+Boavista          1-1 Farense
+Casa Pia          1-1 AVS
+_ Dec 9 _
+Estrela Amadora   2-1 Arouca
+
+▪ Round 14 ▪
+_ Dec 14 _
+Farense           0-1 Gil Vicente
+Nacional          1-0 Moreirense
+Sporting          3-2 Boavista
+_ Dec 15 _
+Arouca            1-0 Santa Clara
+AVS               1-1 Benfica
+Estoril           0-2 Casa Pia
+_ Dec 16 _
+Braga             3-3 Famalicão
+Porto             2-0 Estrela Amadora
+Rio Ave           2-2 Vitória Guimarães
+
+▪ Round 15 ▪
+_ Dec 20 _
+Casa Pia          3-1 Arouca
+_ Dec 21 _
+Famalicão         1-2 Farense
+Boavista          0-0 AVS
+Moreirense        0-3 Porto
+_ Dec 22 _
+Santa Clara       0-2 Braga
+Gil Vicente       0-0 Sporting
+_ Dec 23 _
+Benfica           3-0 Estoril
+Vitória Guimarães 2-2 Nacional
+Estrela Amadora   1-0 Rio Ave
+
+▪ Round 16 ▪
+_ Dec 27 _
+Arouca            1-1 Gil Vicente
+_ Dec 28 _
+AVS               1-1 Estrela Amadora
+Estoril           2-2 Moreirense
+Porto             4-0 Boavista
+_ Dec 29 _
+Rio Ave           2-1 Nacional
+Farense           2-2 Vitória Guimarães
+Braga             1-2 Casa Pia
+Sporting          1-0 Benfica
+_ Dec 30 _
+Famalicão         1-2 Santa Clara
+
+▪ Round 17 ▪
+_ Jan 3 _
+Vitória Guimarães 4-4 Sporting
+_ Jan 4 _
+Moreirense        1-1 AVS
+Benfica           1-2 Braga
+Boavista          1-3 Arouca
+_ Jan 5 _
+Santa Clara       0-0 Farense
+Casa Pia          1-1 Famalicão
+Estrela Amadora   2-4 Estoril
+_ Jan 6 _
+Gil Vicente       1-1 Rio Ave
+_ Jan 12 _
+Nacional          2-0 Porto
+
+<!-- $table2$ -->
+
+
+▪ Round 18 ▪
+_ Jan 17 _
+Benfica           4-0 Famalicão
+_ Jan 18 _
+Santa Clara       2-3 Estoril
+Rio Ave           0-3 Sporting
+Vitória Guimarães 2-2 Arouca
+_ Jan 19 _
+Nacional          3-1 AVS
+Moreirense        0-0 Farense
+Estrela Amadora   0-1 Braga
+Gil Vicente       3-1 Porto
+_ Jan 20 _
+Boavista          2-3 Casa Pia
+
+▪ Round 19 ▪
+_ Jan 24 _
+Arouca            1-0 Moreirense
+_ Jan 25 _
+Famalicão         0-0 Estrela Amadora
+Farense           1-2 Rio Ave
+Casa Pia          3-1 Benfica
+Sporting          2-0 Nacional
+_ Jan 26 _
+Estoril           1-0 Vitória Guimarães
+Porto             1-1 Santa Clara
+Braga             3-0 Boavista
+_ Jan 27 _
+AVS               1-0 Gil Vicente
+
+▪ Round 20 ▪
+_ Jan 31 _
+Boavista          0-2 Famalicão
+_ Feb 1 _
+Nacional          1-2 Arouca
+Santa Clara       2-1 Casa Pia
+Gil Vicente       1-2 Estoril
+Vitória Guimarães 2-0 AVS
+_ Feb 2 _
+Sporting          3-1 Farense
+Estrela Amadora   2-3 Benfica
+_ Feb 3 _
+Moreirense        1-2 Braga
+Rio Ave           2-2 Porto
+
+▪ Round 21 ▪
+_ Feb 7 _
+Porto             1-1 Sporting
+_ Feb 8 _
+AVS               1-2 Santa Clara
+Benfica           3-2 Moreirense
+Famalicão         0-0 Vitória Guimarães
+_ Feb 9 _
+Estoril           2-1 Boavista
+Farense           0-2 Nacional
+Braga             2-0 Gil Vicente
+Casa Pia          1-0 Estrela Amadora
+_ Feb 10 _
+Arouca            1-1 Rio Ave
+
+▪ Round 22 ▪
+_ Feb 14 _
+Boavista          0-1 Estrela Amadora
+_ Feb 15 _
+Moreirense        3-2 Casa Pia
+Nacional          2-2 Estoril
+Santa Clara       0-1 Benfica
+Sporting          2-2 Arouca
+_ Feb 16 _
+Rio Ave           1-1 AVS
+Farense           0-1 Porto
+Vitória Guimarães 0-0 Braga
+_ Feb 17 _
+Gil Vicente       0-2 Famalicão
+
+▪ Round 23 ▪
+_ Feb 21 _
+Braga             1-0 Nacional
+_ Feb 22 _
+Casa Pia          1-0 Gil Vicente
+Benfica           3-0 Boavista
+Estoril           2-1 Rio Ave
+_ Feb 23 _
+Estrela Amadora   0-0 Santa Clara
+Arouca            2-2 Farense
+AVS               2-2 Sporting
+Famalicão         2-0 Moreirense
+_ Feb 24 _
+Porto             1-1 Vitória Guimarães
+
+▪ Round 24 ▪
+_ Mar 1 _
+Nacional          2-1 Famalicão
+Arouca            0-2 Porto
+Vitória Guimarães 1-0 Casa Pia
+_ Mar 2 _
+Boavista          1-0 Santa Clara
+Moreirense        1-1 Estrela Amadora
+Farense           0-1 AVS
+Rio Ave           2-1 Braga
+_ Mar 3 _
+Sporting          3-1 Estoril
+_ Mar 28 _
+Gil Vicente       0-3 Benfica
+
+▪ Round 25 ▪
+_ Mar 7 _
+Estrela Amadora   1-1 Gil Vicente
+_ Mar 8 _
+AVS               0-1 Arouca
+Benfica           3-0 Nacional
+Estoril           2-2 Farense
+Braga             1-0 Porto
+_ Mar 9 _
+Santa Clara       1-1 Moreirense
+Casa Pia          1-3 Sporting
+Boavista          1-2 Vitória Guimarães
+_ Mar 10 _
+Famalicão         1-0 Rio Ave
+
+▪ Round 26 ▪
+_ Mar 15 _
+Gil Vicente       0-1 Santa Clara
+Farense           0-1 Braga
+Porto             2-0 AVS
+Sporting          3-1 Famalicão
+_ Mar 16 _
+Nacional          3-1 Casa Pia
+Arouca            1-1 Estoril
+Rio Ave           2-3 Benfica
+Moreirense        1-0 Boavista
+Vitória Guimarães 2-0 Estrela Amadora
+
+▪ Round 27 ▪
+_ Mar 29 _
+Casa Pia          2-1 Rio Ave
+Estrela Amadora   0-3 Sporting
+Braga             2-1 Arouca
+Famalicão         4-1 AVS
+_ Mar 30 _
+Santa Clara       1-0 Nacional
+Estoril           1-2 Porto
+Moreirense        2-2 Vitória Guimarães
+_ Apr 1 _
+Boavista          1-3 Gil Vicente
+_ Apr 2 _
+Benfica           3-2 Farense
+
+▪ Round 28 ▪
+_ Apr 4 _
+AVS               0-3 Estoril
+_ Apr 5 _
+Arouca            1-2 Famalicão
+Vitória Guimarães 2-0 Santa Clara
+_ Apr 6 _
+Gil Vicente       0-1 Moreirense
+Nacional          0-1 Estrela Amadora
+Porto             1-4 Benfica
+_ Apr 7 _
+Farense           0-0 Casa Pia
+Rio Ave           0-2 Boavista
+Sporting          1-1 Braga
+
+▪ Round 29 ▪
+_ Apr 11 _
+Gil Vicente       0-1 Vitória Guimarães
+_ Apr 12 _
+Boavista          0-1 Nacional
+Famalicão         3-0 Estoril
+Santa Clara       0-1 Sporting
+Casa Pia          0-1 Porto
+_ Apr 13 _
+Estrela Amadora   0-1 Farense
+Benfica           2-2 Arouca
+Braga             4-1 AVS
+Moreirense        0-2 Rio Ave
+
+▪ Round 30 ▪
+_ Apr 18 _
+Rio Ave           1-1 Santa Clara
+Farense           0-1 Boavista
+Porto             2-1 Famalicão
+Sporting          3-1 Moreirense
+_ Apr 19 _
+AVS               1-1 Casa Pia
+Nacional          0-3 Gil Vicente
+Estoril           0-2 Braga
+Arouca            1-0 Estrela Amadora
+Vitória Guimarães 0-3 Benfica
+
+▪ Round 31 ▪
+_ Apr 25 _
+Famalicão         1-1 Braga
+_ Apr 26 _
+Santa Clara       2-0 Arouca
+Gil Vicente       1-0 Farense
+Estrela Amadora   2-0 Porto
+_ Apr 27 _
+Moreirense        1-1 Nacional
+Benfica           6-0 AVS
+Vitória Guimarães 3-0 Rio Ave
+Boavista          0-5 Sporting
+_ Apr 29 _
+Casa Pia          1-3 Estoril
+
+▪ Round 32 ▪
+_ May 2 _
+Porto             3-1 Moreirense
+_ May 3 _
+Nacional          1-2 Vitória Guimarães
+Farense           2-1 Famalicão
+Braga             1-1 Santa Clara
+Estoril           1-2 Benfica
+_ May 4 _
+Arouca            0-0 Casa Pia
+Sporting          2-1 Gil Vicente
+_ May 5 _
+Rio Ave           2-0 Estrela Amadora
+AVS               1-2 Boavista
+
+▪ Round 33 ▪
+_ May 10 _
+Nacional          3-3 Rio Ave
+Santa Clara       2-1 Famalicão
+Benfica           1-1 Sporting
+Casa Pia          2-1 Braga
+Gil Vicente       1-1 Arouca
+_ May 11 _
+Estrela Amadora   0-1 AVS
+Moreirense        2-2 Estoril
+Vitória Guimarães 1-2 Farense
+Boavista          1-2 Porto
+
+▪ Round 34 ▪
+_ May 16 _
+Famalicão         2-1 Casa Pia
+Rio Ave           1-1 Gil Vicente
+_ May 17 _
+AVS               0-3 Moreirense
+Estoril           4-0 Estrela Amadora
+Arouca            4-1 Boavista
+Porto             3-0 Nacional
+Braga             1-1 Benfica
+Farense           1-2 Santa Clara
+Sporting          2-0 Vitória Guimarães
+
+<!-- $table3$ -->
+
+
+
+
+
+
+
+==== League Cup  ‹§leaguecup›
+
+▪ Quarterfinals ▪
+_ Oct 29 _
+Sporting          3-1 Nacional
+_ Oct 30 _
+Benfica           3-0 Santa Clara
+_ Oct 31 _
+Braga             2-1 Vitória Guimarães
+Porto             2-0 Moreirense
+
+▪ Semifinals ▪
+_ Jan 7 _
+Sporting          1-0 Porto
+_ Jan 8 _
+Benfica           3-0 Braga
+
+▪ Final ▪  Jan 11
+Sporting          1-1 Benfica           (6-7 pen)
+
+
+
+
+
+
+<!-- $about$ -->
+

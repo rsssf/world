@@ -1,0 +1,184 @@
+  <!--
+     source: https://rsssf.org/tablesu/usa2025.html
+    -->
+  
+
+
+== USA 2025
+
+
+
+
+
+==== Major League Soccer  ‹§mls›
+
+‹Regular Season, see §reg› | ‹Championship Playoff, see §chplay›
+
+Regular Season  ‹§reg›
+
+Final Tables:
+
+Eastern Conference
+ 1.Philadelphia Union         34  20  6  8  57-35  66       ‹Conference Quarterfinals, see §cqe›
+ 2.FC Cincinnati              34  20  5  9  52-40  65       ‹Conference Quarterfinals, see §cqe›
+ 3.Inter Miami CF             34  19  8  7  81-55  65       ‹Conference Quarterfinals, see §cqe›
+ 4.Charlotte FC               34  19  2 13  55-46  59       ‹Conference Quarterfinals, see §cqe›
+ 5.New York City FC           34  17  5 12  50-44  56       ‹Conference Quarterfinals, see §cqe›
+ 6.Nashville SC               34  16  6 12  58-45  54       ‹Conference Quarterfinals, see §cqe›
+ 7.Columbus Crew              34  14 12  8  55-51  54       ‹Conference Quarterfinals, see §cqe›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 8.Chicago Fire               34  15  8 11  68-60  53       ‹Conference Wild Card Round, see §cwc›
+ 9.Orlando City               34  14 11  9  63-51  53       ‹Conference Wild Card Round, see §cwc›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+10.New York Red Bulls         34  12  7 15  48-47  43
+11.New England Revolution     34   9  9 16  44-51  36
+12.Toronto FC                 34   6 14 14  37-44  32
+13.Montréal CF                34   6 10 18  34-60  28
+14.Atlanta United             34   5 13 16  38-63  28
+15.DC United                  34   5 11 18  30-66  26
+
+Western Conference
+ 1.San Diego FC               34  19  6  9  64-41  63  [N]  ‹Conference Quarterfinals, see §cqw›
+ 2.Vancouver Whitecaps        34  18  9  7  66-38  63       ‹Conference Quarterfinals, see §cqw›
+ 3.Los Angeles FC             34  17  9  8  65-40  60  [C]  ‹Conference Quarterfinals, see §cqw›
+ 4.Minnesota United           34  16 10  8  56-39  58       ‹Conference Quarterfinals, see §cqw›
+ 5.Seattle Sounders           34  15 10  9  58-48  55       ‹Conference Quarterfinals, see §cqw›
+ 6.Austin FC                  34  13  8 13  37-45  47       ‹Conference Quarterfinals, see §cqw›
+ 7.FC Dallas                  34  11 11 12  52-55  44       ‹Conference Quarterfinals, see §cqw›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 8.Portland Timbers           34  11 11 12  41-48  44       ‹Conference Wild Card Round, see §cwc›
+ 9.Real Salt Lake             34  12  5 17  38-49  41       ‹Conference Wild Card Round, see §cwc›
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+10.San Jose Earthquakes       34  11  8 15  60-63  41
+11.Colorado Rapids            34  11  8 15  44-56  41
+12.Houston Dynamo             34   9 10 15  43-56  37
+13.Saint Louis City SC        34   8  8 18  44-58  32
+14.Los Angeles Galaxy         34   7  9 18  46-66  30
+15.Sporting Kansas City       34   7  7 20  46-70  28
+
+▪ Championship Playoff ▪
+
+Conference Wild Card Round  ‹§cwc›
+
+Eastern Conference [Oct 22]
+Chicago Fire           3-1 Orlando City
+Western Conference [Oct 22]
+Portland Timbers       3-1 Real Salt Lake
+
+Eastern Conference Quarterfinals  ‹§cqe›
+
+▪ First Legs ▪
+_ Oct 24 _
+Inter Miami            3-1 Nashville SC
+_ Oct 26 _
+Philadelphia Union     2-2 Chicago Fire           (4-2 pen)
+_ Oct 27 _
+FC Cincinnati          1-0 Columbus Crew
+_ Oct 28 _
+Charlotte FC           0-1 New York City
+
+▪ Second Legs ▪
+_ Nov 1 _
+New York City          0-0 Charlotte FC           (6-7 pen)
+Chicago Fire           0-3 Philadelphia Union
+Nashville SC           2-1 Inter Miami
+_ Nov 2 _
+Columbus Crew          4-0 FC Cincinnati
+
+Third Legs
+_ Nov 7 _
+Charlotte FC           1-3 New York City
+_ Nov 8 _
+Inter Miami            4-0 Nashville SC
+FC Cincinnati          2-1 Columbus Crew
+
+Western Conference Quarterfinals  ‹§cqw›
+
+▪ First Legs ▪
+_ Oct 26 _
+Vancouver Whitecaps    3-0 FC Dallas
+San Diego FC           2-1 Portland Timbers
+_ Oct 27 _
+Minnesota United       0-0 Seattle Sounders       (3-2 pen)
+_ Oct 29 _
+Los Angeles FC         2-1 Austin FC
+
+▪ Second Legs ▪
+_ Nov 1 _
+FC Dallas              1-1 Vancouver Whitecaps    (2-4 pen)
+Portland Timbers       2-2 San Diego FC           (3-2 pen)
+_ Nov 2 _
+Austin FC              1-4 Los Angeles FC
+_ Nov 3 _
+Seattle Sounders       4-2 Minnesota United
+
+Third Legs
+_ Nov 8 _
+Minnesota United       3-3 Seattle Sounders       (7-6 pen)
+_ Nov 9 _
+San Diego FC           4-0 Portland Timbers
+
+Conference Semifinals  ‹§csf›
+
+Eastern Conference [Nov 23]
+FC Cincinnati          0-4 Inter Miami
+Philadelphia Union     0-1 New York City
+Western Conference
+_ Nov 22 _
+Vancouver Whitecaps    2-2 Los Angeles FC         (4-3 pen)
+_ Nov 24 _
+San Diego FC           1-0 Minnesota United
+
+Conference Finals [Nov 29]
+Eastern Conference
+Inter Miami            5-1 New York City
+Western Conference
+San Diego FC           1-3 Vancouver Whitecaps
+
+MLS Cup [Dec 6, Fort Lauderdale]
+Inter Miami            3-1 Vancouver Whitecaps
+
+
+
+
+
+
+==== US Open Cup  ‹§open›
+
+▪ 1/8 Finals ▪
+_ May 20 _
+New England Revolution 1-3 Chicago Fire
+San Jose Earthquakes   1-0 Portland Timbers       (aet)
+_ May 21 _
+Philadelphia Union     4-1 Pittsburgh Riverhounds
+Orlando City           2-3 Nashville SC
+New York Red Bulls     2-2 FC Dallas              (aet, 4-3 pen)
+Minnesota United       3-2 Saint Louis City
+DC United              3-3 Charlotte FC           (aet, 2-1 pen)
+Austin FC              3-1 Houston Dynamo
+
+▪ Quarterfinals ▪
+_ Jul 8 _
+Minnesota United       3-1 Chicago Fire           (aet)
+San Jose Earthquakes   2-2 Austin FC              (aet, 2-4 pen)
+_ Jul 9 _
+Nashville SC           5-2 DC United
+_ Aug 13 _
+Philadelphia Union     3-2 New York Red Bulls
+
+▪ Semifinals ▪
+_ Sep 16 _
+Nashville SC           3-1 Philadelphia Union
+_ Sep 17 _
+Minnesota United       1-2 Austin FC              (aet)
+
+▪ Final ▪  Oct 1
+Austin FC              1-2 Nashville SC
+
+
+
+
+
+
+<!-- $about$ -->
+
