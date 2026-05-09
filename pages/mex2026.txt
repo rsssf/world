@@ -1,38 +1,37 @@
   <!--
-     source: https://rsssf.org/tablesm/mex2026.html
+     title:   Mexico 2025/26
+     source:  https://rsssf.org/tablesm/mex2026.html
+     author:  Erik Francisco Lugo
+     updated: 19 Dec 2025
     -->
-  
-
-
-== Mexico 2025/26
 
 
 
 
 
-==== Liga MX  ‹§pdn›
 
-‹Apertura 2025, see §1aper› | ‹Clausura 2026, see §1clau›
 
-Apertura 2025  ‹§1aper›
 
-‹Regular Stage, see §apreg› | ‹Playoffs, see §applay›
+== Liga MX  ‹§pdn›
+
+
+=== Apertura 2025  ‹§1aper›
+
 
 ▪ Regular Stage ▪
 
-<!-- $table1$ -->
+<!-- $table1$ - Final Table -->
 
+▪ Playoffs (Liguilla) ▪
 
-Playoffs (Liguilla)  ‹§applay›
-
-Play-In Round A [Nov 20]
+▪ Play-In Round A ▪  Nov 20
 Tijuana              3-1 FC Juárez
-Play-In Round B [Nov 20]
+▪ Play-In Round B ▪  Nov 20
 Pachuca              3-1 Pumas
 
 NB: Tijuana qualified for quarterfinals; Pumas eliminated
 
-Play-In Round A-B [Nov 23]
+▪ Play-In Round A-B ▪  Nov 23
 FC Juárez            2-1 Pachuca
 
 NB: FC Juárez qualified for quarterfinals; Pachuca eliminated
@@ -75,18 +74,11 @@ Tigres               1-0 Toluca
 ▪ Second Leg ▪  Dec 14
 Toluca               2-1 Tigres               (aet, 9-8 pen)
 
-Clausura 2026  ‹§1clau›
+=== Clausura 2026  ‹§1clau›
 
-‹Regular Stage, see §clreg› | ‹Playoffs, see §clplay›
 
 ▪ Regular Stage ▪
 
-Playoffs (Liguilla)  ‹§clplay›
+▪ Playoffs (Liguilla) ▪
 
-
-
-
-
-
-<!-- $about$ -->
 

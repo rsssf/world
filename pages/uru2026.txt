@@ -1,23 +1,23 @@
   <!--
-     source: https://rsssf.org/tablesu/uru2026.html
+     title:   Uruguay 2026
+     source:  https://rsssf.org/tablesu/uru2026.html
+     author:  Francisco Fernández
+     updated: 5 May 2026
     -->
-  
-
-
-== Uruguay 2026
 
 
 
 
 
-==== Primera División Profesional  ‹§pdp›
 
-‹Apertura 2026, see §aper› | ‹Intermedio 2026, see §medio› | ‹Clausura 2026, see §clau› | ‹Championship Playoff, see §play›
 
-Torneo Apertura 2026  ‹§aper›
 
-<!-- $table1$ -->
+== Primera División Profesional  ‹§pdp›
 
+
+=== Torneo Apertura 2026  ‹§aper›
+
+<!-- $table1$ - Table -->
 
 ▪ Round 1 ▪
 _ Feb 6 _
@@ -247,22 +247,116 @@ Cerro              1-0 Defensor Sporting
 Liverpool          0-2 Maldonado
   (Alis Maximiliano Noble Sequeira 40, Juan Martín Ginzo 58)
 
-<!-- $table2$ -->
+▪ Round 11 ▪
+_ Apr 10 _
+Cerro Largo        1-1 Cerro
+  (Lucas Correa Sebben 12; Alejo Agustín Macelli 90+1)
+_ Apr 11 _
+Torque             0-1 Albion
+  (Francisco Ginella Dabezies 18)
+Defensor Sporting  2-0 Boston River
+  (Alexander Machado Ayçaguer 35, Facundo Castro Souto 63)
+Maldonado          4-2 Nacional
+  (Santiago Ramírez Polero 17, Christian Tabó Hornos 41, Guillermo López Matturo 80,
+   Alis Maximiliano Noble Sequeira 90+7pen; Nicolás López Alonso 28, 40pen)
+_ Apr 12 _
+Central Español    2-2 Danubio
+  (Facundo Sosa Hoyo 65, Raúl Tarragona Lemos 83; Rodolfo Alves De Melo 4og,
+   Sebastián Rodríguez Iriarte 90+3pen)
+Juventud           1-0 Progreso
+  (Fernando Mimbacas Ímaz 43)
+Wanderers          1-2 Racing
+  (Gonzalo Freitas Silva 19; Tomás José Habib 69, Nicolás Sosa Sánchez 90+3)
+_ Apr 13 _
+Peñarol            0-2 Liverpool
+  (Ruben Bentancourt Morales 5, Martín Rabuñal Rey 41)
 
+▪ Round 12 ▪
+_ Apr 17 _
+Albion             6-1 Central Español
+  (Santiago Costa Harreguy 49, José Ignacio Álvarez Medero 56, Agustín Vera Flores 65,
+   Lucas Rodríguez Trezza 75, Pablo Alcoba Daguirre 78, Álvaro López 84pen;
+  Mariano Fernando Aguilera 43)
+_ Apr 18 _
+Progreso           2-1 Wanderers
+  (Elvis Nahuel López Barboza 9, Diego Sánchez Richieri 90pen; Jonás Eduardo Luna 77)
+Racing             1-1 Defensor Sporting
+  (Tomás José Habib 39; Brian Montenegro Martínez 76)
+_ Apr 19 _
+Cerro              1-1 Torque
+  (Alejo Agustín Macelli 87; Esteban Daniel Obregón 90+7)
+Danubio            1-1 Maldonado
+  (Sebastián Fernández Miglierina 14; Christian Tabó Hornos 51)
+Liverpool          1-3 Nacional
+  (Ruben Bentancourt Morales 28pen; Maximiliano Gómez González 21pen, 56pen, Tomás Verón Lupi 90+2)
+_ Apr 20 _
+Boston River       1-0 Cerro Largo
+  (Francisco Bonfiglio 83)
+Peñarol            2-2 Juventud
+  (Abel Hernández Platero 53, Leandro Umpiérrez Hernández 82; Renzo Rabino Albín 45+2,
+   Fernando Mimbacas Ímaz 77)
 
-Torneo Intermedio 2026  ‹§medio›
+▪ Round 13 ▪
+_ Apr 24 _
+Torque             4-1 Boston River
+  (Franco Pîzzichillo Fernández 18, 21, Gonzalo Montes Calderini 64,
+   Sebastián Cáceres Carranza 76; Franco Pérez Portillo 74)
+_ Apr 25 _
+Juventud           1-1 Liverpool
+  (Ramiro Nicolás Peralta 44; Diego Romero Lanz 70)
+Maldonado          1-2 Albion
+  (Christian Tabó Hornos 45+5; Carlos Javier Airala 42, Álvaro López 67)
+Nacional           1-2 Danubio
+  (Agustín Rogel Paita 68; Mateo Peralta Pírez 56, Enzo Cabrera Mauri 76)
+_ Apr 26 _
+Central Español    3-1 Cerro
+  (Máximo Alonso Fontes 31, Raúl Tarragona Lemos 45+4pen, Diego Vera Méndez 78pen;
+   Ignacio Rodríguez Elduayen 32og)
+Cerro Largo        0-1 Racing
+  (Guillermo Cotugno Lima 42)
+Wanderers          1-0 Peñarol
+  (Facundo Labandeira Castro 58)
+_ Apr 27 _
+Defensor Sporting  1-0 Progreso
+  (Nicolás Wunsch Tomás 90+8)
+
+▪ Round 14 ▪
+_ May 2 _
+Juventud           2-1 Wanderers
+  (Patricio Ezequiel Pernicone 59, Fernando Mimbacas Ímaz 90+5pen; José Alberti Loyarte 42)
+Cerro              0-1 Maldonado
+  (Nicolás Fuica Collazzi 76)
+Liverpool          3-0 Danubio
+  (Federico Martínez Berroa 58, Ramiro Matías Degregorio 70, Facundo Barceló Viera 87pen)
+_ May 3 _
+Progreso           0-1 Cerro Largo
+  (Tiziano Correa Reyes 56)
+Boston River       2-1 Central Español
+  (Facundo Muñoa Dos Santos 12, 51; Lucas Pino García 68)
+Racing             1-1 Torque
+  (Robinson Martín Ferreira García 16; Alexander Nahuel Da Silva Rivero 20)
+Albion             3-2 Nacional
+  (Álvaro López 8pen, 43, Carlos Javier Airala 17; Juan Cruz De los Santos Da Luz 31,
+   Agustín Rogel Paita 79)
+_ May 4 _
+Peñarol            1-1 Defensor Sporting
+  (Leandro Umpiérrez Hernández 18; Brian Montenegro Martínez 67)
+
+<!-- $table2$ - Table -->
+
+=== Torneo Intermedio 2026  ‹§medio›
 
 NB: played as single round robin in two groups:
     Group A: 1st, 4th, 5th, 8th, 9th, 12th, 13th and 16th teams Apertura
     Group B: 2nd, 3rd, 6th, 7th, 10th, 11th, 14th and 15th teams Apertura
 
-Torneo Clausura 2026  ‹§clau›
+=== Torneo Clausura 2026  ‹§clau›
 
-▪ Championship Playoff ▪
+=== Championship Playoff  ‹§play›
 
 ▪ Semifinal ▪
 
-NB: over 1 leg; between winners ‹Apertura, see §aper› and winners ‹Clausura, see §clau›
+NB: over 1 leg; between Racing (winners ‹Apertura, see §aper›) and winners ‹Clausura, see §clau›
 
 ▪ Final ▪
 
@@ -273,7 +367,7 @@ NB: over 2 legs; between winners Tabla Anual and winners ‹semifinal, see §sem
 
 
 
-==== Copa de la Liga AUF Uruguaya 2026  ‹§copaliga›
+== Copa de la Liga AUF Uruguaya 2026  ‹§copaliga›
 
 NB: unofficial (friendly) tournament between the top level clubs
 
@@ -320,7 +414,7 @@ Peñarol            2-2 Boston River       (2-4 pen)
   (Brandon Emiliano Álvarez Daluz 20, 38; Gastón Exequiel Ramírez Pereyra 14,
    Alexander Nicolás González Pérez 44)
 
-▪ Final ▪  Jan 29, Estadio Parque Viera
+▪ Final ▪  Jan 29 @ Estadio Parque Viera
 Boston River       1-2 Progreso
   (Franco Marcelo Pérez Portillo 51; Facundo De León Raviales 20, Diego Sánchez Richieri 55)
 
@@ -329,37 +423,21 @@ Boston River       1-2 Progreso
 
 
 
-==== Segunda División Profesional  ‹§sdp›
+== Segunda División Profesional  ‹§sdp›
 
-‹Competencia, see §2comp› | ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §tercp›
 
-Competencia  ‹§2comp›
+=== Competencia  ‹§2comp›
 
 NB: winners qualify for ‹Promotion Playoff, see §tercp›
 
-Group Stage
+▪ Group Stage ▪
 
-Tables:
+Final Tables:
 
-Serie A
- 1.CS Cerrito                     3   2  1  0   6- 3   7
- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.La Luz FC                      4   1  3  0   5- 4   6
- 3.CA Fénix                       3   1  2  0   4- 3   5
- 4.Uruguay Montevideo FC          4   1  2  1   4- 4   5
- 5.Huracán FC                     3   0  3  0   4- 4   3  [P]
- 6.Tacuarembó FC (Tacuarembó)     3   0  2  1   4- 5   2
- 7.CA Atenas (San Carlos)         4   0  1  3   3- 7   1
+<!-- $table3$ - Serie A -->
 
-Serie B
- 1.CA Plaza (Colonia)             4   2  2  0   6- 1   8  [R]
- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.C Oriental dF (La Paz)         3   2  1  0   4- 1   7
- 3.Colón FC                       4   1  2  1   4- 3   5
- 4.CA Rentistas                   3   1  2  0   3- 2   5
- 5.Paysandú FC (Paysandú)         3   1  0  2   2- 3   3  [P]
- 6.CS Miramar Misiones            3   1  0  2   1- 4   3  [R]
- 7.CA River Plate                 4   0  1  3   2- 8   1  [R]
+<!-- $table4$ - Serie B -->
+
 ▪ Round 1 ▪
 _ Mar 13 _
 Paysandú           0-2 Colón
@@ -435,44 +513,153 @@ Miramar Misiones   1-0 River Plate
   (Lucas Viana Gauna 9)
 Huracán            bye Rentistas
 
-Tables:
+▪ Round 5 ▪
+_ Apr 10 _
+Paysandú           0-1 Rentistas
+  (Hugo Horacio Sequeira Soza 8)
+_ Apr 11 _
+La Luz             0-2 Uruguay Montevideo
+  (Maximiliano Lombardi Rodríguez 38, Gonzalo Barreto Mastropierro 86pen)
+Oriental           2-1 Miramar Misiones
+  (Renato Alexandrino Da Silva 18, Benjamín Núñez Barolín 36; Lucas Zeballos Alzamendi 77)
+_ Apr 12 _
+Fénix              4-1 Cerrito
+  (Valentín Matías Luciani 20, Edward Andrés Barboza Cubilla 27, Áxel Pérez Etchelar 31,
+   Enzo Suárez Búrmida 78; Santiago Pereira Barrios 69)
+Tacuarembó         0-2 Huracán
+  (Mateo Aramburu Birch 37, Joaquín Rodríguez Arreche 45+2)
+Colón              4-2 River Plate
+  (Ramiro Quintana Hernández 17pen, 25, 65, Lucas Espinosa Guevara 51;
+   Felipe Chiappini Ospitaleche 6, Raúl Maximiliano Burruzo Gutiérrez 87)
+Atenas             bye Plaza
 
-Serie A
- 1.CS Cerrito                     3   2  1  0   6- 3   7
- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.La Luz FC                      4   1  3  0   5- 4   6
- 3.CA Fénix                       3   1  2  0   4- 3   5
- 4.Uruguay Montevideo FC          4   1  2  1   4- 4   5
- 5.Huracán FC                     3   0  3  0   4- 4   3  [P]
- 6.Tacuarembó FC (Tacuarembó)     3   0  2  1   4- 5   2
- 7.CA Atenas (San Carlos)         4   0  1  3   3- 7   1
+▪ Round 6 ▪
+_ Apr 17 _
+Atenas             1-0 Tacuarembó
+  (Facundo Vigo González 87)
+Plaza              1-1 Paysandú
+  (Pablo García Lafluf 45+4; Ezequiel Amaro Sánchez 35)
+_ Apr 18 _
+Cerrito            0-0 La Luz
+Miramar Misiones   0-0 Colón
+_ Apr 19 _
+Huracán            2-1 Fénix
+  (Maximiliano Jair Rodríguez Cejas 36, Joaquín Machado Arispe 80; Heber Gastón Colman Leguisamo 67)
+_ Apr 20 _
+Rentistas          1-2 Oriental
+  (Hugo Horacio Sequeira Soza 9; Matías Rigoleto Arévalo 12, Benjamín Núñez Barolín 76)
+Uruguay Montevideo bye River Plate
 
-Serie B
- 1.CA Plaza (Colonia)             4   2  2  0   6- 1   8  [R]
- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.C Oriental dF (La Paz)         3   2  1  0   4- 1   7
- 3.Colón FC                       4   1  2  1   4- 3   5
- 4.CA Rentistas                   3   1  2  0   3- 2   5
- 5.Paysandú FC (Paysandú)         3   1  0  2   2- 3   3  [P]
- 6.CS Miramar Misiones            3   1  0  2   1- 4   3  [R]
- 7.CA River Plate                 4   0  1  3   2- 8   1  [R]
+▪ Round 7 ▪
+_ Apr 24 _
+Plaza              2-0 Oriental
+  (Pablo García Lafluf 36, José Valentín Amoroso Guerra 58)
+_ Apr 25 _
+Huracán            1-1 Cerrito
+  (Sergio Martín Cortelezzi Ferreyra 63; Luis Machado Mora 64)
+_ Apr 26 _
+Uruguay Montevideo 1-1 Tacuarembó
+  (Ricardo Guzmán Pereira Méndez 14; Pablo López De León 2)
+River Plate        2-1 Paysandú
+  (Raúl Maximiliano Burruzo Gutiérrez 36, 40; Franco López Taborda 81)
+_ Apr 27 _
+Atenas             1-4 Fénix
+  (Lautaro Vázquez Mederos 78; Sebastián De Marco Machado 6, 45,
+   Guillermo Pereira Sosa 51, Héber Gastón Colman Leguisamo 64)
+_ Apr 29 _
+Rentistas          1-1 Miramar Misiones
+  (Carlos Sánchez Arcosa 54; Jhony Da Silva Sosa 90+7)
+La Luz             bye Colón
 
-▪ Final ▪
+Final Tables:
+
+<!-- $table5$ - Serie A -->
+
+<!-- $table6$ - Serie B -->
+
+==== Final  ‹§cpfn›
 
 NB: between group winners
 
-NB: winners qualified for ‹Promotion Playoff, see §tercp›
+_ May 2 _
+Fénix              1-0 Oriental
+  (Christian Paiva Mattos 86og)
 
-▪ Regular Stage ▪
+NB: Fénix qualified for ‹Promotion Playoff, see §tercp›
+
+=== Regular Stage  ‹§2reg›
 
 NB: group stage records ‹Competencia, see §2comp› carried over
 
-Promotion Playoff  ‹§tercp›
+<!-- $table7$ - Table -->
+
+=== Promotion Playoff  ‹§tercp›
 
 
 
 
 
 
-<!-- $about$ -->
+== Tercera Divisional de AUF  ‹§sgb›
+
+
+=== Torneo Inicial  ‹§3pri›
+
+
+==== Group Stage  ‹§31g›
+
+NB: played as single round robin;
+    group winners and best runners-up qualify for ‹Semifinals, see §31s›;
+    top-6 of each group qualify for ‹Torneo Final, see §3seg›
+
+Tables:
+
+<!-- $table8$ - Serie A -->
+
+<!-- $table9$ - Serie B -->
+
+<!-- $table10$ - Serie C -->
+
+▪ Round 1 ▪
+Serie A
+Italiano            -  Deutscher FK
+Rampla Juniors      -  Mar de Fondo
+Alto Perú           -  Cooper
+Rocha               -  Frontera Rivera
+Bella Vista         -  Halcones
+Serie B
+Potencia            -  Salus
+Durazno             -  Parque del Plata
+Basáñez             -  Artigas
+Canadian            -  Deportivo LSM
+Lito                -  Platense
+Serie C
+Los Gorriones       -  Villa Teresa
+Colonia             -  Villa Española
+Huracán Buceo       -  Sud América
+Salto               -  Bella Italia
+Terremoto          bye
+
+Tables:
+
+<!-- $table11$ - Serie A -->
+
+<!-- $table12$ - Serie B -->
+
+<!-- $table13$ - Serie C -->
+
+=== Torneo Final  ‹§3seg›
+
+NB: between top-6 of the three groups in the ‹Torneo Inicial, see §3pri›;
+    played as single round robin, winners promoted
+
+=== Segundo Ascenso  ‹§3sga›
+
+NB: between winners ‹Torneo Inicial, see §3pri› and runners-up ‹Torneo Final, see §3seg›;
+    winners promoted
+
+=== Repechajes  ‹§3rep›
+
+NB: to determine two clubs to play off against the two worst clubs from Divisional B
+
 

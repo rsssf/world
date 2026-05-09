@@ -1,23 +1,24 @@
   <!--
-     source: https://rsssf.org/tablesi/ier2025.html
+     title:   Ireland 2025
+     source:  https://rsssf.org/tablesi/ier2025.html
+     author:  Karel Stokkermans
+     updated: 14 Nov 2025
     -->
-  
-
-
-== Ireland 2025
 
 
 
 
 
-==== SSE Airtricity League  ‹§premier›
-
-<!-- $table1$ -->
 
 
-▪ Promotion/Relegation Playoff ▪
 
-_ Nov 7 _, Drumcondra
+== SSE Airtricity League  ‹§premier›
+
+<!-- $table1$ - Final Table -->
+
+=== Promotion/Relegation Playoff  ‹§prorel›
+
+_ Nov 7 _ @ Drumcondra
 Bray            1-2 Waterford
 
 NB: both remain at former level
@@ -26,7 +27,7 @@ NB: both remain at former level
 
 
 
-==== FAI Cup  ‹§faicup›
+== FAI Cup  ‹§faicup›
 
 ▪ Preliminary Round ▪
 _ May 11 _
@@ -102,14 +103,13 @@ Shamrock                    2-0 Cork
 
 
 
-==== First Division  ‹§first›
+== First Division  ‹§first›
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 NB: one match between Kerry and Finn Harps declared void as both fielded ineligible players
 
-Promotion Playoff  ‹§prom›
+=== Promotion Playoff  ‹§prom›
 
 ▪ Semifinals ▪
 
@@ -125,10 +125,4 @@ Cobh            1-1 Treaty United   (aet)
 Bray            1-0 Treaty United
 
 NB: Bray Wanderers ‹play off, see §prorel› against 9th team top flight (Waterford)
-
-
-
-
-
-<!-- $about$ -->
 

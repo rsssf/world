@@ -1,23 +1,23 @@
   <!--
-     source: https://rsssf.org/tablesb/belg2025.html
+     title:   Belgium 2024/25
+     source:  https://rsssf.org/tablesb/belg2025.html
+     author:  Karel Stokkermans
+     updated: 17 Nov 2025
     -->
-  
-
-
-== Belgium 2024/25
 
 
 
 
 
-==== Pro League  ‹§pro›
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-▪ Regular Stage ▪
 
-<!-- $table1$ -->
+== Pro League  ‹§pro›
 
+
+=== Regular Stage  ‹§reg›
+
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jul 26 _
@@ -214,8 +214,7 @@ Leuven            1-1 Union
 Anderlecht        6-0 Gent
 Westerlo          4-0 Kortrijk
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Halfway Table -->
 
 ▪ Round 16 ▪
 _ Nov 29 _
@@ -409,17 +408,14 @@ Gent              1-2 Kortrijk
 Mechelen          2-1 Dender
 Leuven            3-2 Sint-Truiden
 
-<!-- $table3$ -->
+<!-- $table3$ - Final Table -->
+
+=== Playoff Stage  ‹§play›
 
 
-▪ Playoff Stage ▪
+==== Playoff 1  ‹§po1›
 
-‹Playoff 1, see §po1› | ‹Playoff 2, see §po2› | ‹Relegation Playoff, see §po3›
-
-Playoff 1  ‹§po1›
-
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 NB: bonus points regular stage (halved, rounded upward) between square brackets
 [*] gained an additional half point due to rounding; in case of a tie on points,
@@ -489,17 +485,15 @@ Club Brugge       1-1 Antwerp
 Genk              2-1 Anderlecht
 Union             3-1 Gent
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 NB: bonus points regular stage (halved, rounded upward) between square brackets
 [*] gained an additional half point due to rounding; in case of a tie on points,
     ranked below a club which did not profit from rounding
 
-Playoff 2  ‹§po2›
+==== Playoff 2  ‹§po2›
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 NB: bonus points regular stage (halved, rounded upward) between square brackets
 [*] gained an additional half point due to rounding; in case of a tie on points,
@@ -572,17 +566,15 @@ Charleroi         2-1 Leuven
 Dender            2-2 Mechelen
 Westerlo          0-0 Standard
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 NB: bonus points regular stage (halved, rounded upward) between square brackets
 [*] gained an additional half point due to rounding; in case of a tie on points,
     ranked below a club which did not profit from rounding
 
-▪ Relegation Playoff ▪
+==== Relegation Playoff  ‹§po3›
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Final Table -->
 
 NB: points regular stage between square brackets
 
@@ -618,12 +610,11 @@ Sint-Truiden      2-1 Beerschot
 Beerschot         4-2 Cercle Brugge
 Kortrijk           2-2 Sint-Truiden
 
-<!-- $table9$ -->
-
+<!-- $table9$ - Final Table -->
 
 NB: points regular stage between square brackets
 
-▪ Promotion/Relegation Playoff ▪
+=== Promotion/Relegation Playoff  ‹§prorel›
 
 ▪ First Leg ▪  May 18
 Patro Eisden      1-5 Cercle Brugge
@@ -637,7 +628,7 @@ NB: both remain at former level
 
 
 
-==== Cup  ‹§cup›
+== Cup  ‹§cup›
 
 ▪ 1/16 Finals ▪
 _ Oct 29 _
@@ -704,10 +695,9 @@ Club Brugge       2-1 Anderlecht
 
 
 
-==== Challenger Pro League  ‹§tweede›
+== Challenger Pro League  ‹§tweede›
 
-<!-- $table10$ -->
-
+<!-- $table10$ - Final Table -->
 
 [*] Lierse Kempenzonen were renamed Lierse SK
 
@@ -716,7 +706,7 @@ NB: Deinze initially had 3 points deducted for financial reasons but later were 
     during the season it was decided that at least four youth teams are to play at the
       second level, thus exempting Club NXT, RSCA Futures and Jong Genk from relegation
 
-Promotion Playoff  ‹§2prom›
+==== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 
@@ -743,26 +733,23 @@ NB: Patro Eisden Maasmechelen qualified for ‹promotion/relegation playoff, see
 
 
 
-==== 1e Nationale  ‹§div1›
+== 1e Nationale  ‹§div1›
 
 Vlaanderen (VV)
 
-<!-- $table11$ -->
-
+<!-- $table11$ - Final Table -->
 
 Promoted: SK Roeselare, KFC Houtvenne, K. Diegem Sport, KVV Zelzate
 
 Wallonie (ACFF)
 
-Regular Season
+▪ Regular Season ▪
 
-<!-- $table12$ -->
+<!-- $table12$ - Final Table -->
 
+▪ Promotion Playoff ▪
 
-Promotion Playoff
-
-<!-- $table13$ -->
-
+<!-- $table13$ - Final Table -->
 
 NB: bonus points regular stage (halved, rounded upward) between square brackets
 [*] gained an additional half point due to rounding; in case of a tie on points,
@@ -770,8 +757,7 @@ NB: bonus points regular stage (halved, rounded upward) between square brackets
 
 ▪ Relegation Playoff ▪
 
-<!-- $table14$ -->
-
+<!-- $table14$ - Final Table -->
 
 NB: Binche ranked last because of license refusal
 
@@ -780,10 +766,4 @@ NB: bonus points regular stage (halved, rounded upward) between square brackets
     ranked below a club which did not profit from rounding
 
 Promoted: Crossing Schaerbeek, RFC Meux, RSC Habay-la-Neuve
-
-
-
-
-
-<!-- $about$ -->
 

@@ -1,19 +1,20 @@
   <!--
-     source: https://rsssf.org/tablesp/port2025.html
+     title:   Portugal 2024/25
+     source:  https://rsssf.org/tablesp/port2025.html
+     authors: Roberto Di Maggio and Karel Stokkermans
+     updated: 17 May 2025
     -->
-  
-
-
-== Portugal 2024/25
 
 
 
 
 
-==== Liga Portugal  ‹§liga1›
 
-<!-- $table1$ -->
 
+
+== Liga Portugal  ‹§liga1›
+
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 9 _
@@ -268,8 +269,7 @@ Gil Vicente       1-1 Rio Ave
 _ Jan 12 _
 Nacional          2-0 Porto
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Halfway Table -->
 
 ▪ Round 18 ▪
 _ Jan 17 _
@@ -517,15 +517,14 @@ Braga             1-1 Benfica
 Farense           1-2 Santa Clara
 Sporting          2-0 Vitória Guimarães
 
-<!-- $table3$ -->
+<!-- $table3$ - Final Table -->
 
 
 
 
 
 
-
-==== League Cup  ‹§leaguecup›
+== League Cup  ‹§leaguecup›
 
 ▪ Quarterfinals ▪
 _ Oct 29 _
@@ -545,10 +544,4 @@ Benfica           3-0 Braga
 ▪ Final ▪  Jan 11
 Sporting          1-1 Benfica           (6-7 pen)
 
-
-
-
-
-
-<!-- $about$ -->
 

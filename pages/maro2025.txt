@@ -1,19 +1,20 @@
   <!--
-     source: https://rsssf.org/tablesm/maro2025.html
+     title:   Morocco 2024/25
+     source:  https://rsssf.org/tablesm/maro2025.html
+     author:  Karel Stokkermans
+     updated: 31 Oct 2025
     -->
-  
-
-
-== Morocco 2024/25
 
 
 
 
 
-==== GNF I  ‹§gnf1›
 
-<!-- $table1$ -->
 
+
+== GNF I  ‹§gnf1›
+
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 30 _
@@ -212,8 +213,7 @@ _ Dec 23 _
 RCA Zemamra        0-0 WAC Casablanca
 FUS Rabat          5-1 COD Meknès
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Halfway Table -->
 
 ▪ Round 16 ▪
 _ Dec 28 _
@@ -408,10 +408,9 @@ WAC Casablanca     2-0 RCA Zemamra
 _ May 12 _
 SCC Mohammédia     0-6 Raja Casablanca
 
-<!-- $table3$ -->
+<!-- $table3$ - Final Table -->
 
-
-▪ Promotion/Relegation Playoff ▪
+=== Promotion/Relegation Playoff  ‹§prorel›
 
 ▪ First Legs ▪
 _ May 24 _
@@ -431,14 +430,13 @@ NB: Olympique Dcheira promoted, JS Soualem relegated
 
 
 
-==== GNF II  ‹§gnf2›
+== GNF II  ‹§gnf2›
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 Promoted directly from third level: WS Temara, US Amal Tiznit
 
-Promotion/Relegation Playoff 2nd/3rd level  ‹§2prorel›
+=== Promotion/Relegation Playoff 2nd/3rd level  ‹§2prorel›
 
 ▪ First Legs ▪
 _ May 30 _
@@ -454,10 +452,4 @@ MC Oujda           2-0 Ass. Al-Mansoria
 
 NB: US Boujaâd promoted, CAY Berrechid relegated
 
-
-
-
-
-
-<!-- $about$ -->
 

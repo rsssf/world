@@ -1,23 +1,23 @@
   <!--
-     source: https://rsssf.org/tablesn/ned2026.html
+     title:   Netherlands 2025/26
+     source:  https://rsssf.org/tablesn/ned2026.html
+     author:  Karel Stokkermans
+     updated: 7 Apr 2026
     -->
-  
-
-
-== Netherlands 2025/26
 
 
 
 
 
-==== Eredivisie  ‹§ere›
 
-‹Regular Season, see §1reg› | ‹Conference League Playoff, see §1eur› | ‹Nacompetitie, see §2nac›
 
-Regular Season  ‹§1reg›
 
-<!-- $table1$ -->
+== Eredivisie  ‹§ere›
 
+
+=== Regular Season  ‹§1reg›
+
+<!-- $table1$ - Table -->
 
 ▪ Round 1 ▪
 _ Aug 8 _
@@ -432,17 +432,10 @@ Volendam        0-0 Feyenoord
 Heerenveen      4-1 Heracles
 NAC             0-0 Sparta
 
-<!-- $table2$ -->
+<!-- $table2$ - Table -->
 
+=== Conference League Playoff  ‹§1eur›
 
-▪ Conference League Playoff ▪
+=== Nacompetitie  ‹§2nac›
 
-Nacompetitie  ‹§2nac›
-
-
-
-
-
-
-<!-- $about$ -->
 

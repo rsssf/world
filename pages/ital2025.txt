@@ -1,19 +1,20 @@
   <!--
-     source: https://rsssf.org/tablesi/ital2025.html
+     title:   Italy 2024/25
+     source:  https://rsssf.org/tablesi/ital2025.html
+     authors: Roberto Di Maggio and Karel Stokkermans
+     updated: 10 Jun 2025
     -->
-  
-
-
-== Italy 2024/25
 
 
 
 
 
-==== Serie A  ‹§seriea›
 
-<!-- $table1$ -->
 
+
+== Serie A  ‹§seriea›
+
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 17 _
@@ -607,15 +608,14 @@ Torino          0-2 Roma
 Udinese         2-3 Fiorentina
 Venezia         2-3 Juventus
 
-<!-- $table2$ -->
+<!-- $table2$ - Final Table -->
 
 
 
 
 
 
-
-==== Coppa Italia  ‹§coppa›
+== Coppa Italia  ‹§coppa›
 
 ▪ Preliminary Round ▪
 _ Aug 3 _
@@ -629,7 +629,7 @@ Cesena          3-1 Padova
 Avellino        3-1 Juve Stabia
   (Tribuzzi 2, 66, Frascatore 45+1; Piscopo 21)
 
-Round 1 (no extra time)
+▪ Round 1 (no extra time) ▪
 _ Aug 9 _
 Sassuolo        2-1 Cittadella
   (Mulattieri 45, Laurienté 58; Baldini 48)
@@ -665,7 +665,7 @@ Salernitana     3-3 Spezia          (5-4 pen)
 Cagliari        3-1 Carrarese
   (Piccoli 33, 41, Prati 71; Panico 55)
 
-Round 2 (no extra time)
+▪ Round 2 (no extra time) ▪
 _ Sep 24 _
 Lecce           0-2 Sassuolo
   (Muharemovic 13, D'Andrea 79)
@@ -686,7 +686,7 @@ Monza           3-1 Brescia
 Napoli          5-0 Palermo
   (Ngonge 7, 12, Juan Jesus 42, Neres 70, McTominay 77)
 
-Round 3 (no extra time)
+▪ Round 3 (no extra time) ▪
 _ Dec 3 _
 Bologna         4-0 Monza
   (Pobega 32, Orsolini 35, Dominguez 63, Castro 76)
@@ -712,7 +712,7 @@ _ Dec 19 _
 Inter           2-0 Udinese
   (Arnautovic 30, Asllani 45+2)
 
-Quarterfinals (no extra time)
+▪ Quarterfinals (no extra time) ▪
 _ Feb 4 _
 Atalanta        0-1 Bologna
   (Castro 80)
@@ -744,14 +744,8 @@ _ Apr 24 _
 Bologna         2-1 Empoli
   (Fabbian 7, Dallinga 86; Kovalenko 33)
 
-▪ Final ▪  May 14, Roma
+▪ Final ▪  May 14 @ Roma
 Bologna         1-0 Milan
   (Ndoye 53)
 
-
-
-
-
-
-<!-- $about$ -->
 

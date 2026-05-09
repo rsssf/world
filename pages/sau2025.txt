@@ -1,19 +1,20 @@
   <!--
-     source: https://rsssf.org/tabless/sau2025.html
+     title:   Saudi Arabia 2024/25
+     source:  https://rsssf.org/tabless/sau2025.html
+     author:  Karel Stokkermans
+     updated: 27 May 2025
     -->
-  
-
-
-== Saudi Arabia 2024/25
 
 
 
 
 
-==== Saudi League  ‹§prof›
 
-<!-- $table1$ -->
 
+
+== Saudi League  ‹§prof›
+
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 22 _
@@ -253,8 +254,7 @@ Dhamk       2-1 Ittihad
 Shabab      2-1 Faiha'a
 Qadisiya    2-1 Hilal
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Halfway Table -->
 
 ▪ Round 18 ▪
 _ Jan 30 _
@@ -492,13 +492,6 @@ Urooba      3-2 Taawun
 Ra'ed       1-2 Khlood
 Riyadh      0-1 Ahly
 
-<!-- $table3$ -->
+<!-- $table3$ - Final Table -->
 
-
-
-
-
-
-
-<!-- $about$ -->
 

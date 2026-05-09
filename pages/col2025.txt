@@ -1,0 +1,179 @@
+  <!--
+     title:   Colombia 2025
+     source:  https://rsssf.org/tablesc/col2025.html
+     author:  Karel Stokkermans
+     updated: 29 Dec 2025
+    -->
+
+
+
+
+
+
+
+
+== Primera División A 2025  ‹§mustang›
+
+
+=== Torneo Apertura 2025  ‹§1aper›
+
+
+==== Regular Stage  ‹§1aperreg›
+
+<!-- $table1$ - Final Table -->
+
+==== Playoff  ‹§1apercuad›
+
+
+▪ Group Stage ▪
+
+Final Tables:
+
+<!-- $table2$ - Group A -->
+
+<!-- $table3$ - Group B -->
+
+▪ Final ▪
+
+▪ First Leg ▪  Jun 24
+Santa Fe           0-0 Medellín
+
+▪ Second Leg ▪  Jun 29
+Medellín           1-2 Santa Fe
+
+=== Torneo Finalización 2025  ‹§1clau›
+
+
+==== Regular Stage  ‹§1claureg›
+
+<!-- $table4$ - Final Table -->
+
+==== Playoff  ‹§1claucuad›
+
+
+▪ Group Stage ▪
+
+Final Tables:
+
+<!-- $table5$ - Group A -->
+
+<!-- $table6$ - Group B -->
+
+▪ Final ▪
+
+▪ First Leg ▪  Dec 12
+Junior             3-0 Tolima
+
+▪ Second Leg ▪  Dec 16
+Tolima             0-1 Junior
+
+=== Relegation  ‹§releg›
+
+NB: decided over points average over last three seasons (2023-2025)
+
+ 1.Deportes Tolima                      1.75
+ 2.América (Cali)                       1.69
+ 3.CD Independiente Medellín            1.68
+ 4.CD Millonarios                       1.68
+ 5.Atlético Nacional                    1.66
+ 6.Atlético Junior                      1.61
+ 7.Independiente Santa Fe               1.57
+ 8.Atlético Bucaramanga                 1.51
+ 9.Rionegro Águilas Doradas             1.50
+10.Once Caldas                          1.37
+11.Fortaleza FC (Bogotá)                1.36
+12.Deportivo Pasto                      1.28
+13.Deportivo Pereira                    1.28
+14.Alianza FC (Valledupar)              1.26
+15.Deportivo Cali                       1.14
+16.Llaneros FC (Villavicencio)          1.13  [P]
+17.CD La Equidad (Bogotá)               1.11
+18.Boyacá Chicó (Tunja)                 1.00
+---------------------------------------------
+19.Envigado FC                          0.84       Relegated
+20.Unión Magdalena (Santa Marta)        0.80  [P]  Relegated
+
+Promoted: Jaguares de Córdoba, Cúcuta Deportivo
+
+
+
+
+
+== Copa Colombia 2025  ‹§copa›
+
+▪ 1/8 Finals ▪
+
+▪ First Legs ▪
+_ Aug 26 _
+Junior             2-0 Atlético (Cali)
+Pereira            4-3 Real Cundinamarca
+_ Aug 27 _
+Fortaleza          0-0 Medellín
+Bucaramanga        1-0 América
+Nacional           4-0 Quindío
+_ Aug 28 _
+Alianza            1-1 Santa Fe
+Pasto              1-2 Once Caldas
+_ Sep 3 _
+Envigado           1-0 Millonarios
+
+▪ Second Legs ▪
+_ Sep 2 _
+Real Cundinamarca  2-1 Pereira            (3-4 pen)
+Atlético (Cali)    2-0 Junior             (1-4 pen)
+_ Sep 3 _
+América            2-0 Bucaramanga
+Medellín           2-1 Fortaleza
+Quindío            2-2 Nacional
+_ Sep 9 _
+Santa Fe           4-1 Alianza
+_ Sep 16 _
+Millonarios        0-0 Envigado
+_ Oct 1 _
+Once Caldas        4-0 Pasto
+
+▪ Quarterfinals ▪
+
+▪ First Legs ▪
+_ Sep 24 _
+Medellín           1-2 Santa Fe
+_ Oct 2 _
+Junior             1-2 América
+_ Oct 7 _
+Envigado           2-1 Pereira
+_ Oct 9 _
+Once Caldas        0-1 Nacional
+
+▪ Second Legs ▪
+_ Oct 1 _
+Santa Fe           0-3 Medellín
+_ Oct 15 _
+América            0-1 Junior             (8-7 pen)
+_ Oct 21 _
+Pereira            1-0 Envigado           (1-2 pen)
+_ Oct 22 _
+Nacional           2-0 Once Caldas
+
+▪ Semifinals ▪
+
+▪ First Legs ▪
+_ Nov 2 _
+Nacional           4-1 América
+_ Nov 3 _
+Envigado           0-1 Medellín
+
+▪ Second Legs ▪
+_ Nov 10 _
+Medellín           1-1 Envigado
+_ Nov 16 _
+América            2-2 Nacional
+
+▪ Final ▪
+
+▪ First Leg ▪  Dec 13
+Nacional           0-0 Medellín
+
+▪ Second Leg ▪  Dec 17
+Medellín           0-1 Nacional
+
+

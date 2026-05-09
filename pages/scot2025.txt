@@ -1,23 +1,23 @@
   <!--
-     source: https://rsssf.org/tabless/scot2025.html
+     title:   Scotland 2024/25
+     source:  https://rsssf.org/tabless/scot2025.html
+     authors: Hans Schöggl and Karel Stokkermans
+     updated: 8 Sep 2025
     -->
-  
-
-
-== Scotland 2024/25
 
 
 
 
 
-==== Premiership  ‹§premier›
 
-‹Regular Stage, see §reg› | ‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-▪ Regular Stage ▪
 
-<!-- $table1$ -->
+== Premiership  ‹§premier›
 
+
+=== Regular Stage  ‹§reg›
+
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 3 _
@@ -346,13 +346,11 @@ _ Apr 13 _
 Aberdeen            2-2 Rangers
 Hibernian           4-0 Dundee
 
-<!-- $table2$ -->
+<!-- $table2$ - Final Table -->
 
+=== Championship Playoff  ‹§champ›
 
-▪ Championship Playoff ▪
-
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 ▪ Round 34 ▪  Apr 26
 Dundee United       0-5 Celtic
@@ -383,13 +381,11 @@ Celtic              1-1 Saint Mirren
 Dundee United       2-1 Aberdeen
 Hibernian           2-2 Rangers
 
-<!-- $table4$ -->
+<!-- $table4$ - Final Table -->
 
+=== Relegation Playoff  ‹§releg›
 
-▪ Relegation Playoff ▪
-
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 ▪ Round 34 ▪  Apr 26
 Heart of Midlothian 0-1 Dundee
@@ -416,15 +412,14 @@ Kilmarnock          0-1 Heart of Midlothian
 Ross County         1-1 Motherwell
 Saint Johnstone     0-2 Dundee
 
-<!-- $table6$ -->
+<!-- $table6$ - Final Table -->
 
 
 
 
 
 
-
-==== Highland Amateur Cup 2025  ‹§hama›
+== Highland Amateur Cup 2025  ‹§hama›
 
 ▪ Preliminary Round ▪
 North Section
@@ -542,13 +537,7 @@ Carloway AFC                   3-2 Dounby Athletic
 Pentland United                0-1 Maryburgh AFC
 Carloway FC                    0-1 Inver FC
 
-▪ Final ▪  Sep 6, Mosset Park, Forres
+▪ Final ▪  Sep 6 @ Mosset Park, Forres
 Maryburgh AFC                  3-1 Inver FC
 
-
-
-
-
-
-<!-- $about$ -->
 

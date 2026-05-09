@@ -1,19 +1,20 @@
   <!--
-     source: https://rsssf.org/tablesj/jpn2025.html
+     title:   Japan 2025
+     source:  https://rsssf.org/tablesj/jpn2025.html
+     author:  Andrei Balitskiy
+     updated: 14 Dec 2025
     -->
-  
-
-
-== Japan 2025
 
 
 
 
 
-==== J1 League  ‹§jl1›
 
-<!-- $table1$ -->
 
+
+== J1 League  ‹§jl1›
+
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Feb 14 _
@@ -112,8 +113,7 @@ Sanfrecce Hiroshima     1-0  Yokohama FC                   25,043
 Urawa Red Diamonds      0-2  Kashiwa Reysol                51,009
   (Tomoya Koyamatsu 14, Yuki Kakita 31)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Table -->
 
 <!-- $topscorers1$ -->
 
@@ -590,14 +590,13 @@ Gamba Osaka             -  Tokyo Verdy
 Cerezo Osaka            -  Yokohama FC
 Sanfrecce Hiroshima     -  Shonan Bellmare
 
-<!-- $table3$ -->
+<!-- $table3$ - Final Table -->
 
 
 
 
 
-
-==== Emperor's Cup  ‹§emp›
+== Emperor's Cup  ‹§emp›
 
 ▪ First Round ▪  May 24-25
 47 Prefectural cup winners + 1 amateur seeded team + 6 J2 bottom teams
@@ -638,11 +637,11 @@ Machida Zelvia         3-1 Vissel Kobe
 
 
 
-==== J.League YBC Levain Cup  ‹§jlcup›
+== J.League YBC Levain Cup  ‹§jlcup›
 
 ▪ FIRST ROUND ▪
 
-▪ GROUP 1 ▪
+GROUP 1
 
 Preliminaries
 _ Mar 20 _
@@ -660,7 +659,7 @@ Gifu / Yokohama FC      -  Kitakyushu / Okayama
 ▪ Final ▪  May 21
 
 
-▪ GROUP 2 ▪
+GROUP 2
 
 Preliminaries
 _ Mar 20 _
@@ -679,7 +678,7 @@ Kochi / Gamba           -  Mito / Kumamoto
 ▪ Final ▪  May 21
 
 
-▪ GROUP 3 ▪
+GROUP 3
 
 Preliminaries
 _ Mar 20 _
@@ -698,7 +697,7 @@ Numazu / Kashiwa        -  Fukushima / Sapporo
 ▪ Final ▪  May 21
 
 
-▪ GROUP 4 ▪
+GROUP 4
 
 Preliminaries
 _ Mar 20 _
@@ -717,7 +716,7 @@ Nagano / Verdy          -  Ehime / Akita
 ▪ Final ▪  May 21
 
 
-▪ GROUP 5 ▪
+GROUP 5
 
 Preliminaries
 _ Mar 20 _
@@ -736,7 +735,7 @@ Nara / FC Tokyo         -  Omiya / Iwaki
 ▪ Final ▪  May 21
 
 
-▪ GROUP 6 ▪
+GROUP 6
 
 Preliminaries
 _ Mar 20 _
@@ -755,7 +754,7 @@ Sanuki / Cerezo         -  Imabari / Tokushima
 ▪ Final ▪  May 21
 
 
-▪ GROUP 7 ▪
+GROUP 7
 
 Preliminaries
 _ Mar 20 _
@@ -772,10 +771,10 @@ Ryukyu / Fukuoka        -  Tochigi SC / Sendai
 ▪ Final ▪  May 21
 
 
-PLAY-OFF ROUND [Jun 4, 8]
+▪ PLAY-OFF ROUND ▪  Jun 4 & 8
 
 
-PRIME ROUND
+▪ PRIME ROUND ▪
 
 ▪ Quarterfinals ▪
 
@@ -809,10 +808,9 @@ Kashiwa Reysol         1-3 Sanfrecce Hiroshima
 
 
 
-==== J2 League   ‹§jl2›
+== J2 League   ‹§jl2›
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Feb 15 _
@@ -889,8 +887,7 @@ Kataller Toyama         2-0  Ventforet Kofu                 5,950
 Renofa Yamaguchi        2-0  Consadole Sapporo              3,694
   (Toa Suenaga 39, Kazuya Noyori 79)
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Table -->
 
 <!-- $topscorers2$ -->
 
@@ -1368,10 +1365,9 @@ Tokushima Vortis        -  V-Varen Nagasaki
 Sagan Tosu              -  Júbilo Iwata
 Roasso Kumamoto         -  Ventforet Kofu
 
-<!-- $table6$ -->
+<!-- $table6$ - Final Table -->
 
-
-Promotion Playoff  ‹§2prom›
+=== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪  Dec 7
 JEF United Chiba       4-3 RB Omiya Ardija
@@ -1386,10 +1382,9 @@ NB: JEF United Chiba promoted
 
 
 
-==== J3 League  ‹§jl3›
+== J3 League  ‹§jl3›
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Feb 15 _
@@ -1463,8 +1458,7 @@ Kamatamare Sanuki       1-1  Zweigen Kanazawa               1,693
 Kochi United            1-2  FC Osaka                       2,067
   (Kokoro Kobayashi 79 - Shunji Masuda 55, Rui Tone 76)
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Table -->
 
 ▪ Round 4 ▪
 _ Mar 8 _
@@ -1952,10 +1946,9 @@ Kamatamare Sanuki       -  Azul Claro Numazu
 Kochi United            -  Thespa Gunma
 FC Ryukyu               -  Vanraure Hachinohe
 
-<!-- $table9$ -->
+<!-- $table9$ - Final Table -->
 
-
-Promotion Playoff  ‹§3prom›
+=== Promotion Playoff  ‹§3prom›
 
 ▪ Semifinals ▪  Dec 7
 FC Osaka               1-0 Zweigen Kanazawa
@@ -1966,7 +1959,7 @@ FC Osaka               0-4 Tegevajaro Miyazaki
 
 NB: Tegevajaro Miyazaki promoted
 
-▪ Promotion/Relegation Playoff ▪
+=== Promotion/Relegation Playoff  ‹§34prorel›
 
 ▪ First Leg ▪  Dec 7
 Reilac Shiga           3-2 Azul Claro Numazu
@@ -1980,13 +1973,12 @@ NB: Reilac Shiga promoted, Azul Claro Numazu relegated
 
 
 
-==== JFL  ‹§jfl›
+== JFL  ‹§jfl›
 
 Promotion to J3 League:
 To qualify for promotion, a club must have J.League Associate Membership [#].
 
-<!-- $table10$ -->
-
+<!-- $table10$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Mar 8 _
@@ -2347,10 +2339,9 @@ Honda FC                -  Briobecca Urayasu
 Maruyasu Okazaki        -  Minebea Mitsumi
 Criacao Shinjuku        -  Asuka FC
 
-<!-- $table11$ -->
+<!-- $table11$ - Final Table -->
 
-
-▪ Promotion/Relegation Playoff ▪
+=== Promotion/Relegation Playoff  ‹§45prorel›
 
 _ Nov 30 _
 Atletico Suzuka        0-1 Vonds Ichihara         (aet)
@@ -2358,10 +2349,4 @@ Atletico Suzuka        0-1 Vonds Ichihara         (aet)
 NB: Vonds Ichihara promoted, Atletico Suzuka relegated
 
 NB: J-Lease (Oita City) promoted as 5th level champions
-
-
-
-
-
-<!-- $about$ -->
 

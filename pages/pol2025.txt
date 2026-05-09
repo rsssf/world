@@ -1,19 +1,20 @@
   <!--
-     source: https://rsssf.org/tablesp/pol2025.html
+     title:   Poland 2024/25
+     source:  https://rsssf.org/tablesp/pol2025.html
+     author:  Karel Stokkermans
+     updated: 26 May 2025
     -->
-  
-
-
-== Poland 2024/25
 
 
 
 
 
-==== Ekstraklasa  ‹§ekstra›
 
-<!-- $table1$ -->
 
+
+== Ekstraklasa  ‹§ekstra›
+
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jul 19 _
@@ -516,13 +517,6 @@ Radomiak     2-3 Motor
 Raków        2-1 Widzew
 Zagłębie L   1-2 Cracovia
 
-<!-- $table2$ -->
+<!-- $table2$ - Final Table -->
 
-
-
-
-
-
-
-<!-- $about$ -->
 

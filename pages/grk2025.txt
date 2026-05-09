@@ -1,23 +1,23 @@
   <!--
-     source: https://rsssf.org/tablesg/grk2025.html
+     title:   Greece 2024/25
+     source:  https://rsssf.org/tablesg/grk2025.html
+     author:  Karel Stokkermans
+     updated: 26 May 2025
     -->
-  
-
-
-== Greece 2024/25
 
 
 
 
 
-==== Super League  ‹§alpha›
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-▪ Regular Stage ▪
 
-<!-- $table1$ -->
+== Super League  ‹§alpha›
 
+
+=== Regular Stage  ‹§reg›
+
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 17 _
@@ -169,8 +169,7 @@ OFI                 0-2 Olympiakos
 PAOK                2-2 Kallithea
 Panathinaïkos       1-1 Atromitos
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Halfway Table -->
 
 ▪ Round 14 ▪
 _ Dec 7 _
@@ -323,17 +322,14 @@ Lamia               1-0 Volos
 Olympiakos          1-0 OFI
 Panaitolikos        0-0 Levadiakos
 
-<!-- $table3$ -->
+<!-- $table3$ - Final Table -->
+
+=== Playoff Stage  ‹§play›
 
 
-▪ Playoff Stage ▪
+==== Championship Playoff  ‹§champ›
 
-‹Championship Playoff, see §champ› | ‹Conference League Playoff, see §conf› | ‹Relegation Playoff, see §releg›
-
-▪ Championship Playoff ▪
-
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 ▪ Round 27 ▪  Mar 30
 AEK                 2-3 PAOK
@@ -359,13 +355,11 @@ Olympiakos          4-2 PAOK
 Panathinaïkos       0-1 Olympiakos
 PAOK                1-0 AEK
 
-<!-- $table5$ -->
+<!-- $table5$ - Final Table -->
 
+==== Conference League Playoff  ‹§conf›
 
-▪ Conference League Playoff ▪
-
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 NB: points carried over from regular stage (halved, round upwards) between
     square brackets
@@ -396,16 +390,14 @@ OFI                 1-1 Aris
 Aris                4-2 Asteras
 Atromitos           0-0 OFI
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 NB: points carried over from regular stage (halved, round upwards) between
     square brackets
 
-▪ Relegation Playoff ▪
+==== Relegation Playoff  ‹§releg›
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Final Table -->
 
 ▪ Round 27 ▪
 _ Mar 29 _
@@ -461,13 +453,6 @@ Levadiakos          3-2 Volos
 Panaitolikos        1-0 Panserraïkos
 Kallithea           3-0 Lamia
 
-<!-- $table9$ -->
+<!-- $table9$ - Final Table -->
 
-
-
-
-
-
-
-<!-- $about$ -->
 

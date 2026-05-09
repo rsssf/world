@@ -1,0 +1,621 @@
+  <!--
+     title:   Spain 2024/25
+     source:  https://rsssf.org/tabless/span2025.html
+     author:  Karel Stokkermans
+     updated: 26 May 2025
+    -->
+
+
+
+
+
+
+
+
+== Primera División  ‹§laliga›
+
+<!-- $table1$ - Final Table -->
+
+▪ Round 1 ▪
+_ Aug 15 _
+Athletic                  1-1 Getafe
+Betis                     1-1 Girona
+_ Aug 16 _
+Celta                     2-1 Alavés
+Las Palmas                2-2 Sevilla
+_ Aug 17 _
+Osasuna                   1-1 Leganés
+Valencia                  1-2 Barcelona
+_ Aug 18 _
+Sociedad                  1-2 Rayo Vallecano
+Mallorca                  1-1 Madrid
+_ Aug 19 _
+Valladolid                1-0 Espanyol
+Villarreal                2-2 Atlético
+
+▪ Round 2 ▪
+_ Aug 23 _
+Celta                     3-1 Valencia
+Sevilla                   1-2 Villarreal
+_ Aug 24 _
+Osasuna                   1-0 Mallorca
+Barcelona                 2-1 Athletic
+Getafe                    0-0 Rayo Vallecano
+Espanyol                  0-1 Sociedad
+_ Aug 25 _
+Madrid                    3-0 Valladolid
+Leganés                   2-1 Las Palmas
+Alavés                    0-0 Betis
+Atlético                  3-0 Girona
+
+▪ Round 3 ▪
+_ Aug 26 _
+Villarreal                4-3 Celta
+_ Aug 27 _
+Mallorca                  0-0 Sevilla
+Rayo Vallecano            1-2 Barcelona
+_ Aug 28 _
+Athletic                  1-0 Valencia
+Valladolid                0-0 Leganés
+Atlético                  0-0 Espanyol
+Sociedad                  1-2 Alavés
+_ Aug 29 _
+Girona                    4-0 Osasuna
+Las Palmas                1-1 Madrid
+_ Sep 18 _
+Betis                     2-1 Getafe
+
+▪ Round 4 ▪
+_ Aug 31 _
+Barcelona                 7-0 Valladolid
+Athletic                  0-1 Atlético
+Espanyol                  2-1 Rayo Vallecano
+Leganés                   0-1 Mallorca
+Valencia                  1-1 Villarreal
+_ Sep 1 _
+Osasuna                   3-2 Celta
+Alavés                    2-0 Las Palmas
+Sevilla                   0-2 Girona
+Getafe                    0-0 Sociedad
+Madrid                    2-0 Betis
+
+▪ Round 5 ▪
+_ Sep 13 _
+Betis                     2-0 Leganés
+_ Sep 14 _
+Mallorca                  1-2 Villarreal
+Espanyol                  3-2 Alavés
+Sevilla                   1-0 Getafe
+Sociedad                  0-2 Madrid
+_ Sep 15 _
+Celta                     3-1 Valladolid
+Girona                    1-4 Barcelona
+Las Palmas                2-3 Athletic
+Atlético                  3-0 Valencia
+_ Sep 16 _
+Rayo Vallecano            3-1 Osasuna
+
+▪ Round 6 ▪
+_ Sep 20 _
+Alavés                    2-1 Sevilla
+_ Sep 21 _
+Valladolid                0-0 Sociedad
+Osasuna                   2-1 Las Palmas
+Valencia                  2-0 Girona
+Madrid                    4-1 Espanyol
+_ Sep 22 _
+Getafe                    1-1 Leganés
+Athletic                  3-1 Celta
+Villarreal                1-5 Barcelona
+Rayo Vallecano            1-1 Atlético
+_ Sep 23 _
+Betis                     1-2 Mallorca
+
+▪ Round 7 ▪
+_ Sep 17 _
+Mallorca                  1-0 Sociedad
+_ Sep 19 _
+Leganés                   0-2 Athletic
+_ Sep 24 _
+Sevilla                   2-1 Valladolid
+Valencia                  0-0 Osasuna
+Madrid                    3-2 Alavés
+_ Sep 25 _
+Girona                    0-0 Rayo Vallecano
+Barcelona                 1-0 Getafe
+_ Sep 26 _
+Espanyol                  1-2 Villarreal
+Las Palmas                1-1 Betis
+Celta                     0-1 Atlético
+
+▪ Round 8 ▪
+_ Sep 27 _
+Valladolid                1-2 Mallorca
+_ Sep 28 _
+Getafe                    2-0 Alavés
+Rayo Vallecano            1-1 Leganés
+Sociedad                  3-0 Valencia
+Osasuna                   4-2 Barcelona
+_ Sep 29 _
+Celta                     1-1 Girona
+Athletic                  1-1 Sevilla
+Betis                     1-0 Espanyol
+Atlético                  1-1 Madrid
+_ Sep 30 _
+Villarreal                3-1 Las Palmas
+
+▪ Round 9 ▪
+_ Oct 4 _
+Leganés                   0-0 Valencia
+_ Oct 5 _
+Espanyol                  2-1 Mallorca
+Getafe                    1-1 Osasuna
+Valladolid                1-2 Rayo Vallecano
+Las Palmas                0-1 Celta
+Madrid                    2-0 Villarreal
+_ Oct 6 _
+Girona                    2-1 Athletic
+Alavés                    0-3 Barcelona
+Sevilla                   1-0 Betis
+Sociedad                  1-1 Atlético
+
+▪ Round 10 ▪
+_ Oct 18 _
+Alavés                    2-3 Valladolid
+_ Oct 19 _
+Athletic                  4-1 Espanyol
+Osasuna                   1-2 Betis
+Girona                    0-1 Sociedad
+Celta                     1-2 Madrid
+_ Oct 20 _
+Mallorca                  1-0 Rayo Vallecano
+Atlético                  3-1 Leganés
+Villarreal                1-1 Getafe
+Barcelona                 5-1 Sevilla
+_ Oct 21 _
+Valencia                  2-3 Las Palmas
+
+▪ Round 11 ▪
+_ Oct 25 _
+Espanyol                  0-2 Sevilla
+_ Oct 26 _
+Valladolid                1-2 Villarreal
+Rayo Vallecano            1-0 Alavés
+Las Palmas                1-0 Girona
+Madrid                    0-4 Barcelona
+_ Oct 27 _
+Leganés                   3-0 Celta
+Getafe                    1-1 Valencia
+Betis                     1-0 Atlético
+Sociedad                  0-2 Osasuna
+_ Oct 28 _
+Mallorca                  0-0 Athletic
+
+▪ Round 12 ▪
+_ Nov 1 _
+Alavés                    1-0 Mallorca
+_ Nov 2 _
+Osasuna                   1-0 Valladolid
+Girona                    4-3 Leganés
+_ Nov 3 _
+Atlético                  2-0 Las Palmas
+Barcelona                 3-1 Espanyol
+Sevilla                   0-2 Sociedad
+Athletic                  1-1 Betis
+_ Nov 4 _
+Celta                     1-0 Getafe
+_ Dec 18 _
+Villarreal                1-1 Rayo Vallecano
+_ Jan 3 _
+Valencia                  1-2 Madrid
+
+▪ Round 13 ▪
+_ Nov 8 _
+Rayo Vallecano            1-3 Las Palmas
+_ Nov 9 _
+Madrid                    4-0 Osasuna
+Villarreal                3-0 Alavés
+Leganés                   1-0 Sevilla
+_ Nov 10 _
+Betis                     2-2 Celta
+Mallorca                  0-1 Atlético
+Getafe                    0-1 Girona
+Valladolid                1-1 Athletic
+Sociedad                  1-0 Barcelona
+_ Dec 18 _
+Espanyol                  1-1 Valencia
+
+▪ Round 14 ▪
+_ Nov 22 _
+Getafe                    2-0 Valladolid
+_ Nov 23 _
+Valencia                  4-2 Betis
+Atlético                  2-1 Alavés
+Girona                    4-1 Espanyol
+Las Palmas                2-3 Mallorca
+Celta                     2-2 Barcelona
+_ Nov 24 _
+Osasuna                   2-2 Villarreal
+Sevilla                   1-0 Rayo Vallecano
+Leganés                   0-3 Madrid
+Athletic                  1-0 Sociedad
+
+▪ Round 15 ▪
+_ Nov 9 _
+Mallorca                  2-1 Valencia
+_ Nov 30 _
+Barcelona                 1-2 Las Palmas
+Alavés                    1-1 Leganés
+Espanyol                  3-1 Celta
+Valladolid                0-5 Atlético
+_ Dec 1 _
+Villarreal                2-2 Girona
+Madrid                    2-0 Getafe
+Rayo Vallecano            1-2 Athletic
+Sociedad                  2-0 Betis
+_ Dec 2 _
+Sevilla                   1-1 Osasuna
+
+▪ Round 16 ▪
+_ Dec 6 _
+Celta                     2-0 Mallorca
+_ Dec 7 _
+Las Palmas                2-1 Valladolid
+Betis                     2-2 Barcelona
+Valencia                  0-1 Rayo Vallecano
+Girona                    0-3 Madrid
+_ Dec 8 _
+Leganés                   0-3 Sociedad
+Athletic                  2-0 Villarreal
+Osasuna                   2-2 Alavés
+Atlético                  4-3 Sevilla
+_ Dec 9 _
+Getafe                    1-0 Espanyol
+
+▪ Round 17 ▪
+_ Dec 13 _
+Valladolid                1-0 Valencia
+_ Dec 14 _
+Espanyol                  0-0 Osasuna
+Mallorca                  2-1 Girona
+Sevilla                   1-0 Celta
+Rayo Vallecano            3-3 Madrid
+_ Dec 15 _
+Atlético                  1-0 Getafe
+Alavés                    1-1 Athletic
+Sociedad                  0-0 Las Palmas
+Villarreal                1-2 Betis
+Barcelona                 0-1 Leganés
+
+▪ Round 18 ▪
+_ Dec 20 _
+Girona                    3-0 Valladolid
+_ Dec 21 _
+Getafe                    0-1 Mallorca
+Celta                     2-0 Sociedad
+Osasuna                   1-2 Athletic
+Barcelona                 1-2 Atlético
+_ Dec 22 _
+Valencia                  2-2 Alavés
+Madrid                    4-2 Sevilla
+Leganés                   2-5 Villarreal
+Las Palmas                1-0 Espanyol
+Betis                     1-1 Rayo Vallecano
+
+▪ Round 19 ▪
+_ Dec 3 _
+Mallorca                  1-5 Barcelona
+_ Dec 4 _
+Athletic                  2-1 Madrid
+_ Jan 10 _
+Rayo Vallecano            2-1 Celta
+_ Jan 11 _
+Alavés                    0-1 Girona
+Valladolid                1-0 Betis
+Espanyol                  1-1 Leganés
+Sevilla                   1-1 Valencia
+_ Jan 12 _
+Las Palmas                1-2 Getafe
+Atlético                  1-0 Osasuna
+_ Jan 13 _
+Sociedad                  1-0 Villarreal
+
+<!-- $table2$ - Halfway Table -->
+
+▪ Round 20 ▪
+_ Jan 17 _
+Espanyol                  2-1 Valladolid
+_ Jan 18 _
+Girona                    1-2 Sevilla
+Leganés                   1-0 Atlético
+Betis                     1-3 Alavés
+Getafe                    1-1 Barcelona
+_ Jan 19 _
+Celta                     1-2 Athletic
+Madrid                    4-1 Las Palmas
+Osasuna                   1-1 Rayo Vallecano
+Valencia                  1-0 Sociedad
+_ Jan 20 _
+Villarreal                4-0 Mallorca
+
+▪ Round 21 ▪
+_ Jan 24 _
+Las Palmas                1-1 Osasuna
+_ Jan 25 _
+Mallorca                  0-1 Betis
+Atlético                  1-1 Villarreal
+Sevilla                   1-1 Espanyol
+Valladolid                0-3 Madrid
+_ Jan 26 _
+Rayo Vallecano            2-1 Girona
+Sociedad                  0-3 Getafe
+Athletic                  0-0 Leganés
+Barcelona                 7-1 Valencia
+_ Jan 27 _
+Alavés                    1-1 Celta
+
+▪ Round 22 ▪
+_ Jan 31 _
+Leganés                   0-1 Rayo Vallecano
+_ Feb 1 _
+Getafe                    0-0 Sevilla
+Villarreal                5-1 Valladolid
+Atlético                  2-0 Mallorca
+Espanyol                  1-0 Madrid
+_ Feb 2 _
+Barcelona                 1-0 Alavés
+Valencia                  2-1 Celta
+Osasuna                   2-1 Sociedad
+Betis                     2-2 Athletic
+_ Feb 3 _
+Girona                    2-1 Las Palmas
+
+▪ Round 23 ▪
+_ Feb 7 _
+Rayo Vallecano            1-0 Valladolid
+_ Feb 8 _
+Celta                     3-2 Betis
+Athletic                  3-0 Girona
+Las Palmas                1-2 Villarreal
+Madrid                    1-1 Atlético
+_ Feb 9 _
+Alavés                    0-1 Getafe
+Valencia                  2-0 Leganés
+Sociedad                  2-1 Espanyol
+Sevilla                   1-4 Barcelona
+_ Feb 10 _
+Mallorca                  1-1 Osasuna
+
+▪ Round 24 ▪
+_ Feb 14 _
+Girona                    1-2 Getafe
+_ Feb 15 _
+Leganés                   3-3 Alavés
+Osasuna                   1-1 Madrid
+Atlético                  1-1 Celta
+Villarreal                1-1 Valencia
+_ Feb 16 _
+Espanyol                  1-1 Athletic
+Valladolid                0-4 Sevilla
+Mallorca                  3-1 Las Palmas
+Betis                     3-0 Sociedad
+_ Feb 17 _
+Barcelona                 1-0 Rayo Vallecano
+
+▪ Round 25 ▪
+_ Feb 21 _
+Celta                     1-0 Osasuna
+_ Feb 22 _
+Alavés                    0-1 Espanyol
+Rayo Vallecano            0-1 Villarreal
+Valencia                  0-3 Atlético
+Las Palmas                0-2 Barcelona
+_ Feb 23 _
+Athletic                  7-1 Valladolid
+Madrid                    2-0 Girona
+Getafe                    1-2 Betis
+Sociedad                  3-0 Leganés
+_ Feb 24 _
+Sevilla                   1-1 Mallorca
+
+▪ Round 26 ▪
+_ Feb 28 _
+Valladolid                1-1 Las Palmas
+_ Mar 1 _
+Girona                    2-2 Celta
+Rayo Vallecano            1-1 Sevilla
+Betis                     2-1 Madrid
+Atlético                  1-0 Athletic
+_ Mar 2 _
+Leganés                   1-0 Getafe
+Barcelona                 4-0 Sociedad
+Mallorca                  1-1 Alavés
+Osasuna                   3-3 Valencia
+_ Apr 27 _
+Villarreal                1-0 Espanyol
+
+▪ Round 27 ▪
+_ Mar 8 _
+Celta                     2-1 Leganés
+Alavés                    1-0 Villarreal
+Valencia                  2-1 Valladolid
+_ Mar 9 _
+Getafe                    2-1 Atlético
+Madrid                    2-1 Rayo Vallecano
+Athletic                  1-1 Mallorca
+Betis                     1-0 Las Palmas
+Sociedad                  0-1 Sevilla
+_ Mar 10 _
+Espanyol                  1-1 Girona
+_ Mar 27 _
+Barcelona                 3-0 Osasuna
+
+▪ Round 28 ▪
+_ Mar 14 _
+Las Palmas                2-2 Alavés
+_ Mar 16 _
+Valladolid                0-1 Celta
+Mallorca                  2-1 Espanyol
+Villarreal                1-2 Madrid
+Girona                    1-1 Valencia
+_ Mar 17 _
+Leganés                   2-3 Betis
+Sevilla                   0-1 Athletic
+Osasuna                   1-2 Getafe
+Rayo Vallecano            2-2 Sociedad
+Atlético                  2-4 Barcelona
+
+▪ Round 29 ▪
+_ Mar 29 _
+Sociedad                  2-1 Valladolid
+Espanyol                  1-1 Atlético
+Alavés                    0-2 Rayo Vallecano
+Madrid                    3-2 Leganés
+_ Mar 30 _
+Getafe                    1-2 Villarreal
+Barcelona                 4-1 Girona
+Athletic                  0-0 Osasuna
+Valencia                  1-0 Mallorca
+Betis                     2-1 Sevilla
+_ Mar 31 _
+Celta                     1-1 Las Palmas
+
+▪ Round 30 ▪
+_ Apr 4 _
+Rayo Vallecano            0-4 Espanyol
+_ Apr 5 _
+Girona                    0-1 Alavés
+Madrid                    1-2 Valencia
+Mallorca                  1-2 Celta
+Barcelona                 1-1 Betis
+_ Apr 6 _
+Las Palmas                1-3 Sociedad
+Sevilla                   1-2 Atlético
+Valladolid                0-4 Getafe
+Villarreal                0-0 Athletic
+_ Apr 7 _
+Leganés                   1-1 Osasuna
+
+▪ Round 31 ▪
+_ Apr 11 _
+Valencia                  1-0 Sevilla
+_ Apr 12 _
+Sociedad                  0-2 Mallorca
+Getafe                    1-3 Las Palmas
+Celta                     0-2 Espanyol
+Leganés                   0-1 Barcelona
+_ Apr 13 _
+Osasuna                   2-1 Girona
+Alavés                    0-1 Madrid
+Betis                     1-2 Villarreal
+Athletic                  3-1 Rayo Vallecano
+_ Apr 14 _
+Atlético                  4-2 Valladolid
+
+▪ Round 32 ▪
+_ Apr 18 _
+Espanyol                  1-0 Getafe
+_ Apr 19 _
+Rayo Vallecano            1-1 Valencia
+Barcelona                 4-3 Celta
+Mallorca                  0-0 Leganés
+Las Palmas                1-0 Atlético
+_ Apr 20 _
+Valladolid                2-3 Osasuna
+Villarreal                2-2 Sociedad
+Sevilla                   1-1 Alavés
+Madrid                    1-0 Athletic
+_ Apr 21 _
+Girona                    1-3 Betis
+
+▪ Round 33 ▪
+_ Apr 22 _
+Valencia                  1-1 Espanyol
+Barcelona                 1-0 Mallorca
+_ Apr 23 _
+Athletic                  1-0 Las Palmas
+Celta                     3-0 Villarreal
+Alavés                    1-0 Sociedad
+Getafe                    0-1 Madrid
+_ Apr 24 _
+Osasuna                   1-0 Sevilla
+Leganés                   1-1 Girona
+Atlético                  3-0 Rayo Vallecano
+Betis                     5-1 Valladolid
+
+▪ Round 34 ▪
+_ May 2 _
+Rayo Vallecano            1-0 Getafe
+_ May 3 _
+Alavés                    0-0 Atlético
+Villarreal                4-2 Osasuna
+Las Palmas                2-3 Valencia
+Valladolid                1-2 Barcelona
+_ May 4 _
+Madrid                    3-2 Celta
+Sevilla                   2-2 Leganés
+Espanyol                  1-2 Betis
+Sociedad                  0-0 Athletic
+_ May 5 _
+Girona                    1-0 Mallorca
+
+▪ Round 35 ▪
+_ May 9 _
+Las Palmas                0-1 Rayo Vallecano
+_ May 10 _
+Valencia                  3-0 Getafe
+Celta                     3-2 Sevilla
+Girona                    0-1 Villarreal
+Mallorca                  2-1 Valladolid
+Atlético                  4-0 Sociedad
+_ May 11 _
+Leganés                   3-2 Espanyol
+Barcelona                 4-3 Madrid
+Athletic                  1-0 Alavés
+Betis                     1-1 Osasuna
+
+▪ Round 36 ▪
+_ May 13 _
+Valladolid                0-1 Girona
+Sociedad                  0-1 Celta
+Sevilla                   1-0 Las Palmas
+_ May 14 _
+Alavés                    1-0 Valencia
+Villarreal                3-0 Leganés
+Madrid                    2-1 Mallorca
+_ May 15 _
+Osasuna                   2-0 Atlético
+Rayo Vallecano            2-2 Betis
+Getafe                    0-2 Athletic
+Espanyol                  0-2 Barcelona
+
+▪ Round 37 ▪  May 18
+Atlético                  4-1 Betis
+Osasuna                   2-0 Espanyol
+Barcelona                 2-3 Villarreal
+Celta                     1-2 Rayo Vallecano
+Mallorca                  1-2 Getafe
+Sociedad                  3-2 Girona
+Valladolid                0-1 Alavés
+Sevilla                   0-2 Madrid
+Las Palmas                0-1 Leganés
+Valencia                  0-1 Athletic
+
+▪ Round 38 ▪
+_ May 23 _
+Betis                     1-1 Valencia
+_ May 24 _
+Madrid                    2-0 Sociedad
+Leganés                   3-0 Valladolid
+Espanyol                  2-0 Las Palmas
+Alavés                    1-1 Osasuna
+Getafe                    1-2 Celta
+Rayo Vallecano            0-0 Mallorca
+_ May 25 _
+Girona                    0-4 Atlético
+Villarreal                4-2 Sevilla
+Athletic                  0-3 Barcelona
+
+<!-- $table3$ - Final Table -->
+
+

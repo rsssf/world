@@ -1,37 +1,35 @@
   <!--
-     source: https://rsssf.org/tabless/skor2025.html
+     title:   South Korea 2025
+     source:  https://rsssf.org/tabless/skor2025.html
+     author:  Karel Stokkermans
+     updated: 23 Dec 2025
     -->
-  
-
-
-== South Korea 2025
 
 
 
 
 
-==== K League 1  ‹§k1›
 
-‹Regular Stage, see §reg› | ‹Championship Group, see §champ› | ‹Relegation Group, see §rel›
 
-▪ Regular Stage ▪
 
-<!-- $table1$ -->
+== K League 1  ‹§k1›
 
+
+=== Regular Stage  ‹§reg›
+
+<!-- $table1$ - Final Table -->
 
 [*] Jeju United were renamed Jeju SK
 
-Championship Group  ‹§champ›
+=== Championship Group  ‹§champ›
 
-<!-- $table2$ -->
+<!-- $table2$ - Final Table -->
 
+=== Relegation Group  ‹§rel›
 
-Relegation Group  ‹§rel›
+<!-- $table3$ - Final Table -->
 
-<!-- $table3$ -->
-
-
-Promotion/Relegation Playoffs  ‹§prorel›
+=== Promotion/Relegation Playoffs  ‹§prorel›
 
 ▪ First Legs ▪
 _ Dec 3 _
@@ -51,7 +49,7 @@ NB: Bucheon FC promoted, Suwon FC relegated
 
 
 
-==== Korea FA Cup  ‹§kfacup›
+== Korea FA Cup  ‹§kfacup›
 
 ▪ 1/8 Finals ▪  May 14
 Gangwon FC              2-1 Siheung Citizen
@@ -87,12 +85,11 @@ Gwangju FC              1-2 Jeonbuk Hyundai Motors
 
 
 
-==== K League 2  ‹§k2›
+== K League 2  ‹§k2›
 
-<!-- $table4$ -->
+<!-- $table4$ - Final Table -->
 
-
-Promotion Playoffs  ‹§2prompo›
+=== Promotion Playoffs  ‹§2prompo›
 
 ▪ First Round ▪  Nov 27
 Seoul E-Land     0-1 Seongnam
@@ -102,10 +99,4 @@ Bucheon          0-0 Seongnam
 
 NB: Bucheon qualified for ‹Promotion/Relegation Playoff, see §prorel› on better record regular season
 
-
-
-
-
-
-<!-- $about$ -->
 

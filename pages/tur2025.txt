@@ -1,19 +1,20 @@
   <!--
-     source: https://rsssf.org/tablest/tur2025.html
+     title:   Turkey 2024/25
+     source:  https://rsssf.org/tablest/tur2025.html
+     author:  Karel Stokkermans
+     updated: 2 Jun 2025
     -->
-  
-
-
-== Turkey 2024/25
 
 
 
 
 
-==== Süper Lig  ‹§super›
 
-<!-- $table1$ -->
 
+
+== Süper Lig  ‹§super›
+
+<!-- $table1$ - Final Table -->
 
 NB: Adana Demirspor had 3 points deducted due to infringements in the
     licensing proces, 3 more points deducted for walking off in round 23,
@@ -317,8 +318,7 @@ Göztepe              5-0 Kasımpaşa
 Konyaspor            2-3 Fenerbahçe
 Eyüpspor             bye
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Halfway Table -->
 
 NB: Adana Demirspor had 3 points deducted due to infringements in the
     licensing process
@@ -620,17 +620,10 @@ Bodrum               0-4 Beşiktaş
 Samsunspor           2-1 Kayserispor
 Eyüpspor             bye
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 NB: Adana Demirspor had 3 points deducted due to infringements in the
     licensing proces, 3 more points deducted for walking off in round 23,
     and another 6 points by a FIFA decision for failing to pay fees
 
-
-
-
-
-
-<!-- $about$ -->
 

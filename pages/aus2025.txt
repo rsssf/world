@@ -1,23 +1,23 @@
   <!--
-     source: https://rsssf.org/tablesa/aus2025.html
+     title:   Australia 2024/25
+     source:  https://rsssf.org/tablesa/aus2025.html
+     authors: Adri van Veen and Karel Stokkermans
+     updated: 19 Dec 2025
     -->
-  
-
-
-== Australia 2024/25
 
 
 
 
 
-==== A-League  ‹§aleague›
 
-‹Preliminary Stage, see §prel› | ‹Playoff Stage, see §play›
 
-Preliminary Stage  ‹§prel›
 
-<!-- $table1$ -->
+== A-League  ‹§aleague›
 
+
+=== Preliminary Stage  ‹§prel›
+
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Oct 18 _
@@ -180,7 +180,7 @@ _ Jan 12 _
 Newcastle Jets            1-3 Macarthur FC
 Western Sydney Wanderers  bye
 
-Moved Match [Jan 14]
+▪ Moved Match ▪  Jan 14
 Perth Glory               1-2 Western Sydney Wanderers
 
 ▪ Round 14 ▪
@@ -195,7 +195,7 @@ _ Jan 20 _
 Macarthur FC              1-2 Wellington Phoenix
 Perth Glory               bye
 
-Moved Match [Jan 22]
+▪ Moved Match ▪  Jan 22
 Adelaide United           2-2 Auckland FC
 
 ▪ Round 15 ▪
@@ -211,7 +211,7 @@ _ Apr 22 _
 Brisbane Roar             1-1 Adelaide United
 Western United            bye
 
-Moved Match [Jan 29]
+▪ Moved Match ▪  Jan 29
 Western United            2-2 Central Coast Mariners
 
 ▪ Round 16 ▪
@@ -289,7 +289,7 @@ Perth Glory               bye
 Western Sydney Wanderers  bye
 Sydney FC                 bye
 
-Moved Match [Mar 12]
+▪ Moved Match ▪  Mar 12
 Melbourne City            0-1 Newcastle Jets
 
 ▪ Round 22 ▪
@@ -377,10 +377,9 @@ Wellington Phoenix        0-2 Perth Glory
 Melbourne Victory         1-1 Newcastle Jets
 Adelaide United           bye
 
-<!-- $table2$ -->
+<!-- $table2$ - Final Table -->
 
-
-▪ Playoff Stage ▪
+=== Playoff Stage  ‹§play›
 
 ▪ First Round ▪
 _ May 9 _
@@ -408,7 +407,7 @@ Melbourne City            1-0 Melbourne Victory
 
 
 
-==== Australian Championship 2025  ‹§ozchamp›
+== Australian Championship 2025  ‹§ozchamp›
 
 NB: ianugural edition; replaced the National Premier Leagues final round
 
@@ -434,39 +433,19 @@ Participants:
 
 ‹Group Stage, see §2grp› | ‹Playoff Stage, see §2play›
 
-Group Stage  ‹§2grp›
+=== Group Stage  ‹§2grp›
 
 Final Tables:
 
-▪ Group A ▪
- 1. South Melbourne           6   5  1  0  13- 6  16  Qualified
- 2. Moreton City Excelsior    6   2  2  2  15-13   8  Qualified
- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3. Sydney Olympic            6   2  1  3  14-14   7
- 4. Broadmeadow Magic         6   1  0  5   8-17   3
+<!-- $table3$ - Group A -->
 
-▪ Group B ▪
- 1. Heidelberg United         6   3  3  0  15- 6  12  Qualified
- 2. Marconi Stallions         6   3  1  2  10- 7  10  Qualified
- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3. Wollongong Wolves         6   3  1  2  13-11  10
- 4. South Hobart              6   0  1  5   6-20   1
+<!-- $table4$ - Group B -->
 
-▪ Group C ▪
- 1. Avondale FC               6   3  3  0  12- 6  12  Qualified
- 2. NWS Spirit FC             6   2  2  2   8- 9   8  Qualified
- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3. Preston Lions             6   1  4  1   7- 6   7
- 4. Canberra Croatia          6   1  1  4   6-12   4
+<!-- $table5$ - Group C -->
 
-▪ Group D ▪
- 1. APIA Leichhardt           6   4  1  1  12- 4  13  Qualified
- 2. MetroStars                6   3  1  2   7- 4  10  Qualified
- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3. Bayswater City            6   3  1  2   7- 9  10
- 4. Sydney United 58          6   0  1  5   5-14   1
+<!-- $table6$ - Group D -->
 
-▪ Playoff Stage ▪
+=== Playoff Stage  ‹§2play›
 
 ▪ Quarterfinals ▪
 APIA Leichhardt           1-1 Marconi Stallions         [aet, Marconi on pen]
@@ -485,287 +464,252 @@ Marconi Stallions         0-2 South Melbourne
 
 
 
-==== State Leagues 2025  ‹§states›
-
-‹Australian Capital Territory, see §act› | ‹New South Wales, see §nsw› | ‹Northern New South Wales, see §nnsw› | ‹Northern Territory, see §nth› | ‹Queensland, see §qld› | ‹South Australia, see §south› | ‹Tasmania, see §tas› | ‹Victoria, see §vic› | ‹Western Australia, see §west›
+== State Leagues 2025  ‹§states›
 
 
 
 
 
-===== Australian Capital Territory 2025  ‹§act›
+
+=== Australian Capital Territory 2025  ‹§act›
 
 National Premier League
 
-<!-- $table3$ -->
-
+<!-- $table7$ - Final Table -->
 
 NB: Yoogali SC withdrew after the season
 
 ▪ Finals ▪
 
-Minor Semifinal
+▪ Minor Semifinal ▪
 Monaro Panthers           5-1 Tuggeranong United
 
-Major Semifinal
+▪ Major Semifinal ▪
 Canberra Croatia          2-3 Cooma Tigers FC
 
-Preliminary Final
+▪ Preliminary Final ▪
 Canberra Croatia          1-2 Monaro Panthers
 
-Grand Final
+▪ Grand Final ▪
 Cooma Tigers FC           3-0 Monaro Panthers
 
 Capital Premier League
 
-<!-- $table4$ -->
+<!-- $table8$ - Final Table -->
 
-
-Final Series
+▪ Final Series ▪
 ANU FC                    1-1 Canberra Juventus         [ANU FC on pen]
 Belconnen United          1-2 Canberra Olympic
 Belconnen United          1-3 ANU FC
 
-Grand Final
+▪ Grand Final ▪
 Canberra Olympic          3-1 ANU FC
 
 State League One
 
-<!-- $table5$ -->
+<!-- $table9$ - Final Table -->
 
-
-Final Series
+▪ Final Series ▪
 UC Stars                  0-1 Majura FC
 Weston Molonglo Wanderers 2-1 ANU FC Blue
 
-Grand Final
+▪ Grand Final ▪
 Weston Molonglo Wanderers 1-1 Majura FC                 [Majura FC on pen]
 
 State League Two
 
-<!-- $table6$ -->
+<!-- $table10$ - Final Table -->
 
-
-Final Series
+▪ Final Series ▪
 ANU FC Blue B             3-2 Cooma Tigers FC C
 Weston Molonglo Wand. B   2-0 Weston Molonglo Magpies
 
-Grand Final
+▪ Grand Final ▪
 Weston Molonglo Wand. B   1-3 ANU FC Blue
 
-===== New South Wales 2025  ‹§nsw›
+=== New South Wales 2025  ‹§nsw›
 
 National Premier League
 
-<!-- $table7$ -->
+<!-- $table11$ - Final Table -->
 
-
-Final Series
+▪ Final Series ▪
 Marconi Stallions           1-1 Sydney United 58            [Marconi Stallions on pen]
 Rockdale Ilinden            1-0 Blacktown City
 APIA Leichhardt             2-0 Marconi Stallions
 NWS Spirit FC               1-2 Rockdale Ilinden            (aet)
 
-Grand Final
+▪ Grand Final ▪
 APIA Leichhardt             2-1 Rockdale Ilinden
 
-Promotion/Relegation Matches
+▪ Promotion/Relegation Matches ▪
 SD Raiders              2-2 1-0 Central Coast Mariners B
 
 New South Wales League One
 
-<!-- $table8$ -->
+<!-- $table12$ - Final Table -->
 
-
-Promotion/Relegation Matches
+▪ Promotion/Relegation Matches ▪
 Prospect United         1-2 3-1 Bonnyrigg White Eagles
 
 New South Wales League Two
 
-<!-- $table9$ -->
+<!-- $table13$ - Final Table -->
 
+==== Northern New South Wales - National Premier League  ‹§nnsw›
 
-Northern New South Wales - National Premier League  ‹§nnsw›
+<!-- $table14$ - Final Table -->
 
-<!-- $table10$ -->
-
-
-Final Series
+▪ Final Series ▪
 Lambton Jaffas              3-1 Maitland FC
 Edgeworth Eagles            1-2 Weston Bears
 Edgeworth Eagles            1-3 Lambton Jaffas
 Broadmeadow Magic           2-0 Weston Bears
 Weston Bears                0-2 Lambton Jaffas
 
-Grand Final
+▪ Grand Final ▪
 Broadmeadow Magic           2-0 Lambton Jaffas
 
-Promotion/Relegation Matches
+▪ Promotion/Relegation Matches ▪
 Valentine Phoenix       0-0 2-0 Singleton Strikers
 Toronto Awaba           2-4 0-0 West Wallsend
 Valentine Phoenix           4-0 West Wallsend
 
 Northern New South Wales League One
 
-<!-- $table11$ -->
-
+<!-- $table15$ - Final Table -->
 
 Northern New South Wales - Newcastle Zone League One
 
-<!-- $table12$ -->
+<!-- $table16$ - Final Table -->
 
-
-Final Series
+▪ Final Series ▪
 Newcastle Suns              0-1 Kotara South
 University of Newcastle     4-0 Mayfield United
 Newcastle Croatia           6-2 Kotata South
 Newcastle Suns              1-3 University of Newcastle
 Kotara South                2-0 University of Newcastle
 
-Grand Final
+▪ Grand Final ▪
 Newcastle Croatia           1-0 Kotara South
 
-===== Northern Territory 2025  ‹§nth›
+=== Northern Territory 2025  ‹§nth›
 
 Norzone Premier League
 
-<!-- $table13$ -->
+<!-- $table17$ - Final Table -->
 
-
-Final Series
+▪ Final Series ▪
 Darwin Olympic              5-1 Darwin Hearts
 Azzurri United FC           2-1 Mindil Aces
 Darwin Hearts               0-2 Azzurri United FC
 
-Grand Final
+▪ Grand Final ▪
 Darwin Olympic              0-3 Azzurri United FC
 
 Southern Premier League
 
-<!-- $table14$ -->
+<!-- $table18$ - Final Table -->
 
-
-Final Series
+▪ Final Series ▪
 Vikings FC                 10-0 Celtic FC
 Verdi FC                    2-0 Stormbirds SC
 Stormbirds SC               5-3 Vikings FC
 
-Grand Final
+▪ Grand Final ▪
 Verdi FC                    0-5 Stormbirds SC
 
-===== Queensland 2025  ‹§qld›
+=== Queensland 2025  ‹§qld›
 
 National Premier League
 
-<!-- $table15$ -->
+<!-- $table19$ - Final Table -->
 
-
-Final Series
+▪ Final Series ▪
 Gold Coast Knights          0-1 Lions FC
 Lions FC                    3-0 Peninsular Power
 Moreton City Excelsior      4-1 Eastern Suburbs
 
-Grand Final
+▪ Grand Final ▪
 Moreton City Excelsior      1-2 Lions FC
 
 Queensland Premier League One
 
-<!-- $table16$ -->
-
+<!-- $table20$ - Final Table -->
 
 [*] Magic United 3 punten in mindering.
 
-Final Series
+▪ Final Series ▪
 Rochedale Rovers            3-0 Broadbeach United
 Magic United                2-1 Brisbane Strikers
 
-Grand Final
+▪ Grand Final ▪
 Magic United                2-1 Rochedale Rovers
 
 Queensland Premier League Two
 
-<!-- $table17$ -->
+<!-- $table21$ - Final Table -->
 
-
-Final Series
+▪ Final Series ▪
 Robina City                 5-4 Grange Thistle
 North Star                  5-3 Moreton City Excelsior B
 
-Grand Final
+▪ Grand Final ▪
 Robina City                 2-1 North Star
 
 Brisbane Premier League
 
-<!-- $table18$ -->
+<!-- $table22$ - Final Table -->
 
-
-Final Series
+▪ Final Series ▪
 Virginia United             4-1 Ipswich Knights
 Newmarket                   5-4 Carina
 
-Grand Final
+▪ Grand Final ▪
 Virginia United             1-2 Newmarket
 
-===== South Australia 2025  ‹§south›
+=== South Australia 2025  ‹§south›
 
 National Premier League
 
-<!-- $table19$ -->
+<!-- $table23$ - Final Table -->
 
-
-Final Series
+▪ Final Series ▪
 FK Beograd                  1-2 Adelaide United B
 Croydon                     4-1 West Torrens Birkalla
 Adelaide United B       0-1 1-2 MetroStars
 Croydon                 1-1 0-0 Adelaide City               [Croydon on pen]
 
-Grand Final
+▪ Grand Final ▪
 Croydon                     2-1 MetroStars
 
 State League One
 
-<!-- $table20$ -->
+<!-- $table24$ - Final Table -->
 
-
-Final Series
+▪ Final Series ▪
 Salisbury United            1-1 Adelaide Blue Eagles        [Salisbury United on pen]
 West Adelaide               4-0 Cumberland United
 Salisbury United        0-1 1-3 Sturt Lions
 West Adelaide           1-1 2-0 Fulham United
 
-Grand Final
+▪ Grand Final ▪
 Sturt Lions                 2-3 West Adelaide               (aet)
 
 State League Two
 
 Final Tables:
 
-North
- 1. Modbury Vista            21  13  3  5  52-34  42  Promotion Playoff
- 2. Adelaide Atletico        21  11  5  5  42-27  38  Promotion Playoff
- 3. Salisbury Inter          21  11  5  5  44-28  32  [-6]  Promotion Playoff
- 4. Gawler Eagles            21   9  2 10  31-33  29  Promotion Playoff
- 5. Port Adelaide            21   8  3 10  34-36  27
- 6. Northern Demons          21   8  1 12  40-44  25
- 7. Ghan United              21   8  3 10  39-44  21  [-6]
- 8. Elizabeth Grove          21   4  2 15  24-60  14
+<!-- $table25$ - North -->
 
-South
- 1. Eastern United           21  14  3  4  78-25  45  Promotion Playoff
- 2. Adelaide University      21  11  7  3  47-27  40  Promotion Playoff
- 3. Western Strikers         21  10  5  6  37-30  35  Promotion Playoff
- 4. Seaford Rangers          21   9  6  6  39-36  33  Promotion Playoff
- 5. Adelaide Titans          21   7  4 10  27-38  25
- 6. Noarlunga United         21   5  5 11  32-56  20
- 7. Mount Barker United      21   4  5 12  25-51  17
- 8. Adelaide Hills Hawks     21   3  7 11  24-46  16
+<!-- $table26$ - South -->
 
 ▪ Championship Playoff ▪
 Modbury Vista               0-2 Eastern United
 
 NB: Modbury Vista to semifinals promotion playoff
 
-Promotion Playoff
+▪ Promotion Playoff ▪
 
 ▪ Round 1 ▪
 Salisbury Inter         2-2 1-2 Western Strikers
@@ -783,59 +727,52 @@ Amateur Division One
 
 Saturday
 
-<!-- $table21$ -->
-
+<!-- $table27$ - Final Table -->
 
 Sunday
 
-<!-- $table22$ -->
+<!-- $table28$ - Final Table -->
 
-
-===== Tasmania 2024  ‹§tas›
+=== Tasmania 2024  ‹§tas›
 
 National Premier League
 
-<!-- $table23$ -->
-
+<!-- $table29$ - Final Table -->
 
 NB: no final series
 
 Northern Championship
 
-<!-- $table24$ -->
-
+<!-- $table30$ - Final Table -->
 
 NB: no final series
 
 Southern Championship
 
-<!-- $table25$ -->
-
+<!-- $table31$ - Final Table -->
 
 NB: no final series; remaining matches not played
 
-===== Victoria 2025  ‹§vic›
+=== Victoria 2025  ‹§vic›
 
 National Premier League
 
-<!-- $table26$ -->
+<!-- $table32$ - Final Table -->
 
-
-Final Series
+▪ Final Series ▪
 Dandenong Thunder           0-1 Dandenong City
 Oakleigh Cannons            1-2 Preston Lions
 Heidelberg United           2-1 Preston Lions
 Avondale Heights            0-1 Dandenong City
 
-Grand Final
+▪ Grand Final ▪
 Heidelberg United           2-1 Dandenong City
 
 Victoria Premier League One
 
-<!-- $table27$ -->
+<!-- $table33$ - Final Table -->
 
-
-Promotion Matches
+▪ Promotion Matches ▪
 
 ▪ Semifinals ▪
 Brunswick City              3-1 North Sunshine Eagles
@@ -846,10 +783,9 @@ Melbourne City B            2-2 Brunswick City              [Melbourne on pen]
 
 Victoria Premier League Two
 
-<!-- $table28$ -->
+<!-- $table34$ - Final Table -->
 
-
-Promotion Matches
+▪ Promotion Matches ▪
 
 ▪ Semifinals ▪
 Altona City                 0-0 Springvale White Eagles     [Springvale on pen]
@@ -862,27 +798,24 @@ State League Division One
 
 North/West
 
-<!-- $table29$ -->
-
+<!-- $table35$ - Final Table -->
 
 South/East
 
-<!-- $table30$ -->
+<!-- $table36$ - Final Table -->
 
-
-===== Western Australia 2025  ‹§west›
+=== Western Australia 2025  ‹§west›
 
 National Premier League
 
-<!-- $table31$ -->
+<!-- $table37$ - Final Table -->
 
-
-Final Series
+▪ Final Series ▪
 Bayswater City              1-0 Kingsway Olympic
 Perth Red Star              2-2 Perth Glory B               [Glory B on pen]
 Kingsway Olympic            4-0 Perth Glory B
 
-Grand Final
+▪ Grand Final ▪
 Bayswater City              2-1 Kingsway Olympic
 
 ▪ Promotion/Relegation Playoff ▪
@@ -892,8 +825,7 @@ Fremantle City              2-1 Joondalup City
 
 State League Division One
 
-<!-- $table32$ -->
-
+<!-- $table38$ - Final Table -->
 
 ▪ Promotion/Relegation Playoff ▪
 Forrestfield United     2-1 0-2 Kalamunda City
@@ -902,8 +834,7 @@ Kalamunda City              1-1 Cockburn City               [Cockburn on pen]
 
 State League Division Two
 
-<!-- $table33$ -->
-
+<!-- $table39$ - Final Table -->
 
 ▪ Promotion/Relegation Playoff ▪
 Swan United                 0-1 North Beach
@@ -911,12 +842,5 @@ Wanneroo City               2-3 Morley-Windmills
 
 Amateur Premier League
 
-<!-- $table34$ -->
-
-
-
-
-
-
-<!-- $about$ -->
+<!-- $table40$ - Final Table -->
 

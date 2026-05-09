@@ -1,0 +1,101 @@
+  <!--
+     title:   Brazil 2025
+     source:  https://rsssf.org/tablesb/braz2025.html
+     author:  Karel Stokkermans
+     updated: 23 Dec 2025
+    -->
+
+
+
+
+
+
+
+
+== Série A  ‹§sa›
+
+<!-- $table1$ - Final Table -->
+
+
+
+
+
+
+== Copa do Brasil 2025  ‹§cb›
+
+▪ Quarterfinals ▪
+
+▪ First Legs ▪
+_ Aug 27 _
+Atlético/MG     0-2 Cruzeiro
+Athletico/PR    0-1 Corinthians
+Vasco da Gama   1-1 Botafogo
+_ Aug 28 _
+Bahia           1-0 Fluminense
+
+▪ Second Legs ▪
+_ Sep 10 _
+Corinthians     2-0 Athletico/PR
+Fluminense      2-0 Bahia
+_ Sep 11 _
+Cruzeiro        2-0 Atlético/MG
+Botafogo        1-1 Vasco da Gama   (3-5 pen)
+
+▪ Semifinals ▪
+
+▪ First Legs ▪
+_ Dec 10 _
+Cruzeiro        0-1 Corinthians
+_ Dec 11 _
+Vasco da Gama   2-1 Fluminense
+
+▪ Second Legs ▪  Dec 14
+Corinthians     1-2 Cruzeiro        (5-4 pen)
+Fluminense      1-0 Vasco da Gama   (3-4 pen)
+
+▪ Final ▪
+
+▪ First Leg ▪  Dec 17
+Corinthians     0-0 Vasco da Gama
+
+▪ Second Leg ▪  Dec 21
+Vasco da Gama   1-2 Corinthians
+
+
+
+
+
+== Série B  ‹§sb›
+
+<!-- $table2$ - Final Table -->
+
+
+
+
+
+
+== Série C  ‹§sc›
+
+First Stage (Grupo A)
+
+<!-- $table3$ - Final Table -->
+
+▪ Second Stage ▪
+
+Final Tables:
+
+<!-- $table4$ - Grupo B -->
+
+<!-- $table5$ - Grupo C -->
+
+▪ Championship Final ▪
+
+▪ First Leg ▪  Oct 18
+Londrina        0-0 Ponte Preta
+
+▪ Second Leg ▪  Oct 25
+Ponte Preta     2-0 Londrina
+
+Promoted from 4th level: Barra (Balneário Camboriú), Santa Cruz (Recife),
+                         Maranhão (São Luís), Inter de Limeira
+
