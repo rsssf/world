@@ -1,22 +1,33 @@
-  <!--
-     title:   Mexico 2024/25
-     source:  https://rsssf.org/tablesm/mex2025.html
-     author:  Erik Francisco Lugo
-     updated: 19 Dec 2025
-    -->
+<!--
+   title:   Mexico 2024/25
+   source:  https://rsssf.org/tablesm/mex2025.html
+   author:  Erik Francisco Lugo
+   updated: 19 Dec 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Liga MX                            (see §§pdn)
+           Apertura 2024                    (see §§1aper)
+           Clausura 2025                    (see §§1clau)
+         Campeón de Campeones               (see §§campcamp)
+         Liga Expansión MX                  (see §§ascenso)
+           Apertura 2024                    (see §§2aper)
+             Regular Stage                  (see §§2aperreg)
+             Playoff Stage                  (see §§2aperplay)
+           Clausura 2025                    (see §§2clau)
+             Regular Stage                  (see §§2claureg)
+             Playoff Stage                  (see §§2clauplay)
+         Liga 4                             (see §§lig4)
+  -->
 
 
 
 
 == Liga MX  ‹§pdn›
 
-
 === Apertura 2024  ‹§1aper›
-
 
 ▪ Regular Stage ▪
 
@@ -534,7 +545,6 @@ Patricio Salas                          FW
 Coach: André Jardine (BRA)
 
 === Clausura 2025  ‹§1clau›
-
 
 ▪ Regular Stage ▪
 
@@ -1105,10 +1115,6 @@ Oswaldo Virgen                          FW
 Coach: Antonio Mohamed (ARG)
 
 
-
-
-
-
 == Campeón de Campeones  ‹§campcamp›
 
 Between the winners of Apertura 2024 (América) and Clausura 2025 (Toluca)
@@ -1119,14 +1125,8 @@ América               1-3 Toluca
   (Alejandro Zendejas 1; Franco Romero 11, Bruno Méndez 45+5, Joao Paulo Dias "Paulinho" 69)
 
 
-
-
-
 == Liga Expansión MX  ‹§ascenso›
-
-
 === Apertura 2024  ‹§2aper›
-
 
 ==== Regular Stage  ‹§2aperreg›
 
@@ -1412,8 +1412,6 @@ Tapatío         3-2 Celaya
 
 
 === Clausura 2025  ‹§2clau›
-
-
 ==== Regular Stage  ‹§2claureg›
 
 Changes before season:
@@ -1732,9 +1730,6 @@ Tapatío          1-0 Leones Negros
 ▪ Second leg ▪  Jun 7
 Estadio Jalisco, Guadalajara
 Leones Negros    1-2 Tapatío
-
-
-
 
 
 == Liga 4  ‹§lig4›

@@ -1,13 +1,18 @@
-  <!--
-     title:   Morocco 2024/25
-     source:  https://rsssf.org/tablesm/maro2025.html
-     author:  Karel Stokkermans
-     updated: 31 Oct 2025
-    -->
+<!--
+   title:   Morocco 2024/25
+   source:  https://rsssf.org/tablesm/maro2025.html
+   author:  Karel Stokkermans
+   updated: 31 Oct 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         GNF I                              (see §§gnf1)
+           Promotion/Relegation Playoff     (see §§prorel)
+         GNF II                             (see §§gnf2)
+           Promotion/Relegation Playoff 2nd/3rd level  (see §§2prorel)
+  -->
 
 
 
@@ -425,9 +430,6 @@ _ May 31 _
 HUS Agadir         1-0 Raja Béni Mellal
 
 NB: Olympique Dcheira promoted, JS Soualem relegated
-
-
-
 
 
 == GNF II  ‹§gnf2›

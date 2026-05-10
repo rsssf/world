@@ -1,19 +1,24 @@
-  <!--
-     title:   Scotland 2024/25
-     source:  https://rsssf.org/tabless/scot2025.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 8 Sep 2025
-    -->
+<!--
+   title:   Scotland 2024/25
+   source:  https://rsssf.org/tabless/scot2025.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 8 Sep 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Premiership                        (see §§premier)
+           Regular Stage                    (see §§reg)
+           Championship Playoff             (see §§champ)
+           Relegation Playoff               (see §§releg)
+         Highland Amateur Cup 2025          (see §§hama)
+  -->
 
 
 
 
 == Premiership  ‹§premier›
-
 
 === Regular Stage  ‹§reg›
 
@@ -413,10 +418,6 @@ Ross County         1-1 Motherwell
 Saint Johnstone     0-2 Dundee
 
 <!-- $table6$ - Final Table -->
-
-
-
-
 
 
 == Highland Amateur Cup 2025  ‹§hama›

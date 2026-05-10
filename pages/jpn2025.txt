@@ -1,13 +1,24 @@
-  <!--
-     title:   Japan 2025
-     source:  https://rsssf.org/tablesj/jpn2025.html
-     author:  Andrei Balitskiy
-     updated: 14 Dec 2025
-    -->
+<!--
+   title:   Japan 2025
+   source:  https://rsssf.org/tablesj/jpn2025.html
+   author:  Andrei Balitskiy
+   updated: 14 Dec 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         J1 League                          (see §§jl1)
+         Emperor's Cup                      (see §§emp)
+         J.League YBC Levain Cup            (see §§jlcup)
+         J2 League                          (see §§jl2)
+           Promotion Playoff                (see §§2prom)
+         J3 League                          (see §§jl3)
+           Promotion Playoff                (see §§3prom)
+           Promotion/Relegation Playoff     (see §§34prorel)
+         JFL                                (see §§jfl)
+           Promotion/Relegation Playoff     (see §§45prorel)
+  -->
 
 
 
@@ -593,9 +604,6 @@ Sanfrecce Hiroshima     -  Shonan Bellmare
 <!-- $table3$ - Final Table -->
 
 
-
-
-
 == Emperor's Cup  ‹§emp›
 
 ▪ First Round ▪  May 24-25
@@ -631,10 +639,6 @@ Vissel Kobe            2-0 Sanfrecce Hiroshima
 
 ▪ Final ▪  Nov 22
 Machida Zelvia         3-1 Vissel Kobe
-
-
-
-
 
 
 == J.League YBC Levain Cup  ‹§jlcup›
@@ -802,10 +806,6 @@ Sanfrecce Hiroshima    2-1 Yokohama FC
 
 ▪ Final ▪  Nov 1
 Kashiwa Reysol         1-3 Sanfrecce Hiroshima
-
-
-
-
 
 
 == J2 League   ‹§jl2›
@@ -1377,9 +1377,6 @@ Tokushima Vortis       1-1 Júbilo Iwata           [Tokushima on league finish]
 JEF United Chiba       1-0 Tokushima Vortis
 
 NB: JEF United Chiba promoted
-
-
-
 
 
 == J3 League  ‹§jl3›
@@ -1968,9 +1965,6 @@ Reilac Shiga           3-2 Azul Claro Numazu
 Azul Claro Numazu      1-1 Reilac Shiga
 
 NB: Reilac Shiga promoted, Azul Claro Numazu relegated
-
-
-
 
 
 == JFL  ‹§jfl›

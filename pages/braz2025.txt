@@ -1,13 +1,18 @@
-  <!--
-     title:   Brazil 2025
-     source:  https://rsssf.org/tablesb/braz2025.html
-     author:  Karel Stokkermans
-     updated: 23 Dec 2025
-    -->
+<!--
+   title:   Brazil 2025
+   source:  https://rsssf.org/tablesb/braz2025.html
+   author:  Karel Stokkermans
+   updated: 23 Dec 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Série A                            (see §§sa)
+         Copa do Brasil 2025                (see §§cb)
+         Série B                            (see §§sb)
+         Série C                            (see §§sc)
+  -->
 
 
 
@@ -15,10 +20,6 @@
 == Série A  ‹§sa›
 
 <!-- $table1$ - Final Table -->
-
-
-
-
 
 
 == Copa do Brasil 2025  ‹§cb›
@@ -62,16 +63,9 @@ Corinthians     0-0 Vasco da Gama
 Vasco da Gama   1-2 Corinthians
 
 
-
-
-
 == Série B  ‹§sb›
 
 <!-- $table2$ - Final Table -->
-
-
-
-
 
 
 == Série C  ‹§sc›

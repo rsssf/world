@@ -1,13 +1,16 @@
-  <!--
-     title:   Portugal 2024/25
-     source:  https://rsssf.org/tablesp/port2025.html
-     authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 17 May 2025
-    -->
+<!--
+   title:   Portugal 2024/25
+   source:  https://rsssf.org/tablesp/port2025.html
+   authors: Roberto Di Maggio and Karel Stokkermans
+   updated: 17 May 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Liga Portugal                      (see §§liga1)
+         League Cup                         (see §§leaguecup)
+  -->
 
 
 
@@ -518,10 +521,6 @@ Farense           1-2 Santa Clara
 Sporting          2-0 Vitória Guimarães
 
 <!-- $table3$ - Final Table -->
-
-
-
-
 
 
 == League Cup  ‹§leaguecup›

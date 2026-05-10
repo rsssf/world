@@ -1,13 +1,26 @@
-  <!--
-     title:   Algeria 2025/26
-     source:  https://rsssf.org/tablesa/alg2026.html
-     author:  Michel Menard
-     updated: 2 Feb 2026
-    -->
+<!--
+   title:   Algeria 2025/26
+   source:  https://rsssf.org/tablesa/alg2026.html
+   author:  Michel Menard
+   updated: 2 Feb 2026
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Ligue 1                            (see §§premiere)
+         Coupe Nationale d'Algerie          (see §§coupe)
+         Ligue 2                            (see §§deuxieme)
+           Groupe Centre-Est                (see §§2ce)
+           Groupe Centre-Ouest              (see §§2co)
+         Ligues Inter-Régions               (see §§troisieme)
+           Groupe Est                       (see §§3es)
+           Groupe Centre-Est                (see §§3ce)
+           Groupe Centre-Ouest              (see §§3co)
+           Groupe Ouest                     (see §§3ou)
+           Groupe Sud-Ouest                 (see §§3so)
+           Groupe Sud-Est                   (see §§3se)
+  -->
 
 
 
@@ -219,10 +232,6 @@ CR Belouizdad         0-1 JS Kabylie
 <!-- $table2$ - Halfway Table -->
 
 
-
-
-
-
 == Coupe Nationale d'Algerie  ‹§coupe›
 
 National stage
@@ -316,13 +325,7 @@ CA Batna            -  MC Saida
 ▪ Final ▪
 
 
-
-
-
-
 == Ligue 2  ‹§deuxieme›
-
-
 === Groupe Centre-Est  ‹§2ce›
 
 <!-- $table3$ - Halfway Table -->
@@ -669,13 +672,7 @@ WA Tlemcen          1-0 CR Témouchent
 <!-- $table6$ - Halfway Table -->
 
 
-
-
-
-
 == Ligues Inter-Régions  ‹§troisieme›
-
-
 === Groupe Est  ‹§3es›
 
 <!-- $table7$ -->

@@ -1,13 +1,19 @@
-  <!--
-     title:   Switzerland 2025/26
-     source:  https://rsssf.org/tablesz/zwit2026.html
-     author:  Erik Garin
-     updated: 3 Mar 2026
-    -->
+<!--
+   title:   Switzerland 2025/26
+   source:  https://rsssf.org/tablesz/zwit2026.html
+   author:  Erik Garin
+   updated: 3 Mar 2026
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Super League                       (see §§super)
+         Schweizer Cup                      (see §§cup)
+         Challenge League                   (see §§challenge)
+         Promotion League                   (see §§1prom)
+         First League - Classic             (see §§1class)
+  -->
 
 
 
@@ -330,10 +336,6 @@ _ Jan 14 2026 _
 FC Sion         FC Winterthur
 
 
-
-
-
-
 == Schweizer Cup  ‹§cup›
 
 ▪ 1/32 finals ▪
@@ -487,11 +489,6 @@ Neuchâtel Xamax         Yverdon Sport FC
 ▪ Final ▪
 
 24.05.2026
-
-
-
-
-
 
 
 == Challenge League  ‹§challenge›
@@ -769,11 +766,6 @@ Yverdon Sport      1-0 FC Rapperswil-Jona
  (69 Sessolo)
 
 
-
-
-
-
-
 == Promotion League  ‹§1prom›
 
 <!-- $table3$ - Table  -->
@@ -781,10 +773,6 @@ Yverdon Sport      1-0 FC Rapperswil-Jona
 (1) Retrait de 3 points
 
 <!-- $topscorers3$ -->
-
-
-
-
 
 
 
@@ -800,7 +788,6 @@ Yverdon Sport      1-0 FC Rapperswil-Jona
 
 
 <!-- $topscorers4$ -->
-
 
 
 

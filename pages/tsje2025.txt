@@ -1,19 +1,25 @@
-  <!--
-     title:   Czech Republic 2024/25
-     source:  https://rsssf.org/tablest/tsje2025.html
-     author:  Karel Stokkermans
-     updated: 28 May 2025
-    -->
+<!--
+   title:   Czech Republic 2024/25
+   source:  https://rsssf.org/tablest/tsje2025.html
+   author:  Karel Stokkermans
+   updated: 28 May 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Chance liga                        (see §§1gamb)
+           Regular Stage                    (see §§reg)
+           Playoff Stage                    (see §§play)
+             Skupina o Titul                (see §§champ)
+             Play-off o umístění            (see §§middle)
+             Skupina o Záchranu             (see §§releg)
+  -->
 
 
 
 
 == Chance liga  ‹§1gamb›
-
 
 === Regular Stage  ‹§reg›
 
@@ -392,8 +398,6 @@ Plzeň             4-2 Dukla
 <!-- $table3$ - Final Table -->
 
 === Playoff Stage  ‹§play›
-
-
 ==== Skupina o Titul  ‹§champ›
 
 <!-- $table4$ - Final Table -->

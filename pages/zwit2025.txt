@@ -1,19 +1,29 @@
-  <!--
-     title:   Switzerland 2024/25
-     source:  https://rsssf.org/tablesz/zwit2025.html
-     author:  Erik Garin
-     updated: 3 Mar 2026
-    -->
+<!--
+   title:   Switzerland 2024/25
+   source:  https://rsssf.org/tablesz/zwit2025.html
+   author:  Erik Garin
+   updated: 3 Mar 2026
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Super League                       (see §§super)
+           Regular Stage                    (see §§reg)
+           Playoff Stage                    (see §§play)
+             Championship Playoff           (see §§champ)
+             Relegation Playoff             (see §§releg)
+           Promotion/Relegation Playoff     (see §§prorel)
+         Schweizer Cup                      (see §§cup)
+         Challenge League                   (see §§challenge)
+         Promotion League                   (see §§1prom)
+         First League - Classic             (see §§1class)
+  -->
 
 
 
 
 == Super League  ‹§super›
-
 
 === Regular Stage  ‹§reg›
 
@@ -558,8 +568,6 @@ Basel      5-0 Yverdon
 
 
 === Playoff Stage  ‹§play›
-
-
 ==== Championship Playoff  ‹§champ›
 
 <!-- $table3$ - Final Table -->
@@ -767,10 +775,6 @@ GCZ   : Justin Hammel, Ayumu Seko, Maksim Pastoski, Amir Abrashi (60 Saulo
         Trainer : Tomas Oral.
 
 
-
-
-
-
 == Schweizer Cup  ‹§cup›
 
 ▪ 1/32 finals ▪
@@ -962,11 +966,6 @@ Biel-Bienne: Raphael Radtke, Damian Kelvin, Lois Ndema Mbongué, Anthony De Frei
              Unused subs: Benjamin Roth, Evan Stadelmann, Mahir Rizvanovic,
                           Yll Avdyli.
              Trainer : Samir Chaibeddra Tani.
-
-
-
-
-
 
 
 == Challenge League  ‹§challenge›
@@ -1497,9 +1496,6 @@ NB: Schaffhausen 3 points deducted for licensing infringments
 
 
 
-
-
-
 == Promotion League  ‹§1prom›
 
 <!-- $table9$ - Final Table -->
@@ -1510,13 +1506,7 @@ NB: Vevey 3 points deducted
 
 
 
-
-
-
-
-
 == First League - Classic  ‹§1class›
-
 
 <!-- $table10$ - Group 1 -->
 

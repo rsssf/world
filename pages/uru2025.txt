@@ -1,19 +1,44 @@
-  <!--
-     title:   Uruguay 2025
-     source:  https://rsssf.org/tablesu/uru2025.html
-     author:  Francisco Fernández
-     updated: 12 Feb 2026
-    -->
+<!--
+   title:   Uruguay 2025
+   source:  https://rsssf.org/tablesu/uru2025.html
+   author:  Francisco Fernández
+   updated: 12 Feb 2026
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Primera División Profesional       (see §§pdp)
+           Torneo Apertura 2025             (see §§aper)
+           Torneo Intermedio 2025           (see §§medio)
+             Final                          (see §§intfin)
+           Torneo Clausura 2025             (see §§clau)
+           Tabla Anual 2025                 (see §§anual)
+           Championship Playoff             (see §§play)
+           Supercopa AUF 2025               (see §§sup)
+         Segunda División Profesional       (see §§sdp)
+           Competencia                      (see §§2comp)
+             Final                          (see §§cpfn)
+           Regular Stage                    (see §§2reg)
+           Promotion Playoff                (see §§tercp)
+         Tercera Divisional de AUF          (see §§sgb)
+           Apertura                         (see §§3pri)
+             Group Stage                    (see §§31g)
+             Apertura Semifinals            (see §§31s)
+           Clausura                         (see §§3seg)
+             Clausura Final                 (see §§32f)
+           Final Promoción                  (see §§3acf)
+           Tabla Anual                      (see §§3anu)
+         Divisional D                       (see §§divd)
+           Regular Phase                    (see §§4pri)
+           Promotion Playoff                (see §§4oct)
+         Copa AUF Uruguay 2025              (see §§copa)
+  -->
 
 
 
 
 == Primera División Profesional  ‹§pdp›
-
 
 === Torneo Apertura 2025  ‹§aper›
 
@@ -912,13 +937,7 @@ NB: between champions (Nacional) and winners Intermedio (Peñarol)
 Nacional           0-0 Peñarol            (aet, 2-4 pen)
 
 
-
-
-
-
 == Segunda División Profesional  ‹§sdp›
-
-
 === Competencia  ‹§2comp›
 
 NB: winners qualify for ‹Promotion Playoff, see §tercp›
@@ -1613,14 +1632,8 @@ Atenas             0-1 Maldonado
 NB: CD Maldonado promoted
 
 
-
-
-
 == Tercera Divisional de AUF  ‹§sgb›
-
-
 === Apertura  ‹§3pri›
-
 
 NB: three group winners and best runners-up qualify for ‹semifinals, see §31s›;
     top-4 of all groups and 2 best 5th placed teams enter ‹Clausura, see §3seg›
@@ -2199,12 +2212,7 @@ NB: winners promoted;
 <!-- $table26$ -->
 
 
-
-
-
 == Divisional D  ‹§divd›
-
-
 === Regular Phase  ‹§4pri›
 
 NB: played as single round robin
@@ -2547,9 +2555,6 @@ Real Montevideo    2-2 Los Gorriones      (aet, 3-4 pen)
    Álvaro Rafael Aschieri San Torcuato 33, César Federico Pintos Álvarez 118)
 
 NB: CA Los Gorriones promoted
-
-
-
 
 
 == Copa AUF Uruguay 2025  ‹§copa›

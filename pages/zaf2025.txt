@@ -1,13 +1,21 @@
-  <!--
-     title:   South Africa 2024/25
-     source:  https://rsssf.org/tablesz/zaf2025.html
-     author:  Karel Stokkermans
-     updated: 7 Jul 2025
-    -->
+<!--
+   title:   South Africa 2024/25
+   source:  https://rsssf.org/tablesz/zaf2025.html
+   author:  Karel Stokkermans
+   updated: 7 Jul 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Premiership                        (see §§nsl)
+           Promotion/Relegation Playoff     (see §§prorel)
+         Cup Tournaments 2024/25            (see §§cups)
+           Nedbank FA Cup 2024/25           (see §§facup)
+           MTN 8 Cup 2024                   (see §§mtn8)
+           Carling Knockout Cup 2024        (see §§carling)
+         National First Division            (see §§nfd)
+  -->
 
 
 
@@ -451,13 +459,7 @@ Cape Town City           1-1 Casric Stars
 <!-- $table4$ - Final Table -->
 
 
-
-
-
-
 == Cup Tournaments 2024/25  ‹§cups›
-
-
 === Nedbank FA Cup 2024/25  ‹§facup›
 
 ▪ 1/16 Finals ▪
@@ -574,10 +576,6 @@ Marumo Gallants          0-2 Mamelodi Sundowns
 
 ▪ Final ▪  Nov 23 @ Free State Stadium, Bloemfontein
 Magesi                   2-1 Mamelodi Sundowns
-
-
-
-
 
 
 == National First Division  ‹§nfd›

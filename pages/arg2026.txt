@@ -1,13 +1,20 @@
-  <!--
-     title:   Argentina 2026
-     source:  https://rsssf.org/tablesa/arg2026.html
-     author:  Osvaldo José Gorgazzi
-     updated: 7 May 2026
-    -->
+<!--
+   title:   Argentina 2026
+   source:  https://rsssf.org/tablesa/arg2026.html
+   author:  Osvaldo José Gorgazzi
+   updated: 7 May 2026
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Torneo Apertura de la LPF de AFA 2026  (see §§1apertura)
+         Torneo Clausura de la LPF de AFA 2026  (see §§1clausura)
+         ‹Primer Descenso - First Relegation›
+         Tabla Anual de Posiciones 2026 - Final Standing (Opening and Closing phases of groups)  (see §§1first)
+         AFA national cup: Copa Argentina 2026  (see §§nationalcup)
+         National teams                     (see §§national)
+  -->
 
 
 
@@ -386,9 +393,6 @@ _ Sun May 24 _
 TBD                                     -        TBD                                TBD
 
 
-
-
-
 == Torneo Clausura de la LPF de AFA 2026  ‹§1clausura›
 
 [2026 AFA LPF Closing Tournament]
@@ -711,10 +715,6 @@ _ Sun Dec 13 _
 TBD                                     -        TBD                                TBD
 
 
-
-
-
-
 == ‹Primer Descenso - First Relegation›
 
 Triennal General Table of Averages
@@ -727,9 +727,6 @@ Tiebreaker matches (if needed to determine relegation).
 <!-- $table7$ -->
 
 
-
-
-
 == Tabla Anual de Posiciones 2026 - Final Standing (Opening and Closing phases of groups)  ‹§1first›
 
 Rules to define the champion:
@@ -740,10 +737,6 @@ Rules to define the champion:
 5. Lot.
 Tiebreaker matches in case of having to determine relegation.
 <!-- $table8$ - #.Short name                        MP   W  D  L  Gf- Ga   P (Position of…) -->
-
-
-
-
 
 
 == AFA national cup: Copa Argentina 2026  ‹§nationalcup›
@@ -851,10 +844,6 @@ TBD                                     -        TBD                            
 ▪ Final ▪
 [TBD]
 TBD                                     -        TBD                                TBD
-
-
-
-
 
 
 == National teams  ‹§national›

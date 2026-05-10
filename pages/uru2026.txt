@@ -1,19 +1,36 @@
-  <!--
-     title:   Uruguay 2026
-     source:  https://rsssf.org/tablesu/uru2026.html
-     author:  Francisco Fernández
-     updated: 5 May 2026
-    -->
+<!--
+   title:   Uruguay 2026
+   source:  https://rsssf.org/tablesu/uru2026.html
+   author:  Francisco Fernández
+   updated: 5 May 2026
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Primera División Profesional       (see §§pdp)
+           Torneo Apertura 2026             (see §§aper)
+           Torneo Intermedio 2026           (see §§medio)
+           Torneo Clausura 2026             (see §§clau)
+           Championship Playoff             (see §§play)
+         Copa de la Liga AUF Uruguaya 2026  (see §§copaliga)
+         Segunda División Profesional       (see §§sdp)
+           Competencia                      (see §§2comp)
+             Final                          (see §§cpfn)
+           Regular Stage                    (see §§2reg)
+           Promotion Playoff                (see §§tercp)
+         Tercera Divisional de AUF          (see §§sgb)
+           Torneo Inicial                   (see §§3pri)
+             Group Stage                    (see §§31g)
+           Torneo Final                     (see §§3seg)
+           Segundo Ascenso                  (see §§3sga)
+           Repechajes                       (see §§3rep)
+  -->
 
 
 
 
 == Primera División Profesional  ‹§pdp›
-
 
 === Torneo Apertura 2026  ‹§aper›
 
@@ -351,7 +368,6 @@ NB: played as single round robin in two groups:
     Group B: 2nd, 3rd, 6th, 7th, 10th, 11th, 14th and 15th teams Apertura
 
 === Torneo Clausura 2026  ‹§clau›
-
 === Championship Playoff  ‹§play›
 
 ▪ Semifinal ▪
@@ -361,10 +377,6 @@ NB: over 1 leg; between Racing (winners ‹Apertura, see §aper›) and winners 
 ▪ Final ▪
 
 NB: over 2 legs; between winners Tabla Anual and winners ‹semifinal, see §semi›
-
-
-
-
 
 
 == Copa de la Liga AUF Uruguaya 2026  ‹§copaliga›
@@ -419,13 +431,7 @@ Boston River       1-2 Progreso
   (Franco Marcelo Pérez Portillo 51; Facundo De León Raviales 20, Diego Sánchez Richieri 55)
 
 
-
-
-
-
 == Segunda División Profesional  ‹§sdp›
-
-
 === Competencia  ‹§2comp›
 
 NB: winners qualify for ‹Promotion Playoff, see §tercp›
@@ -594,18 +600,9 @@ NB: group stage records ‹Competencia, see §2comp› carried over
 <!-- $table7$ - Table -->
 
 === Promotion Playoff  ‹§tercp›
-
-
-
-
-
-
 == Tercera Divisional de AUF  ‹§sgb›
 
-
 === Torneo Inicial  ‹§3pri›
-
-
 ==== Group Stage  ‹§31g›
 
 NB: played as single round robin;

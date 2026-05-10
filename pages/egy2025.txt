@@ -1,19 +1,27 @@
-  <!--
-     title:   Egypt 2024/25
-     source:  https://rsssf.org/tablese/egy2025.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 10 Aug 2025
-    -->
+<!--
+   title:   Egypt 2024/25
+   source:  https://rsssf.org/tablese/egy2025.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 10 Aug 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         First Level                        (see §§1l)
+           Regular Stage                    (see §§reg)
+           Playoff Stage                    (see §§play)
+             Championship Playoff           (see §§champ)
+             Relegation Playoff             (see §§releg)
+         Egypt Cup 2024/25                  (see §§cup)
+         League Cup                         (see §§lc)
+         Second Division A                  (see §§2l)
+  -->
 
 
 
 
 == First Level  ‹§1l›
-
 
 === Regular Stage  ‹§reg›
 
@@ -265,8 +273,6 @@ Pyramids      2-1 Ceramica Cl
 <!-- $table2$ - Final Table -->
 
 === Playoff Stage  ‹§play›
-
-
 ==== Championship Playoff  ‹§champ›
 
 <!-- $table3$ - Final Table -->
@@ -449,12 +455,7 @@ Gouna         bye
 <!-- $table6$ - Final Table -->
 
 
-
-
-
-
 == Egypt Cup 2024/25  ‹§cup›
-
 
 ▪ 1/16 Finals ▪
 _ Jan 2 _
@@ -509,9 +510,6 @@ Zamalek       2-1 Ceramica Cl
 Zamalek       1-1 Pyramids      (aet, 8-7 pen)
 
 
-
-
-
 == League Cup  ‹§lc›
 
 ▪ Quarterfinals ▪
@@ -548,10 +546,6 @@ Ismaily       2-0 ENNPI
 
 ▪ Final ▪  Jun 12
 Ceramica Cl   2-0 National Bank
-
-
-
-
 
 
 == Second Division A  ‹§2l›

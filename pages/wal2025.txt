@@ -1,19 +1,27 @@
-  <!--
-     title:   Wales 2024/25
-     source:  https://rsssf.org/tablesw/wal2025.html
-     author:  Karel Stokkermans
-     updated: 12 Jun 2025
-    -->
+<!--
+   title:   Wales 2024/25
+   source:  https://rsssf.org/tablesw/wal2025.html
+   author:  Karel Stokkermans
+   updated: 12 Jun 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Uwch Gynghrair Cymru (Cymru Premier)  (see §§low)
+           Regular Stage                    (see §§reg)
+           Championship Playoff             (see §§champ)
+           Conference League Playoff        (see §§conf)
+           Relegation Playoff               (see §§releg)
+         Cup Tournaments                    (see §§cups)
+           Welsh Cup 2024/25                (see §§welsh)
+           League Cup 2024/25               (see §§leaguecup)
+  -->
 
 
 
 
 == Uwch Gynghrair Cymru (Cymru Premier)  ‹§low›
-
 
 === Regular Stage  ‹§reg›
 
@@ -393,13 +401,7 @@ Flint           4-0 Newtown
 <!-- $table6$ - Final Table -->
 
 
-
-
-
-
 == Cup Tournaments  ‹§cups›
-
-
 === Welsh Cup 2024/25  ‹§welsh›
 
 ▪ 1/8 Finals ▪

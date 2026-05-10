@@ -1,19 +1,25 @@
-  <!--
-     title:   Israel 2024/25
-     source:  https://rsssf.org/tablesi/isra2025.html
-     authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 26 May 2025
-    -->
+<!--
+   title:   Israel 2024/25
+   source:  https://rsssf.org/tablesi/isra2025.html
+   authors: Roberto Di Maggio and Karel Stokkermans
+   updated: 26 May 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Ligat Ha'Al                        (see §§haal)
+           Regular Stage                    (see §§reg)
+           Playoff Stage                    (see §§play)
+             Championship Playoff           (see §§champ)
+             Relegation Playoff             (see §§releg)
+         Toto Cup                           (see §§toto)
+  -->
 
 
 
 
 == Ligat Ha'Al  ‹§haal›
-
 
 === Regular Stage  ‹§reg›
 
@@ -345,8 +351,6 @@ NB: Hapoel Be'er-Sheva 1 point deducted for cancelled match in round 2
     Maccabi Haifa 1 point deducted for incidents in match round 20
 
 === Playoff Stage  ‹§play›
-
-
 ==== Championship Playoff  ‹§champ›
 
 <!-- $table3$ - Final Table -->
@@ -488,10 +492,6 @@ Ironi Tiberias              0-0 Maccabi Petah-Tikva
 <!-- $table6$ - Final Table -->
 
 NB: match Bnei-Sakhnin in round 2 declared void
-
-
-
-
 
 
 == Toto Cup  ‹§toto›

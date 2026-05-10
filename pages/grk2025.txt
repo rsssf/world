@@ -1,19 +1,25 @@
-  <!--
-     title:   Greece 2024/25
-     source:  https://rsssf.org/tablesg/grk2025.html
-     author:  Karel Stokkermans
-     updated: 26 May 2025
-    -->
+<!--
+   title:   Greece 2024/25
+   source:  https://rsssf.org/tablesg/grk2025.html
+   author:  Karel Stokkermans
+   updated: 26 May 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Super League                       (see §§alpha)
+           Regular Stage                    (see §§reg)
+           Playoff Stage                    (see §§play)
+             Championship Playoff           (see §§champ)
+             Conference League Playoff      (see §§conf)
+             Relegation Playoff             (see §§releg)
+  -->
 
 
 
 
 == Super League  ‹§alpha›
-
 
 === Regular Stage  ‹§reg›
 
@@ -325,8 +331,6 @@ Panaitolikos        0-0 Levadiakos
 <!-- $table3$ - Final Table -->
 
 === Playoff Stage  ‹§play›
-
-
 ==== Championship Playoff  ‹§champ›
 
 <!-- $table4$ - Final Table -->

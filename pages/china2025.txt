@@ -1,13 +1,17 @@
-  <!--
-     title:   China 2025
-     source:  https://rsssf.org/tablesc/china2025.html
-     author:  Karel Stokkermans
-     updated: 7 Dec 2025
-    -->
+<!--
+   title:   China 2025
+   source:  https://rsssf.org/tablesc/china2025.html
+   author:  Karel Stokkermans
+   updated: 7 Dec 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         China Super League                 (see §§csl)
+         FA Cup                             (see §§cup)
+         China League One                   (see §§cl1)
+  -->
 
 
 
@@ -15,10 +19,6 @@
 == China Super League  ‹§csl›
 
 <!-- $table1$ - Final Table -->
-
-
-
-
 
 
 == FA Cup  ‹§cup›
@@ -52,10 +52,6 @@ Beijing Guoan             7-0 Yunnan Yukun
 
 ▪ Final ▪  Dec 6 @ Suzhou
 Beijing Guoan             3-0 Henan FC
-
-
-
-
 
 
 == China League One  ‹§cl1›

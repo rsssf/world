@@ -1,19 +1,30 @@
-  <!--
-     title:   Belgium 2024/25
-     source:  https://rsssf.org/tablesb/belg2025.html
-     author:  Karel Stokkermans
-     updated: 17 Nov 2025
-    -->
+<!--
+   title:   Belgium 2024/25
+   source:  https://rsssf.org/tablesb/belg2025.html
+   author:  Karel Stokkermans
+   updated: 17 Nov 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Pro League                         (see §§pro)
+           Regular Stage                    (see §§reg)
+           Playoff Stage                    (see §§play)
+             Playoff 1                      (see §§po1)
+             Playoff 2                      (see §§po2)
+             Relegation Playoff             (see §§po3)
+           Promotion/Relegation Playoff     (see §§prorel)
+         Cup                                (see §§cup)
+         Challenger Pro League              (see §§tweede)
+             Promotion Playoff              (see §§2prom)
+         1e Nationale                       (see §§div1)
+  -->
 
 
 
 
 == Pro League  ‹§pro›
-
 
 === Regular Stage  ‹§reg›
 
@@ -411,8 +422,6 @@ Leuven            3-2 Sint-Truiden
 <!-- $table3$ - Final Table -->
 
 === Playoff Stage  ‹§play›
-
-
 ==== Playoff 1  ‹§po1›
 
 <!-- $table4$ - Final Table -->
@@ -625,9 +634,6 @@ Cercle Brugge     3-1 Patro Eisden
 NB: both remain at former level
 
 
-
-
-
 == Cup  ‹§cup›
 
 ▪ 1/16 Finals ▪
@@ -691,10 +697,6 @@ Antwerp           2-2 Anderlecht
 Club Brugge       2-1 Anderlecht
 
 
-
-
-
-
 == Challenger Pro League  ‹§tweede›
 
 <!-- $table10$ - Final Table -->
@@ -727,10 +729,6 @@ Lokeren-Temse     1-2 Patro Eisden
 Patro Eisden      1-1 Lokeren-Temse
 
 NB: Patro Eisden Maasmechelen qualified for ‹promotion/relegation playoff, see §prorel›
-
-
-
-
 
 
 == 1e Nationale  ‹§div1›

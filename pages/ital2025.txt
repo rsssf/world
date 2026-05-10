@@ -1,13 +1,16 @@
-  <!--
-     title:   Italy 2024/25
-     source:  https://rsssf.org/tablesi/ital2025.html
-     authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 10 Jun 2025
-    -->
+<!--
+   title:   Italy 2024/25
+   source:  https://rsssf.org/tablesi/ital2025.html
+   authors: Roberto Di Maggio and Karel Stokkermans
+   updated: 10 Jun 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Serie A                            (see §§seriea)
+         Coppa Italia                       (see §§coppa)
+  -->
 
 
 
@@ -609,10 +612,6 @@ Udinese         2-3 Fiorentina
 Venezia         2-3 Juventus
 
 <!-- $table2$ - Final Table -->
-
-
-
-
 
 
 == Coppa Italia  ‹§coppa›

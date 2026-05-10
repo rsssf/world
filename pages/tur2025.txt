@@ -1,14 +1,9 @@
-  <!--
-     title:   Turkey 2024/25
-     source:  https://rsssf.org/tablest/tur2025.html
-     author:  Karel Stokkermans
-     updated: 2 Jun 2025
-    -->
-
-
-
-
-
+<!--
+   title:   Turkey 2024/25
+   source:  https://rsssf.org/tablest/tur2025.html
+   author:  Karel Stokkermans
+   updated: 2 Jun 2025
+  -->
 
 
 

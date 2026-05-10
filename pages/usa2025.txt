@@ -1,19 +1,27 @@
-  <!--
-     title:   USA 2025
-     source:  https://rsssf.org/tablesu/usa2025.html
-     author:  Karel Stokkermans
-     updated: 7 Dec 2025
-    -->
+<!--
+   title:   USA 2025
+   source:  https://rsssf.org/tablesu/usa2025.html
+   author:  Karel Stokkermans
+   updated: 7 Dec 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Major League Soccer                (see §§mls)
+           Regular Season                   (see §§reg)
+           Championship Playoff             (see §§chplay)
+             Conference Wild Card Round     (see §§cwc)
+             Eastern Conference Quarterfinals  (see §§cqe)
+             Western Conference Quarterfinals  (see §§cqw)
+             Conference Semifinals          (see §§csf)
+         US Open Cup                        (see §§open)
+  -->
 
 
 
 
 == Major League Soccer  ‹§mls›
-
 
 === Regular Season  ‹§reg›
 
@@ -24,7 +32,6 @@ Final Tables:
 <!-- $table2$ - Western Conference -->
 
 === Championship Playoff  ‹§chplay›
-
 ==== Conference Wild Card Round  ‹§cwc›
 
 Eastern Conference [Oct 22]
@@ -104,10 +111,6 @@ San Diego FC           1-3 Vancouver Whitecaps
 
 ▪ MLS Cup ▪  Dec 6 @ Fort Lauderdale
 Inter Miami            3-1 Vancouver Whitecaps
-
-
-
-
 
 
 == US Open Cup  ‹§open›

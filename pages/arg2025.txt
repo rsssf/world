@@ -1,13 +1,34 @@
-  <!--
-     title:   Argentina 2025
-     source:  https://rsssf.org/tablesa/arg2025.html
-     author:  Osvaldo José Gorgazzi
-     updated: 7 Mar 2026
-    -->
+<!--
+   title:   Argentina 2025
+   source:  https://rsssf.org/tablesa/arg2025.html
+   author:  Osvaldo José Gorgazzi
+   updated: 7 Mar 2026
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Torneo Apertura de la LPF de AFA 2025  (see §§1apertura)
+         Torneo Clausura de la LPF de AFA 2025  (see §§1clausura)
+         Tabla Anual de Posiciones 2025 - Final Standing (Opening and Closing phases of groups)  (see §§1first)
+         LPF Champions trophy - Trofeo de Campeones 2025  (see §§1champtroph)
+         AFA national cup: Copa Argentina 2025  (see §§nationalcup)
+         AFA Second level: Campeonato de Primera Nacional 2025  (see §§second)
+           Zona A - Group A               
+           Zona B - Group B               
+           Final por el 1er. Ascenso y por el Campeonato
+           Torneo "Reducido" por el 2º ascenso a Primera División (L.P.F.)
+         AFA Third level: Campeonato de Primera "B" 2025  (see §§third)
+           Torneo Apertura - Opening Tournament
+           Torneo Clausura - Closing Tournament
+           Ascenso directo a la categoría Primera Nacional
+           Torneo Reducido                
+         AFA Fourth level: Campeonato de Primera División "C" 2025  (see §§fourth)
+         AFA Fifth level: Torneo Promocional Amateur 2025  (see §§fifth)
+         CFFA Third level: Torneo Federal "A" 2025  (see §§federal)
+         Copa País de Selecciones de Liga 2025 - 2025 CFFA Copa País Regional League Combineds  (see §§copapais)
+         National Teams                     (see §§national)
+  -->
 
 
 
@@ -388,9 +409,6 @@ CA San Lorenzo de Almagro              0- 1      CA Platense                    
 ▪ Final ▪
 _ Sun Jun 1 _
 CA Huracán                             0- 1      CA Platense                        Único Madre de Ciudades, Santiago del Estero, G
-
-
-
 
 
 == Torneo Clausura de la LPF de AFA 2025  ‹§1clausura›
@@ -774,25 +792,14 @@ _ Sun Dec 14 _
 Racing Club                        [4] 1- 1  [5] Club Estudiantes de La Plata      aet, pso, Único Madre de Ciudades, Santiago del Estero, G
 
 
-
-
-
-
 Triennal General Table of Averages
  #.Short name                          MP   W  D  L  Gf: Ga  Ps Aver.
 <!-- $table7$ -->
 
 
-
-
-
-
 == Tabla Anual de Posiciones 2025 - Final Standing (Opening and Closing phases of groups)  ‹§1first›
 
 <!-- $table8$ - #.Short name                        MP   W  D  L  Gf- Ga  P  (Position of…) -->
-
-
-
 
 
 == LPF Champions trophy - Trofeo de Campeones 2025  ‹§1champtroph›
@@ -801,9 +808,6 @@ Cup played between the champions of 2025 LPF Opening (CA Platense) and 2025 LPF 
 
 _ Sat Dec 20 _
 Club Estudiantes de La Plata           2- 1      CA Platense                        Estadio San Nicolás, San Nicolás de los Arroyos, B
-
-
-
 
 
 == AFA national cup: Copa Argentina 2025  ‹§nationalcup›
@@ -930,10 +934,6 @@ CS Independiente Rivadavia         [4] 0- 0  [3] CA River Plate                 
 ▪ Final ▪
 _ Wed Nov 5 _
 CS Independiente Rivadavia         [5] 2- 2  [3] AA Argentinos Juniors             pso, Juan Domingo Perón, Córdoba, X
-
-
-
-
 
 
 == AFA Second level: Campeonato de Primera Nacional 2025  ‹§second›
@@ -1914,9 +1914,6 @@ CSD Madryn                             1- 1      AA Estudiantes                 
 Note: AA Estudiantes promoted to first level.
 
 
-
-
-
 == AFA Third level: Campeonato de Primera "B" 2025  ‹§third›
 
 <!-- $table14$ - Champion and first promotion -->
@@ -2568,9 +2565,6 @@ _ Sun Dec 14 _
 CA Acassuso                            1- 0      Deportivo Armenio                  La Quema, Boulogne, B
 _ Sun Dec 21 _
 Deportivo Armenio                      1- 1      CA Acassuso                        República de Armenia, Ingeniero Maschwitz, B
-
-
-
 
 
 == AFA Fourth level: Campeonato de Primera División "C" 2025  ‹§fourth›
@@ -3260,9 +3254,6 @@ Club Deportivo Español             [3] 0- 0  [5] CA Claypole                   
 <!-- $table25$ - #.Short name                        MP   W  D  L  Gf- Ga   P -->
 
 
-
-
-
 == AFA Fifth level: Torneo Promocional Amateur 2025  ‹§fifth›
 
 Unofficial standing with all matches
@@ -3393,9 +3384,6 @@ CD Metalúrgico                         1- 0      FC Ezeiza                     
 
 Table
 <!-- $table29$ - #.Short name MP   W  D  L  Gf- Ga   P (Position of…) -->
-
-
-
 
 
 == CFFA Third level: Torneo Federal "A" 2025  ‹§federal›
@@ -4462,9 +4450,6 @@ Tie on points and goal difference: decided by PSO.
 <!-- $table72$ - #.Short name                        MP   W  D  L  Gf- Ga   P -->
 
 
-
-
-
 == Copa País de Selecciones de Liga 2025 - 2025 CFFA Copa País Regional League Combineds  ‹§copapais›
 
 Non official and full table (All stages and all regions)
@@ -4974,9 +4959,6 @@ LR de Fútbol de Río Cuarto             1- 2      Liga Cañadense de Fútbol   
 ▪ Final ▪
 _ Sun Nov 2 _
 Liga Tandilense de Fútbol          [4] 0- 0  [3] Liga Cañadense de Fútbol          pso, Miguel Morales, Pergamino, B
-
-
-
 
 
 == National Teams  ‹§national›

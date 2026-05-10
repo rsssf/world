@@ -1,19 +1,23 @@
-  <!--
-     title:   Netherlands 2025/26
-     source:  https://rsssf.org/tablesn/ned2026.html
-     author:  Karel Stokkermans
-     updated: 7 Apr 2026
-    -->
+<!--
+   title:   Netherlands 2025/26
+   source:  https://rsssf.org/tablesn/ned2026.html
+   author:  Karel Stokkermans
+   updated: 7 Apr 2026
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Eredivisie                         (see §§ere)
+           Regular Season                   (see §§1reg)
+           Conference League Playoff        (see §§1eur)
+           Nacompetitie                     (see §§2nac)
+  -->
 
 
 
 
 == Eredivisie  ‹§ere›
-
 
 === Regular Season  ‹§1reg›
 
@@ -435,7 +439,5 @@ NAC             0-0 Sparta
 <!-- $table2$ - Table -->
 
 === Conference League Playoff  ‹§1eur›
-
 === Nacompetitie  ‹§2nac›
-
 
