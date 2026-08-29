@@ -1,0 +1,713 @@
+<!--
+   title:   WORLD CUP 1934 - QUALIFYING
+   source:  https://rsssf.org/tables/34qual.html
+   author:  Barrie Courtney
+   updated: 4 Nov 2021
+  -->
+
+
+
+
+EUROPE
+
+GROUP 1 [ESTONIA, LITHUANIA, SWEDEN]
+
+11/06/1933, Stockholm, Stockholms Stadion, 8.123
+SWEDEN                 6-2           ESTONIA [HT 4-0]
+TIPNER, Evald     7'OG               KAAS, Leonhard   47'
+BUNKE, Lennart   10'                 KUREMAA, Richard 61'
+ERICSSON, Bertil 13'
+BUNKE, Torsten   43'
+ERICSSON, Bertil 70'
+ANDERSSON, Sven  79'pen
+
+Sweden:                              Estonia:
+ 1-KRUSBERG, Gösta                    1-TIPNER, Evald [c]
+ 2-ANDERSSON, Otto                    2-EINMAN, Eugen
+ 3-ANDERSSON, Sven                    3-NEUMANN-TARIMÄE, Artur
+ 4-PERSSON, Walfrid                   4-REINFELDT-REINLO, Otto
+ 5-JOHANSSON, Harry                   5-SILBERG-SILLAK, Karl-Rudolf
+ 6-ANDERSSON, Ernst                   6-PARBO, Egon
+ 7-OLSSON, Gunnar                     7-SIIMENSON, Georg
+ 8-BUNKE, Torsten                     8-KUREMAA, Richard
+ 9-ERICSSON, Bertil                   9-KAAS, Leonhard
+10-BUNKE, Lennart                    10-UUKKIVI, Heinrich
+11-KROON, Knut [c]                   11-KARM, Friedrich
+Subs:
+                                     12-LAASNER, Arnold [<11] 46'
+Coaches:
+PETTERSSON, John                     REIN, Bernhard
+
+Referee: RANDERS-JOHANSEN, Reidar [NORWAY]
+
+29/06/1933, Kaunas, Kariuomene, 6.000
+LITHUANIA              0-2           SWEDEN [HT 0-0]
+                                     HANSSON, Knut 55'
+                                     HANSSON, Knut 63'
+
+Lithuania:                           Sweden:
+ 1-TASIUS, Fridrichas                 1-CARLSSON, Gottfrid
+ 2-CEREKAS, Nikodemas                 2-ANDERSSON, Otto
+ 3-ZEBRAUSKAS, Romualdas              3-ANDERSSON, Sven
+ 4-TEPFERIS, Fridrichas               4-BERG, Fritz
+ 5-MARCINKUS, Romualdas [c]           5-CARLUND, Victor [c]
+ 6-RUTKAUSKAS, Ricardas               6-LUNDÉN, Helge
+ 7-BLATAS, Nachmanas                  7-OLSSON, Gunnar
+ 8-LINGIS, Antanas                    8-RYDBERG, Gunnar
+ 9-SABALIAUSKAS, Zigmas               9-HANSSON, Knut
+10-CITAVICIUS, Jaroslavas            10-KELLER, Tore
+11-JANULEVICIUS, Petras              11-HANSSON, Evert
+Coaches:
+GOLD, Mark                           PETTERSSON, John
+
+Referee: SILBER, August [ESTONIA]
+
+GROUP 2 [PORTUGAL, SPAIN]
+
+11/03/1934, Madrid, Estádio Chamartín, 50.000
+SPAIN                  9-0           PORTUGAL [HT 3-0]
+GONZÁLEZ, Eduardo  3'
+LÁNGARA, Isidro   13'
+LÁNGARA, Isidro   14'pen
+LÁNGARA, Isidro   46'
+REGUEIRO, Luis    65'
+VANTOLRÁ, Martín  68'
+REGUEIRO, Luis    70'
+LÁNGARA, Isidro   71'
+LÁNGARA, Isidro   85'
+
+Spain:                               Portugal:
+ 1-ZAMORA, Ricardo [c]                1-SOARES dos REIS, Manuel
+ 2-ZABALO, Ramón                      2-AVELINO da Silva Martins
+ 3-QUINCOCÉS, Jacinto                 3-JURADO, João
+ 4-CILAURREN, Leonardo                4-NOVA, João
+ 5-MARCULETA, Martín                  5-SILVA, Augusto [c]
+ 6-SAÍZ, Federico 'Fede'              6-GASPAR PINTO, Álvaro
+ 7-VANTOLRÁ, Martín                   7-MOURAO, Adolfo
+ 8-REGUEIRO, Luis                     8-VALDEMAR Mota da Fonseca
+ 9-LÁNGARA, Isidro                    9-MESQUITA, Acácio
+10-GONZÁLEZ, Eduardo 'Chaco'         10-de SOUSA, Artur 'Pinga'
+11-GOROSTIZA, Guillermo              11-LOPES, Domingos
+Subs:
+                                     12-AMARO, Augusto   [<1]  15'
+                                     13-PEREIRA, Álvaro  [<5]  35'
+                                     14-SERRANO, Joaquim [<3]  40'
+Coaches:
+SALAZAR, Amadeo García               dos REIS, Ribeiro
+
+Referee: VAN PRAAG, Raphael [BELGIUM]
+Note: There are various goaltimes for this match but those listed are FIFA timings.
+
+
+18/03/1934, Lisbon, Estádio do Lumiar, 35.000
+PORTUGAL               1-2           SPAIN [HT 1-2]
+SILVA, Vítor 10'                     LÁNGARA, Isidro 12'
+                                     LÁNGARA, Isidro 25'
+
+Portugal:                            Spain:
+ 1-AMARA, Augusto                     1-ZAMORA, Ricardo [c]
+ 2-AVELINO da Silva Martins           2-ZABALA, Ramón
+ 3-JURADO, João                       3-QUINCOCÉS, Jacinto
+ 4-PEREIRA, Álvaro                    4-CILAURREN, Leonardo
+ 5-SILVA, Augusto [c]                 5-MARCULETA, Martín
+ 6-GASPAR PINTO, Álvaro               6-SAÍZ, Federico 'Fede'
+ 7-MOURAO, Aldolfo                    7-VANTOLRÁ, Martín
+ 8-VALDEMAR Mota da Fonseca           8-REGUEIRO, Luis
+ 9-SILVA, Vítor                       9-LÁNGARA, Isidro
+10-de SOUSA, Artur 'PINGA'           10-HERRERITA, Eduardo
+11-LOPES, Domingos                   11-GOROSTIZA, Guillermo
+Subs:
+12-DYSON, Artur [<1]  46'
+Coaches:
+dos REIS, Ribeiro                    SALAZAR, Amadeo García
+
+Referee: VAN PRAAG, Raphael [BELGIUM]
+
+GROUP 3 [GREECE, ITALY]
+
+25/03/1934, Milano, Stadio Calcistico San Siro, 20.000
+ITALY                  4-0           GREECE [HT 2-0]
+GUARISI, Anfilogino 40'
+MEAZZA, Giuseppe    44'
+FERRARI, Giovanni   69'
+MEAZZA, Giuseppe    71'
+
+Italy:                               Greece:
+ 1-CERESOLI, Carlo                    1-GRAMMATIKOPOULOS, Achilleas
+ 2-MONZEGLIO, Eraldo                  2-CHRYSAFOPOULOS, Aristides
+ 3-ALLEMANDI, Luigi [c]               3-KOURANTIS, Filippos [c]
+ 4-MONTESANTO, Mario                  4-CHELMIS, Ioannis
+ 5-MONTI, Luis                        5-DANELIAN, Daniil
+ 6-FANTONI, Ottavio                   6-VIKELIDIS, Antonis
+ 7-GUARISI, Anfilogino                7-MIGIAKIS, Nikos
+ 8-SERANTONI, Pietro                  8-AGGELAKIS, Nikos
+ 9-MEAZZA, Giuseppe                   9-VAZOS, Ioannis
+10-ROCCO, Nereo                      10-BALTATSIS, Dimitris
+11-GUAITA, Enrico                    11-ADRIANOPOULOS, Leonidas
+Subs:
+12-FERRARI, Giovanni [<10] 46'
+Coaches:
+POZZO, Vittorio                      NIKOLAIDIS, Apostolos
+
+Referee: MERCET, René [SWITZERLAND]
+Note: Danelian missed a penalty after 78'.
+
+GROUP 4 [AUSTRIA, BULGARIA, HUNGARY]
+
+25/03/1934, Sofia, A.S. 23 Stadium, 10.000
+BULGARIA               1-4           HUNGARY [HT 1-1]
+BAIKUSHEV, Dimitar 27'               SAROSI, Dr. György 29'
+                                     SZABÓ, Gábor P     61'pen
+                                     TOLDI, Geza        88'
+                                     MARKOS, Imre       89'
+
+Bulgaria:                            Hungary:
+ 1-DERMONSKI, Todor                   1-SZABO, Antal
+ 2-NIKOLOV, Nikola                    2-STERNBERG, László [c]
+ 3-MICHTALOV, Todor                   3-KIS, Károly
+ 4-GABROVSKI, Borislav                4-PALOTÁS, István
+ 5-RAFAILOV, Penko                    5-SAROSI, Dr. György
+ 6-EFREMOV, Konstantin                6-SZALAY, Antal
+ 7-ANGELOV, Ljubomir                  7-MARKOS, Imre
+ 8-GEORGIEV, Stefan                   8-VINCZE, Jeno
+ 9-BAIKUSHEV, Dimitar                 9-TELEKI, Pál
+10-LOZANOV, Michail                  10-TOLDI, Geza
+11-PANCHEV, Asen [c]                 11-SZABO, Gábor P
+Subs:
+12-SAVOV, Nikolai [<1]  29'          12-HÁDA, József [<1]  65'
+Coaches:
+FOGGLE, Károly                       ÖDÖN, Nádas
+
+Referee: XIFANDU, Denis [ROMANIA]
+Note: Szabó saved a penalty by Panchev after 63'.
+
+25/04/1934, Wien, Praterstadion, 25.000
+AUSTRIA                6-1           BULGARIA [HT 3-0]
+HORVATH, Johann    19'               LOZANOV, Mihail 66'
+HORVATH, Johann    22'
+HORVATH, Johann    33'
+ZISCHEK, Karl      59'
+VIERTL, Rudolf     62'
+SINDELAR, Matthias 67'
+
+Austria:                             Bulgaria:
+ 1-PLATZER, Peter                     1-MAZNIKOV, Radi
+ 2-CISAR, Franz                       2-NIKOLOV, Nikola
+ 3-SZESTAK, Karl 'Sesta'              3-MICHTALOV, Todor
+ 4-WAGNER, Franz                      4-GABROVSKI, Borislav
+ 5-HOFMANN, Leopold                   5-EFREMOV, Konstantin
+ 6-NAUSCH, Walter                     6-MINKOVSKI, Hristo
+ 7-ZISCHEK, Karl                      7-ANGELOV, Ljubomir
+ 8-BICAN, Josef                       8-BAIKUSHEV, Dimitar
+ 9-SINDELAR, Matthias                 9-LOZANOV, Michail
+10-HORVATH, Johann                   10-PESCHEV, Asen
+11-VIERTL, Rudolf                    11-PANCHEV, Asen [c]
+Coaches:
+MEISL, Hugo                          FOGGLE, Károly
+Cards:
+                                     GABROVSKI, Borislav [R 71']
+
+Referee: CEJNAR, František [CZECHOSLOVAKIA]
+Note: Austria went down to 10 men after the injury to NAUSCH (70').
+
+29/04/1934, Budapest, Hungaria Korut, 10.000
+HUNGARY                4-1           BULGARIA [HT 1-0]
+SZABO, Gábor P  9'                   TODOROV, Vladimir 61'
+SZABO, Gábor P 58'
+SOLTI, József  60'
+SOLTI, József  73'
+
+Hungary:                             Bulgaria:
+ 1-SZABÓ, Antal                       1-MAZNIKOV, Radi
+ 2-MÁNDI, Gyula [c]                   2-NIKOLOV, Nikola
+ 3-KIS, Károly                        3-MICHTALOV, Todor
+ 4-LYKA, Antal                        4-GABROVSKI, Borislav
+ 5-SZÜCS, György II                   5-EFREMOV, Konstantin
+ 6-SZALAY, Antal                      6-MINKOVSKI, Hristo
+ 7-TAMÁSSY, Dr. István                7-ANGELOV, Ljubomir
+ 8-AVAR, István                       8-BAIKUSHEV, Dimitar
+ 9-SOLTI IV, József                   9-LOZANOV, Michail
+10-CSEH II, László                   10-PESCHEV, Asen
+11-SZABÓ, Gábor P                    11-PANCHEV, Asen [c]
+Subs:
+12-JUHÁSZ, Lajos [<1]  63'           12-TODOROV, Vladimir [<11] 28'
+Coaches:
+ÖDÖN, Nádas                          FOGGLE, Károly
+
+Referee: FRANKENSTEIN, Hans [AUSTRIA]
+
+GROUP 5 [CZECHOSLOVAKIA, POLAND]
+
+15/10/1933, Warsaw, Stadion Legli, 18.000
+POLAND                 1-2           CZECHOSLOVAKIA [HT 0-1]
+MARTYNA, Henryk 52'pen               SILNÝ, Josef       37'
+                                     PELCHER, František 78'
+
+Poland:                              Czechoslovakia:
+ 1-ALBANSKI, Spirydion                1-PLÁNICKA, František [c]
+ 2-MARTYNA, Henryk                    2-BURGR, Jaroslav
+ 3-BULANOW, Jerzy [c]                 3-CTYROKÝ, Josef
+ 4-KOTLARCZYK, Józef                  4-BOUŠKA, Václav
+ 5-KOTLARCZYK, Jan                    5-CAMBAL, Štefan
+ 6-MYSIAK, Aleksander                 6-KRCIL, Rudolf
+ 7-KRÓL, Wladyslaw                    7-PELCHER, František
+ 8-MATYAS, Michal                     8-SILNÝ, Josef
+ 9-NAWROT, Józef                      9-NEJEDLÝ, Oldrich
+10-PAZUREK, Karol                    10-PUC, Antonín
+11-MAJOWSKI, Edmund                  11-RULC, Oldrich
+Coaches:
+KALUZA, Józef                        PETRU, Karel/TESAR, Josef
+
+Referee: XIFANDU, Denis [ROMANIA]
+
+Note: The return leg was due to take place on 15/04/1934 in Prague, but the Polish government
+      prevented the Polish football team from travelling for political reasons
+
+GROUP 6 [ROMANIA, SWITZERLAND, YUGOSLAVIA]
+
+24/09/1933, Belgrade, Stadion BSK, 17.000
+YUGOSLAVIA             2-2           SWITZERLAND [HT 0-0]
+KRAGIC, Vladimir    50'              FRIGERIO, Roberto 76'
+MARJANOVIC, Blagoje 61'              JÄGGI, Willy      80'
+
+Yugoslavia:                          Switzerland:
+ 1-SPASIC, Jovan                      1-SÉCHEHAYE, Frank
+ 2-IVKOVIC, Dr. Milutin               2-MINELLI, Severino
+ 3-TOŠIC, Dragomir                    3-WEILER, Max [c]
+ 4-ARSENIJEVIC, Milorad               4-BINDER, Herbert
+ 5-GAJER, Ivan                        5-GILARDONI, Gabriele
+ 6-MARUŠIC, Aldjelko                  6-BIESLER, Karl
+ 7-TIRNANIC, Aleksandar               7-VON KÄNEL, Willy
+ 8-MARJANOVIC, Blagoje [c]            8-JÄGGI, Willy
+ 9-KRAGIC, Vladimir                   9-FRIGERIO, Alessandro
+10-VUJADINOVIC, Ðordje               10-ABEGGLEN, Max
+11-KOKOTOVIC, Mirko                  11-JAECK, Alfred
+Coaches:
+SIMONOVIC, Boško                     MÜLLER, Henry
+
+Referee: BERANEK, Alois [AUSTRIA]
+
+29/10/1933, Bern, Wankdorf Stadion, 15.000
+SWITZERLAND            2-2           ROMANIA [HT 0-1]
+HOCHSTRASSER, Erwin 75'              DOBAY, Stefan 18'
+HUFSCHMID, Ernst    80'pen           SEPI, Gratian 65'
+
+Switzerland:                         Romania:
+ 1-SÉCHEHAYE, Frank                   1-ZOMBORY, William
+ 2-MINELLI, Severino                  2-VOGL, Emerich [c]
+ 3-WEILER, Max [c]                    3-ALBU, Gheorghe
+ 4-HUFSCHMID, Ernst                   4-LAKATOS, Eugen
+ 5-GILARDONI, Gabriele                5-KOTORMANY, Rudolf
+ 6-BIELSER, Karl                      6-MORAWETZ, Iosif
+ 7-VON KÄNEL, Willy                   7-DOBAY, Stefan
+ 8-SANDOZ, Marcel                     8-BODOLA, Iuliu
+ 9-HOCHSTRASSER, Erwin                9-SEPI, Gratian
+10-ABEGGLEN, Max                     10-BARATKY, Iuliu
+11-ROCHAT, Jean-Pierre               11-BINDEA, Silviu
+Subs:
+                                     12-PÜLLOCK, Adalbert [<1]  58'
+Coaches:
+MÜLLER, Henry                        RADULESCU, Costel
+
+Referee: BOEKMANN, Hans [NETHERLANDS]
+
+29/04/1934, Bucharest, ONEF Stadium, 20.000
+ROMANIA                2-1           YUGOSLAVIA [HT 1-0]
+SCHWARTZ, Alexandru 38'              KRAGIC, Vladimir 71'
+DOBAY, Stefan       74'
+
+Romania:                             Yugoslavia:
+ 1-PÜLLOCK, Adalbert                  1-GLAZER, Franjo
+ 2-VOGL, Emerich [c]                  2-BELOŠEVIC, Ivan
+ 3-ALBU, Gheorghe                     3-LUKIC, Miroslav
+ 4-DEHELEANU, Vasile                  4-ARSENIJEVIC, Milorad
+ 5-KOTORMANY, Rudolf                  5-GAJER, Ivan
+ 6-MORAWETZ, Iosif                    6-LEHNER, Gustav
+ 7-BINDEA, Silviu                     7-GLIŠOVIC, Svetoslav
+ 8-KOVACI, Nicolae                    8-VUJADINOVIC, Ðordje
+ 9-CIOLAC, Gheorghe                   9-MARJANOVIC, Blagoje [c]
+10-SCHWARTZ, Alexandru               10-KRAGIC, Vladimir
+11-DOBAY, Stefan                     11-KOKOTOVIC, Mirko
+Coaches:
+RADULESCU, Costel                    SIMONOVIC, Boško
+
+Referee: LANGENUS, John [BELGIUM]
+Note: The attendance is quoted from 8.000 to 40.000.
+
+GROUP 7 [BELGIUM, IRELAND, NETHERLANDS]
+
+25/02/1934, Dublin, Dalymount Park, 35000
+IRELAND                4-4           BELGIUM [HT 1-3]
+MOORE, Paddy 27'                     CAPELLE, Jean           13'
+MOORE, Paddy 48'                     VAN DEN EYNDE, Stanley  25'
+MOORE, Paddy 59'                     VAN DEN EYNDE, Francois 47'
+MOORE, Paddy 75'                     VAN DEN EYNDE, Francois 62'
+
+Ireland:                             Belgium:
+ 1-FOLEY, Jim                         1-VANDEWEYER, André
+ 2-LYNCH, Miah                        2-PAPPAERT, Jules [c]
+ 3-BURKE, Tom                         3-SMELLINCKX, Philibert
+ 4-GASKINS, Peader [c]                4-VAN INGELGEM, Joseph
+ 5-O'REILLY, Joe                      5-WELKENHUYSEN, Félix
+ 6-KENDRIK, Joe                       6-BOURGEOIS, Désiré
+ 7-KENNEDY, Billy                     7-VERSYP, Louis
+ 8-BYRNE, David                       8-BRICHAUT, Jean
+ 9-MOORE, Patrick 'Paddy'             9-CAPELLE, Jean
+10-O'KEEFFE, Tim                     10-SAEYS, André
+11-KELLY, Jimmy                      11-VAN DEN EYNDE, Stanley
+Subs:
+                                     12-VAN DEN EYNDE, François [<11] 34'
+Coaches:
+COMMITTEE                            GOETINCK, Hector
+
+Referee: CREWE, Thomas [ENGLAND]
+
+08/04/1934, Amsterdam, Olympischstadion, 38000
+NETHERLANDS            5-2           IRELAND [HT 1-1]
+SMIT, Kick   41'                     SQUIRES, Johnny 44'
+BAKHUYS, Bep 67'                     MOORE, Peter    57'
+BAKHUYS, Bep 78'
+VENTE, Leen  83'
+SMIT, Kick   85'
+
+Netherlands:                         Ireland:
+ 1-VAN MALE, Adri                     1-FOLEY, Jim
+ 2-WEBER, Mauk                        2-GASKINS, Peadar [c]
+ 3-VAN RUN, Sjef                      3-BYRNE, Patrick 'Paddy'
+ 4-PELLIKAAN, Henk                    4-O'REILLY, Joseph
+ 5-ANDERIESEN, Wim                    5-CHATTON, Harry
+ 6-VAN HEEL, Puck [c]                 6-KENDRIK, Joe
+ 7-WELS, Frank                        7-KENNEDY, Billy
+ 8-VENTE, Leen                        8-SQUIRES, Johnny
+ 9-BAKHUYS, Bep                       9-MOORE, Patrick 'Paddy'
+10-SMIT, Kick                        10-JORDAN, Billy
+11-MIJNDERS, Kees                    11-MEEHAN, Patrick 'Paddy'
+Subs:
+                                     12-HORLACHER, Fred [<10] 40'
+Coaches:
+GLENDENNING, Bob                     COMMITTEE
+
+Referee: OHLSSON, Otto [SWEDEN]
+
+29/04/1934, Antwerp, Bosuil Stadion, 42.000
+BELGIUM                2-4           NETHERLANDS [HT 0-0]
+GRIMMONPREZ, Laurent 51'             SMIT, Kick   60'
+VOORHOOF, Bernard    71'             BAKHUYS, Bep 62'
+                                     VENTE, Leen  64'
+                                     BAKHUYS, Bep 84'
+
+Belgium:                             Netherlands:
+ 1-VAN DE WEYER, André                1-KEIZER, Gerrit
+ 2-PAPPAERT, Jules [c]                2-WEBER, Mauk
+ 3-SMELLINCKX, Philbert               3-VAN RUN, Sjef
+ 4-PEERAER, Frans                     4-PELLIKAAN, Henk
+ 5-WELKENHUYSEN, Félix                5-ANDERIESEN, Wim
+ 6-CLAESSENS, Jean                    6-VAN HEEL, Puck [c]
+ 7-VERSYP, Louis                      7-WELS, Frank
+ 8-VOORHOOF, Bernard                  8-VENTE, Leen
+ 9-CAPELLE, Jean                      9-BAKHUYS, Bep
+10-GRIMMONPREZ, Laurent              10-SMIT, Kick
+11-LEDENT, René                      11-MIJNDERS, Kees
+Subs:
+12-VAN DESSEL, Frans [<2]  25'
+Coaches:
+GOETINCK, Hector                     GLENDENNING, Bob
+
+Referee: ROUS, Stanley [ENGLAND]
+
+GROUP 8 [FRANCE, GERMANY, LUXEMBOURG]
+
+11/03/1934, Luxembourg City, Stade Municipal, 14.500
+LUXEMBOURG             1-9           GERMANY [HT 1-5]
+MENGEL, Ernest 27'                   RASSELNBERG, Josef  3'
+                                     WIGOLD, Willi      12'
+                                     ALBRECHT, Ernst    25'
+                                     HOHMANN, Karl      30'
+                                     RASSELNBERG, Josef 36'
+                                     HOHMANN, Karl      51'
+                                     HOHMANN, Karl      53'
+                                     RASSELNBERG, Josef 56'
+                                     RASSELNBERG, Josef 90'
+
+Luxembourg:                          Germany:
+ 1-LOESCH, Théodore                   1-BUCHLOH, Fritz
+ 2-REINERS, Henri                     2-HUNDT, Eduard
+ 3-MAJERUS, Victor                    3-HARINGER, Sigmund
+ 4-FISCHER, Joseph                    4-JANES, Paul
+ 5-KIEFFER, Arnold                    5-SZEPAN, Fritz
+ 6-KREMER, Eugene                     6-OEHM, Richard
+ 7-WALTHENER, Joseph                  7-ALBRECHT, Ernst [c]
+ 8-BECKER, Mathias [c]                8-WIGOLD, Willi
+ 9-MENGEL, Ernest                     9-HOHMANN, Karl
+10-GEIB, Robert                      10-RASSELNBERG, Josef
+11-SPEICHER, Théophile               11-KOBIERSKI, Stanislaus
+Coaches:
+COMMITTEE                            NERZ, Otto
+
+Referee: de WOLF, Jan [NETHERLANDS]
+
+15/04/1934, Luxembourg City, Stade Municipal, 18.000
+LUXEMBOURG             1-6           FRANCE [HT 0-2]
+SPEICHER, Théophile 46'              ASTON, Alfred     3'
+                                     NICOLAS, Jean    26'
+                                     NICOLAS, Jean    67'
+                                     LIBERATI, Ernest 80'
+                                     NICOLAS, Jean    84'
+                                     NICOLAS, Jean    89'pen
+
+Luxembourg:                          France:
+ 1-LÉGER, Camille                     1-THÉPOT, Alexis [c]
+ 2-REINERS, Henri                     2-ROSE, Georges
+ 3-MAJERUS, Victor                    3-MATTLER, Etienne
+ 4-THEIS, Gaston                      4-DELFOUR, Edmond
+ 5-KIEFFER, Arnold                    5-DELMER, Célestin-Henri
+ 6-FISCHER, Joseph                    6-LIÉTAER, Noël
+ 7-MENGEL, Florian                    7-LIBERATI, Ernest
+ 8-MENGEL, Ernst                      8-ALCAZAR, Joseph
+ 9-BECKER, Mathias [c]                9-NICOLAS, Jean
+10-LOGELIN, Théo                     10-RIO, Roger
+11-SPEICHER, Théophile               11-ASTON, Alfred
+Subs:
+12-KREMER, Eugene [<5]  46'
+Coaches:
+COMMITTEE                            KIMPTON, George
+
+Referee: TURFKRUYER, Marc [BELGIUM]
+Note: Thépot saved a penalty from Speicher after 50'.
+
+NORTH/CENTRAL AMERICA & THE CARIBBEAN
+
+NB: see also ‹Cuba in the 1934 World Cup versus Haiti and Mexico, see page 34cubacampaign›
+
+GROUP 11 [CUBA, HAITI, MEXICO, UNITED STATES]
+
+28/01/1934, Port-au-Prince, Parc Leconte, 6.000
+HAITI                  1-3           CUBA [HT 0-1]
+ST. FORT, Robert 85'pen              LÓPEZ, Mario    20'pen
+                                     SOCORRO, Héctor 61'
+                                     MARTÍNEZ, Ángel 64'
+
+Haiti:                               Cuba:
+ 1-ESPER, Edouard                     1-AYRA, Jean
+ 2-ST. FORT, Robert                   2-MORALES, Evelio 'Mayari'
+ 3-TOVAR, Marcel                      3-MORALES, Francisco 'Panchito'
+ 4-AUDANT, Georges                    4-GALCERÁN, Arturo
+ 5-BERROUET, Fritz                    5-RODRÍGUEZ, Ángel
+ 6-JEAN-JOSEPH, Ludovic [c]           6-OCHOA, Sergio Luis
+ 7-CHAMPAGNE, Antoine                 7-FERRER, Enrique
+ 8-SEGUIGNOL,                         8-SOCORRO, Héctor
+ 9-TOURREAU,                          9-LÓPEZ, Mario [c]
+10-BEAUVOIR, Franck                  10-MARTÍNEZ, Ángel 'Chico'
+11-BAKER, Pierre                     11-SOTO, Salvador 'Buroy'
+Coaches:
+                                     KATZER, Károly
+
+Referee: WILLIAMS, John [UNITED STATES]
+Note: Jean-Joseph was injured with a broken arm after 10'.
+
+01/02/1934, Port-au-Prince, Parc Leconte, 6.000
+HAITI                  1-1           CUBA [HT 1-0]
+ST. FORT, Robert 25'pen              LÓPEZ, Mario 85'
+
+Haiti:
+ 1-ESPER, Edouard                     1-GARCÍA, Antonio
+ 2-ST. FORT, Robert [c]               2-MORALES, Evelio 'Mayari'
+ 3-TOVAR, Marcel                      3-MORALES, Francisco 'Panchito'
+ 4-AUDANT, Georges                    4-GALCERÁN, Arturo
+ 5-BERROUET, Fritz                    5-RODRÍGUEZ, Ángel
+ 6-SAVAIN, Marcel                     6-GARCÍA, Pelayo
+ 7-CHAMPAGNE, Antoine                 7-RODRÍGUEZ, Andrés
+ 8-SEGUIGNOL,                         8-SOCORRO, Héctor
+ 9-TOURREAU,                          9-LÓPEZ, Mario [c]
+10-BEAUVOIR, Franck                  10-SOCORRO, Francisco 'Paquito'
+11-ELIO, Denis                       11-CASANONOS, Luis
+Coaches:
+                                     KATZER, Károly
+
+Referee: WILLIAMS, John [UNITED STATES]
+
+04/02/1934, Port-au-Prince, Parc Leconte, 5.000
+HAITI                  0-6           CUBA [HT 0-3]
+                                     SOCORRO, Héctor     1H
+                                     LÓPEZ, Mario        1H
+                                     SOCORRO, Francisco  1H
+                                     FERRER, Enrique     2H
+                                     SOTO, Salvador      2H
+                                     LÓPEZ, Mario        2H
+
+Haiti:                               Cuba:
+ 1-ESPER, Edouard                     1-AYRA, Juan
+ 2-ST. FORT, Robert [c]               2-MORALES, Evelio 'Mayari'
+ 3-TOVAR, Marcel                      3-MORALES, Francisco 'Panchito'
+ 4-BERROUET, Charles                  4-GALCERÁN, Arturo
+ 5-AUDANT, Georges                    5-RODRÍGUEZ, Ángel
+ 6-BERROUET, Fritz                    6-OCHOA, Sergio Luis
+ 7-CHAMPAGNE, Antoine                 7-FERRER, Enrique
+ 8-SEGUIGNOL,                         8-SOCORRO, Héctor
+ 9-TOURREAU,                          9-LÓPEZ, Mario [c]
+10-BEAUVOIR, Franck                  10-SOCORRO, Francisco 'Paquito'
+11-ELIO, Denis                       11-SOTO, Salvador 'Buroy'
+Coaches:
+                                     KATZER, Károly
+
+Referee: WILLIAMS, John [UNITED STATES]
+
+04/03/1934, Ciudad de México, Parque Necaxa, 20.000
+MEXICO                 3-2           CUBA [HT 3-1]
+MEJÍA, Dionisio 12'                  LÓPEZ, Mario 40'
+MEJÍA, Dionisio 14'                  LÓPEZ, Mario 63'
+MEJÍA, Dionisio 16'
+
+Mexico:                              Cuba:
+ 1-RIESTRA, Alfonso                   1-AYRA, Juan
+ 2-AZPIRI, Antonio                    2-MORALES, Evelio 'Mayari'
+ 3-CAMARENA, Lorenzo                  3-MORALES, Francisco 'Panchito'
+ 4-ORTEGA, Guillermo [c]              4-GALCERÁN, Arturo
+ 5-AVILA, Ignacio                     5-RODRÍGUEZ, Ángel
+ 6-ROSAS, Felipe                      6-VILLAVERDE, Manuel 'Bebito'
+ 7-GARCÍA, Vicente                    7-FERRER, Enrique
+ 8-GÓMEZ, Félix                       8-SOCORRO, Héctor
+ 9-MEJÍA, Dionisio                    9-LÓPEZ, Mario [c]
+10-CARRENO, Juan                     10-VALDÉS, Antero 'Neno'
+11-RUVALCABA, José                   11-SOTO, Salvador 'Buroy'
+Coaches:
+GUTIÉRREZ, Rafael Garza              KATZER, Károly
+
+Referee: DONAGHY, Edward [UNITED STATES]
+
+11/03/1934, Ciudad de México, Parque Necaxa, 22.000
+MEXICO                 5-0           CUBA [HT 3-0]
+SOTA, Jorge     24'
+MEJÍA, Dionisio 31'
+MEJÍA, Dionisio 40'
+ROSAS, Felipe   72'
+MEJÍA, Dionisio 79'
+
+Mexico:                              Cuba:
+ 1-RIESTRA, Alfonso                   1-AYRA, Juan
+ 2-AZPIRI, Antonio                    2-MORALES, Evelio 'Mayari'
+ 3-CAMARENA, Lorenzo                  3-MORALES, Francisco 'Panchito'
+ 4-ORTEGA, Guillermo [c]              4-GALCERÁN, Arturo
+ 5-AVILA, Ignacio                     5-RODRÍGUEZ, Ángel
+ 6-ROSAS, Felipe                      6-OCHOA, Sergio Luis
+ 7-SOTA, Jorge                        7-SOCORRO, Héctor
+ 8-GÓMEZ, Félix                       8-VILLAVERDE, Manuel 'Bebito'
+ 9-MEJÍA, Dionisio                    9-LÓPEZ, Mario [c]
+10-CARRENO, Juan                     10-VALDÉS, Antero 'Neno'
+11-RUVALCABA, José                   11-SOTO, Salvador 'Buroy'
+Coaches:
+GUTIÉRREZ, Rafael Garza              KATZER, Károly
+
+Referee: DONAGHY, Edward [UNITED STATES]
+Note: Ayra saved a penalty from Carreño.
+
+18/03/1934, Ciudad de México, Parque España, 10.000
+MEXICO                 4-1           CUBA [HT 2-1]
+ALONSO, Manuel   32'                 LÓPEZ, Mario 15'
+RUVALCABA, José  41'
+MARCOS, Fernando 60'
+ALONSO, Manuel   85'
+
+Mexico:                              Cuba:
+ 1-RIESTRA, Alfonso                   1-AYRA, Juan
+ 2-ROSAS, Manuel [c]                  2-MORALES, Evelio 'Mayari'
+ 3-GARZÓN, Alfredo                    3-VALDÉS, Antero 'Neno'
+ 4-LAVIADA, Carlos                    4-GALCERÁN, Arturo
+ 5-GUIRÁN, Rafael                     5-RODRÍGUEZ, Ángel
+ 6-ROSAS, José                        6-OCHOA, Sergio Luis
+ 7-SOTA, Jorge                        7-FERRER, Enrique
+ 8-MARCOS, Fernando                   8-SOCORRO, Héctor
+ 9-ALONSO, Manuel                     9-LÓPEZ, Mario [c]
+10-de la FUENTE, Luis 'Pirata'       10-VILLAVERDE, Manuel 'Bebito'
+11-RUVALCABA, José                   11-SOTO, Salvador 'Buroy'
+Coaches:
+GUTIÉRREZ, Rafael Garza              KATZER, Károly
+
+Referee: DONAGHY, Edward [UNITED STATES]
+Note: Injuries to 'Mayari' (43'), and Ferrer (73') left Cuba with nine men.
+
+NB: see also ‹Cuba in the 1934 World Cup versus Haiti and Mexico, see page 34cubacampaign›
+
+24/05/1934, Rome, Stadio Nazionale PNF, 10.000
+UNITED STATES          4-2           MEXICO [HT 2-1]
+DONELLI, Aldo 28'                    ALONSO, Manuel 23'
+DONELLI, Aldo 32'                    MEJÍA, Dioniso 75'
+DONELLI, Aldo 74'
+DONELLI, Aldo 87'
+
+United States:                       Mexico:
+ 1-HJULIAN, Julius                    1-NAVARRO, Rafael
+ 2-CZERKIEWICZ, Adolph 'Ed'           2-AZPIRI, Antonio
+ 3-MOORHOUSE, George [c]              3-CAMARENA, Lorenzo
+ 4-LEHMAN, William                    4-ORTEGA PERRO, Guillermo [c]
+ 5-GONSALVES, Adelino 'Billy'         5-AVILA, Ignacio
+ 6-PIETRAS, Peter                     6-ROSAS, Felipe
+ 7-GALLAGHER, James                   7-GARCÍA, Vicente
+ 8-NILSEN, Werner                     8-ALONSO, Manuel
+ 9-FLORIE, Thomas                     9-MEJÍA, Dioniso
+10-DONELLI, Aldo                     10-CARRENO, Juan
+11-McLEAN, William                   11-RUVALCABA, José
+Coaches:
+SCHROEDER, Elmer                     GUTIÉRREZ, Rafael Garza
+Cards:
+                                     AZPIRI, Antonio [R 52']
+
+Referee: MOHAMMED, Yossouf [EGYPT]
+Note: Donelli had a penalty saved after 66'.
+
+MIDDLE EAST
+
+GROUP 12 [EGYPT, PALESTINE]
+
+16/03/1934, Cairo, British Army Ground, 13.000
+EGYPT                  7-1           PALESTINE [HT 4-0]
+RAFAI, Mahmoud Mokhtar               NUDELMANN, Avraham
+RAFAI, Mahmoud Mokhtar
+RAFAI, Mahmoud Mokhtar
+TAHA, Mustafa Kamel
+LATIF, Mohamed
+TAHA, Mustafa Kamel
+LATIF, Mohamed
+
+Egypt:                               Palestine:
+ 1-MANSOUR, Mustafa Kamel             1-BERGER, Willi
+ 2-EL-KAF, Ali Mohamed El-Said        2-REZNIK, Avraham [c]
+ 3-IBRAHIM, Abdel Hamido 'Charlie'    3-FIEDLER, Pinhas
+ 4-EL-FAR, Hassan Ahmed               4-FRIEDMANN, Zalman 'Dzampa'
+ 5-RAGHAB, Hassan                     5-FUCHS, Gdalyahu
+ 6-SABRY, Amin                        6-SUKENIK, Yohanan
+ 7-LATIF, Mohamed                     7-HARLAP, Amnon
+ 8-TAHA, Mustafa Kamel                8-KRAUS, Peri
+ 9-RAFAI, Mahmoud Mokhtar [c]         9-KASTENBAUM, Paul
+10-FAWZY, Abdel Rahim                10-REICH, Chaim
+11-EL-ZOUBAIR, Gamil                 11-NUDELMANN, Avraham
+Coaches:
+McREA, James                         RATNER, Shimon 'Lumeck'
+
+Referee: WELLS, RSM Stanley [ENGLAND]
+
+06/04/1934, Jerusalem, Tamarim Field, 10.000
+PALESTINE              1-4           EGYPT [HT 0-4]
+SUKNIK, Yohanan 70'                  RAFAI, Mahmoud Mokhtar
+                                     LATIF, Mohamed
+                                     RAFAI, Mahmoud Mokhtar
+                                     FAWZY, Abdel Rahim
+
+Palestine:                           Egypt:
+ 1-BERGER, Willi                      1-FAHMY, Aziz
+ 2-WEINBERG, David                    2-EL-KAF, Ali Mohamed El-Said
+ 3-FIEDLER, Pinhas [c]                3-IBRAHIM, Abdel Hamido 'Charlie'
+ 4-FRIEDMANN, Zalman 'Dzampa'         4-EL-FAR, Hassan Ahmed
+ 5-FUCHS, Gdalyahu                    5-RAGHAB, Hassan
+ 6-SUKENIK, Yohanan                   6-BAKHATY, Mohamed Farid
+ 7-LEVY-MEIR, Yaacov                  7-LATIF, Mohamed
+ 8-HARLAP, Amnon                      8-TAHA, Mustafa Kamel
+ 9-ZELIBANSKI, Yaacov                 9-RAFAI, Mahmoud Mokhtar [c] 'El-Titch'
+10-REICH, Haim                       10-FAWZY, Abdel Rahim
+11-NUDELMANN, Avraham                11-HANI, Labib Mahmoud
+Coaches:
+RATNER, Shimon 'Lumek'               McREA, James
+
+Referee: GOODSBY, Frederick John [ENGLAND]
+
+

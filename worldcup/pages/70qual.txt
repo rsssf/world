@@ -1,0 +1,504 @@
+<!--
+   title:   World Cup 1970 qualifications
+   source:  https://rsssf.org/tables/70qual.html
+  -->
+
+<!--
+                     Contents:
+
+         Europe                           
+         South America                    
+         Africa                           
+         Asia                             
+         Oceania                          
+  -->
+
+
+
+
+== Europe
+
+30 teams entered, including ENG (champions). Eight groups with winners
+progressing into the finals. Teams finishing on level points had a play-off
+game.
+
+
+Group 1 (1968-69)  ‹§gr1›
+
+12.10. Basel      SUI-GRE 1:0 (1:0) Quentin (Boogaerts HOL)
+27.10. Lisbona    POR-ROM 3:0 (2:0) Jacinto 21, 72, Joao 33 (CaUaghan WAL)
+23.11. Bukarest   ROM-SUI 2:0 (0:0) Dumitrache 51, Domide 74 (Sener TUR)
+11.12. Athens     GRE-POR 4:2 (2:1) Dedes 33, Papaioannou 37, Sideris 61,
+                                    Torres 49o - Augusto 17, Eusebio 64
+                                    (Schulenburg GER)
+16.04. Athens     GRE-ROM 2:2 (0:0) Dedes 60, Sideris 51 - Dumitrache 53,
+                                    66 (Sbardella ITA)
+16.04. Lisbona    POR-SUI 0:2 (0:2) Vuilleumier 21, 35 (Taylor ENG)
+04.05. Pórto      POR-GRE 2:2 (0:0) Eusebio 82, Peres 86 - Elefterakis 68,
+                                    Botinos 74 (Moncef TUN)
+14.05. Lausanne   SUI-ROM 0:1 (0:1) ? o (Wharton SCO)
+12.10. Bucuresti  ROM-POR 1:0 (1:0) Dobrin 30 (Čanak JUG)
+15.10. Saloniki   GRE-SUI 4:1 (3:0) Koudas 33, Sideris 43, Botinos 39,49 -
+                                    Künzli 77 (Schiller AUT)
+02.11. Bern       SUI-POR 1:1 (0:1) Künzli 88 - Eusebio 40 (Nilsson SWE)
+16.11. Bucuresti  ROM-GRE 1:1 (1:0) Dembrovschi 36 - Domazos 50 (Adair NIR)
+
+1.ROM^  6   8  3  2  1   7- 8
+2.GRE   6   7  2  3  1  13- 9
+3.SUI   6   5  2  1  3   5- 8
+4.POR   6   4  1  2  3   8-10
+
+Group 2 (1968-69)  ‹§gr2›
+
+25.09. Kobenhavn  DAN-CZE 0:3 (0:2) Jokl 11, Kuna 22, Hagara 80 (Hirviniemi FIN)
+20.10. Bratislava CZE-DAN 1:0 (0:0) Jokl 56 (Bucheli SUI)
+04.12. Dublin     IRL-DAN -         (Syme SCO)
+04.05. Dublin     IRL-CZE 1:2 (1:0) Rogers 17 - Kabat 51, Adamec 71
+                                    (Ribeiro POR)
+25.05. Budapest   HUN-CZE 2:0 (1:0) A. Dunai 11, Albert 88 (Bentu ROM)
+27.05. Kobenhavn  DAN-IRL 2:0 (1:0) O.Sörensen 34, 66 (Archipow ZSR)
+08.06. Dublin     IRL-HUN 1:2 (0:1) Givens 59 - A.Dunai 23, Bene 80
+                                    (Loraux BEL)
+15.06. Kobenhavn  DAN-HUN 3:2 (2:2) O.Sörensen 3, Lefevre 35, 0.Madsen 67 -
+                                    Bene 7, Farkas 39 (Sirevaag NOR)
+14.09. Prag       CZE-HUN 3:3 (1:2) Hagara, Kvašňák, Kuna - Bene, A.Dunai,
+                                    Fazekas (Tschenscher GER)
+07.10. Prag       CZE-IRL 3:0 (3:0) Adamec 9,37,45 (Lo Bello ITA)
+15.10. Dublin     IRL-DAN 1:1 (1:0) Givens 11 - B.Jensen 84 (Paterson SCO)
+22.10. Budapest   HUN-DAN 3:0 (2:0) Bene 15,88, Szücs 28 (Ott GER)
+05.11. Budapest   HUN-IRL 4:0 (1:0) Halmosi 30, Bene 49, L.Puskas 68, L.
+                                    Kocsis 83 (Jakse JUG)
+
+- IRL-DAN abandoned at 50 mins due to fog, repeated 15.10.1969
+
+1.CZE^  6   9  4  1  1  16- 7
+2.HUN   6   9  4  1  1  12- 6
+3.DAN   6   5  2  1  3   6-10
+4.IRL   6   1  0  1  5   3-14
+
+Playoff in France:
+03.12. Marseilles CZE-HUN 4:1 (1:0) Kvašňák 44p, F. Veselý 57, Adamec 65,
+                                    Jokl 80 - Kocsis 90p
+
+
+Group 3 (1968-69)                                                                         MachinFRA  ‹§gr4›
+
+23.10. Cardiff    WAL-ITA 0:1 (0:1) Riva 44 (Campos POR)
+29.03. Berlin     DDR-ITA 2:2 (1:0) Vogel 26, Kreische 75 - Riva 54,82
+                                    (Boström SWE)
+06.04. Drezno     DDR-WAL 2:1 (1:0) Löwe 31, Rock 89 - England 57
+                                    (Geluck BEL)
+22.10. Cardiff    WAL-DDR 1:3 (0:0) Powell 83 - Vogel 54, Löwe 60, Frenzel
+                                    62 (Mâchin FRA)
+04.11. Rzym       ITA-WAL 4:1 (1:0) Riva 37,73,81, Mazzola 55 - England
+                                    67 (Beczirow BUL)
+12.11. Napoli     ITA-DDR 3:0 (3:0) Mazzola 7, Domenghini 25, Riva 36
+                                    (Schiller AUT)
+
+1.IIA^  4   7  3  1  0  10- 3
+2.DDR   4   5  2  1  1   7- 7
+3.WAL   4   0  0  0  4   3-10
+
+Group 4 (1968-69)  ‹§gr4›
+
+13.10. Belfast    NIR-TUR 4:1 (1:1) Best 31, McMordie 47, Dougan 65, W.
+                                    Campbell 76 - Ogün 9 (Schalks HOL)
+11.12. Stambul    TUR-NIR 0:3 (0:1) Harkin 36, 87, Nicholson 63
+                                    (Benghanif ALG)
+10.09. Belfast    NIR-ZSR 0:0       (Kitabdjian FRA)
+11.10. Kyev       ZSR-TUR 3:0 (1:0) Muntjan 43,78, Nodija 62 (Lööw SWE)
+22.10. Moskva     ZSR-NIR 2:0 (1:0) Nodija 24, Bishovets 79 (Scheurer SUI)
+04.11. Stambul    TUR-ZSR 1:3 (1:2) Ender 24 - Asatiani 3,60, Khmelnitski
+                                    34 (MarschaU AUT)
+
+1.ZSR^  4   7  3  1  0   8- 1
+2.NIR   4   5  2  1  1   7- 3
+3.TUR   4   0  0  0  4   2-13
+
+Group 5 (1968-69)  ‹§gr5›
+
+09.10. Stockholm  SWE-NOR 5:0 (1:0) Kindvall (3), B.Larsson (2) (Aho FIN)
+06.11. Strasbourg FRA-NOR 0:1 (0:0} Iversen 67 (Francescon ITA)
+19.06. Oslo       NOR-SWE 2:5 (0:3) Dybwad-Olsen 53,83 - Persson 21,
+                                    L.Eriksson 26, Kindvall 36, Grahn 47,
+                                    Grip 49 (Coiling LUX)
+10.09. Oslo       NOR-FRA 1:3 (0:1) Olsen 90 - Revelli 9,48,77 (van Ravens
+                                    HOL)
+15.10. Stockholm  SWE-FRA 2:0 (1:0) Kindvall 32p, 65 (Glöckner DDR)
+01.11. Paris      FRA-SWE 3:0 (3:0) Bras 39,43, Djorkaeff 41p (Smith ENG)
+
+1.SWE^  4   6  3  0  1  12- 5
+2.FRA   4   4  2  0  2   6- 4
+3.NOR   4   2  1  0  3   4-13
+
+Group 6 (1968-69)  ‹§gr6›
+
+19.06. Helsinki   F1N-BEL 1:2 (1:0) Flink 15 - Devrindt 85, Polleunis 89
+                                    (Zvieriev ZSR)
+25.09. Belgrad    JUG-FIN 9:1 (2:0) Zambata (3), Musemić (3), Džajić (2),
+                                    Osim - Tolsa (Chukov BUL)
+09.10. Waregem    BEL-FIN 6:1 (3:0) Polleunis (3), Puis (2), Semmeling -
+                                    Lindholm (Biroczky HUN)
+16.10. Brussels   BEL-JUG 3:0 (1:0) Devrindt (2), Polleunis (Krnavek CZE)
+27.10. Belgrad    JUG-ESP 0:0       (Marschall AUT)
+11.12. Madrid     ESP-BEL 1:1 (0:1) Garate 75 - Devrindt 3 (Garcia POR)
+23.02. Liege      BEL-ESP 2:1 (1:0) Devrindt 33, 83 - Asensi 84 (Sörensen)
+                                    DAN)
+30 04. Barcelona  ESP-JUG 2:1 (1:0) Bustillo 20, Amanció 27 - Pavlović 67
+                                    (Scheurer SUI)
+04 06. Helsinki   FIN-JUG 1:5 (1:3) Tolsa 20 - Bukal 22,71, Džajić 14,
+                                    Spreco 40, Pirić 60 (Eksztajn POL)
+25 06. Helsinki   FIN-ESP 2:0 (2:0) Lindholm 7, Tolsa 20 (Manning DDR)
+15 10. Cadiz      ESP-FIN 6:0 (5:0) Garate 18, 42, Pirri 5, Velazquez 21,
+                                    Amanció 44, Quino 86 (Helies FRA)
+19.10. Skopje     JUG-BEL 4:0 (3:0) Spasovski (2). Belin, Džajić
+                                    (Piotrowicz POL)
+
+1.BEL^  6   9  4  1  1  14- 8
+2.JUG   6   7  3  1  2  19- 6
+3.ESP   6   6  2  2  2  10- 6
+4.FIN   6   2  1  0  5   6-28
+
+Group 7 (1968-69)  ‹§gr7›
+
+19.05. Wien       AUT-CYP 7:1 (3:0) E.Hof (5), Redl, Sieber - Kantzilieris
+                                    (Biróczky HUN)
+13.10. Wien       AUT-GER 0:2 (0:1) G.Müller + 1o (Eksztajn POL)
+06.11. Glasgow    SCO-AUT 2:1 (1:1) Law 8, Bremner 75 - Starek 3 (Liedberg
+                                    SWE)
+23.11. Nicosia    CYP-GER 0:1 (0:0) G.Müller (Pirvu ROM)
+11.12. Nicosia    CYP-SCO 0:5 (0:5) Gilzean 5,35, Stein 25,41, Murdoch 44
+                                    (Bonett MLT)
+16.04. Glasgow    SCO-GER 1:1 (0:1) Murdoch 85 - G.Müller 39 (Gardeazábal
+                                    ESP)
+19.04. Nicosia    CYP-AUT 1:2 (0:1) Eftimiadis 89 - Kreuz 27, Redl 55
+                                    (Rusev BUL)
+10.05. Nürnberg   GER-AUT 1:0 (0:0) G.Müller 88 (Fiala CZE)
+17.05. Glasgow    SCO-CYP 8:0 (3:0) E.Gray, McNeill, Stein (4), Henderson,
+                                    Gemmell (Coates IRL)
+21.05. Essen      GER-CYP12:0 (7:0) G.Müller 3,44,48,85, Overath 5,12,63,
+                                    Haller 17,46, Lorenz 32, Held 41,
+                                    Höttges 51 (Coiling LUX)
+22.10. Hamburg    GER-SCO 3:2 (1:1) G.Müller 59, Libuda 79, Fichtel 37 -
+                                    J.Johnstone 3, Gilzean 62 (Droz SUI)
+05.11. Wien       AUT-SCO 2:0 (1:0) Redl (2) (Kruaszwili ZSR)
+
+1.GER^  6  11  5  1  0  20- 3
+2.SCO   6   7  3  1  2  18- 7
+3.AUT   6   6  3  0  3  12- 7
+4.CYP   6   0  0  0  6   2-25
+
+Group 8 (1968-69)  ‹§gr8›
+
+04.09. Rotterdam  HOL-LUX 2:0 (1:0) van Hanegem, Jansen (Burguet BEL)
+27.10. Sofia      BUL-HOL 2:0 (1:0) Bonev 45p, Asparoukhov 65 (Anderson
+                                    SCO)
+26.03. Rotterdam  HOL-LUX 4:0 (2:0) Pahlplatz 85,88, Cruyff 25, van Dijk
+                                    35 (Adair NIR)
+20.04. Kraków     POL-LUX 8:1 (3:0) Lubanski 9,29,36,82,85, Deyna 54,55,
+                                    Jerzy Wilim 64 - Leonardo (Sirevaag
+                                    NOR)
+23.04. Sofia      BUL-LUX 2:1 (1:0) Asparoukhov 31p,49 - Leonard 50p
+                                   (Babaçan TUR)
+07.05. Rotterdam  HOL-POL 1:0 (0:0) Roggeveen 90 (Howley ENG)
+15.06. Sofia      BUL-POL 4:1 (2:1) Bonev 24, Dermendzhiev 25, D.Penev 72,
+                                    Asparoukhov 88 - Deyna 27 (Biróczky
+                                    HUN)
+07.09. Chorzów    POL-HOL 2:1 (0:1) Jarosik 58, Lubański 67 - Wery 20
+                                    (Plaček CZE)
+10.10. Luxembourg LUX-POL 1:5 (1:0) Kirchens 38 - Deyna 49,67, Jarosik 54,
+                                    Bula 58, Lubański 60 (Jimenez ESP)
+22.10. Rotterdam  HOL-BUL 1:1 (1:0) Veenstra 35 - Bonev 58 (Michaelsen DAN)
+09.11. Warszawa   POL-BUL 3:0 (1:0) Jarosik 18, 68, Deyna 75 (Râdulescu
+                                    ROM)
+07.12. Luxembourg LUX-BUL 1:3 (0:2) Philipp 58p - Dermendzhiev 35, Yakimov
+                                    37, Bonev 83 (Jones WAL)
+
+- both matches LUX-HOL in Netherlands
+
+1.BUL^  6   9  4  1  1  12- 7
+2.POL   6   8  4  0  2  19- 8
+3.HOL   6   7  3  1  2   9- 5
+4.LUX   6   0  0  0  6   4-24
+
+== South America
+
+10 teams entered. Three groups with winners progressing into the finals.
+
+Group 9 (1969)  ‹§gr9›
+
+27.07. La Paz     BOL-ARG 3:1 (1:1) J. Diaz 18, Blacutt 51, Alvarez 70 -
+                                    Tarabini 43 (Sosa Miranda PAR)
+03.08. Lima       PER-ARG 1:0 (0:0) Leon 52 (de Moraes BRA)
+10.08. La Paz     BOL-PER 2:1 (0:0) Alvarez, Chumpitáz o - Challe (Chechelev
+                                    VEN)
+17.08. Lima       PER-BOL 3:0 (2:0) Cubillas, Cruzado, Gallardo (Ramirez COL)
+24.08. B.Aires    ARG-BOL 1:0 (0:0) Albrecht (Pena Rocha URU)
+31.08. B.Aires    ARG-PER 2:2 (0:0) Albrecht 80, Rendo 89 - 0. Ramirez 70,81
+                                    (Diaz CHI)
+
+1.PER^  4   5  2  1  1   7- 4
+2.BOL   4   4  2  0  2   5- 6
+3.ARG   4   3  1  1  2   4- 6
+
+Group 10 (1969)  ‹§gr10›
+
+27.07. Bogota     COL-VEN 3:0 (1:0) J. Gonzalez (2), Segrera (Murgueytio
+                                    ECU)
+02.08. Caracas    VEN-COL 1:1 (0:0) Mendoza - Tamayo (Ortube Vargas BOL)
+06.08. Bogota     COL-BRA 0:2 (0:2) Tostão 37,44 (Tejada Burga PER)
+06.08. Caracas    VEN-PAR 0:2 (0:1) J. Rojas (2) (Palacio CHI)
+10.08. Bogota     COL-PAR 0:1 (0:0) Martinez 57 (Pedraza PER)
+10.08. Caracas    VEN-BRA 0:5 (0:0) Tostão (3), Pelé (2) (Villacis ECU)
+17.08. Asuncion   PAR-BRA 0:3 (0:0) Edu, Jairzinho + 1o (Conley CHI)
+21.08. R/Janeiro  BRA-COL 6:2 (2:1) Pelé, Tostão (2), Jairzinho, Edu,
+                                    Rivelino - Mesa, Gallego (Comesana ARG)
+21.08. Asuncion   PAR-VEN 1:0 (1:0) Gimenez (Otero URU)
+24.08. R/Janeiro  BRA-VEN 6:0 (5:0) Tostão 3,22,24, Pelé 45,69, Jairzinho
+                                    30 (Ortube Vargas BOL)
+24.08. Asuncion   PAR-COL 2:1 (1:0) Arrua (2) - Segrera (Pestarino ARG)
+31.08. R/Janeiro  BRA-PAR 1:0 (0:0) Pelé 78 (Barreto Ruiz URU)
+
+1.BRA^  6  12  6  0  0  23- 2
+2.PAR   6   8  4  0  2   6- 5
+3.COL   6   3  1  1  4   7-12
+4.VEN   6   1  0  1  5   1-18
+
+Group 11 (1969)  ‹§gr11›
+
+06.07. Guayaquil  ECU-URU 0:2 (0:1) Bareño 31, Zubía 60 (Arppi Filho BRA)
+13.07. Santiago   CHI-URU 0:0       (Bossolino ARG)
+20.07. Montevideo URU-ECU 1:0 (0:0) Ancheta 76 (Osorio PAR)
+27.07. Santiago   CHI-ECU 4:1 (0:0) Olivares 55,77, Valdez 63,84 - Macías 88
+                                    (Ramírez COL)
+03.08. Guayaquil  ECU-CHI 1:1 (1:0) T.Rodríguez 10 - Olivares 58 (Angeles
+                                    PER)
+10.08. Montevideo URU-CHI 2:0 (1:0) Cortés 44, Rocha 90 (Marques BRA)
+
+1.URU^  4   7  3  1  0   5- 0
+2.CHI   4   4  1  2  1   5- 4
+3.ECU   4   1  0  1  3   2- 8
+
+CONCACAF - 13 teams entered, including MEX (hosts). Winners of four
+zonal groups and subsequent cup pairings progressing into the finals.
+
+Group 12 (1968-69)  ‹§gr12›
+
+▪ First Round ▪
+
+Subgroup A
+
+06.10. Toronto    CAN-BER 4:0 (3:0) Zanatta (2), Vigh, Kerr (Segura MEX)
+13.10. Toronto    CAN-USA 4:2 (2:1) Vigh, McPate (2), Patterson - Roy,
+                                    Stritzl (Figaroa AHO)
+20.10. Hamilton   BER-CAN 0:0       (Koetsier AHO)
+26.10. Atlanta    USA-CAN 1:0 (0:0) Albrecht (Soto Paris COS)
+03.11. Kansas Ct. USA-BER 6:2 (2:1) Millar (3), Baker (2), Roy - Best
+                                    (Fingal AHO)
+11.11. Hamilton   BER-USA 0:2 (0:2) Roy, Albrecht (Felipe MEX)
+
+1.USA^  4   6  3  0  1  11- 6
+2.CAN   4   5  2  1  1   8- 3
+3.BER   4   1  0  1  3   2-12
+
+Subgroup B
+
+17.11. Guatemala  GUA-TRI 4:0 (1:0) Pena (3), Stokes (Araya Muñoz COS)
+20.11. Guatemala  GUA-TRI 0:0       (Osorio Castillo MEX)
+23.11. Port-au-Pr.HAI-TRI 4:0 (1:0) G.St.Vil (2), Obas, Barthelemy (Gamboa
+                                    COS)
+25.11. Port-au-Pr.HAI-TRI 2:4 (1:2) Obas, St.Sorin - Archibald, Cave,
+                                    Cummings (2) (Archundia MEX)
+08.12. Port-au-Pr.HAI-GUA 2:0 (2:0) St.Sorin, Guillaume (Molina COS)
+23.02. Guatemala  GUA-HAI 1:1 (1:0) E.Gonzalez - Obas (Chaplin JAM)
+
+- TRI played all matches away
+
+1.HAI^  4   5  2  1  1   9- 5
+2.GUA   4   4  1  2  1   5- 3
+3.TRI   4   3  1  1  2   4-10
+
+Subgroup C
+
+27.11. San José   COS-JAM 3:0 (0:0) L.Hernandez, Vaughns, Saenz (de Oca
+                                    GUA)
+01.12. San José   COS-JAM 3:1 (2:1) Vega, Chavarria, Nunez - Dunkley
+                                    (Archundia MEX)
+05.12. T'cigalpa  HON-JAM 3:1 (2:1) Urquia, Gomez, Bran - Dunkley (King
+                                    USA)
+08.12. T'cigalpa  HON-JAM 2:0 (1:0) Bran, Urquia (Lee CAN)
+22.12. T'cigalpa  HON-COS 1:0 (0:0) Gómez (Wuertz USA)
+29.12. San José   COS-HON 1:1 (1:1) Chavarria - Gómez (Cumberbatch TRI)
+
+- JAM played all matches away
+
+1.HON^  4   7  3  1  0   7- 2
+2.COS   4   5  2  1  1   7- 3
+3.JAM   4   0  0  0  4   2-11
+
+Subgroup D
+
+24.11. Paramaribo SUR-AHO 6:0 (3:0) Vanenburg (2), Schoonhoven (2), Corte
+                                    (2) (King USA)
+01.12. S.Salvador SAL-SUR 6:0 (1:0) Quintanilla, Azucar (2), Cabezas p,
+                                    Valiente (2) (de Gourville TRI)
+05.12. Aruba      AHO-SUR 2:0 (0:0) Martina, Brokke (King CAN)
+12.12. S.Salvador SAL-AHO 1:0 (0:0) Quintanilla (di Salvatore USA)
+15.12. S.Salvador SAL-AHO 2:1 (0:0) Barranza, Valiente - Martina (de
+                                    Gourville TRI)
+22.12. Paramaribo SUR-SAL 4:1 (3:1) Oosthuizen, Schal, Lagadean (2) -
+                                    Azucar (Downer TRI)
+
+- both matches AHO-SAL in Salvador
+
+1.SAL^  4   6  3  0  1  10- 5
+2.SUR   4   4  2  0  2  10- 9
+3.AHO   4   2  1  0  3   3- 9
+
+▪ Second Round ▪
+
+(1)
+20.04. Port-au-Pr.HAI-USA  2:0 (1:0) G.St.Vil, Obas (Segura MEX)
+11.05. San Diego  USA-HAI  0:1 (0:1) G.St.Vil (Dunstan BER)
+
+(2)
+08.06. T'cigalpa  HON-SAL  1:0 (0:0) Gómez (Yamasaki MEX)
+15.06. S.Salvado  SAL-HON  3:0 (3:0) Martinez p, Acevedo, Rodriguez
+                                     (van Rosberg AHO)
+26.06. Mexico Ct. SAL-HON  3:2 (2:2,2:2,2:1) Acevedo, Martinez (2) -
+                                     R.Gómez (2) (Elizalde MEX)
+
+▪ Third Round ▪
+
+21.09. Port-au-Pr.HAI-SAL  1:2 (0:1) François - Acevedo, Rodriguez (Yamasaki
+                                     MEX)
+28.09. S.Salvador SAL-HAI  0:3 (0:3) Vorbe, Desir, Barthelemy (Elizalde MEX)
+08.10. Kingston   SAL-HAI  1:0 (0:0,0:0,0:0) Martinez (Dunstan BER)
+
+== Africa
+
+11 teams entered, playing in zonal cup pairs to decide three
+final group members. Winners progressing into the finals.
+
+Group 13 (1968-69)  ‹§gr13›
+
+▪ First Round ▪
+
+(1)
+17.11. Algiers    ALG-TUN 1:2 (1:0) Amirouche 29 p - Chakroun 73,75 (Barde
+                                    FRA)
+29.12. Tunis      TUN-ALG 0:0       (Monti ITA)
+
+(2)
+03.11. Casablanca MAR-SEN 1:0 (0:0) Benkhrief (de Mendebil ESP)
+05.01. Dakar      SEN-MAR 2:1 (2:1) Dip, Dieme - Akesbi (Ba MLI)
+13.02. Las Palmas MAR-SEN 2:0 (0:0) Bamous, Hefnaoui (Pintado Viu ESP)
+
+(3)
+26.01. Tripolis   LBA-ETH 2:0 (1:0) Jahani, M.Koussa (El-Attar ZRA)
+09.02. A.Abeba    ETH-LBA 5:1 (2:1) Germa (2), Feseha (2), Geremew -
+                                    A.Souid (El-Kholy ZRA)
+
+(4)
+27.10. Ndola      ZAM-SUD 4:2 (1:2) Kapengwe (2), Kaposa, Makwaza -
+                                    Osman (2) (Mutombo ZAI)
+08.11. Khartoum   SUD-ZAM 4:2 (unk,3:1,1:1) Gagdoul (2), Kafi, Sonto -
+                                    Kapengwe, Chitalu (Kandil ZRA)
+
+- SUD progressing by ,,scoring more goals in the second leg''
+
+(5)
+07.12. Lagos      NGA-CAM 1:1 (0:0) Salami - Owona (Robinson LBR)
+22.12. Douala     CAM-NGA 2:3 (1:2) Bessanguen, Ayo - Ofuokwu, Anieke,
+                                    Lawal (Angaud CON)
+
+(6)
+GHA - bye
+
+▪ Second Round ▪
+
+(1)
+27.04. Tunis      TUN-MAR 0:0       (Kitabdjian FRA)
+18.05. Casablanca MAR-TUN 0:0       (Garay ESP)
+13.06. Marseilles MAR-TUN 2:2 (1:1,2:2,2:2) Idriss 27, Houmane 53 -
+                                       Chaibi 3, Cheman 87 (Kitabdjian FRA)
+
+- MAR progressed by lot
+
+(2)
+04.05. A.Abeba    ETH-SUD 1:1 (0:1) Menguistou - Bakeit (Touati TUN)
+11.05. Khartoum   SUD-ETH 3:1 (1:0) Wahba, Hider, El-Fadil - T.Asfaw
+                                       (Kandil ZRA)
+
+(3)
+10.05. Ibadan     NGA-GHA 2:1 (0:1) Olayombo, Sessi - Addoquaie (N'Diaye
+                                    SEN)
+18.05. Accra      GHA-NGA 1:1 (1:1) Ola - Okoye (Nahounou IVC)
+
+▪ Third Round ▪
+
+13.09. Ibadan     NGA-SUD 2:2 (2:2) Okoye, Lawal - El-Dim, El-Sid (Mohandi
+                                    ALG)
+21.09. Casablanca MAR-NGA 2:1 (0:0) El-Fillali 50, Faras 63 - Lawal
+                                    (Mâchin FRA)
+03.10. Khartoum   SUD-NGA 3:3 (1:0) El-Dim, Nasr, Wahba - Sunday, Okoye,
+                                    Opone (Angonese ITA)
+10.10. Khartoum   SUD-MAR 0:0       (Kandil ZRA)
+26.10. Casablanca MAR-SUD 3:0 (1:0) El-Fillali 41, Houmane 7,86 (Lamptey
+                                    GHA)
+08.11. Ibadan     NGA-MAR 2:0 (0:0) Lawal, Okoye (Tarekegn ETH)
+
+1.MAR^  4   5  2  1  1   5- 3
+2.NGA   4   4  1  2  1   8- 7
+3.SUD   4   3  0  3  1   5- 8
+
+== Asia
+
+5 teams entered plus two Oceanian teams. ISR, NZE and RHO seeded.
+KLD withdrew after the preliminary round. Winner of cup phase progressing
+into the finals.
+
+Group 14 (1969)  ‹§gr14›
+
+First Round (tournament in South Korea)
+
+10.10. Seoul      AUS-JAP 3:1 (1:1) McColl, Ogi o, Baartz - Watanabe (Nice
+                                    MAL)
+12.10. Seoul      KOR-JAP 2:2 (2:1) Park Soo-il, Lee Lee-woo - Matsumoto,
+                                    Sugiyama (Cheung Tang-sun TAI)
+14.10. Seoul      KOR-AUS 1:2 (1:1) Lee Lee-woo - Watkiss, McColl (Suppiah
+                                    SIN)
+16.10. Seoul      AUS-JAP 1:1 (1:1) McColl - Miyamoto (Suvaree THA)
+18.10. Seoul      KOR-JAP 2:0 (2:0) Hong In-woong, Jung Byung-tak (Lee Kan
+                                    Chi HKG)
+20.10. Seoul      KOR-AUS 1:1 (1:0) Park Soo-il - Baartz (Nice MAL)
+
+
+1.AUS^  4   6  2  2  0   7- 4
+2.KOR   4   4  1  2  1   6- 5
+3.JAP   4   2  0  2  2   4- 8
+
+▪ Second Round ▪
+
+(1) - all matches in Mozambique (boycott of Rhodesia)
+
+23.11. L. Marques RHO-AUS 1:1 (0:0) Chalmers - McColl (Ribeiro POR)
+27.11. L. Marques RHO-AUS 0:0       (Ribeiro POR)
+29.11. L. Marques RHO-AUS 1:3 (0:2) Chalmers - Rutherford, Warren (Ribeiro
+                                       POR)
+
+(2) - both matches in Israel; KLD withdrew before this round
+
+28.09. Tel-Aviv   ISR-NZE 4:0 (0:0) Spiegel 65, Spiegler 48, Feigenbaum 72,86
+                                    (Nassiri IRN)
+01.10. Tel-Aviv   ISR-NZE 2:0 (2:0) Spiegler 24, Spiegel 33 (Nassiri IRN)
+
+▪ Third Round ▪
+
+04.12. Tel-Aviv   ISR-AUS 1:0 (1:0) Spiegel 18 (Marschall AUT)
+14.12. Sydney     AUS-ISR 1:1 (0:0) Watkiss 87 - Spiegler 8 (Marschall AUT)
+
+== Oceania
+
+2 teams entered, allotted to the Asian zone (see ‹Group 14, see §gr14›)
+

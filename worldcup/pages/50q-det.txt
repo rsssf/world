@@ -1,0 +1,670 @@
+<!--
+   title:   World Cup 1950 - Qualifying
+   source:  https://rsssf.org/tables/50q-det.html
+   author:  Barrie Courtney
+   updated: 12 Jun 2009
+  -->
+
+
+
+
+EUROPE
+
+GROUP 1 [ENGLAND, NORTHERN IRELAND, SCOTLAND, WALES]
+
+01/10/1949, Belfast, Windsor Park, 50.000
+NORTHERN IRELAND       2-8           SCOTLAND [HT 0-5]
+SMYTH, Sammy 50'                     MORRIS, Henry    2'
+SMYTH, Sammy 59'                     WADDELL, Willie  5'
+                                     STEEL, Billy    23'
+                                     REILLY, Lawrie  24'
+                                     WADDELL, Willie 31'pen
+                                     MORRIS, Henry   70'
+                                     MASON, Jimmy    80'
+                                     MORRIS, Henry   88'
+
+Northern Ireland                     Scotland:
+ 1-KELLY, Patrick                     1-COWAN, Jimmy
+ 2-BOWLER, Gerry                      2-YOUNG, George [c]
+ 3-McMICHAEL, Alf                     3-COX, Sammy
+ 4-BLANCHFLOWER, Danny                4-EVANS, Bobby
+ 5-VERNON, Jackie                     5-WOODBURN, Willie
+ 6-FERRIS, Ray                        6-AITKEN, George
+ 7-COCHRANE, Dave                     7-WADDELL, Willie
+ 8-SMYTH, Sammy                       8-MASON, Jimmy
+ 9-BRENNAN, Bobby                     9-MORRIS, Henry
+10-CROSSAN, Edward                   10-STEEL, Billy
+11-McKENNA, John                     11-REILLY, Lawrie
+Coaches:
+COMMITTEE                            COMMITTEE
+Referee:  MORTIMER, Reginald [ENGLAND]
+
+15/10/1949, Cardiff, Ninian Park, 61.079
+WALES                  1-4           ENGLAND [HT 0-3]
+GRIFFITHS, Mal 80'                   MORTENSEN, Stan 22'
+                                     MILBURN, Jackie 29'
+                                     MILBURN, Jackie 34'
+                                     MILBURN, Jackie 66'
+
+Wales:                               England:
+ 1-SIDLOW, Cyril                      1-WILLIAMS, Bert
+ 2-BARNES, Wally [c]                  2-MOZLEY, Bert
+ 3-SHERWOOD, Alf                      3-ASTON, John
+ 4-PAUL, Roy                          4-WRIGHT, Billy [c]
+ 5-JONES, Tommy                       5-FRANKLIN, Neil
+ 6-BURGESS, Ronnie                    6-DICKINSON, Jimmy
+ 7-GRIFFITHS, Mal                     7-FINNEY, Tom
+ 8-LUCAS, Billy                       8-MORTENSEN, Stan
+ 9-FORD, Trevor                       9-MILBURN, Jackie
+10-SCRINE, Frank                     10-SHACKLETON, Len
+11-EDWARDS, George                   11-HANCOCKS, Johnny
+Coaches:
+COMMITTEE                            WINTERBOTTOM, Walter
+Referee: MOWATT, Jack [SCOTLAND]
+
+09/11/1949, Glasgow, Hampden Park, 73.782
+SCOTLAND               2-0           WALES [HT 1-0]
+McPHAIL, John      25'
+LINWOOD, Alexander 78'
+
+Scotland:                            Wales:
+ 1-COWAN, Jimmy                       1-JONES, Keith
+ 2-YOUNG, George [c]                  2-BARNES, Wally
+ 3-COX, Sammy                         3-SHERWOOD, Alf
+ 4-EVANS, Bobby                       4-POWELL, Ivor
+ 5-WOODBURN, Willie                   5-JONES, Tommy
+ 6-AITKEN, George                     6-BURGESS, Ronnie [c]
+ 7-LIDDELL, Billy                     7-GRIFFITHS, Mal
+ 8-McPHAIL, John                      8-PAUL, Roy
+ 9-LINWOOD, Alexander                 9-FORD, Trevor
+10-STEEL, Billy                      10-CLARKE, Roy
+11-REILLY, Lawrie                    11-EDWARDS, George
+Coaches:
+COMMITTEE                            COMMITTEE
+Referee: LAW, SK [ENGLAND]
+
+16/11/1949, Manchester, Maine Road, 69.762
+ENGLAND                9-2           NORTHERN IRELAND [HT 4-0]
+ROWLEY, Jack     6'                  SMYTH, Sammy   55'
+FROGGATT, Jack  25'                  BRENNAN, Bobby 75'
+PEARSON, Stan   33'
+MORTENSEN, Stan 35'
+ROWLEY, Jack    47'
+MORTENSEN, Stan 50'
+ROWLEY, Jack    56'
+ROWLEY, Jack    58'
+PEARSON, Stan   68'
+
+England:                             Northern Ireland:
+ 1-STRETEN, Bernard                   1-KELLY, Hugh
+ 2-MOZLEY, Bert                       2-FEENEY, Jack
+ 3-ASTON, John                        3-McMICHAEL, Alf
+ 4-WATSON, Willie                     4-BOWLER, Gerry
+ 5-FRANKLIN, Neil                     5-VERNON, Jackie [c]
+ 6-WRIGHT, Billy [c]                  6-McCABE, Jim
+ 7-FINNEY, Tom                        7-COCHRANE, Dave
+ 8-MORTENSEN, Stan                    8-SMYTH, Sammy
+ 9-ROWLEY, Jack                       9-BRENNAN, Bobby
+10-PEARSON, Stan                     10-TULLY, Charlie
+11-FROGGATT, Jack                    11-McKENNA, John
+Coaches:
+WINTERBOTTOM, Walter                 COMMITTEE
+Referee: GRIFFITHS, Mervyn [WALES]
+
+08/03/1950, Wrexham, Racecourse Ground, 30.000
+WALES                  0-0           NORTHERN IRELAND [HT 0-0]
+
+Wales:                               Northern Ireland:
+ 1-SHORTT, Billy                      1-KELLY, Hugh
+ 2-BARNES, Wally [c]                  2-BOWLER, Gerry
+ 3-SHERWOOD, Alf                      3-AHERNE, Tom
+ 4-PAUL, Roy                          4-BLANCHFLOWER, Danny
+ 5-CHARLES, John                      5-MARTIN, Con
+ 6-BURGESS, Ronnie                    6-RYAN, Reg
+ 7-WILLIAMS, Harry                    7-McKENNA, John
+ 8-REES, Billy                        8-SMYTH, Sammy
+ 9-FORD, Trevor                       9-WALSH, Davie
+10-SCRINE, Frank                     10-BRENNAN, Bobby
+11-CLARKE, Roy                       11-LOCKHART, Norman
+Coaches:
+COMMITTEE                            COMMITTEE
+Referee: LEAFE, Reginald [ENGLAND]
+
+15/04/1950, Glasgow, Hampden Park, 133.300
+SCOTLAND               0-1           ENGLAND [HT 0-1]
+                                     BENTLEY, Roy 64'
+
+Scotland:                            England:
+ 1-COWAN, Jim                         1-WILLIAMS, Bert
+ 2-YOUNG, George [c]                  2-RAMSEY, Alf
+ 3-COX, Sammy                         3-ASTON, John
+ 4-McCOLL, Ian                        4-WRIGHT, Billy [c]
+ 5-WOODBURN, Willie                   5-FRANKLIN, Neil
+ 6-FORBES, Alex                       6-DICKINSON, Jimmy
+ 7-WADDELL, Willie                    7-FINNEY, Tom
+ 8-MOIR, Willie                       8-MANNION, Wilf
+ 9-BAULD, Willie                      9-MORTENSEN, Stan
+10-STEEL, Billy                      10-BENTLEY, Roy
+11-LIDDELL, Billy                    11-LANGTON, Bobby
+Coaches:
+COMMITTEE                            WINTERBOTTOM, Walter
+Referee: LEAFE, Reginald [ENGLAND]
+
+GROUP 2 [SYRIA, TURKEY]
+
+20/11/1949, Ankara, Stadionu 19 Mayis,
+TURKEY                 7-0           SYRIA [HT 3-0]
+CANSEVER, Fahreddin     12'
+CANSEVER, Fahreddin     16'
+EKEN, Bülent            44'
+KÜCÜKANDONYADIS, Lefter 66'
+KESKIN, Erol            67'
+KILIC, Gündüz           72'
+CANSEVER, Fahreddin     87'
+
+Turkey:                              Syria:
+ 1-KOCACIMEN, Erdal                   1-OMAR, Daud
+ 2-ÖZKAYA, Naci                       2-ASSOIUN, Joseph
+ 3-TOSUNCUK, Vedii                    3-MARDINI, George
+ 4-ERTAN, Mustafa                     4-ALASSI, Manuel
+ 5-EKEN, Bülent                       5-KARASIAN, Abraham
+ 6-SAYGUN, Hüseyin                    6-HAZZAR, Nuri
+ 7-KESKIN, Erol                       7-AVARIAN, Hagob
+ 8-KÜCÜKANDONYADIS, Lefter            8-SAFANI, Adnan
+ 9-KILIC, Gündüz [c]                  9-TAWIL, Abdullah
+10-CANSEVER, Fahreddin               10-SARKOUSSIAN, Vazken
+11-GÜLESIN, Şükrü                    11-HAMAZAK, Atan
+Coaches:
+ARMAN, Chihat
+Referee: GAMBA, Antonio [ITALY]
+
+GROUP 3 [FRANCE, ISRAEL, YUGOSLAVIA]
+
+21/08/1949, Beograd, J.N.A Stadion, 35.000
+YUGOSLAVIA             6-0           ISRAEL [HT 4-0]
+PAJEVIĆ, Milos    12'
+PAJEVIĆ, Milos    19'
+PAJEVIĆ, Milos    26'
+SENČAR, Božidar   44'
+ČAJKOVSKI, Željko 63'
+BOBEK, Stjepan    83'pen
+
+Yugoslavia:                          Israel:
+ 1-ŠOŠTARIĆ, Franjo                   1-HODOROV, Yaacov
+ 2-STANKOVIĆ, Branko                  2-SCHWEITZER, David
+ 3-PETROVIĆ, Miomir                   3-WEISS, Israel
+ 4-ČAJKOVSKI, Zlatko                  4-GAMBASH, Yaacov
+ 5-JOVANOVIĆ, Miodrag                 5-SHNEOR, Itzhak
+ 6-JAKOVETIĆ, Lajoš                   6-FUCHS, Eli
+ 7-SENČAR, Božidar                    7-MIRMOVICH, Yosef
+ 8-MITIĆ, Rajko [c]                   8-CZECHIK, Itzhak
+ 9-BOBEK, Stjepan                     9-LITVAK, Moshe
+10-PAJEVIĆ, Miloš                    10-WEINBERGER, Ernst
+11-ČAJKOVSKI, Željko                 11-VARON, Moshe
+Coaches:
+ARSENIJEVIĆ, Milorad                 HESS, Lajos
+Referee: GALEATI, Giovanni [ITALY]
+Source: Serbian FA. RSSSF Israel page denotes the goal times as:
+12', 19', 39', 44', 65', 73'.
+
+18/09/1949, Tel Aviv, Maccabia Stadium, 25.000
+ISRAEL                 2-5           YUGOSLAVIA [HT 0-3]
+GLAZER, Yehoshua 46'                 VALOK, Marko      15'
+GLAZER, Yehoshua 78'                 BOBEK, Stjepan    26'
+                                     VALOK, Marko      37'
+                                     ČAJKOVSKI, Zlatko 61'
+                                     ČAJKOVSKI, Željko 75'
+
+Israel:                              Yugoslavia:
+ 1-HODOROV, Yaacov                    1-ŠOŠTARIĆ, Franjo
+ 2-SHNEOR, Itzhak                     2-STANKOVIĆ, Branko
+ 3-FELMAN, Avraham                    3-ČOLIĆ, Ratko
+ 4-GAMBASH, Yaacov                    4-ČAJKOVSKI, Zlatko
+ 5-GAMBASH, Itzhak                    5-JOVANOVIĆ, Miodrag
+ 6-FUCHS, Eli                         6-JAKOVETIĆ, Lajoš
+ 7-STUDINSKI, Zvi                     7-SENČAR, Božidar
+ 8-MIRMOVICH, Yosef                   8-BOBEK, Stjepan [c]
+ 9-GLAZER, Yehoshua                   9-VALOK, Marko
+10-WEINBERGER, Ernst                 10-PAJEVIĆ, Miloš
+11-VARON, Moshe                      11-ČAJKOVSKI, Željko
+Coaches:
+HESS, Lajos                          ARSENIJEVIĆ, Milorad
+Referee: KINSTLICH, Yosef [CYPRUS]
+Note: Timings are also recorded as:
+Israel: 65' & 76', Yugoslavia: 19', 20', 44', 64', 82'
+
+09/10/1949, Beograd, J.N.A Stadion, 50.000
+YUGOSLAVIA             1-1           FRANCE [HT 1-0]
+ČAJKOVSKI, Željko 36'                BAILLOT, Henri 55'
+
+Yugoslavia:                          France:
+ 1-ŠOŠTARIĆ, Franjo                   1-IBRIR, Abderrahman
+ 2-STANKOVIĆ, Branko                  2-FREY, André
+ 3-ČOLIĆ, Ratko                       3-HON, Louis
+ 4-ČAJKOVSKI, Zlatko                  4-MARCHE, Roger
+ 5-JOVANOVIĆ, Miodrag                 5-PROUFF, Jean [c]
+ 6-JAKOVETIĆ, Lajoš                   6-CARRÉ, Roger
+ 7-MITIĆ, Rajko [c]                   7-RANZONI, Pierre
+ 8-SIMONOVSKI, Kiril                  8-VANDOOREN, Roger
+ 9-VALOK, Marko                       9-BAILLOT, Henri
+10-BOBEK, Stjepan                    10-BARATTE, Jean
+11-ČAJKOVSKI, Željko                 11-GRUMELLON, Jean
+Coaches:
+ARSENIJEVIĆ, Milorad                 COMMITTEE [Gaston Barreau, Paul Nicolas,
+                                                Jean Rigal]
+Referee: van der MEER, Karel [NETHERLANDS]
+
+30/10/1949, Paris, Stade Olympique de Colombes, 53.569
+FRANCE                 1-1           YUGOSLAVIA [HT 1-1]
+BAILLOT, Henri  8'                   BOBEK, Stjepan 44'
+
+France:                              Yugoslavia:
+ 1-IBRIR, Abderrahman                 1-ŠOŠTARIĆ, Franjo
+ 2-FREY, André                        2-HORVAT, Ivan
+ 3-HON, Louis                         3-STANKOVIĆ, Branko
+ 4-MARCHE, Roger                      4-ČAJKOVSKI, Zlatko
+ 5-PROUFF, Jean [c]                   5-JOVANOVIĆ, Miodrag
+ 6-LUCIANO, Jean                      6-ÐAJIĆ, Predrag
+ 7-VANDOOREN, Roger                   7-BOBEK, Stjepan
+ 8-STRAPPE, André                     8-ČAJKOVSKI, Željko
+ 9-BAILLOT, Henri                     9-PAJEVIĆ, Miloš
+10-BARATTE, Jean                     10-VUKOSAVLJEVIĆ, Branislav
+11-GRUMELLON, Jean                   11-BENKO, Aleksandar
+Coaches:
+COMMITTEE [Gaston Barreau, Paul      ARSENIJEVIĆ, Milorad
+           Nicolas, Jean Rigal]
+Referee: GALEATI, Giovanni [ITALY]
+
+11/12/1949, Firenze, Stadio Giovanni Berta, 25.000
+YUGOSLAVIA             3-2           FRANCE [HT 1-1][FT 2-2]AET
+MIHAJLOVIĆ, Prvoslav  12'            WALTER, Marius 13'
+MIHAJLOVIĆ, Prvoslav  84'pen         LUCIANO, Jean  83'
+ČAJKOVSKI, Željko    114'
+
+Yugoslavia:                          France:
+ 1-MRKUŠIĆ, Srdan                     1-IBRIR, Abderrahman
+ 2-HORVAT, Ivan                       2-FREY, André
+ 3-JOVANOVIĆ, Miodrag                 3-HON, Louis
+ 4-ČOLIĆ, Ratko                       4-MARCHE, Roger
+ 5-ČAJKOVSKI, Zlatko                  5-CUISSARD, Antoine
+ 6-ĐAJIĆ, Predrag                     6-LUCIANO, Jean
+ 7-MITIĆ, Rajko                       7-WALTER, Marius
+ 8-BOBEK, Stjepan                     8-BARATTE, Jean
+ 9-MIHAJLOVIĆ, Prvoslav               9-QUENOLLE, Roger
+10-FIRM, Vladimir                    10-MEANO, Francis
+11-ČAJKOVSKI, Željko                 11-LECHANTRE, Jean
+Coaches:
+ARSENIJEVIĆ, Milorad                 COMMITEE [Gaston Barreau, Paul Nicolas,
+                                               Jean Rigal]
+Referee: GALEATI, Giovanni [ITALY]
+
+GROUP 4 [LUXEMBOURG, SWITZERLAND]
+
+26/06/1949, Zürich, Hardturm Stadion, 15.000
+SWITZERLAND            5-2           LUXEMBOURG [HT 3-1]
+MAILLARD II, René 20'                WAGNER, Camille  3'
+FATTON, Jacky     30'                REUTER, Paul    86'
+FATTON, Jacky     41'
+BALLAMAN, Robert  48'
+ANTENEN, Kiki     59'
+
+Switzerland:                         Luxembourg:
+ 1-PREISS, Thomas                     1-MICHAUX, Bernard
+ 2-GYGER, Rudolf 'Rudi'               2-FRATONI, Jean
+ 3-QUINCHE, Roger                     3-FELLER, Jean
+ 4-LANZ, Bernard                      4-WAGNER, Raymond
+ 5-HASLER, Robert                     5-FELLER, Victor [c]
+ 6-BOUQUET, Roger                     6-GUTH, Fernand
+ 7-BALLAMAN, Robert                   7-BECKER, Jean
+ 8-ANTENEN, Charles 'Kiki'            8-KREMER, Jean-Pierre 'Jim'
+ 9-BADER, René                        9-REUTER, Paul
+10-MAILLARD II, René                 10-SCHAMMEL, Fernand
+11-FATTON, Jacques 'Jacky'           11-WAGNER, Camille
+Coaches:
+ANDREOLI, Franco                     HOSCHEIT, Jean-Pierre/MULLER, Jules/REUTER, Albert
+Referee:
+DELASALLE, Charles [FRANCE]
+
+18/09/1949, Luxembourg City, Stade Municipal, 10.000
+LUXEMBOURG             2-3           SWITZERLAND [HT 2-1]
+MÜLLER, Armand 38'                   MAILLARD II, René 15'
+KREMER, Jim    44'                   OBRERER, Traugott 59'
+                                     FATTON, Jacky     75'pen
+
+Luxembourg:                          Switzerland:
+ 1-MICHAUX, Bernard                   1-CORRODI, Eugenio
+ 2-KNERR, Gaston                      2-BIANCHINI, Livio
+ 3-FELLER, Jean                       3-SOLDINI, Felice
+ 4-WAGNER, Raymond                    4-LANZ, Bernard
+ 5-MAY, Nicolas                       5-HASLER, Robert
+ 6-GUTH, Fernand                      6-BOUQUET, Roger
+ 7-MÜLLER, Armand                     7-OBERER, Traugott
+ 8-KREMER, Jean-Pierre 'Jim'          8-ANTENEN, Charles 'Kiki'
+ 9-KETTEL, Nicolas                    9-FRIEDLÄNDER, Hans-Peter
+10-FELLER, Victor [c]                10-MAILLARD II, René
+11-LETSCH, Léon                      11-FATTON, Jacques 'Jacky'
+Subs Used:
+12-FRATONI, Jean [<4]  46'
+Coaches:
+ANDREOLI, Franco                     PATEK, Adolf
+Referee:
+THEUNEN, Pierre [BELGIUM]
+
+GROUP 5 [FINLAND, IRELAND, SWEDEN]
+
+02/06/1949, Solna, Råsunda Stadión, 38.000
+SWEDEN                 3-1           IRELAND [HT 2-1]
+ANDERSSON, Sune 17'pen               WALSH, Davy 9'
+JEPPSON, Hasse 37'
+LIEDHOLM, Nils 69'
+
+Sweden:                              Ireland:
+ 1-SVENSSON, Karl                     1-GODWIN, Tommy
+ 2-ANDERSSON, Karl-Erik               2-CAREY, Jackie [c]
+ 3-NILSSON, Erik [c]                  3-KEANE, Tom
+ 4-ROSÉN, Kjell                       4-GANNON, Eddie
+ 5-NORDAHL, Knut                      5-MARTIN, Con
+ 6-ANDERSSON, Sune                    6-MORONEY, Tommy
+ 7-JÖNSSON, Egon                      7-O'DRISCOLL, Jackie
+ 8-GREN, Gunnar                       8-COAD, Paddy
+ 9-JEPPSON, Hasse                     9-WALSH, Davy
+10-CARLSSON, Henry                   10-McGOWAN, Daniel
+11-LIEDHOLM, Nils                    11-EGLINGTON, Tommy
+Coaches:
+KOCK, Rudolf                         COMMITTEE
+Referee:
+BAERT, Louis [BELGIUM]
+
+08/09/1949, Dublin, Dalymount Park, 22.479
+IRELAND                3-0           FINLAND [HT 2-0]
+GAVIN, Johnny 35'
+MARTIN, Con   44'pen
+MARTIN, Con   68'
+
+Ireland:                             Finland:
+ 1-GODWIN, Tommy                      1-SARNOLA, Thure
+ 2-CAREY, Jackie [c]                  2-MARTIN, Kurt
+ 3-AHERNE, Tommy                      3-SAARNIO, Eero
+ 4-GANNON, Eddie                      4-ASIKAINEN, Veikko
+ 5-MARTIN, Con                        5-PYLKKÖNEN, Tapio
+ 6-MORONEY, Tommy                     6-BEIJAR, Erik
+ 7-GAVIN, Johnny                      7-SVAHN, Helge
+ 8-FITZSIMONS, Arthur                 8-MYNTTI, Stig-Göran
+ 9-CARROLL, Brendan                   9-RYTKÖNEN, Aulis
+10-DESMOND, Peter                    10-VAIHELA, Jorma
+11-O'CONNOR, Tom                     11-LEHTOVIRTA, Kalevi
+Subs Used:
+12-DALY, Pat [<9]  25'
+Coaches:
+COMMITTEE                            LEHTONEN, Aatos
+Referee:
+EVANS, William [ENGLAND]
+
+02/10/1949, Malmö, Stadion Malmö, 18.247
+SWEDEN                 8-1           FINLAND [HT 5-1]
+JÖNSSON, Egon         7'             VAIHELA, Jorma 4'
+JÖNSSON, Egon         9'
+JÖNSSON, Egon        17'
+RYDELL, Ingvar       24'
+PALMER, Karl-Erik    41'
+RYDELL, Ingvar       75'
+RYDELL, Ingvar       83'
+JAKOBSSON, Karl-Erik 89'
+
+Sweden:                              Finland:
+ 1-BENGTSSON, Helge [c]               1-SARNOLA, Thure
+ 2-MALMSTRÖM, Hans                    2-MARTIN, Kurt
+ 3-MÅNSSON, Arne                      3-SAARNIO, Eero
+ 4-STENMAN, Birger                    4-ASIKAINEN, Veikko [c]
+ 5-HJERTSSON, Sven                    5-PYLKKÖNEN, Tapio
+ 6-NYMAN, Holger                      6-BEIJAR, Erik
+ 7-JÖNSSON, Egon                      7-RYTKÖNEN, Aulis
+ 8-JAKOBSSON, Karl-Erik               8-MYNTTI, Stig-Göran
+ 9-RYDELL, Ingvar                     9-ASIKAINEN, Yrjö
+10-PALMER, Karl-Erik                 10-VAIHELA, Jorma
+11-NILSSON, Stellan                  11-LEHTOVIRTA, Kalevi
+Subs Used:
+                                     12-LAAKSONEN, Olavi [<1] 46'
+Coaches:
+KOCK, Rudolf                         LEHTONEN, Aatos
+Referee:
+JORKOW, Ludwig [DENMARK]
+
+09/10/1949, Helsinki, Olympiastadion, 13.000
+FINLAND                1-1           IRELAND [HT 0-0]
+VAIHELA, Jorma 89'                   FARRELL, Peter 65'
+
+Finland:                             Ireland:
+ 1-LAAKSONEN, Olavi                   1-GODWIN, Tommy
+ 2-MARTIN, Kurt                       2-CAREY, Jackie [c]
+ 3-SAARNIO, Eero                      3-AHERNE, Tommy
+ 4-ASIKAINEN, Veikko [c]              4-COFFEY, Jimmy
+ 5-PYLKKÖNEN, Tapio                   5-MARTIN, Con
+ 6-BEIJAR, Erik                       6-MORONEY, Tommy
+ 7-VAIHELA, Jorma                     7-GAVIN, Johnny
+ 8-MYNTTI, Stig-Göran                 8-FARRELL, Peter
+ 9-ASIKAINEN, Yrjö                    9-WALSH, Davy
+10-TERÄS, Urho                       10-DESMOND, Peter
+11-SAARINEN, Helge                   11-O'CONNOR, Tom
+Coaches:
+LEHTONEN, Aatos                      COMMITTEE
+Referee:
+BRONKHORST, Johan [NETHERLANDS]
+
+13/11/1949, Dublin, Dalymount Park, 41.031
+IRELAND                1-3           SWEDEN [HT 0-2]
+MARTIN, Con 61'pen                   PALMER, Karl-Erik  4'
+                                     PALMER, Karl-Erik 40'
+                                     PALMER, Karl-Erik 68'
+
+Ireland:                             Sweden:
+ 1-GODWIN, Tommy                      1-LINDBERG Torsten
+ 2-CAREY, Jackie [c]                  2-ANDERSSON, Karl-Erik
+ 3-MARTIN, Con                        3-NILSSON, Erik [c]
+ 4-AHERNE, Tommy                      4-ÅHLUND, Olle
+ 5-WALSH, Willie                      5-NORDAHL, Knut
+ 6-FARRELL, Peter                     6-ROSÉN, Kjell
+ 7-CORR, Peter                        7-JÖNSSON, Egon
+ 8-RYAN, Reg                          8-PALMER, Karl-Erik
+ 9-O'CONNOR, Tom                      9-JEPPSON, Hasse
+10-WALSH, Davy                       10-ANDERSSON, Sune
+11-DESMOND, Peter                    11-SUNDQVIST, Stig
+Coaches:
+COMMITTEE                            KOCK, Rudolf
+Referee:
+LING, William [ENGLAND]
+
+GROUP 6 [PORTUGAL, SPAIN]
+
+02/04/1950, Madrid, Estádio Chamartín
+SPAIN                  5-1           PORTUGAL [HT 3-1]
+'ZARRA'            11'               CABRITA, Fernando 36'
+BASORA, Estanislao 13'
+PANIZO, José Luis  15'
+'ZARRA'            58'
+MOLOWNY, Luis      65'
+
+Spain:                               Portugal:
+ 1-EIZAGUIRRE, Ignacio                1-BARRIGANA, Federico
+ 2-ASENSI, Vicente                    2-MENDES, Virgilio
+ 3-RIERA, José Luis                   3-ANTUNES, Felix
+ 4-GONZALVO III, Mariano              4-das NEVES, Serafim
+ 5-GONZALVO II, José                  5-BARROSA, Octavio
+ 6-PUCHADES, Antonio                  6-FERREIRA, Francisco [c]
+ 7-BASORA, Estanislao                 7-CORREIA, Antonio
+ 8-MOLOWNY, Luis                      8-DUARTÉ, Arsenio
+ 9-ZARRAONANDIA, Telmo 'Zarra'        9-CABRITA, Fernando
+10-PANIZO, José Luis                 10-CAIADO, Fernando
+11-GAINZA, Agustin [c]               11-TRAVACOS, José
+Coaches:
+EIZAGUIRRE, Guillermo                do CARMO, Salvador
+Referee:
+LEAFE, Reginald [ENGLAND]
+
+09/04/1950, Lisbon, Estadio Nacional
+PORTUGAL               2-2           SPAIN [HT 0-1]
+TRAVACOS, José    51'                'ZARRA'         25'
+CORREIRA, Antonio 53'                GAINZA, Agustin 82'
+
+Portugal:                            Spain:
+ 1-CAPELA, Manuel                     1-EIZAGUIRRE, Ignacio [c]
+ 2-BARROSA, Octavio                   2-ASENSI, Vicente
+ 3-ANTUNES, Felix                     3-MARTÍNEZ, José Parra
+ 4-CARVALHO, Angelo                   4-GONZALVO II, José
+ 5-BAPTISTA, Serafim                  5-ONTORIA, Sebastian
+ 6-FERREIRA, Francisco [c]            6-PUCHADES, Antonio
+ 7-CORREIRA, Antonio                  7-BASORA, Estanislao
+ 8-DUARTÉ, Arsenio                    8-MOLOWNY, Luis
+ 9-CABRITA, Fernando                  9-ZARRAOANANDIA, Telmo 'Zarra'
+10-TRAVACOS, José                    10-PANIZO, José Luis
+11-PERREIRA, Albano                  11-GAINZA, Agustin
+Coaches:
+do CARMO, Salvador                   EIZAGUIRRE, Guillermo
+Referee:
+MOWATT, Jack [SCOTLAND]
+Note: Octavio Barrosa missed a penalty after 29'.
+
+NORTH & CENTRAL AMERICA
+
+GROUP 9 [CUBA, MEXICO, UNITED STATES]
+
+04/09/1949, Ciudad de México, Estádio de los Deportes, 60.000
+MEXICO                 6-0           UNITED STATES [HT 3-0]
+FLORES, Antonio    20'
+LUNA, Luis         30'
+DE LA FUENTE, Luis 37'
+DE LA FUENTE, Luis 55'
+DE LA FUENTE, Luis 58'
+SEPTIÉN, Carlos    85'
+
+Mexico:                              United States:
+ 1-CÓRDOBA, Raúl                      1-BORGHI, Frank
+ 2-ZETTER, Felipe                     2-WATTMAN, Ben
+ 3-LAVIADA, Carlos                    3-MARTIN, Manuel
+ 4-ROCA GARCÍA, José Antonio          4-SCHEPPEL, William
+ 5-OCHOA, Mario                       5-COLOMBO, Charles
+ 6-ORTÍZ BENÍTEZ, Héctor              6-BAHR, Walter
+ 7-FLORES, Antonio                    7-WALLACE, Frank
+ 8-LUNA, Luis                         8-HYNES, Jack
+ 9-CASARÍN, Horacio                   9-MATEVICH, Peter
+10-DE LA FUENTE, Luis                10-SOUZA, John
+11-SEPTIÉN, Carlos                   11-McLAUGHLIN, Benjamin
+Coaches:
+GUTIÉRREZ, Rafael Garza              LYONS, William
+Referee: TAPIA, José [CUBA]
+
+11/09/1949, Ciudad de México, Estádio de los Deportes, 60.000
+MEXICO                 2-0           CUBA [HT 1-0]
+LUNA, Luis       26'
+CASARÍN, Horacio 56'
+
+Mexico:                              Cuba:
+ 1-CÓRDOBA, Raúl                      1-AROZAMENA, Pedro
+ 2-ROMO, Jorge                        2-BARQUÍN, Jacinto [c]
+ 3-LAVIADA, Carlos                    3-MINSAL, José 'Pepe'
+ 4-ROCA GARCÍA, José Antonio          4-LLERANDI, Bernardo
+ 5-ORTÍZ BENÍTEZ, Héctor              5-OVIDE, José
+ 6-OCHOA, Mario                       6-TORRENT, Francisco
+ 7-FLORES, Antonio                    7-VEIGA, Santiago 'Vampiro'
+ 8-LUNA, Luis                         8-FANO, Valeriano
+ 9-CASARÍN, Horacio                   9-GÓMEZ, José
+10-DE LA FUENTE, Luis                10-TORRES, Ricardo
+11-SEPTIÉN, Carlos                   11-BRIOSO, Manuel
+Coaches:
+GUTIÉRREZ, Rafael Garza              MINSAL, Marcelino
+Referee: GARCÍA, Prudencio [UNITED STATES]
+
+14/09/1949, Ciudad de México, Estádio de los Deportes, 8.000
+CUBA                   1-1           UNITED STATES [HT 1-1]
+GÓMEZ, José 28'                      WALLACE, Frank 23'
+
+Cuba:                                United States:
+ 1-AGUILAR, Rolando                   1-BORGHI, Frank
+ 2-BARQUÍN, Jacinto [c]               2-KEOUGH, Harry
+ 3-MINSAL, José 'Pepe'                3-MARTIN, Manuel
+ 4-LLERANDI, Bernardo                 4-SCHEPPEL, William
+ 5-MINSAL, Marcelino                  5-COLOMBO, Charles
+ 6-TORRENT, Francisco                 6-BAHR, Walter
+ 7-CLERCH,                            7-WALLACE, Frank
+ 8-PÉREZ, Vicente                     8-HYNES, Jack
+ 9-GÓMEZ, José                        9-MATEVICH, Peter
+10-TORRES, Ricardo                   10-SOUZA, John
+11-BRIOSO, Manuel                    11-McLAUGHLIN, Benjamin
+Coaches:
+MINSAL, Marcelino                    LYONS, William
+Referee: NIETO LARA, Gabriel [MEXICO]
+
+18/09/1949, Ciudad de México, Estádio de los Deportes, 54.500
+MEXICO                 6-2           UNITED STATES [HT 3-0]
+ORTÍZ BENÍTEZ, Héctor 14'pen         SOUZA, John  52'
+CASARÍN, Horacio      23'            WATTMAN, Ben 90'
+CASARÍN, Horacio      41'
+DE LA FUENTE, Luis    47'
+CASARÍN, Horacio      76'
+OCHOA, Mario          89'
+
+Mexico:                              United States:
+ 1-OSNAYA, Melesio                    1-BORGHI, Frank
+ 2-ROMO, Jorge                        2-KEOUGH, Harry
+ 3-LAVIADA, Carlos                    3-COLOMBO, Charles
+ 4-ROCA GARCÍA, José Antonio          4-BAHR, Walter
+ 5-ORTÍZ BENÍTEZ, Héctor              5-SCHEPPEL, William
+ 6-OCHOA, Mario                       6-MARTIN, Manuel
+ 7-FLORES, Antonio                    7-WALLACE, Frank
+ 8-HERNÁNDEZ, Francisco               8-HYNES, Jack
+ 9-CASARÍN, Horacio                   9-MATEVICH, Peter
+10-DE LA FUENTE, Luis                10-SOUZA, John
+11-SEPTIÉN, Carlos                   11-McLAUGHLIN, Benjamin
+Coaches:
+GUTIÉRREZ, Rafael Garza              LYONS, William
+Referee: TAPIA, José [CUBA]
+
+21/09/1949, Ciudad de México, Estádio de los Deportes, 5.000
+UNITED STATES          5-2           CUBA [HT 4-1]
+BAHR, Walter    16'                  BARQUÍN, Jacinto 42'pen
+SOUZA, John     23'                  VEIGA, Santiago  50'
+MATEVICH, Peter 30'
+MATEVICH, Peter 35'
+WALLACE, Frank  48'
+
+United States:                       Cuba:
+ 1-BORGHI, Frank                      1-AROZAMENA, Pedro
+ 2-KEOUGH, Harry                      2-BARQUÍN, Jacinto [c]
+ 3-MARTIN, Manuel                     3-LLERANDI, Bernardo
+ 4-SCHEPPEL, William                  4-OVIDE, José
+ 5-COLOMBO, Charles                   5-MINSAL, José 'Pepe'
+ 6-BAHR, Walter                       6-TORRENT, Francisco
+ 7-WALLACE, Frank                     7-VALDÉS, Ángel
+ 8-HYNES, Jack                        8-VEIGA, Santiago 'Vampiro'
+ 9-MATEVICH, Peter                    9-GÓMEZ, José
+10-SOUZA, John                       10-TORRES, Ricardo
+11-McLAUGHLIN, Benjamin              11-BRIOSO, Manuel
+Subs:
+                                     12-AGUILAR, Rolando [<1]  40'
+Coaches:
+LYONS, William                       MINSAL, Marcelino
+Referee: NIETO LARA, Gabriel [MEXICO]
+
+25/09/1949, Ciudad de México, Estádio de los Deportes, 30.000
+MEXICO                 3-0           CUBA [HT 1-0]
+NARANJO, José   44'
+FLORES, Antonio 58'
+NARANJO, José   88'
+
+Mexico:                              Cuba:
+ 1-OSNAYA, Melesio                    1-AGUILAR, Rolando
+ 2-ZETTER, Felipe                     2-BARQUÍN, Jacinto [c]
+ 3-GÓMEZ, Gregorio                    3-MINSAL, José 'Pepe'
+ 4-MONTEMAYOR, Alfonso                4-LLERANDI, Bernardo
+ 5-VARELA, Raúl                       5-OVIDE, José
+ 6-CUBURU, Samuel                     6-TORRENT, Francisco
+ 7-FLORES, Antonio                    7-VEIGA, Santiago 'Vampiro'
+ 8-NARANJO, José                      8-TORRES, Ricardo
+ 9-PÉREZ, Mario 'Flaco'               9-GÓMEZ, José
+10-VÁZQUEZ, Luis                     10-PÉREZ, Vicente
+11-SESMA, Enrique                    11-VALDÉS, Ángel
+Coaches:
+GUTIÉRREZ, Rafael Garza              MINSAL, Marcelino
+Referee: GARCÍA, Pridencio [UNITED STATES]
+
+

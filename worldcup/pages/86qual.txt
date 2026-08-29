@@ -1,0 +1,850 @@
+<!--
+   title:   World Cup 1986 qualifications
+   source:  https://rsssf.org/tables/86qual.html
+  -->
+
+<!--
+                     Contents:
+
+         Europe                           
+         South America                    
+         CONCACAF                         
+         Africa                           
+         Asia                             
+         Oceania                          
+  -->
+
+
+
+
+== Europe
+
+33 teams entered, including ITA (champions). Winners and runners up of
+four groups of five teams and wiiners three groups of four teams progress
+into the finals. Originally the runners-up of four teams groups were to
+play in a tournament (winner going into finals), but eventually FIFA's
+Executive Commitee to arrange play-offs between runners-up of groups 1
+and 5, and runner-up of group 7 and the Oceanian zone winner
+
+Group 1 (1984-85)  ‹§gr1›
+
+17.10. Brussels   BEL-ALB 3:1 (0:0) Claessen 59, Scifo 83, Voordeckers 87 -
+                                    Omuri 69 (Ravander FIN)
+17.10. Zabrze     POL-GRE 3:1 (0:1) Smolarek 61, Dziekanowski 64,78 -
+                                    Mitropoulos 34 (Thime NOR)
+31.10. Mielec     POL-ALB 2:2 (1:0) Smolarek 23, Pałasz 79 - Omuri 57, Josa
+                                    75 (Galler SUl)
+19.12. Athina     GRE-BEL 0:0       (Fahlner AUT)
+22.12. Tiranë     ALB-BEL 2:0 (0:0) Josa 70, Minga 85 (Sanchez Arminio ESP)
+27.02. Athina     GRE-ALB 2:0 (2:0) Saravakos 9, Antoniou 36 (lgna ROM)
+27.03. Brussels   BEL-GRE 2:0 (0:0) Vercauteren 69, Scifo 36 (Hackett ENG)
+01.05. Brussels   BEL-POL 2:0 (1:0) van den Bergh 30, Vercauteren 53 (Moffatt
+                                    NIR)
+19.05. Athina     GRE-POL 1:4 (0:1) Anastopoulos 46 - Smolarek 24, Ostrowski
+                                    58, Boniek 77, Dziekanowski 89 (Petrović
+                                    JUG)
+30.05. Tiranë     ALB-POL 0:1 (0:1) Boniek 24 (Zezov BUL)
+11.09. Chorzów    POL-BEL 0:0       (Valentine SCO)
+30.10. Tiranë     ALB-GRE 1:1 (1:0) Omuri 26 - Skartados 51 (Nazare POR)
+
+- the GRE-ALB match originally scheduled for 17.04.1985, postponed due
+to the death of the Albanian first secretary
+
+1.POL^  6   8  3  2  1  10- 6
+2.BEL>  6   8  3  2  1   7- 3
+3.ALB   6   4  1  2  3   6- 9
+4.GRE   6   4  1  2  3   5-10
+
+- play-off between runners-up of groups 1 and 5
+
+16.10. Brussels   BEL-HOL 1:0 (1:0) Vercauteren 19 (d'Elia ITA)
+20.11. Rotterdam  HOL-BEL 2:1 (0:0) Houtman 60, de Witt 71 - Grun 84 (Courtney
+                                    ENG)
+
+- BEL progressed on away goals
+
+Group 2 (1984-85)  ‹§gr2›
+
+23.05. Norrköping SWE-MLT 4:0 (2:0) Sunesson (2), Corneliusson, Erlandsson
+                                    (Syme SCO)
+12.09. Stockholm  SWE-POR 0:1 (0:0) Gomes 70 (Quiriou FRA)
+14.10. Pórto      POR-CZE 2:1 (1:1) Diamantino 13, Carlos Manuel 48 - Janečka
+                                    39 (Courtney ENG)
+17.10. Köln       GER-SWE 2:0 (0:0) Rahn 75, Rummenigge 88 (Valentine SCO)
+31.10. Praga      CZE-MLT 4:0 (2:0) Janečka 17,70, Jarolim 35, Berger 77
+                                    (Haraldsson ISL)
+14.11. Lisboa     POR-SWE 1:3 (1:3) Jordao 12 - Prytz 26p,34 T.Nilsson 38
+                                    (Schoeters BEL)
+16.12. La Valetta MLT-GER 2:3 (1:1) Busuttil, R.Xuereb - K.Allofs (2), K.H
+                                    Förster (Petrovič JUG)
+10.02. La Valetta MLT-POR 1:3 (0:2) N.Ferruggia 59 - Carlos Manuel 6, Gomes
+                                    13,73 (Nagy HUN)
+24.02. Lisboa     POR-GER 1:2 (0:2) Diamantino 57 - Littbarski 28, Völler 37
+                                    (Casarin ITA)
+27.03. SaarbrückenGER-MLT 6:0 (5:0) Rahn 10,17, Rummenigge 44,66, Magath 14,
+                                    Littbarski 18 (Tokat TUR)
+21.04. La Valetta MLT-CZE 0:0       (Sanchez Arminio ESP)
+30.04. Praha      CZE-GER 1:5 (0:4) Griga 86 - Berthold 8, Littbarski 22,
+                                    Matthäus 36, Herget 43, K.Allofs 82
+                                    (Quiniou FRA)
+05.06. Stockholm  SWE-CZE 2:0 (0:0) Prytz 77p, Larsson 86 (Farrell IRL)
+25.09. Stockholm  SWE-GER 2:2 (0:2) Corneliusson 63, Magnusson 89 - Völler
+                                    23, Herget 40 (van Langenhove BEL)
+25.09. Praha      CZE-POR 1:0 (1:0) Hruska 20 (Matovinovič JUG)
+12.10. Lisboa     POR-MLT 3:2 (1:0) Gomes 38,82, J.Rafael 53 - Frederico 49o.
+                                    De Giorgis 79 (Snoddy NIR)
+16.10. Praha      CZE-SWE 2:1 (1:1) Vizek 41, 67 - Corneliusson 8 (Sandoz
+                                    SUI)
+16.10. Stuttgart  GER-POR 0:1 (0:0) Carlos Manuel 54 (Hackett ENG)
+17.11. München    GER-CZE 2:2 (1:0) Brehme 1, Rummenigge 87 - Novak 52, Lauda
+                                    61 (Thime NOR)
+17.11. La Valetta MLT-SWE 1:2 (0:1) L.Ferruggia 65 - Prytz 2, Strömberg 74
+                                    (Namoglu TUR)
+
+1.GER^  8  12  5  2  1  22- 9
+2.POR^  8  10  5  0  3  12-10
+3.SWE   8   9  4  1  3  14- 9
+4.CZE   8   8  3  2  3  11-12
+5.MLT   8   1  0  1  7   6-25
+
+Group 3 (1984-85)  ‹§gr3›
+
+27.05. Pori       FIN-NIR 1:0 (0:0) Valvee (Tritschler GER)
+12.09. Belfast    NIR-ROM 3:2 (1:1) Andone 33o, Whiteside 62, 0'Neill 74 -
+                                    Hagi 36, Geolgau 5l (Ponnet BEL)
+17.10. London     ENG-FIN 5:0 (2:0) Hateley 29,49, Woodcock 40, Robson 71,
+                                    Sansom 85 (Suchanek POL)
+31.10. Antalya    TUR-FIN 1:2 (0:1) Tufekci 78p - Hjelm 10, Lipponen 56
+                                    (Miminoshvili ZSR)
+14.11. Belfast    NIR-FIN 2:1 (1:1) 0'Neill 42, Armstrong 51p - Lipponen 22
+                                    (dos Santos POR)
+14.11. Stambul    TUR-ENG 0:8 (0:3) Robson 13,44,58, Woodcock 17,61, Barnes
+                                    46,56, Anderson 86 (Christov CZE)
+27.02. Belfast    NIR-ENG 0:1 (0:0) Hateley 77 (Roth GER)
+03.04. Craiova    ROM-TUR 3:0 (3:0) Hagi 21, Camataru 28,41 (Ben-Itzhak ISR)
+01.05. Belfast    NIR-TUR 2:0 (1:0) Whiteside 44,54 (Galler SUI)
+01.05. Bukarest   ROM-ENG 0:0       (Guruceta Muro ESP)
+22.05. Helsinki   FIN-ENG 1:1 (1:0) Rautanen 5 - Hateley 50 (Kirschen DDR)
+06.06. Helsinki   FIN-ROM 1:1 (1:1) Lipponen 26 - Hagi 7 (van Langenhove BEL)
+28.08. Timisoara  ROM-FIN 2:0 (1:0) Hagi 6, Mateut 57 (Petrovič JUG)
+11.09. Izmir      TUR-NIR 0:0       (Vautrot FRA)
+11.09. London     ENG-ROM 1:1 (1:0) Hoddle 25 - Camataru 60 (Tritschler GER)
+25.09. Tampere    FIN-TUR 1:0 (1:0) Rantanen 37 (Larsson SWE)
+16.10. Bukarest   ROM-NIR 0:1 (0:1) Quinn 29 (Lund-Sorensen DAN)
+16.10. London     ENG-TUR 5:0 (4:0) Waddle 15, Lineker 18,43,54, Robson 35
+                                    (Milchenko ZSR)
+13.11. London     ENG-NIR 0:0       (Fredriksson SWE)
+13.11. Izmir      TUR-ROM 1:3 (0:2) Metin 78 - lorgulescu 14, Coras 25,
+                                    Bölöni 52 (Roth GER)
+
+1.ENG^  8  12  4  4  0  21- 2
+2.NIR^  8  10  4  2  2   8- 5
+3.ROM   8   9  3  3  2  12- 7
+4.FIN   8   8  3  2  3   7-12
+5.TUR   8   1  0  1  7   2-24
+
+Group 4 (1984-85)  ‹§gr4›
+
+29.09. Belgrad    JUG-BUL 0:0       (Padar HUN)
+13.10. Luxembourg LUX-FRA 0:4 (0:4) Battiston 2, Platini 13, Stopyra 24,33
+                                    (Lund-Sarensen DAN)
+20.10. Leipzig    DDR-JUG 2:3 (1:1) Glowatzky 11, Ernst 50 - Bazdarevič 30,
+                                    Vokri 48, Sestić 80 (Brummeier AUT)
+17.11. Esch       LUX-DDR 0:5 (0:0) Ernst 60,76,81, Minge 63,78 (Donnelly NIR)
+21.11. Paris      FRA-BUL 1:0 (0:0) Platini 62p (Tritschler GER)
+05.12. Sofia      BUL-LUX 4:0 (2:0) Sirakov, Velitchkov, Mladenov, Dimitrov
+                                    (Vassaras GRE)
+08.12. Paris      FRA-DDR 2:0 (1:0) Stopyra 32, Anziani 89 (Casarin ITA)
+27.03. Zenica     JUG-LUX 1:0 (1:0) Gudelj 27 (Mushkovets ZSR)
+03.04. Sarajevo   JUG-FRA 0:0       (Fredriksson SWE)
+06.04. Sofia      BUL-DDR 1:0 (0:0) Mładenow 87 (Wöhrer AUT)
+01.05. Luxembourg LUX-JUG 0:1 (0:0) Vokri 88 (Haraldsson ISL)
+02.05. Sofia      BUL-FRA 2:0 (1:0) Dymitrov 11, Sirakov 61 (McGinlay SCO)
+18.05. Potsdam    DDR-LUX 3:1 (3:0) Minge 19,38 Ernst 45p - Langers 76
+                                    (Scerri MLT)
+01.06. Sofia      BUL-JUG 2:1 (1:1) Getov 27,58 - Dzurovski 29 (Christov CZE)
+11.09. Leipzig    DDR-FRA 2:0 (0:0) Ernst 53, Kreer 81 (d'Elia ITA)
+25.09. Luxembourg LUX-BUL 1:3 (0:3) Langers 65 - Scheurer 2o, Dimitrov 32
+                                    (Syme SCO)
+28.09. Belgrad    JUG-DDR 1:2 (0:0) Skoro 83 - Thorn 47,49 (Miminoshvili ZSR)
+30.10. Paris      FRA-LUX 6:0 (4:0) Rocheteau 4,29,48, Toure 24, Giresse 36,
+                                    Femandez 47p (Listkiewicz PÓL)
+16.11. Paris      FRA-JUG 2:0 (1:0) Platini 2,71 (Ponnet BEL)
+16.11. K-N-Stadt  DDR-BUL 2:1 (2:1) Zötzsche 4p, Liebers 40 - Gotchev 39
+                                    (Keizer HOL)
+
+1.FRA^  8  11  5  1  2  15- 4
+2.BUL^  8  11  5  1  2  13- 5
+3.DDR   8  10  5  0  3  16- 9
+4.JUG   8   8  3  2  3   7- 8
+5.LUX   8   0  0  0  8   2-27
+
+Group 5 (1984-85)  ‹§gr5›
+
+02.05. Nicosia    CYP-AUT 1:2 (0:1) Christophorou - Gisinger, Prohaska
+                                    (Ashkenazi ISR)
+26.09. Budapest   HUN-AUT 3:1 (0:1) Nagy 50, Esterhazy 61, Garaba 77 -
+                                    Schachner 23 (Vautrot FRA)
+17.10. Rotterdam  HOL-HUN 1:2 (1:1) Kieft 19 - Detari 24, Esterhazy 55
+                                    (Daina SUI)
+14.11. Wien       AUT-HOL 1:0 (1:0) Valke 15o (Milchenko ZSR)
+17.11. Limassol   CYP-HUN 1:2 (1:0) Fotis 25 - Roth 49, Nyilasi 86 (McGinlay
+                                    SCO)
+23.12. Nicosia    CYP-HOL 0:1 (0:0) Houtman (Dochev BUL)
+27.02. Amsterdam  HOL-CYP 7:1 (3:1) E.Koeman 12, Kieft 28,58, Schoenaker 30,
+                                    79, Pantzarras 64o, van Basten 65 -
+                                    Marangos 8 (Krchnak ČZE)
+03.04. Budapest   HUN-CYP 2:0 (0:0) Nyilasi 48, Szokolai 83 (Halle NOR)
+17.04. Wien       AUT-HUN 0:3 (0:2) Kiprich 21, 33, Detari 48 (Baumann SUI)
+01.05. Rotterdam  HOL-AUT 1:1 (0:0) Kieft 55 - Schachner 60 (Agnolin ITA)
+07.05. Graz       AUT-CYP 4:0 (2:0) Hrstic 2, Polster 35, Schachner 53,
+                                    Willfurth 71 (Snoddy NIR)
+14.05. Budapest   HUN-HOL 0:1 (0:0) de Witt 69 (Assenmacher GER)
+
+1.HUN^  6  10  5  0  1  12- 4
+2.HOL>  6   7  3  1  2  11- 5
+3.AUT   6   7  3  1  2   9- 8
+4.CYP   6   0  0  0  6   3-18
+
+- HOL to play off with runner-up of group 1 (see above)
+
+grupa 6 (1984-85)  ‹§gr6›
+
+12.09. Dublin     IRL-ZSR 1:0 (0:0) Walsh 64 (Keizer HOL)
+12.09. Oslo       NOR-SUI 0:1 (0:1) Egli 3p (Sostarić JUG)
+26.09. Kobehavn   DAN-NOR 1:0 (0:0) Elkjaer 56 (Bridges WAL)
+10.10. Oslo       NOR-ZSR 1:1 (0:0) Thoresen 54p - Litovchenko 74 (Roth GER)
+17.10. Bern       SUI-DAN 1:0 (1:0) Barberis 42 (Midgley ENG)
+17.10. Oslo       NOR-IRL 1:0 (1:0) Jacobsen 42 (Scheurell DDR)
+14.11. Kobehavn   DAN-IRL 3:0 (1:0) Elkjaer 26,46, Lerby 55 (Wurtz FRA)
+17.04. Bern       SUI-ZSR 2:2 (1:1) Brégy 43p, Egli 90 - Gawrilow 36,
+                                    Demianenko 80 (Valentine SCO)
+01.05. Dublin     IRL-NOR 0:0       (Nemeth HUN)
+02.05. Moskva     ZSR-SUI 4:0 (4:0) Protasov 18,39, Kondratiev 44,45
+                                    (Schoeters BEL)
+02.06. Dublin     IRL-SUI 3:0 (2:0) Stapleton 7, Grealish 33, Sheedy 57
+                                    (Bergamo ITA)
+05.06. Kobehavn   DAN-ZSR 4:2 (2:1) Elkjaer 16,20, M.Laudrup 61,64 - Protasov
+                                    25, Gocmanov 68 (Brummeier AUT)
+11.09. Bern       SUI-IRL 0:0       (Soriano Aladren ESP)
+25.09. Moskva     ZSR-DAN 1:0 (0:0) Protasow 50 (Vassaras GRE)
+09.10. Kobehavn   DAN-SUI 0:0       (Quiniou FRA)
+16.10. Oslo       NOR-DAN 1:5 (1:0) Sundby 40 - Berggreen 75,79, M.Laudrup
+                                    56, Lerby 66p, Elkjaer 69 (lgna ROM)
+16.10. Moskva     ZSR-IRL 2:0 (0:0) Cherenkov 61, Protasov 90 (Casarin ITA)
+30.10. Moskva     ZSR-NOR 1:0 (0:0) Kondratiev 58 (McGinlay SCO)
+13.11. Lucerne    SUI-NOR 1:1 (0:1) Matthey 54 - Sundby 40 (Ben-Itzhak ISR)
+13.11. Dublin     IRL-DAN 1:4 (1:1) Stapleton 6 - Elkjaer 7,76, M.Laudrup 44,
+                                    Sivebaek 57 (Wöhrer AUT)
+
+1.DAN^  8  11  5  1  2  17- 6
+2.ZSR^  8  10  4  2  2  13- 8
+3.SUI   8   8  2  4  2   5-10
+4.IRL   8   6  2  2  4   5-10
+5.NOR   8   5  1  3  4   4-10
+
+grupa 7 (1984-85)  ‹§gr7›
+
+12.09. Reykjavik  ISL-WAL 1:0 (0:0) Bergs 50 (Steen Jenssen DAN)
+17.10. Sevilla    ESP-WAL 3:0 (1:0) Rincon 7, Carrasco 83, Butragueño 89
+                                    (Fredriksson SWE)
+17.10. Glasgow    SCO-ISL 3:0 (2:0) McStay 26, 40, Nicholas 74 (Mulder HOL)
+14.11. Glasgow    SCO-ESP 3:1 (2:0) M.Johnston 33,42, Dalglish 71 -
+                                    Goicoechea 65 (Prokop DDR)
+14.11. Cardiff    WAL-ISL 2:1 (1:0) Thomas 36, Hughes 62 - Petursson 56
+                                    (Fanell IRL)
+27.02. Sevilla    ESP-SCO 1:0 (0:0) Cios 48 (Vautrot FRA)
+27.03. Glasgow    SCO-WAL 0:1 (0:1) Rush 37 (Ponnet BEL)
+30.04. Wrexham    WAL-ESP 3:0 (1:0) Rush 44,86, Hughes 53 (Keizer HOL)
+28.05. Langardal  ISL-SCO 0:1 (0:0) Bett 86 (Milchenko ZSR)
+12.06. Reykjavik  ISL-ESP 1:2 (1:0) Thordasson 33 - Sarabia 50, Marcos 67
+                                    (Daina SUI)
+10.09. Cardiff    WAL-SCO 1:1 (1:0) Hughes 13 - Cooper 80p (Keizer HOL)
+25.09. Sevilla    ESP-ISL 2:1 (1:1) Rincon 44, Gordillo 51 - Thornbjómsson 35
+                                    (Kirschen DDR)
+
+1.ESP^  6   8  4  0  2   9- 8
+2.SCO>  6   7  3  1  2   8- 4
+3.WAL   6   7  3  1  2   7- 6
+4.ISL   6   2  1  0  5   4-10
+
+- play-off between group 7 runner-up and winner of Oceanian zone
+
+20.11. Glasgow    SCO-AUS 2:0 (0:0) Cooper 57, McAvennie 60 (Christov CZE)
+04.12. Melbourne  AUS-SCO 0:0       (Wright BRA)
+
+== South America
+
+10 teams entered. Winners of three groups progress into the finals.
+Runners-up of the groups and the third team from group 8 have play-offs
+for one extra place.
+
+Group 8 (1985)  ‹§gr8›
+
+26.05. Bogota     COL-PER 1:0 (1:0) Prince 15 (Barrancos Alvarez BÓL)
+26.05. S.CristóbalVEN-ARG 2:3 (1:2) Torres 5, Marquez 59 - Maradona 1,58,
+                                    Passarella 40 (Cardellino URU)
+02.06. Bogota     COL-ARG 1:3 (0:1) Prince 61 - Pasculli 43,68, Burruchaga 85
+                                    (Coelho BRA)
+02.06. S.CristóbalVEN-PER 0:1 (0:0) Uribe 78 (Orellana Vimos ECU)
+09.06. Lima       PER-COL 0:0       (Cardellino URU)
+09.06. B.Aires    ARG-VEN 3:0 (1:0) Russo, Clausen, Maradona (Castro Makuc
+                                    CHI)
+16.06. Lima       PER-VEN 4:1 (2:1) Navarro 15, Barbadillo 19, Hirano 77,
+                                    Cueto 80 - Febles 29 (Ferreira BRA)
+16.06. B.Aires    ARG-COL 1:0 (1:0) Valdano 26 (Gonzalez Roa PAR)
+23.06. S.CristóbalVEN-COL 2:2 (1:1) Cadeño 6, Amor 64 - W.Ortiz 17, Herrera
+                                    50p (Barreto Ruiz URU)
+23.06. Lima       PER-ARG 1:0 (1:0) Oblitas 8 (Silva Arce CHI)
+30.06. Bogota     COL-VEN 2:0 (2:0) Cordoba 15, Herrera 27p (Vasquez Sanchez
+                                    CHI)
+30.06. B.Aires    ARG-PER 2:2 (1:2) Pasculli 9, Gareca 81 - Velasquez 23,
+                                    Barbadillo 39 (Arppi Filho BRA)
+
+1.ARG^  6   9  4  1  1  12- 6
+2.PER>  6   8  3  2  1   8- 4
+3.COL>  6   6  2  2  2   6- 6
+4.VEN   6   1  0  1  5   5-15
+
+Group 9 (1985)  ‹§gr9›
+
+03.03. Quito      ECU-CHI 1:1 (1:1) Maldonado 44 - Letelier 31 (Wright BRA)
+10.03. Montevideo URU-ECU 2:1 (1:0) Aguilera 34, Ramos 90 - Cuvi 54
+                                    (Pérez PER)
+17.03. Santiago   CHI-ECU 6:2 (4:2) Puebla 21, Caszely 29,39, Hisis 34,
+                                    Aravena 50,89 - Baldeon 23, 37 (di Rosa
+                                    Giunta VEN)
+24.03. Santiago   CHI-URU 2:0 (1:0) Rubio 28, Aravena 54 (Diaz Palacio COL)
+31.03. Quito      ECU-URU 0:2 (0:0) Saralegui 69, Francescoli 87 (Escobar
+                                    Veldez PAR)
+07.04. Montevideo URU-CHI 2:1 (1:1) Batista 8, Ramos 57p - Aravena 28p
+                                    (Esposito ARG)
+
+1.URU^  4   6  3  0  1   6- 4
+2.CHI>  4   5  2  1  1  10- 5
+3.ECU   4   1  0  1  3   4-11
+
+Group 10 (1985)  ‹§gr10›
+
+26.05. Santa Cruz BOL-PAR 1:1 (1:0) Rojas 9 - Nuñez 82 (Jacome Guerrero
+                                    ECU)
+02.06. Santa Cruz BOL-BRA 0:2 (0:0) Casagrande 55, Noro 59o (Romero ARG)
+09.06. Asunción   PAR-BOL 3:0 (2:0) Mendoza, Jacquet, Romero (Aristizabal
+                                    Murcia COL)
+16.06. Asunción   PAR-BRA 0:2 (0:1) Casagrande 28, Zico 70 (Castro Makuc CHI)
+23.06. R/Janeiro  BRA-PAR 1:1 (1:1) Socrates 25 - Romero 41 (Martinez Bazan
+                                    URU)
+30.06. Sao Paulo  BRA-BOL 1:1 (1:0) Careca 19 - Sanchez 75 (Labo Revoredo PER)
+
+1.BRA^  4   6  2  2  0   6- 2
+2.PAR>  4   4  1  2  1   5- 4
+3.BOL   4   2  0  2  2   2- 7
+
+- play-offs
+
+▪ semifinals ▪
+
+(1)
+27.10. Asunción   PAR-COL 3:0 (1:0) Hicks, Romero, Cabanas (Esposito ARG)
+03.11. Cali       COL-PAR 2:1 (0:0) Angulo, Willington Ortiz - Ferreira
+                                    (Wright BRA)
+
+(2)
+27.10. Santiago   CHI-PER 4:2 (3:1) Aravena 7, 65p, Rubio 9, Hisis 15 -
+                                    Navarro 45,77 (Martinez Bazan URU)
+03.11. Lima       PER-CHI 0:1 (0:0) Aravena 64 (Coelho BRA)
+
+▪ final ▪
+
+10.11. Asunción   PAR-CHI 3:0 (1:0) Cabanas 9, Delgado 46, Garrido 84o
+                                    (Coelho BRA)
+17.11. Santiago   CHI-PAR 2:2 (1:2) Rubio 22, Nuñez 77 - Schettina 22,
+                                    Romero 39 (Cardellino URU)
+
+== CONCACAF
+
+18 teams entered, including MEX (hosts). JAM, BAR and GRN withdrew after
+seeding. Winners of preliminary pairs play against each other in three
+groups (1+5+9 - 2+6+8 - 3+4+7), winners play in the final group, best team
+progresses.
+
+Group 11 (1984-85)  ‹§gr11›
+
+▪ First round ▪
+
+(1)
+29.07. S.Salvador SAL-PUE 5:0 (4:0) Hernandez (2), Rivas, Alfaro, Medrano
+                                    (Mendez Molina GUA)
+05.08. San Juan   PUE-SAL 0:3 (0:2) Zapata, Rivas, Perla (Osborne BER)
+
+(2)
+
+- JAM withdrew, CAN had a walkover
+
+(3)
+29.09. Willemstad AHO-USA 0:0 (0:0) (Goede SUR)
+06.10. St.Louis   USA-AHO 4:0 (0:0) Coker (2), Di Bernardo, Kapp (Fusco CAN)
+
+(4)
+
+- BAR withdrew, COS had a walkover
+
+(5)
+15.06. Colon      PAN-HON 0:3 (0:2) Figueroa (2), Laing (Ortiz Cardoza SAL)
+24.06. T'cigalpa  HON-PAN 1:0 (0:0) Figueroa (Constantine USA)
+
+(6)
+
+- GUA (bye)
+
+(7)
+
+- GRN withdrew, TRI had a walkover
+
+(8)
+04.08. Port-au-Pr. HAI-ANT 4:0 (2:0) Auguste (3), Thomas (Taylor JAM)
+07.08. Port-au-Pr. HAI-ANT 1:2 (1:1) Vorbe - Richardson, Roberts (Campbell
+                                     JAM)
+
+- both matches at Haiti
+
+(9)
+15.08. Paramaribo   SUR-GUY 1:0(1:0)   Edwards                                             Lee AHO
+29.08. Georgetown   GUY-SUR 1:1(1:0)   Archer - Klinker                               Sirjuesingh TRI
+
+▪ Second Round ▪
+
+Subgroup A
+
+24.02. S.Salvador SAL-SUR 3:0 (1:0) Alfaro, Huezo, Hernandez (Ulloa Morera
+                                    COS)
+27.02. S.Salvador SAL-SUR 3:0 (0:0) Rivas (2), Zapata (Escobar López GUA)
+03.03. T'cigalpa  HON-SUR 1:1 (1:1) Laing - Entingh (Negreros CasteUanos GUA)
+06.03. T'cigalpa  HON-SUR 2:1 (1:0) Figueroa (2) - Stewart (Alfaro Venegas
+                                    COS)
+10.03. S.Salvador SAL-HON 1:2 (0:1) Rivas - Bailey, Laing (Socha USA)
+14.03. T'cigalpa  HON-SAL 0:0       (Evangelists CAN)
+
+- SUR played all matches away
+
+1.HON^  4   6  2  2  0   5- 3
+2.SAL   4   5  2  1  1   7- 2
+3.SUR   4   1  0  1  3   2- 9
+
+Subgroup B
+
+13.04. Vancouver   CAN-HAI 2:0 (2:0) Vrablic 30, Sweeney 41 (Bratsis USA)
+20.04. Vancouver   CAN-GUA 2:1 (2:0) Mitchell 22, 43 - Gómez 66 (Codesal
+                                     Mendez MEX)
+26.04. Port-au-Pr. HAI-GUA 0:1 (0:0) Estrada (Bellion USA)
+05.05. Guatemala   GUA-CAN 1:1 (1:1) B. Perez 42 - Mitchell 39 (Siles
+                                     Calderón COS)
+08.05. Port-au-Pr. HAI-CAN 0:2 (0:1) Mitchell 14, Vrablic 56 (Osborne BER)
+15.05. Guatemala   GUA-HAI 4:0 (0:0) Chacon 44, Galindo 48, Funes 62, B.Perez
+                                     71 (Martinez Mejia HON)
+
+1.CAN^  4   7  3  1  0   7- 2
+2.GUA   4   5  2  1  1   7- 3
+3.HAI   4   0  0  0  4   0- 9
+
+Subgroup C
+
+24.04. San José   COS-TRI 3:0 (1:0) Williams, Lacey, Nobrega (Martinez Mejia
+                                    HON)
+28.04. San José   COS-TRI 1:1 (1:0) Vlate - de Noon (Mendez Molina GUA)
+15.05. St.Louis   USA-TRI 2:1 (1:1) Borja, Peterson - Fonrose (Alien CAN)
+19.05. L.Angeles  USA-TRI 1:0 (1:0) Caligiuri 15 (Leanza Sansone MEX)
+26.05. Alajuela   COS-USA 1:1 (1:1) Ramirez 42 - Keer 44 (Urrea Reyes MEX)
+31.05. L.Angeles  USA-COS 0:1 (0:1) Coronado 35 (Meachin CAN)
+
+- TRI played all matches away
+
+1.COS^  4   6  2  2  0   6- 2
+2.USA   4   5  2  1  1   4- 3
+3.TRI   4   1  0  1  3   2- 7
+
+▪ Third Round ▪
+
+11.08. San José   COS-HON 2:2 (1:2) Solano 19, Williams 81 - Figueroa 8p,
+                                    Betancourt 24 (Bellion USA)
+17.08. Toronto    CAN-COS 1:1 (0:1) James 58 - Williams 12 (Mendoza Guillan
+                                    MEX)
+25.08. T'cigalpa  HON-CAN 0:1 (0:0) Pakos 58 (Marshall BER)
+01.09. San Jose   COS-CAN 0:0       (Ortiz Cardoza SAL)
+08.09. T'cigalpa  HON-COS 3:1 (1:1) Figueroa 51, 66p, Betancourt 40 -
+                                    Guimaraes 7 (Ramcharan TRI)
+14.09. St.John's  CAN-HON 2:1 (1:0) Pakos 15, Vrablic 61 - Betancourt 49
+                                    (Mendez Molina GUA)
+
+1.CAN^  4   6  2  2  0   4- 2
+2.HON   4   3  1  1  2   6- 6
+3.COS   4   3  0  3  1   4- 6
+
+== Africa
+
+28 teams entered. LES, NGR and TOG withdrew before seeding. Two final places
+were played for in four rounds. The first round was seeded geographically,
+but the following ones were not.
+
+Group 12 (1984-85)  ‹§gr12›
+
+▪ First Round ▪
+
+(1)
+28.08. Cairo      EGY-ZIM 1:0 (1:0) A.Mayoub (Tesfaye ETH)
+30.09. Harare     ZIM-EGY 1:1 (1:1) (o) - E. Soleiman (Phambala MWI)
+
+(2)
+13.10. Nairobi    KEN-ETH 2:1 (1:1) Masiga, Kabu - Kabede (Mohamed Jama SOM)
+28.10. A.Abeba    ETH-KEN 3:3 (2:0) Dagme, Kabede, Haile - Masiga, Oyango,
+                                    Ayoyi (Nkathazo ZIM)
+
+(3)
+15.07. Curepipe   MRS-MWI 0:1 (0:1) Phuka (All Khamis KEN)
+28.07. Lilongwe   MWI-MRS 4:0 (1:0) Sinalo (2), Waya + 1o (Diramba GAB)
+
+(4)
+29.07. Ndola      ZAM-UGA 3:0 (1:0) Hangunyi, Msiska, K.Bwalya (Tahir TAN)
+25.08. Kampala    UGA-ZAM 1:0 (0:0) Katerega (Salahudeen NGA)
+
+(5)
+
+- LES witdhrew, MAD had a walkover
+
+(6)
+13.10. Mwanza     TAN-SUD 1:1 (1:0) Tind - Mazda (Katumba UGA)
+27.10. Khartoum   SUD-TAN 0:0       (Amin Salem EGY)
+
+(7)
+30.06. Freetown   SLE-MAR 0:1 (0:0) M.Merry (Agbala TOG)
+15.07. Rabat      MAR-SLE 4:0 (1:0) M.Merry (2), Dahan, Labied (Sene SEN)
+
+(8)
+
+- NGR withdrew, LBA had a walkover
+
+(9)
+28.10. Kotonou    BEN-TUN 0:2 (0:0) Jeridi, Gasri (Ouattara IVC)
+13.11. Tunis      TUN-BEN 4:0 (2:0) Jeridi (2), Rakbaoui, Gasri (Laouissi
+                                    MAR)
+
+(10)
+
+- TOG withdrew, GUI had a walkover
+
+(11)
+21.10. Abidjan    IVC-GAM 4:0 (0:0) A.Traoré (2), Ben Salah, N'Dri (Camara
+                                    GUI)
+04.11. Banjul     GAM-IVC 3:2 (1:1) M'Doure, Wadda, B.Sow - A.Traoré, Tiehi
+                                    (Traoré MLI)
+
+(12)
+20.10. Lagos      NGA-LBR 3:0 (2:0) Edobor (2), Adesinka (Ouedraogo VOL)
+04.11. Monrovia   LBR-NGA 0:1 (0:1) Temile (Amadou NGR)
+
+(13)
+01.07. Luanda     ANG-SEN 1:0 (0:0) Ivo (Bantstmba CON)
+15.07. Dakar      SEN-ANG 1:0 (?,1:0,1:0) K. Seye (Hioba-Hioba CAM)
+
+- ANG won 4:3 on penalties
+
+▪ Second round ▪
+
+(1)
+07.04. Lusaka     ZAM-CAM 4:1 (4:0) Chabala 24,38,40, Njovu 28 - Aoudou 70
+                                    (Valdemarca ZIM)
+21.04. Yaounde    CAM-ZAM 1:1 (1:1) M'Fede 31 - Chilengi 5 (Diramba GAB)
+
+(2)
+07.04. Rabat      MAR-MWI 2:0 (1:0) Haddaoui 10, Dahan 75p (Ben Naceur TUN)
+21.04. Lilongwe   MWI-MAR 0:0       (Chayu ZAM)
+
+(3)
+31.03. Luanda     ANG-ALG 0:0       (Camara GUI)
+19.04. Algiers    ALG-ANG 3:2 (2:0) Mansouri 14, Menad 42, Bouiche 87 -
+                                    Makueria 78, Ndonguidi 83 (Traoré MLI)
+
+(4)
+06.04. Nairobi    KEN-NGA 0:3 (0:2) Amo 12, Kheri 45, Yekini 47 (Kalombo MWI)
+20.04. Lagos      NGA-KEN 3:1 (2:1) Sadi 18, Yekini 20, Sofoluwe 89 - Masiga
+                                    36 (N'Jie GAM)
+
+(5)
+05.04. Cairo      EGY-MAD 1:0 (0:0) E.Soleiman 64 (Lacarne ALG)
+21.04. Ant'narivo MAD-EGY 1:0 (0:0,1:0,1:0) Rakotoarisoa (Picon-Ackong MRS)
+
+- EGY won 4:2 on penalties
+
+(6)
+10.02. Konakri    GUI-TUN 1:0 (1:0) Diabe (Eboule IVC)
+24.02. Tunis      TUN-GUI 2:0 (1:0) Braham, N'Soumi (Sherif LBA)
+
+(7)
+22.02. Khartoum   SUD-LBA 0:0       (Ali Khamis KEN)
+08.03. Tripolis   LBA-SUD 4:0 (0:0) A.Ibrahim, Al-Bishari (2), A.Bani
+                                    (Djibo NGR)
+
+(8)
+07.04. Abidjan    IVC-GHA 0:0       (Laouissi MAR)
+21.04. Acra       GHA-IVC 2:0 (0:0) N'ti. Al-Hassan (Bantsimba CON)
+
+▪ Third Round ▪
+
+(1)
+13.07. Algier     ALG-ZAM 2:0 (1:0) Bensaoula 15, Madjer 84 (Hussam El-Din
+                                    EGY)
+28.07. Lusaka     ZAM-ALG 0:1 (0:0) Bensaoula 78 (Picon-Ackong MRS)
+
+(2)
+14.07. Acra       GHA-LBA 0:0       (Faye GAM)
+21.07. Benghazi   LBA-GHA 2:0 (1:0) Senussi 40. Al-Badhi 75p (Laouissi MAR)
+
+(3)
+06.07. Lagos      NGA-TUN 1:0 (0:0) Isima 77 (Diramba GAB)
+20.07. Tunis      TUN-NGA 2:0 (2:0) Jeridi 8,28 (Hansal ALG)
+
+(4)
+12.07. Cairo      EGY-MAR 0:0       (Valdemarca ZIM)
+28.07. Casablanca MAR-EGY 2:0 (1:0) Timoumi 37, Bouderbala 82 (Sene SEN)
+
+▪ Fourth Round ▪
+
+(1)
+06.10. Tunis      TUN-ALG 1:4 (1:2) Rakbaoui 16 - Menad 43,87, Madjer 24,
+                                    K.Said 67 (Schoeters BEL)
+18.10. Algiers    ALG-TUN 3:0 (2:0) Madjer 8, Menad 34, Yahi 78 (Galler SUI)
+
+(2)
+06.10. Rabat      MAR-LBA 3:0 (1:0) Byaz, Timoumi, Bouderbala (Chayu ZAM)
+18.10. Benghazi   LBA-MAR 1:0 (1:0) Ferjani (Agnolin ITA)
+
+== Asia
+
+29 teams entered, including ISR and TAI (allotted to Oceanian zone).
+Confederation split into Middle Eastern and Far Eastern groups, one
+team from each progresses into the finals after one group and two knock-off
+rounds.
+
+Group 13 (1985)  ‹§gr13›
+
+▪ First Round ▪
+Subgroup A
+
+12.04. Rijad      ARS-EMI 0:0       (Sakran JOR)
+19.04. Dubai      EMI-ARS 1:0 (1:0) F.Khamis 12 (Valentine SCO)
+
+- OMA withdrew after seeding
+
+Subgroup B
+
+15.03. Amman      JOR-QAT 1:0 (0:0) Al-Talli (El-Boloshi OMA)
+15.03. Al-Kuwait  IRK-LBN 6:0 (2:0) A.Radhi (2), H.Saed (2), Alawi, Hashem
+                                    (AI-Shanar ARS)
+18.03. Al-Kuwat   IRK-LBN 6:0 (3:0) A.Radhi (3), H.Saed (2), Alawi
+                                    (Al-Dahmash ARS)
+22.03. Doha       QAT-LBN 7:0 (5:0) Muftah (3), Khamis (2), Khalfan, Dahman
+                                    (Assaid OMA)
+27.03. Doha       QAT-LBN 8:0 (2:0) Muftah (4), Al-Zeid (3), Aheed
+                                    (Mandi BHR)
+29.03. Amman      JOR-IRK 2:3 (0:1) Daud, Abou-Abed - Munir, H.Saed, A.Radhi
+                                    (Al-SaImi KUW)
+05.04. Doha       QAT-IRK 3:0 (1:0) Muftah 40, Khalfan 52p, Al-Ammari 71
+                                    (Na Yoon-shik KOR)
+12.04. Doha       QAT-JOR 2:0 (0:0) Al-Zeid, A.Malalla (Lee Kok Leong SIN)
+19.04. Al-Kuwait  IRK-JOR 2:0 (0:0) A. Radhi 46, Alawi 50 (Al-Sharif SYR)
+05.05. Calcutta   IRK-QAT 2:1 (1:1) Ammation, Alawi - Muftah (Courtney ENG)
+
+1.IRK^  4   6  3  0  1   7- 6
+2.QAT   4   4  2  0  2   6- 3
+3.JOR   4   2  1  0  3   3- 7
+
+- IRK played their away matches in Kuwait and India, due to the war with IRN
+- LBN withdrew after playing four matches, which were annulled
+
+Subgroup C
+
+22.03. Damascus   SYR-KUW 1:0 (1:0) Madrali (Bash JOR)
+29.03. Sana       JEM-SYR 0:1 (0:0) Al-Sel (El-Boloshi OMA)
+05.04. Al-Kuwait  KUW-JEM 5:0 (1:0) Al-Anbari (2), Al-Hasawi, Al-Dakheel, Y.
+                                    Yacoub (Awil JOR)
+12.04. Al-Kuwaut  KUW-SYR 0:0       (Mandi BHR)
+19.04. Damascus   SYR-JEM 3:0 (2:0) Al-Sayyed 31,70, Al-Hassan 40 (Jassim
+                                    Mohamed BHR)
+26.04. Sana       JEM-KUW 1:3 (0:2) A. Abbas - Al-Hasawi (2), Al-Dakheel
+                                    (Al-Farisi OMA)
+
+1.SYR^  4   7  3  1  0   5- 0
+2.KUW   4   5  2  1  1   8- 2
+3.JEM   4   0  0  0  4   1-12
+
+Subgroup D
+
+29.03. Aden       JLD-BHR 1:4 (0:2) Al-Mass - Farhan (2), Al-Subal, H. Hamad
+                                    (Al-Shanar ARS)
+12.04. Bahrain    BHR-JLD 3:3 (0:1) Al-Hardan, Al-Houshi, A.Deif - Shabli,
+                                    Kassem, Sabbou (Shehab KUW)
+
+- IRN withdrew after seeding
+
+▪ Second Round ▪
+
+(1)
+06.09. Bahrain    BHR-SYR 1:1 (1:0) Issa - Mahrous (Bash JOR)
+20.09. Damascus   SYR-BHR 1:0 (1:0) Kerdaghly 4 (El-Boloshi OMA)
+
+(2)
+20.09. Dubaj      EMI-IRK 2:3 (1:1) F.Khamis, Al-Taliyani - H.Saed (2),
+                                    Heshem (Al-Salmi KUW)
+27.09. TaTf       IRK-EMI 1:2 (0:1) Alawi - F.Khamis, Al-Taliyani (Daina SUI)
+
+- second leg in Saudi Arabia
+
+▪ Third Round ▪
+15.11. Damaszek   SYR-IRK 0:0       (Vautrot FRA)
+29.11. TaTf       IRK-SYR 3:1 (1:0) H.Saed, Shakir, Alawi - Al-Sel
+                                    (Fredriksson SWE)
+
+- second leg in Saudi Arabia
+
+
+Group 14 (1985)  ‹§gr14›
+
+Subgroup A
+
+02.03. Kathmandu  NEP-KOR 0:2 (0:1) Lee Tae-ho + 1o (Zhang Daqiao CHN)
+10.03. K.Lumpur   MAL-KOR 1:0 (0:0) D.Salleh (Chan Tam Sun HKG)
+16.03. Kathmandu  NEP-MAL 0:0       (Chandra SIN)
+31.03. K.Lumpur   MAL-NEP 5:0 (5:0) A.Zainal (3), Alif, D.Salleh (Loureno MAC)
+06.04. Seoul      KOR-NEP 4:0 (3:0) Hun Jong-moo (2), Kim Suk-won, Chung
+                                    Jong-soo (Cheung Kwok Kui HKG)
+19.05. Seoul      KOR-MAL 2:0 (2:0) Park Chang-sun, Cho Min-kook (Takada JAP)
+
+1.KOR^  4   6  3  0  1   8- 1
+2.MAL   4   5  2  1  1   6- 2
+3.NEP   4   1  0  1  3   0-11
+
+Subgroup B
+
+15.03. Djakarta   INA-THA 1:0 (0:0) Sulaiman (Gurkan FIL)
+18.03. Djakarta   INA-BAN 2:0 (0:0) Nurdiansyah, Sulaiman (Brillantes FIL)
+21.03. Djakarta   INA-IND 2:1 (1:1) Nurdiansyah (2) - K.Dey (Reyes FIL)
+23.03. Bangkok    THA-BAN 3:0 (1:0) Areesnagakul, Thomgmee, Kijinongholsak
+                                    (Nakanishi JAP)
+26.03. Bangkok    THA-IND 0:0       (Nakanishi JAP)
+29.03. Bangkok    THA-INA 0:1 (0:1) Kiswanto (Sano JAP)
+30.03. Dhaka      BAN-IND 1:2 (1:1) Ahmed - Gosh, Panji (Liu Jingli CHN)
+02.04. Dhaka      BAN-INA 2:1 (0:1) Ahmed, Kawser - Nurdiansyah (Xia Changfa
+                                    CHN)
+05.04. Dhaka      BAN-THA 1:0 (0:0) E. Hossein (Chen Shengcai CHN)
+06.04. Calcutta   IND-INA 1:1 (0:1) Thapa 89 Suleiman 20 (Mustafa IRK)
+09.04. Calcutta   IND-THA 1:1 (0:0) K. Dey - Boongeang (Abdul Latif IRK)
+12.04. Calcutta   IND-BAN 2:1 (1:1) Panji, Gonsalves - Bhadra (Saadi IRK)
+
+1.INA^  6   9  4  1  1   8- 4
+2.IND   6   7  2  3  1   7- 6
+3.THA   6   4  1  2  3   4- 4
+4.BAN   6   4  2  0  4   5-10
+
+Subgroup C
+
+17.02. Macao      MAC-BRU 2:0 (0:0) Wong Kam-ming, Carvalhal (Reyes FIL)
+17.02. Hongkong   HKG-CHN 0:0       (Singah SIN)
+20.02. Macao      MAC-CHN 0:4 (0:1) Kwong o, Lin Qiang, Zuo Sushcng, Lin
+                                    Lofeng (Balasundram MAL)
+23.02. Hongkong   HKG-BRU 8:0 (3:0) Mak King-Fun (4), Lau Wing-Yip (2), Lai
+                                    Wing-Cheung, Lee Wai-Shan (Ovinis MAL)
+26.02. Macao      CHN-BRU 8:0 (4:0) Li Hui, Zhao Dayu (3), Zuo Susheng (2),
+                                    Lin Hiaguang (2) (Saismutr THA)
+01.03. Hongkong   BRU-CHN 0:4 (0:2) Zhao Dayu (2), Lin Hiaguang (2) (Haq BAN)
+06.04. Band S. B. BRU-HKG 1:5 (1:3) Kassim 49 - Wong Chi-Keung 4,82, Lau
+                                    Wing-Yip 38,83, Lai Wing-Cheung 7
+                                    (Hardjowasito INA)
+13.04. Band S. B. BRU-MAC 1:2 (0:0) Ahmed Omar - Carvalhal, Pinto (Mudjahidin
+                                    INA)
+28.04. Macao      MAC-HKG 0:2 (0:0) Lau Wing-Yip, Cheung Ka-Ping
+                                    (Patcharamukdakorn THA)
+04.05. Hongkong   HKG-MAC 2:0 (0:0) Mak King-Fun, Choi Wai-Man (Kil Ki-chul
+                                    KOR)
+12.05. Beijing    CHN-MAC 6:0 (3:0) Li Hui, Yang Zhaou (2), Zhao Dayu, Jia
+                                    Xingunan, Wang Huiliang (Shetty Sheena
+                                    IND)
+19.05. Beijing    CHN-HKG 1:2 (1:1) Lin Lofeng - Cheung Ka-Ping, Ku Kam-Fai
+                                    (D'Souza IND)
+
+- the matches CHN-BRU in Hongkong and Macao
+
+1.HKG^  6  11  5  1  0  19- 2
+2.CHN   6   9  4  1  1  23- 2
+3.MAC   6   4  2  0  4   4-15
+4.BRU   6   0  0  0  6   2-29
+
+Subgroup D
+
+19.01. Singapur   SIN-KLD 1:1 (1:0) Pakkuan - Yu Song-chol (Hardjowasito INA)
+23.02. Singapur   SIN-JAP 1:3 (1:1) Madon - Kimura, Hara, Hashiratani
+                                    (Hartasardjono INA)
+21.03. Tokio      JAP-KLD 1:0 (1:0) Hara (Joseph MAL)
+30.04. Phenian    KLD-JAP 0:0       (Chan Tam Sun HKG)
+18.05. Tokio      JAP-SIN 5:0 (0:0) Nishimura (2), Mizunuma, Hara, Kimura
+                                    (Cha Kyung-bok KOR)
+25.05. Phenian    KLD-SIN 2:0 (2:0) Yung Jong-sung, Han Hyong-il (Vuddhijoti
+                                    THA)
+
+1.JAP^  4   7  3  1  0   9- 1
+2.KLD   4   4  1  2  1   3- 2
+3.SIN   4   1  0  1  3   2-11
+
+▪ Second Round ▪
+
+(1)
+21.07. Seoul      KOR-INA 2:0 (0:0) Byun Byung-joo 74, Kim Joo-sung 83
+                                    (Pratumthong THA)
+30.07. Djakarta   INA-KOR 1:4 (0:3) Suilaiman - Byun Byung-joo, Choi Soon-ho,
+                                    Jung Joo-sung, Huh Jong-moo (Joseph MAL)
+
+(2)
+11.08. Kobe       JAP-HKG 3:0 (2:0) Kimura, Hara, Mizunuma (Gurkan FIL)
+22.09. Hongkong   HKG-JAP 1:2 (0:1) Wang Chi-Keung 80 - Kimura 45, Hara 89
+                                    (Lee Kok Leong SIN)
+
+▪ Third Round ▪
+
+26.10. Tokio      JAP-KOR 1:2 (1:2) Kimura - Jung Jong-kwon, Lee Tae-ho
+                                    (Singah SIN)
+03.11. Seoul      KOR-JAP 1:0 (0:0) Huh Jong-moo (Omar MAL)
+
+== Oceania
+
+2 teams entered, plus allotted TAI and ISR; the winner played the runner-up
+of European group 7.
+
+Group 15 (1985)  ‹§gr15›
+
+03.09. Tel-Aviv   ISR-TAI 6:0 (3:0) Turk 28,35,74, Armeli 39, Malmilian 53,90
+                                    (Salomir ROM)
+08.09. Tel-Aviv   ISR-TAI 5:0 (2:0) Ohana 5,73,79, A.Cohen 7, Armeli 18
+                                    (Igna ROM)
+21.09. Auckland   NZE-AUS 0:0       (Hackett ENG)
+05.10. Auckland   NZE-TAI 5:1 (3:1) Edge 13, Walker 25, Sumner 31,51,89 -
+                                    Sing An-Chen 41 (Bambridge AUS)
+08.10. Tel-Aviv   ISR-AUS 1:2 (0:0) Armeli 65 - Kosmina 46,49 (Agnolin ITA)
+12.10. Ch'church  NZE-TAI 5:0 (2:0) Boath 19, G.Turner 32,76, Walker 57,65p
+                                    (Campbell AUS)
+20.10. Melbourne  AUS-ISR 1:1 (1:0) Ratcliff 32 - A.Cohen 46 (dos Santos,
+                                    Jose POR)
+23.10. Adelaide   AUS-TAI 7:0 (2:0) Dunn 2,89p, Cheun-Keun 13o, Mitchell 57,
+                                    59,87, Arnold 68 (Cameroon NZE)
+26.10. Auckland   NZE-ISR 3:1 (2:1) Rufer, Dunford, Walker - Armeli (Mulder
+                                    HOL)
+27.10. Sydney     AUS-TAI 8:0 (1:0) Odzakov 41,56,69, Crino 52, Kosmina 65p,
+                                    72,88, Gray 89 (Munro NZE)
+03.11. Sydney     AUS-NZE 2:0 (1:0) Kosmina 12, Mitchell 48 (Geurds HOL)
+10.11. Tel-Aviv   ISR-NZE 3:0 (0:0) A.Cohen, Selector, Armeli (Pauly GER)
+
+- TAI played all matches away
+
+1.AUS>  6  10  4  2  0  20- 2
+2.ISR   6   7  3  1  2  17- 6
+3.NZE   6   7  3  1  2  13- 7
+4.TAI   6   0  0  0  6   1-36
+

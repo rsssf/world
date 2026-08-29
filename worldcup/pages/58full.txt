@@ -1,0 +1,638 @@
+<!--
+   title:   World Cup 1958 finals
+   source:  https://rsssf.org/tables/58full.html
+  -->
+
+<!--
+                     Contents:
+
+         World Cup 1958                   
+           Group A - ARG CZE GER NIR        (see §§gra)
+           Group B - FRA JUG PAR SCO        (see §§grb)
+           Group C - HUN MEX SWE WAL        (see §§grc)
+           Group D - AUT BRA ENG ZSR        (see §§grd)
+           Quarterfinals                    (see §§4fin)
+           Semifinals                       (see §§2fin)
+           Third place match                (see §§3place)
+           Final                            (see §§final)
+           Scorers' list                    (see §§scorers)
+           Coaches, assistants, reserve players  (see §§coaches)
+           Oldest and youngest              (see §§records)
+  -->
+
+
+
+== World Cup 1958
+
+Sweden, 6 - 29 June 1958 (Boraas, Eskilstuna, Gothenburg, Halmstad,
+Hälsingborg, Malmö, Nörrkoping, Orebro, Sandviken, Solna, Uddevalla, Västeräs).
+Decided at FIFA Congress in Rio de Janeiro, 22 Jul 1950. Entries deadline
+31 Mar 1956. 55 teams entered, 48 actually played (11 for the first time).
+Qualifications drawn 27 Apr 1956 in Lausanne (playoffs 15 Dec 1957 in Zürich).
+Finals drawn 8 Feb 1958 in Stockholm
+
+General Note: The placement in groups was determined solely on
+the base of points, goal difference was disregarded. This led to playoff
+matches in three groups (curiosly, teams with worse g/d won, in one case
+it was equal).
+
+
+=== Group A - ARG CZE GER NIR  ‹§gra›
+
+08.06.58  (19.00) Halmstad, Örjans Vall
+
+NIR - CZE 1:0 (1:0)
+
+(-11000) Seipelt AUT, Ellis ENG, Campos POR
+
+NIR: Gregg - Keith, McMichael, Blanchflower (c) - Cunningham, Peacock -
+Bingham, Cush, Dougan, McIlroy, McParland
+CZE: Dolejši - Mráz, Novák (c), Pluskal - Čadek, Masopust - Hovorka, Dvořak,
+Borovička, Hertl, Kraus
+
+1:0 Cush 20
+
+
+08.06.58  (19.00) Malmö, Malmö Stadion
+
+(+31000) Leafe ENG, Helge DAN, Ahlner SWE
+
+GER - ARG 3:1 (2:1)
+
+GER: Herkenrath - Stollenwerk, Juskowiak, Eckel - Erhardt, Szymaniak -
+Rahn, F.Walter, Seeler, Schmidt, Schäfer (c)
+ARG: Carrizo - Lombardo, Vairo, Rossi - Dellacha (c), Varacka - Corbatta, Prado,
+Menendez, Rojas, Cruz
+
+0:1 Carbatta 3, 1:1 Rahn 33, 2:1 Seeler 42, 3:1 Rahn 79
+
+
+11.06.58  (19.00) Halmstad, Örjans Vall
+
+ARG - NIR 3:1 (1:1)
+
+(+14000) Ahlner SWE, Campos POR, Helge DAN
+
+ARG: Carrizo - Lombardo, Vairo, Rossi - Dellacha (c), Varacka - Corbatta,
+Avio, Menendez, Labruna, Boggio
+NIR: Gregg - Keith, McMichael, Blanchflower (c) - Cunningham, Peacock -
+Bingham, Cush, Coyle, McIlroy, McParland
+
+0:1 McParland 4, 1:1 Corbatta 36 p, 2:1 Menéndez 66, 3:1 Avio 80
+
+
+11.06.58  (19.00) Hälsingborg, Olympiavalle
+
+GER - CZE 2:2 (0:2)
+
+(~25000) Ellis ENG, Seipelt AUT, Leafe ENG
+
+GER: Herkenrath - Stollenwerk, Juskowiak, Schnellinger - Erhardt, Szymaniak -
+Rahn, F.Walter, Seeler, Klodt, Schäfer (c)
+CZE: Dolejši - Mráz, Novák (c), Pluskál - Popluhar, Masopust - Hovorka, Dvořák,
+Molnár, Feureisl, Zikán
+
+0:1 Dvořák 24 p, 0:2 Zikan 42, 1:2 Schäfer 60, 2:2 Rahn 70
+
+15.06.58  (19.00) Malmö, Malmö Stadion
+
+GER - NIR 2:2 (1:1)
+
+(-22000) Campos POR, Ahlner SWE, Helge DAN
+
+GER: Herkenrath - Stollenwerk, Juskowiak, Eckel - Erhardt, Szymaniak -
+Rahn, F.Walter, Seeler, Klodt, Schäfer (c)
+NIR: Gregg - Keith, McMichael, Blanchflower (c) - Cunningham, Peacock -
+Bingham, Cush, Casey, McIlroy, McParland
+
+0:1 McParland 19, 1:1 Rahn 21, 1:2 McParland 60, 2:2 Seeler 79
+
+
+15.06.58  (19.00) Hälsingborg, Olympiavalle
+
+CZE - ARG 6:1 (3:0)
+
+(~16000) Ellis ENG, Leafe ENG, Seipelt AUT
+
+CZE: Dolejši - Mráz, Novák (c), Popluhár - Masopust, Hovorka - Dvořák,
+Borovička, Molnár, Feureisl, Zikán
+ARG: Carrizo - Lombardo, Vairo, Rossi - Dellacha (c), Varacka - Corbatta,
+Avio, Menéndez, Labruna, Cruz
+
+1:0 Dvořák 8, 2:0 Zikan 17, 3:0 Hovorka 39, 3:1 Corbatta 65 p, 4:1 Feureisl
+69, 5:1 Zikan 82, 6:1 Hovorka 89
+
+1. GER^         3  1 2 0  4  7-5
+2. CZE          3  1 1 1  3  8-4
+3. NIR^         3  1 1 1  3  4-5
+4. ARG          3  1 0 2  2  5-10
+
+17.06.58  (19.00) Malmö, Malmö Stadion (playoff)
+
+NIR - CZE 2:1 (1:1)
+
+(+6000) Guigue FRA, Ahlner SWE, Campos POR
+
+NIR: Uprichard - Keith, McMichael, Blanchflower (c) - Cunningham, Peacock -
+Bingham, Cush, Scott, McIlroy, McParland
+CZE: Dolejši - Mráz, Novák (c), Bubernik - Popluhár, Masopust - Zikán, Dvořák,
+Borovička, Feureisl, Molnár
+
+0:1 Zikán 19 h, 1:1 McParland 44, McParland 99
+
+sent off: Bubernik (102)
+
+=== Group B - FRA JUG PAR SCO  ‹§grb›
+
+08.06.58  (19.00) Västeraas, Arosvallen
+
+SCO - JUG 1:1 (0:1)
+
+(+9500) Wyssling SUI, Macko GER, Orlandini ITA
+
+SCO: Younger (c) - Caldow, Hewie, Turnbull - Evans, Cowie - Leggat, Murray
+Mudie, Collins, Imlach
+JUG: Beara - Šijaković, Crnković, Krstić - Zebec (c), Boskov - Petaković,
+Veselinović, Milutinović, Šekularac, Rajkov
+
+0:1 Petaković 13, 1:1 Murray 48
+
+
+08.06.58  (19.00) Norrköping, Idrottsparken
+
+FRA - PAR 7:3 (2:2)
+
+(+16000) Gardeázabal ESP, Griffiths WAL, Brossi ARG
+
+FRA: Remetter - Kaelbel, Lerond, Penverne - Jonquet (c), Marcel -
+Wisnieski, Fontaine, Kopa, Piantoni, Vincent
+PAR: Mayeregger - Arevalo, Miranda, Achucaro - Lezcano, Villalba -
+Aguero (c), Parodi, Romero, Re, Amarilla
+
+0:1 Amarilla 21, 1:1 Fontaine 25, 2:1 Fontaine 30, 2:2 Amarilla 42 p, 2:3
+Romero 50, 3:3 Piantoni 31, 4:3 Wisnieski 62, 5:2 Fontaine 66, 6:2 Kopa 70,
+7:3 Vincent 84
+
+
+11.06.58  (19.00) Norrköping, Idrottsparken
+
+PAR - SCO 3:2 (2:1)
+
+(+11000) Orlandini ITA, Gardeazábal ESP, Angrén SWE
+
+PAR: Aguilar - Arevalo, Echague, Achucaro - Lezcano, Villalba - Aguero (c),
+Parodi, Romero, Re, Amarilla
+SCO: Younger (c) - Caldow, Parker - Turnbull, Evans, Cowie, Leggat -
+Robertson, Mudie, Collins, Fernie
+
+1:0 Aguero 4, 1:1 Mudie 23, 2:1 Re 44, 3:1 Parodi 74, 3:2 Collins 76
+
+
+11.06.58  Västeraas, Arosvallen
+
+JUG - FRA 3:2 (1:1)
+
+(+12000) Griffiths WAL, Dragvoli NOR, Wyssling SUI
+
+JUG: Beara - Tomić, Crnković, Krstić - Zebec (c), Boskov - Petaković,
+Veselinović, Milutinović, Šekularac, Rajkov
+FRA: Remetter - Kaelbel, Lerond, Penverne - Jonquet (c), Marche - Wisnieski,
+Fontaine, Kopa, Piantoni, Vincent
+
+0:1 Fontaine 5, 1:1 Petaković 16, 2:1 Vaselinović 65, 2:2 Fontaine 85, 3:2
+Vaselinović 87
+
+
+15.06.58  (19.00) Örebro, Eyravallen
+
+FRA - SCO 2:1 (2:0)
+
+(-14000) Brossi ARG, Orlandini iTA, Wyssling SUI
+
+FRA: Abbes - Kaelbel, Lerond, Penverne - Jocquet (c), Marcel - Wisnieski,
+Fontaine, Kopa, Piantoni, Vincent
+SCO: Brown - Caldow, Hewie, Turnbull - Evans (c), Mackay - Imlach, Murray,
+Mudie, Collins, Baird
+
+1:0 Kopa 22, 2:0 Fontaine 45, 2:1 Baird 66 (23 Howie missed penalty)
+
+
+15.06.58  (19.00) Eskilstuna, Tunavallen
+
+PAR - JUG 3:3 (1:2)
+
+(+13000) Macko CZE, Gardeazábal ESP, Griffiths WAL
+
+PAR: Aguilar - Arevalo, Echague, Achucaro - Lezcano, Villalba - Aguero (c),
+Parodi, Romero, Re, Amarilla
+JUG: Beara - Tomić, Crnković, Krstić - Zebec (c), Boskov - Petaković,
+Veselinović, Ognjanović, Šekularac, Rajkov
+
+0:1 Ognjanović 12, 1:1 Parodi 21, 1:2 Veselinović 29, 2:2 Aguero 49, 2:3 Rajkov
+74, 3:3 Romero 90
+
+1. FRA^         3  2 0 1  4 11-7
+2. JUG^         3  1 2 0  4  7-6
+3. PAR          3  1 1 1  3  9-12
+4. SCO          3  0 1 2  1  4-6
+
+=== Group C - HUN MEX SWE WAL  ‹§grc›
+
+08.06.58  (14.00) Solna, Raasunda Stadion
+
+SWE - MEX 3:0 (1:0)
+
+(+34000) Latichev ZSR, Mowatt SCO, Eriksson FIN
+
+SWE: Svensson - Bergmark, Axbom, Liedholm (c), Gustavsson - Parling, Hamrin -
+Mellberg, Simonsson, Gren, Skoglund
+MEX: Carbajal (c) - del Muro, Villegas, Portugal, Romo - Flóres, Hernández -
+Reyes, Calderón, Gutiérrez, Sesma
+
+1:0 Simonsson 17 h, 2:0 Liedholm 58 p (penalty was repeated), 3:0 Simonsson 64
+
+NOTE: Match preceded by WC opening ceremony
+
+
+08.06.58  (19.00) Sandviken, Jernvallen
+
+HUN - WAL 1:1 (1:1)
+
+(+15000) Codesal URU, Lemešić JUG, van Nuffel BEL
+
+HUN: Grosics - Matrái, Sárosi, Bozsik - Sipos, Berendi - Sándor,
+Hidegkuti (c), Tichy, Bundzsák, Fenyvesi
+WAL: Kelsey - Williams, Hopkins, Sullivan - M.Charles, Bowen (c) - Webster,
+Medwin, J.Charles, Allchurch, Jones
+
+1:0 Bozsik 4, 1:1 J.Charles 26
+
+
+11.06.58  (19.00) Solna, Raasunda Stadion
+
+MEX - WAL 1:1 (0:1)
+
+(+15000) Lemešić JUG, Codesal URU, Latichev ZSR
+
+MEX: Carbajal - del Muro, Cárdenas (c), Belmonte - Romo, Flóres - González,
+Reyes, Blanco, Gutiérrez, Sesma
+WAL: Kelsey - Williams, Hopkins, Baker - M.Charles, Bowen (c) - Webster,
+Medwin, J.Charles, Allchurch, Jones
+
+0:1 Allchurch 32, 1:1 Belmonte 69
+
+
+12.06.58  (19.00) Solna, Raasunda Stadion
+
+SWE - HUN 2:1 (1:0)
+
+(-39000) Mowatt SCO, Dragvoll NOR, van Nuffel BEL
+
+SWE: Svensson - Bergmark, Axbom, Liedholm (c) - Gustavsson, Parling -
+Hamrin, Mellberg, Simonsson, Gren, Skoglund
+HUN: Grosics - Matrái, Sárosi, Bozsik (c) - Sipos, Berendi - Sándor, Szojka,
+Tichy, Bundzsák, Fenyvesi
+
+1:0 Hamrin 34, 2:0 Hamrin 55, 2:1 Tichy 78 (69 Liedholm missed penalty)
+
+
+15.06.58  (14.00) Solna, Raasunda Stadion
+
+SWE - WAL 0:0
+
+(+29000) van Nuffel BEL, Latichev ZSR, Lemešić JUG
+
+SWE: Svensson - Bergmark, Axbom, Börjesson - Gustavsson (c), Parling -
+Berndtsson, Selmonsson, Källgren, Löfgren, Skoglund
+WAL: Kelsey - Williams, Hopkins, Sullivan - M.Charles, Bowen (c) - Vernon,
+Hewitt, J.Charles, Allchurch, Jones
+
+
+15.06.58  (19.00) Sandviken, Jernvallen
+
+HUN - MEX 4:0 (1:0)
+
+(+13000) Eriksson FIN, Codesal URU, Mowatt SCO
+
+HUN: Ilku - Matrái, Sárosi, Kotasz - Sipos, Budai - Hidegkuti (c), Szojka,
+Tichy, Bencsics, Sándor
+MEX: Carbajal - del Muro, Cárdenas (c), Belmonte - Sepulveda, Flóres -
+González, Reyes, Blanco, Gutiérrez, Sesma
+
+1:0 Tichy 19, 2:0 Tichy 46, 3:0 Sándor 54, 4:0 Benecsis 69
+
+1. SWE^         3  2 1 0  5  5-1
+2. HUN          3  1 1 1  3  6-3
+3. WAL^         3  0 3 0  3  3-3
+4. MEX          3  0 1 2  1  1-8
+
+17.06,58  (19.00) Malmö, Malmö Stadion (playoff)
+
+WAL - HUN 2:1 (0:1)
+
+(-3000) Latichev ZSR, Codesal URU, Eriksson FIN
+
+WAL: Kelsey - Williams, Hopkins, Sullivan - M.Charles, Bowen (c) - Medwin,
+Hewitt, J.Charles, Allchurch, Jones
+HUN: Grosics (c) - Matrái, Sárosi, Bozsik - Sipos, Bencsics - Kotasz, Budai,
+Tichy, Bundzsák, Fenyvesi
+
+0:1 Tichy 33, 1:1 Allchurch 55, 2:1 Medwin 76
+
+sent off: Sipos (79)
+
+=== Group D - AUT BRA ENG ZSR  ‹§grd›
+
+08.06.58  (19.00) Uddevalla, Rimnersvallen
+
+BRA - AUT 3:0 (1:0)
+
+(~21000) Guigue FRA, Dusch GER, Bronkhorm HOL
+
+BRA: Gilmar - De Sordi, N.Santos, Dino - Bellini (c), Orlando - Joel,
+Didi, Atlafini, Dida, Zagalo
+AUT: Szanwald - Halla, Swoboda, Hanappi (c) - Happel, Koller - Horak,
+Senekowitsch, Buzek, A.Körner, Schleger
+
+1:0 Atlafini 37, 2:0 N.Santos 48 f, 3:0 Atlafini 80
+
+
+08.06.58  (19.00) Gothenburg, Nya Ullevi Stadion
+
+ENG - ZSR 2:2 (0:1)
+
+(+49000) Zsolt HUN, Jörgensen DAN, Nilsen NOR
+
+ENG: McDonald - Howe, Banks, Clamp - Wright (c), Slater - Douglas, Robson,
+Kevan, Haynes, Finney
+ZSR: Yashin - Kesarev, Kuznetsov, Voinov - Krijevski, Tsarev - A.Ivanov,
+V.Ivanov, Simonian (c), Salnikov, Ilyin
+
+0:1 Simonian 13, 0:2 A.Ivanov 56, 1:2 Kevan 65 h, 2:2 Finney 84 p
+
+
+11.06.58  (19.00) Boraas, Ryavallen
+
+ZSR - AUT 2:0 (1:0)
+
+(+21000) Jörgensen DAN, Nilsen NOR, Ackeborn SWE
+
+ZSR: Yashin - Kesarev, Kuznetsov, Voinov - Krijevski, Tsarev -
+A.Ivanov, V.Ivanov, Simonian (c), Salnikov, Ilyin
+AUT: Schmied - E.Kozlicek, Swoboda, Hanappi (c) - Stotz, Koller - Horak,
+P.Kozlicek, Buzek, A.Körner, Senekowitsch
+
+1:0 A.Ivanov 15, 2:0 Ilyin 65 (55 Yashin saved a penalty by Buzek)
+
+NOTE: Some sources award Ilyin's goal to V.Ivanov
+
+
+11.06.58  (19.00) Gothenburg, Nya Ullevi Stadion
+
+BRA - ENG 0:0
+
+(-41000) Dusch GER, Zsolt HUN, Lööw SWE
+
+BRA: Gilmar - de Sordi, N.Santos, Dino - Bellini (c), Orlando - Joel, Didi,
+Mazola, Váva, Zagalo
+ENG: McDonald - Howe, Banks, Clamp - Wright (c), Slater - Douglas, Robson,
+Kevan, Haynes, A'Court
+
+
+15.06.58  (19.00) Boraas, June 15th - Ryavallen
+
+AUT - ENG 2:2 (1:0)
+
+(-17000) Bronkhorst HOL, Dusch GER, Zsolt HUN
+
+AUT: Szanwald - Kollmann, Swoboda, Hanappi (c) - Happel, Koller - E.Kozlicek,
+Senekowitsch, Buzek, Körner, P.Kozlicek
+ENG: McDonald - Howe, Banks, Clamp - Wright (c), Slater - Douglas, Robson,
+Kevan, Haynes, A'Court
+
+1:0 Koller 15, 1:1 Haynes 56, 2:1 A.Körner 71, 2:2 Kevan 74
+
+
+15.06.58  (19.00) Gothenburg, Nya Ullevi Stadion
+
+BRA - ZSR 2:0 (1:0)
+
+(-51000) Guigue FRA, Jörgensen DAN, Nilsen NOR
+
+BRA: Gilmar - de Sordi, N.Santos, Zito - Bellini (c), Orlando - Garrincha,
+Didi, Pelé, Vává, Zagalo
+ZSR: Yashin - Kesarev, Kuznetsov, Voinov - Krijevski, Tsarev - A.Ivanov,
+V.Ivanov, Simonian, Netto (c), Ilyin
+
+1:0 Vává 3, 2:0 Vává 77
+
+1. BRA^         3  2 1 0  5  5-0
+2. ENG          3  0 3 0  3  4-4
+3. ZSR^         3  1 1 1  3  4-4
+4. AUT          3  0 1 2  1  2-7
+
+17.06.58  (19.00) Gothenburg, Nya Ullevi Stadion (playoff)
+
+ZSR - ENG 1:0 (0:0)
+
+(+23000) Dusch GER, Seipelt AUT, Bronkhorst HOL
+
+ZSR: Yashin - Kesarev, Kuznetsov, Voinov - Krijevski, Tsarev - Apoukhtin,
+V.Ivanov, Simonian (c), Falin, Ilyin
+ENG: McDonald - Howe, Banks, Clayton - Wright (c), Slater - Brabrook, Broadbent,
+Kevan, Haynes, A'Court
+
+1:0 Ilyin 68
+
+=== Quarterfinals  ‹§4fin›
+
+19.06.58  (14.00) Solna, Raasunda Stadion
+
+SWE - ZSR 2:0 (0:0)
+
+(-32000) Leafe ENG, Brozzi ARG, Dragvolt NOR
+
+SWE: Svensson - Bergmark, Axbom, Börjesson - Gustavsson, Parling - Hamrin,
+Gren, Simonsson, Liedholm (c), Skoglund
+ZSR: Yashin - Kesarev, Kuznetsov, Voinov - Krijevski, Tsarev - A.Ivanov,
+V.Ivanov, Simonian (c), Salnikov, Ilyin
+
+1:0 Hamrin 48 h, 2:0 Simonsson 87
+
+
+19.06.58  (19.00) Malmö, Malmö Stadion
+
+GER - JUG 1:0 (1:0)
+
+(~20000) Wyssling SUI, Campos POR, Helge DAN
+
+GER: Herkenrath - Stollenwerk, Juskowiak, Eckel - Erhardt, Szymaniak -
+Rahn, F.Walter, Seeler, Schmidt, Schäfer (c)
+JUG: Krivokuca - Sijaković, Crnković, Krstić - Zebec (c), Boskov - Petaković,
+Ognjanović, Milutinović, Veselinović, Rajkov
+
+1:0 Rahn 12 f
+
+
+19.06.58  (19.00) Norrköping, Idrottsparken
+
+FRA - NIR 4:0 (1:0)
+
+(-12000) Gardeázabal ESP, Andrén SWE, Latichev ZSR
+
+FRA: Abbes - Kaelbel, Lerond, Penverne - Jonquet (c), Marcel - Wisnieski,
+Fontaine, Kopa, Piantoni, Vincent
+NIR: Gregg - Keith, McMichael, Blanchflower (c) - Cunningham, Cush - Bingham,
+Casey, Scott, McIlroy, McParland
+
+1:0 Wisnieski 43, 2:0 Fontaine 55 h, 3:0 Fontaine 63, 4:0 Plantoni 70
+
+
+19.06.58  (19.00) Gothenburg, Nya Ullevi Stadion
+
+BRA - WAL 1:0 (0:0)
+
+(-26000) Seipelt AUT, Dusch GER, Guigue FRA
+
+BRA: Gilmar - de Sordi, N.Santos, Zito - Bellini (c), Orlando - Garrincha,
+Didi, Mazola, Pelé, Zagalo
+WAL: Kelsey - Williams, Hopkins, Sullivan - M.Charles, Bowen (c) - Medwin,
+Hewitt, Webster, Allchurch, Jones
+
+1:0 Pelé 73
+
+=== Semifinals  ‹§2fin›
+
+24.06.58  (19.00) Solna, Raasunda Stadium
+
+BRA - FRA 5:2 (2:1)
+
+(-28000) Griffiths WAL, Leafe ENG, Wyssling SUI
+
+BRA: Gilmar - de Sordi, N.Santos, Zito - Bellini (c), Orlando - Garrincha,
+Didi, Vává, Pelé, Zagalo
+FRA: Abbes - Kaelbel, Lerond, Penverne - Jonquet (c), Marcel - Wisnieski,
+Fontaine, Kopa, Piantoni, Vincent
+
+1:0 Vává 2, 1:1 Fontaine 9, 2:1 Didi 39, 3:1 Pelé 53, 4:1 Pelé 64, 5:1 Pelé
+76, 5:2 Plantoni 83
+
+
+24.06.58  (19.00) Gothenburg, Nya Ullevi
+
+SWE - GER 3:1 (1:1)
+
+(+50000) Zsolt HUN, Seipelt AUT, Ellis ENG
+
+SWE: Svensson - Axbom, Bergmark, Gustavsson - Börjesson, Parling - Hamrin,
+Gren, Simonsson, Liedholm (c), Skoglund
+GER: Herkenrath - Stollenwerk, Juskowiak, Eckel - Erhardt, Szymaniak -
+Rahn, F.Walter, Seeler, Cieslarczyk, Schäfer (c)
+
+0:1 Schäfer 24, 1:1 Skoglund 33, 2:1 Gren 50, 3:1 Hamrin 88
+
+sent off: Juskowiak (89)
+
+=== Third place match  ‹§3place›
+
+26.06.58  (17.00) Gothenburg, Nya Ullevi
+
+FRA - GER 6:3 (3:1)
+
+(~33000) Brozzi ARG, Ellis ENG, Lundell SWE
+
+FRA: Abbes - Kaelbel, Lerond, Penverne (c) - Lafont, Marcel - Wisnieski,
+Fontaine, Kopa, Douis, Vincent
+GER: Kwiatkowski - Stollenwerk, Wewers, Erhardt - Schnellinger, Szymaniak -
+Rahn, Strum, Schäfer (c), Kelbassa, Cieslarczyk
+
+1:0 Fontaine 16, 1:1 Cieslarczyk 18, 2:1 Kopa 27 p, 3:1 Fontaine 36, 4:1 Douis
+50, 4:2 Rahn 52, 5:2 Fontaine 78, 5:3 Schäfer 84, 6:3 Fontaine 89
+
+=== Final  ‹§final›
+
+29.06.58  (15.00) Solna, Raasunda Stadium
+
+BRA - SWE 5:2 (2:1)
+
+(~50000) Guigue FRA, Dusch GER, Gardeazábal ESP
+
+BRA: Gilmar - D.Santos, N.Santos, Zito - Bellini (c), Orlando - Garrincha,
+Didi, Vavá, Pelé, Zagalo
+SWE: Svensson - Bergmark, Axbom, Börjesson - Gustavsson, Parling - Hamrin,
+Gren, Simonsson, Liedholm (c), Skoglund
+
+0:1 Liedholm 4, 1:1 Vavá 9, 2:1 Vavá 32, 3:1 Pelé 55, 4:1 Zagalo 68, 4:2
+Simonsson 80, 5:2 Pelé 90 h
+
+=== Scorers' list  ‹§scorers›
+
+13 - Fontaine FRA
+ 6 - Pelé BRA, Rahn GER
+ 5 - Vavá BRA, McParland NIR
+ 4 - Zikán CZE, Tichy HUN, Hamrin, Simonsson SWE
+ 3 - Corbatta ARG, Kopa, Plantoni FRA, Schäfer GER, Vaselinović JUG
+ 2 - Atlafini BRA, Dvořák, Hovorka CZE, Kevan ENG, Wisnieski FRA, Seeler
+     GER, Petaković JUG, Aguero, Amarillo, Parodi, Romero PAR, Liedholm
+     SWE, Allchurch WAL, Ilyin, A.Ivanov ZSR
+ 1 - Avio, Menéndez ARG, Koller, A.Körner AUT, Didi, N.Santos, Zagalo BRA,
+     Feureisl CZE, Finney, Haynes ENG, Douis, Vincent FRA, Cieslarczyk GER,
+     Bencsik, Bozsik, Sándor HUN, Ognjenović, Rajkov JUG, Belmonte MEX,
+     Cush NIR, Ré PAR, Baird, Collins, Mudie, Murray SCO, Gren, Skoglund SWE,
+     J.Charles, Medwin WAL, Simonian ZSR
+
+In total 126 goals (7 p, 2 f, 6 h, 0 o), 3,60 per match. Most goals FRA (23),
+no team without goals. 59 players scored (including 7 earlier scorers from
+1954).
+
+=== Coaches, assistants, reserve players  ‹§coaches›
+
+ARG: G. Stábile, J. Borau | Acevedo, Edwards, Infante, Mauriño,
+Musinessi, Pérez, Ramos-Delgado, Sanfilippo
+AUT: J. Argauer, J. Molzer | Berschandt, Dienst, Engelmeier, Hammerl,
+Ninaus, Puschnik
+BRA: V. I. Feola, P. L. Amaral | de Castilho, Calazana, Mauro, de
+Oliveira, Oreco, Pepé, Claudio Pinto
+CZE: K. Kolský | Gajdas, Moravčik, Šafránek, Scherer, Schrojf, Staco
+ENG: W. Winterbottom, H. Shepherdson, J. Mears | R. Charlton, Hodgkinson,
+Hopkinson, Norman, Setters, Siller, Smith
+FRA: F. Nicolas, A. Batteux, J. Snella, A. Thépot | Bellot, Bruey,
+Chiarelli, Colonna, Hnatov, Muynet, Oliver
+GER: J. Herberger, H. Schön, G. Gawliczek | Hoffmann, Nuber, Peters,
+Sawitski
+HUN: L. Baróti, K. Soos | Friedmanszky, Kárpáti, Lachos, Monostori,
+Szigeti, Vasas
+JUG: A. Tirnanić, S. Milošević | Irović, Jerković, Lipošinović,
+Milutinović, Pašić, Popović, Radović, Šantek
+MEX: A. López Herrans, J. Trelles Campos (A. Obregon, G.J. Cañedo,
+E. Evheverria) | Camacho-Melendez, Gómez-Munquia, López-Altamirano, Roca,
+Salazar-Gutierrez
+NIR: P. Doherty, J. Morgan | Chapman, Graham, Hamill, McCrory, Rea,
+Simpson, Trainor
+PAR: A> González, J.C. Fereirra | O.Aguilera, Aveiro-Lamaz, Gini,
+Eligion Insfrán, Eliseo Insfrán, Lascano, Penayo Ortiz, Segovia, Santos
+silva
+SCO: D. Walker, T. Doherty*, W. Waters | Coyle, Docherty, Haddock,
+McColl, Scott
+SWE: G. Raynor, K.E.H. Persson, E.E.W. Jonasson, C.E. Halldén) |
+Haakanson, Haraldson, A.Jonasson, G.Olsson, Öberg, T. Svensson
+WAL: J. Murphy, J. Jones | L.Allchurch, Baker, Crowe, Edwards,
+Eldsworthy, Jones, Leek, Vernacombe
+ZSR: G. Kachalin, M.J. Yakushin | Belaiev, Bubukin, Fedorov, Gusarov,
+Yerochin, Maslachenko, Maslenkin, Ostrovski
+
+* playing coach
+
+=== Oldest and youngest  ‹§records›
+
+Youngest                  Oldest
+player      Pelé BRA       17y235d   Labruna ARG        39y260d
+goalkeeper  Mayeregger PAR 24y109d   Svensson SWE       32y230d
+scorer      Pelé BRA       17y239d   Gren SWE           37y236d
+champion    Pelé BRA       17y249d   N.Santos BRA       33y 44d
+finalist    Pelé BRA       17y249d   Gren SWE           37y241d
+medalist    Pelé BRA       17y244d   Gren SWE           37y236d
+captain     Aguero PAR     22y349d   Hidegkuti HUN      36y104d
+coach       Trellez MEX    38y312d   Herberger GER      61y 92d
+referee     Codesal URU    30y231d   Mowatt SCO         50y 72d
+

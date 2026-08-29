@@ -1,0 +1,71 @@
+<!--
+   title:   World Cup 1930
+   source:  https://rsssf.org/tables/30f.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 25 Jun 2025
+  -->
+
+
+== World Cup 1930 (Uruguay, July 13-30)
+
+▪ FIRST PHASE ▪
+
+Group A
+13.07.30  Montevideo  France           4-1 Mexico             1.ARGENTINA        3  3  0  0  10- 4  6
+15.07.30  Montevideo  France           0-1 Argentina          2.Chile            3  2  0  1   5- 3  4
+16.07.30  Montevideo  Mexico           0-3 Chile              3.France           3  1  0  2   4- 3  2
+19.07.30  Montevideo  France           0-1 Chile              4.Mexico           3  0  0  3   4-13  0
+19.07.30  Montevideo  Mexico           3-6 Argentina
+22.07.30  Montevideo  Argentina        3-1 Chile
+
+Group B
+14.07.30  Montevideo  Yugoslavia       2-1 Brazil             1.YUGOSLAVIA       2  2  0  0   6- 1  4
+17.07.30  Montevideo  Yugoslavia       4-0 Bolivia            2.Brazil           2  1  0  1   5- 2  2
+20.07.30  Montevideo  Brazil           4-0 Bolivia            3.Bolivia          2  0  0  2   0- 8  0
+
+Group C
+14.07.30  Montevideo  Romania          3-1 Peru               1.URUGUAY          2  2  0  0   5- 0  4
+18.07.30  Montevideo  Uruguay          1-0 Peru               2.Romania          2  1  0  1   3- 5  2
+21.07.30  Montevideo  Uruguay          4-0 Romania            3.Peru             2  0  0  2   1- 4  0
+
+Group D
+13.07.30  Montevideo  USA              3-0 Belgium            1.USA              2  2  0  0   6- 0  4
+17.07.30  Montevideo  USA              ‹3-0, see page 30f-hattrick› Paraguay           2.Paraguay         2  1  0  1   1- 3  2
+20.07.30  Montevideo  Paraguay         1-0 Belgium            3.Belgium          2  0  0  2   0- 4  0
+
+▪ SEMIFINALS ▪
+
+26.07.30  Montevideo  Argentina        6-1 USA
+
+27.07.30  Montevideo  Uruguay          6-1 Yugoslavia
+
+No match for third place; in contemporary newspapers appearing in Yugoslavia early
+September it is claimed Yugoslavia were awarded the third place for having lost to
+the eventual winners rather than the runners-up, supposedly in accordance with
+Olympic regulations (a rather curious statement as the Olympic football tournament
+always had featured a bronze medal match except in ‹1920, see page ../tableso/ol1920f-det› when the set-up was rather
+more involved); no official stance of FIFA is known on this - in 1984 an official
+FIFA report claimed Yugoslavia beat the USA 3-1 in a match for third place but that
+is nonsense (no official match between the two countries, friendly or otherwise, was
+played before the ‹1956 Olympic Games, see page ../tableso/ol1956f›); according to the rules applied in later World
+Cup tournaments (comparing the overall records of teams eliminated at the same stage),
+the USA would be third (for having conceded one goal less in their three matches).
+
+▪ FINAL ▪
+
+Montevideo, July 30, 1930.
+Uruguay          4-2 Argentina
+Uruguay: Ballesteros, Mascheroni, Nasazzi, Andrade, Fernández, Gestido,
+         Dorado, Scarone, Castro, Cea, Iriarte.
+Argentina: Botasso, Della Torre, Paternoster, J. Evaristo, Monti, Arico Suárez,
+           Peucelle, Varallo, Stábile, Ferreyra, M. Evaristo.
+
+Referee: Langenus (Belgium)
+Attendance: 80,000.
+
+Scorers: 12' Dorado 1-0; 20' Peucelle 1-1; 38' Stábile 1-2; 58' Cea 2-2;
+         68' Iriarte 3-2; 89' Castro 4-2.
+
+Topscorer: Stábile (Argentina) 8 goals.
+
+

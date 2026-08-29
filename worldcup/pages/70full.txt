@@ -1,0 +1,630 @@
+<!--
+   title:   World Cup 1970 finals
+   source:  https://rsssf.org/tables/70full.html
+  -->
+
+<!--
+                     Contents:
+
+         World Cup 1970                   
+           Group A - BEL MEX SAL ZSR        (see §§gra)
+           Group B - ISR ITA SWE URU        (see §§grb)
+           Group C - BRA CZE ENG ROM        (see §§grc)
+           Group D - BUL GER MAR PER        (see §§grd)
+           Quarterfinals                    (see §§4fin)
+           Semifinals                       (see §§semi)
+           Third place match                (see §§3place)
+           Final                            (see §§final)
+           Scorers' list                    (see §§scorers)
+           Coaches, assistants, reserve players  (see §§coaches)
+           Oldest and youngest              (see §§records)
+  -->
+
+
+
+== World Cup 1970
+
+Mexico, 31 May to 21 June 1970 (Guadalajara, León, Mexico City, Puebla,
+Toluca). Decided at FIFA Congress in Tokio, 8 Oct 1964. Entries deadline
+15 Dec 1967. 75 teams entered (9 for the first time), 70 actually played.
+Qualifications drawn 31 Jan 1968 in Casablanca. Finals drawn 10 Jan 1970
+in Mexico City.
+
+
+=== Group A - BEL MEX SAL ZSR  ‹§gra›
+
+31.05.70  (12.00) Mexico City, Estadio Azteca
+
+MEX - ZSR 0:0
+
+(+107000) Tschenscher GER, Taylor ENG, Dunstan BER
+
+MEX: Calderon - Vantolra, Peña (c), Guzmán, Pérez - Hernández, Pulido,
+Velarde (67 Munguia), Valdivia - Fragoso, Lopez
+ZSR: Kavasashvili - Kaplichni, Lovchev, Logofet, Shesterniev (c) - Asatiani,
+Muntian, Serebrianikov (46 Pusach), Bishovets - Evriuzhikan, Nodija (67
+Khmelnitski)
+
+booked: Peña / Lovchev, Logofet, Asatiani, Nodija
+
+NOTE: Match preceded by WC opening ceremony
+
+
+03.06.70  (16.00) Mexico City, Estadio Azteca
+
+BEL - SAL 3:0 (1:0)
+
+(+92000) Rădulescu ROM, Tschenscher GER, Glöckner DDR
+
+BEL: Piot - Heylens, Thissen, Dewalque, Dockx - Semmeling (79 Poleunis),
+van Moer, Devrindt, van Himst (c) - Lambert, Puis
+SAL: Magaña - Rivas, Mariona (c), Osorio, Manzano (66 Cortés) -
+Quintanilla, Vásquez, Cabezas, Rodriguez (80 Sermeño) Martinez, Aparicio
+
+1:0 van Moer 13, 2:0 van Moer 55, 3:0 Lambert 80 p
+
+
+06.06.70  (16.00) Mexico City, Estadio Aztéca
+
+ZSR - BEL 4:1 (1:0)
+
+(~59000) Scheurer SUI, Davidson SCO, Landauer USA
+
+ZSR: Kavasashvili - Kaplichni (35 Lovchev), Afonin, Shesterniev (c),
+Asatiani - Muntian, Dzodzuashvili (73 Kiselev), Bishovets, Evriuzhikan -
+Khurtisilava, Khmelnitski
+BEL: Piot - Heylens, Thissen, Dewalque, Dockx - Semmeling, van Moer,
+Jeck, van Himst (c) - Lambert, Puis
+
+1:0 Bischovets 14, 2:0 Asatiani 57, 3:0 Bischovets 63, 4:0 Khmelnitski 78 h,
+4:1 Lambert 86
+
+
+07.06.70  (12.00) Mexico City, Estadio Azteca
+
+MEX - SAL 4:0 (1:0)
+
+(~103000) Kandil EGY, Dunstan BER, Taylor ENG
+
+MEX: Calderón - Vantolra, Peña (c), Guzmán, Pérez - González, Borja
+(46 López Sagado, 76 Basaguren), Munguia, Valdivia - Fragoso, Padilla
+SAL: Magaña - Rivas, Mariona (c), Osorio, Cortés (68 Monge) -
+Quintanilla, Vásquez, Cabezas, Rodriguez - Martinez, Aparicio (59 Mendez)
+
+1:0 Valdivia 45, 2:0 Valdivia 46, 3:0 Fragoso 58, 4:0 Basaguren 83
+
+booked: Cabezas, Mariona, Mendez, Magaña
+
+
+10.06.70  (16.00) Mexico City, Estadio Azteca
+
+ZSR - SAL 2:0 (0:0)
+
+(~89000) Hormazábal CHI, Coerezza ARG, de Moraes BRA
+
+ZSR: Kavasashvili - Afonin, Shesterniev (c), Serebrianikov, Muntian -
+Dzodzuashvili, Kiselev (81 Asatiani), Bishovets - Pusatch (46 Evriuzhikin),
+Khurtisilava, Khmelnitski
+SAL: Magaña - Rivas, Mariona (c), Osorio, Castro - Monge, Portillo,
+Vásquez, Cabezas (82 Aparicio) - Rodriguez (86 Sermeño), Mendez
+
+1:0 Bischovets 51, 2:0 Bischovets 74 h
+
+booked: Khmelnitski
+
+
+11.06.70  (16.00) Mexico City, Estadio Azteca
+
+MEX - BEL 1:0 (1:0)
+
+(~105000) Coerezza ARG, Landauer USA, Hermazábal CHI
+
+MEX: Calderón - Vantolra, Peña (c), Guzmán, Pérez - Gonzalez, Pulido, Munguia,
+Valdivia (46 Basaguren) - Fragoso, Padilla
+BEL: Piot - Heylens, Thissen, Dewalque, Dockx - Semmeling, van Moer, Jeck,
+van Himst (c) - Poleunis (66 Devrindt), Puis
+
+1:0 Peña 14 p
+
+booked: Peña, Valdivia / Thissen, van Himst
+
+1. ZSR^         3  2 1 0  5  6-1
+2. MEX^         3  2 1 0  5  5-0
+3. BEL          3  1 0 2  2  4-5
+4. SAL          3  0 0 3  0  0-9
+
+NOTE: Due to shortcomings of the WC rules set ZSR was awarded
+the first place by lot
+
+=== Group B - ISR ITA SWE URU  ‹§grb›
+
+02.06.70  (16.09) Puebla, Estadio Cuauhtemoc
+
+URU - ISR 2:0 (1:0)
+
+(~20000) Davidson SCO, Scheuer SUI, Tarekegn ETH
+
+URU: Mazurkiewicz - Ubiña, Mujica, Montero-Castillo, Ancheta -
+Matosas, Cubilla, Esparrago, Maneiro - Rocha (c - 13 Cortés), Losada
+ISR: Vissoker - Rosen, Daniel, Talbi (Bar), Schwager - Rosenthal,
+Shum, Spiegler, Spiegel (c) - Faygenbaum, Rom (46 Vollach)
+
+1:0 Maneiro 23, 2:0 Mujica 81
+
+
+03.06.70  (16.00) Toluca, Estadio La Bombonera
+
+ITA - SWE 1:0 (1:0)
+
+(-14000) Taylor ENG, Scheuer SUI, Kandil EGY
+
+ITA: Albertosi - Burgnich, Facchetti (c), Cera, Niccolai (38 Rosato) -
+Bertini, Domenghini, Mazzola, Boninsegna - de Sisti, Riva
+SWE: Hellström - Nordqvist (c), Grip, Svensson, Axelsson - B.Larsson
+(79 Nicklasson), Grahn, Eriksson (56 Ejderstedt) - Kindvall, Cronqvist, Olsson.
+
+1:0 Domenghini 11
+
+booked: Cronqvist
+
+
+06.06.70  (16.00) Puebla, Estadio Cuauhtemoc
+
+URU - ITA 0:0
+
+(~30000) Glöckner DDR, Tschenscher GER, Horvat JUG
+
+URU: Mazurkiewicz - Ubiña (c), Mujica, Montero-Castillo, Ancheta -
+Matosas, Cubilla, Esparrago, Maneiro - Cortes, Bareno (71 Zubia)
+ITA: Albertosi - Burgnich, Facchetti (c), Cera, Rosato - Bertini,
+Domenghini (46 Furino), Mazzola, Boninsegna - de Sisti, Riva.
+
+07.06.70  (12.00) Toluca, Estadio, La Bombonera
+
+ISR - SWE 1:1 (0:0)
+
+(~10000) Tarekegn ETH, Horvat JUG, Rădulescu ROM
+
+ISR: Vissoker - Rosen, Primo, Bar, Schwager - Rosenthal, Shum, Spiegler (c),
+Spiegel - Faygenbaum, Vollach (51 Shuruk)
+SWE: G.Larsson - Selander, Grip, Svensson (c), Axelsson - B.Larsson, Nordahl,
+Turesson, Kindvall - Persson (78 Pálsson), Olsson
+
+0:1 Turesson 53, 1:1 Spiegler 56
+
+booked: Bar, Primo / Persson
+
+
+10.06.70  (16.00) Puebla, Estadio Cuauhtemoc
+
+SWE - URU 1:0 (0:0)
+
+(~18000) Landauer USA, Taylor ENG, Rădulescu ROM
+
+URU: Mazurkiewicz - Ubiña (c), Mujica, Montero-Castillo, Ancheta -
+Matosas, Esparrago (62 Fontes), Maneiro, Cortes - Zubia, Losada
+SWE: G.Larsson - Selander, Grip, Svensson, Axelsson - B.Larsson, Nordqvist (c),
+Eriksson, Kindvall (60 Turesson) - Persson, Nicklasson (84 Grahn)
+
+1:0 Grahn 90 h
+
+
+11.06.70  (16.00) Toluca, Estadio, La Bomboneras
+
+ITA - ISR 0:0
+
+(~10000) de Moraes BRA, Tschechner GER, Tarekegn ETH
+
+ITA: Albertosi - Burgnich, Facchetti (c), Cera, Rosato - Bertini, Domenghini
+(46 Rivera), Mazzola, Boninsegna - de Sisti, Riva
+ISR: Vissoker - Rosen, Bello, Primo, Bar - Schwager, Rosenthal, Shum,
+Spiegler (c) - Spiegel, Faygenbaum (46 Rom)
+
+1. ITA^         3  1 2 0  4  1-0
+2. URU^         3  1 1 1  3  2-1
+3. SWE          3  1 1 1  3  2-2
+4. ISR          3  0 2 1  2  1-3
+
+=== Group C - BRA CZE ENG ROM  ‹§grc›
+
+02.06.70  (16.00) Guadalajara, June 2nd - Estadio Jalisco
+
+ENG - ROM 1:0 (0:0)
+
+(~50000) Loraux BEL, Măchin FRA, de Leo MEX
+
+ENG: Banks - Newton (51 Wright), Cooper, Mullery, Labone - Moore (c), Lee
+(77 Osgood), Ball, R.Charlton - Hurst, Peters
+ROM: Adamache - Sătmăreanu, Lupescu, Dinu, Mocanu - Dumitru, Nunweiller,
+Dembrovschi, G.Tătaru (74 Neagu) - Dumitrache, Lucescu (c)
+
+1:0 Hurst 65
+
+
+03.06.70  (16.00) Guadalajara, Estadio Jalisco
+
+BRA - CZE 4:1 (1:1)
+
+(~52000) Barreto URU, Yamasaki MEX, Klein ISR
+
+BRA: Felix - Carlos Alberto (c), Piazza (88 Fontana), Brito, Everaldo -
+Clodoaldo, Gérson (74 Paulo Cesar Lima), Jairzinho, Tostao - Pelé, Rivelino
+CZE: Viktor - Dobiáš, Migas, Horváth (c), Hagara - Hrdlička (46
+Kvašňák), Kuna, F.Veselý (75 B.Veselý), Petráš - Adamec, Jokl
+
+0:1 Petráš 12, 1:1 Rivelino 24 f, 2:1 Pelé 60, 3:1 Jairzinho 64, 4:1 Jairzinho
+83
+
+booked: Gérson, Tostão / Horváth
+
+
+06.06.70  (16.00) Guadalajara, Estadio Jalisco
+
+ROM - CZE 2:1 (0:1)
+
+(~56000) de Leo MEX, Loraux BEL, Emsberger HUN
+
+ROM: Adamache - Sătmăreanu, Lupescu, Dinu, Mocanu - Dumitru (82 Ghergheli),
+Nunweiller, Dembrovschi, Neagu - Dumitrache, Lucescu (c - 70 G.Tătaru)
+CZE: Vencel - Dobiáš, Migas, Horváth (c), Zlocha - Kvašňák, Kuna - B.Veselý,
+Petráš, Jurkanin (46 Adamec), Jokl (67 F.Veselý)
+
+0:1 Petráš 4 h, 1:1 Neagu 53, 2:1 Dumitrache 76 p
+
+booked: Nunweiller / Kvašňák
+
+
+07.06.70  (12.00) Guadalajara, Estadio Jalisco
+
+BRA - ENG 1:0 (0:0)
+
+(~66000) Klein ISR, Măchin FRA, Yamasaki MEX
+
+BRA: Felix - Carlos Alberto (c), Piazza, Brito, Everaldo - Clodoaldo,
+Paulo Cesar Lima, Jairzinho, Tostão (68 Roberto) - Pelé, Rivelino
+ENG: Banks - Wright, Cooper, Mullery, Labone - Moore (c), Lee (64 Astle),
+Ball, R.Charlton (64 Bell) - Hurst, Peters
+
+1:0 Jairzinho 60
+
+booked: Lee
+
+
+10.06.70  (16.00) Guadalajara, Estadio Jalisco
+
+BRA - ROM 3:2 (2:1)
+
+(~50000) Marschall AUT, Barreto URU, Loraux BEL
+
+BRA: Felix - Carlos Alberto (c), Piazza, Brito, Everaldo (56 Marco António) -
+Clodoaldo (74 Edu), Paulo Cesar Lima, Jairzinho - Tostão, Pelé, Fontana
+ROM: Adamache (28 Răducanu) - Sătmăreanu, Lupescu, Dinu, Mocanu -
+Dumitru, Nunweiller, Dembrovschi, Neagu - Dumitrache (72 G.Tătaru),
+Lucescu (c)
+
+1:0 Pelé 20 f, 2:0 Jairzinho 22, 2:1 Dumitrache 33, 3:1 Pelé 66, 3:2
+Dembrovschi 83 h
+
+booked: Mocanu, Dimitru
+
+
+11.06.70  (16.00) Guadalajara, Estadio Jalisco
+
+ENG - CZE 1:0 (0:0)
+
+(~49000) Mâchin FRA, Marschall AUT, Emsberger HUN
+
+ENG: Banks - Newton, Cooper, Mullery, J.Charlton - Moore (c), Clarke, Ball,
+R.Charlton (66 Bell) - Astle (61 Osgood), Peters
+CZE: Viktor (c) - Dobiáš, Migas, Hrivňák, Hagara - Pollák, Kuna, F.Veselý,
+Petráš - Adamec, Jokl (71 Čapkovič)
+
+1:0 Clarke 49 p
+
+booked: Dobiáš
+
+1. BRA^         3  3 0 0  6  8-3
+2. ENG^         3  2 0 1  4  2-1
+3. ROM          3  1 0 2  2  4-5
+4. CZE          3  0 0 3  0  2-7
+
+=== Group D - BUL GER MAR PER   ‹§grd›
+
+02.06.70  (16.00) León, Estadio Guanajuato
+
+PER - BUL 3:2 (0:1)
+
+(~14000) Sbardella ITA, Aguilar MEX, Maruyama JAP
+
+PER: Rubiños - Campos (28 J.González), de la Torre, Chumpitaz (c), Fuentes -
+Mifflin, Challe - Baylón (51 Sotil), Cubillas, León, Gallardo
+BUL: Simeonov, Shalamanov, Dimitrov (c), Davidov, Aladzhov - Bonev
+(73 Asparoukhov), Penev, Yakimov - Popov (59 Maraschliev), Zhekov, Dermendzhiev
+
+0:1 Dermendzhiev 12 f, 0:2 Bonev 50 f, 1:2 Gallardo 51, 2:2 Chumpitaz 56,
+3:2 Cubillas 73
+
+
+03.06.70  (16.00) León, Estadio Guanajuato
+
+GER - MAR 2:1 (0:1)
+
+(~9000) van Ravens HOL, de Mendibil ESP, Velasquez COL
+
+GER: Maier - Vogts, Schulz, Fichtel, Höttges (76 Löhr) - Haller
+(46 Grabowski), Beckenbauer, Overath - Seeler (c), Müller, Held
+MAR: Kassou - Lamrani, Benkrief, Khanoussi (c), Slimani - Marroufi, Bamous
+(72 Faras), El Filali, Ghandi - Ghazouani (86 El Khyati), Houmane
+
+0:1 Houmane 21, 1:1 Seeler 56, 2:1 Müller 80 h
+
+
+06.06.70  (16.00) León, Estadio Guanajuato
+
+PER - MAR 3:0 (0:0)
+
+(~13500) Bachramov ZSR, Sbardella ITA, Maruyama JAP
+
+PER: Rubiños - P.González, de la Torre, Chumpitaz (c), Fuentes -
+Mifflin (56 Cruzado), Challe - Sotil, León, Gallardo (76 Ramírez), Cubillas
+MAR: Kassou - Lamrani, Benkhrif (66 Fadili), Khanoussi (c), Slimani -
+Maaroufi, Bamous, El Filali, Said (81 Alaoui) - Ghazouani, Houmane
+
+1:0 Cubillas 65, 2:0 Challe 68, 3:0 Cubillas 75
+
+
+07.06.70  (12.00) León, Estadio Guanajuato
+
+GER - BUL 5:2 (2:1)
+
+(~12700) Ortiz de Mendibil ESP, Ribeiro POR, Velasquez COL
+
+GER: Maier - Vogts, Schnellinger, Fichtel, Höttges - Löhr (59 Grabowski),
+Beckenbauer (72 Weber), Overath, Seeler (c) - Müller, Libuda
+BUL: Simeonov - Gaidarski, Zhechev, Bonev, Penev - Gaganelov (c - 59 Shalamanov),
+Nikodimov, Kolev, Dzhermendiev (46 Mitkov) - Asparoukhov, Maraschliev
+
+0:1 Nikodimov 12 f, 1:1 Libuda 20, 2:1 Müller 28, 3:1 Müller 52 p, 4:1 Seeler
+69, 5:1 Müller 87 h, 5:2 Kolev 88
+
+
+10.06.70  (16.00) León, Estadio Guanajuato
+
+GER - PER 3:1 (3:1)
+
+(~18000) Aguilar MEX, de Mendibil ESP, Sbardella ITA
+
+GER: Maier - Vogts, Schnellinger, Fichtel, Höttges (46 Patzke) - Löhr,
+Beckenbauer, Overath, Seeler (c) - Müller, Libuda (75 Grabowski)
+PER: Rubiños - P.González, de la Torre, Chumpitaz (c), Fuentes -
+Mifflin, Challe (71 Cruzado)- Sotil, León (75 Ramírez), Gallardo, Cubillas
+
+1:0 Müller 20, 2:0 Müller 26, 3:0 Müller 39 h, 3:1 Cubillas 44 f
+
+
+11.06.70  (16.00) León, Estadio Guanajuato
+
+BUL - MAR 1:1 (1:0)
+
+(+12000) Ribeiro POR, van Ravens HOL, Bachramov ZSR
+
+BUL: Yordanov - Gaidarski, Zhechev, Yakimov (50 Bonev), Penev (42 Dimitrov) -
+Shalamanov (c), Nikodimov, Kolev, Popov - Mitkov, Asparoukhov
+MAR: Hazzaz - Benkrief, Fadili, Khanoussi (c), Slimani - Marroufi, Bamous
+(46 Chukri), El Filali, Said - Alaoui (74 Faras), Ghazouani
+
+1:0 Zhechev 40 f, 1:1 Ghazouani 60
+
+1. GER^         3  3 0 0  6 10-4
+2. PER^         3  2 0 1  4  7-5
+3. BUL          3  0 1 2  2  5-9
+4. MAR          3  0 1 2  0  2-6
+
+=== Quarterfinals  ‹§4fin›
+
+14.06.70  (12.00) Mexico City, Estadio Azteca
+
+(~45000) van Ravens HOL, Glöckner DDR, Davidson SCO
+
+URU - ZSR 1:0 (0:0, 0:0, 1:0)
+
+URU: Mazurkiewicz - Ubiña (c), Ancheta, Matosas, Mujica - Maneiro, Cortés,
+Montero-Castillo, Cubilla - Fontes (114 Espárrago), Morales (96 Gómez)
+ZSR: Kavasashvili - Afonin, Dzodzuashvili, Kaplichni, Khurtsilava (86 Logofet) -
+Shesterniev (c), Asatiani (73 Kiselev), Muntian, Bishovets - Evriuzhihin
+Khmelnitski
+
+1:0 Espárrago 117 h
+
+booked: Bischovets
+
+NOTE: ZSR lodged an official protest claiming that during a centre
+cross which led to the goal the ball was out of field. The protest was
+rejected.
+
+
+14.06.70  (12.00) Toluca, Estadio, La Bombonera
+
+ITA - MEX 4:1 (1:1)
+
+(~24000) Scheurer SUI, Landauer USA, Dunstan BER
+
+ITA: Albertosi - Burgnich, Cera, Rosato, Facchetti (c) - Bertini, Mazzola
+(46 Rivera), de Sisti, Domenghini (85 Gori) - Boninsegna, Riva
+MEX: Calderón - Vantolra, Peña (c), Guzmán, Pérez - González (68
+Borja), Pulido, Munguia, Valdivia (60 Velarde) - Fragoso, Padilla
+
+0:1 González 13, 1:1 Peña 26 o, 2:1 Riva 64, 3:1 Rivera 69, 3:1 Riva
+76
+
+booked: Rivera
+
+
+14.06.70  (12.00) Guadalajara, Estadio Jalisco
+
+BRA - PER 4:2 (2:1)
+
+(~54000) Loraux BEL, Marschall AUT, Emsberger HUN
+
+BRA: Felix - Carlos Alberto (c), Brito, Piazza, Marco António - Clodoaldo,
+Gerson (67 Paulo Cesar Lima) - Jairzinho (80 Roberto), Tostão, Pelé,
+Rivelino
+PER: Rubinos - Campos, Fernandez, Chumpitaz (c), Fuentes - Mifflin,
+Challe - Baylón (54 Sotil), León (61 Reyes), Cubillas, Gallardo
+
+1:0 Rivelino 11, 2:0 Tostão 18, 2:1 Gallardo 28, 3:1 Tostão 52,
+3:2 Cubillas 69, 4:2 Jairzinho 76
+
+
+14.06.70  (12.00) León, Estadio Guanajuato
+
+GER - ENG 3:2 (0:1, 2:2, 3:2)
+
+(~24000) Coerezza ARG, Ortiz de Mendibil ESP, Velasquez COL
+
+GER: Maier - Schnellinger, Vogts, Fichtel, Höttges (46 Schulz),
+Beckenbauer - Overath, Seeler (c), Libuda (57 Grabowski) - Müller, Löhr
+ENG: Bonetti - Newton, Cooper, Mullery, Labone - Moore (c), Lee, Ball -
+Hurst, R.Charlton (70 Bell), Peters (81 Hunter)
+
+0:1 Mullery 32, 0:2 Peters 50, 1:2 Beckenbauer 69, 2:2 Seeler 82 h, 3:2
+Müller 106
+
+booked: Müller / Lee
+
+=== Semifinals  ‹§semi›
+
+17.06.70  (16.00) Guadalajara, Estadio Jalisco
+
+BRA - URU 3:1 (1:1)
+
+(~51000) Ortiz de Mendibil ESP, Marschall AUT, Bachramov ZSR
+
+BRA: Felix - Carlos Alberto (c), Brito, Piazza, Everaldo - Clodoaldo,
+Gerson, Jairzinho, Tostão - Pelé, Rivelino
+URU: Mazurkiewicz - Ubiña, Ancheta, Matosas, Mujica - Maneiro (74
+Espárrago), Cortés, Montero-Castillo, Cubilla - Fontes, Morales
+
+0:1 Cubilla 19, 1:1 Clodoaldo 45, 2:1 Jairzinho 76, 3:1 Rivelino 90
+
+booked: Carlos Alberto / Fontes, Maneiro, Mujica
+
+
+17.06.70  (16.00) Mexico City, Estadio Azteca
+
+ITA - GER 4:3 (1:0, 1:1, 3:2)
+
+(~103000) Yamasaki MEX, Velasquez COL, Hermazábal CHI
+
+ITA: Albertosi - Cera, Burgnich, Bertini, Rosato (94 Poletti) - Facchetti (c),
+Domenghini, Mazzola (46 Rivera), de Sisti - Boninsegna, Riva
+GER: Maier - Schnellinger, Vogts, Patzke (66 Held), Schulz - Beckenbauer,
+Overath, Seeler (c) - Grabowski, Müller, Löhr (52 Libuda)
+
+1:0 Boninsegna 7, 1:1 Schnellinger 90, 1:2 Müller 95, 2:2 Burgnich 98,
+3:2 Riva 104, 3:3 Müller 110, 4:3 Rivera 111
+
+booked: Domenghini, de Sisti, Rosato / Müller, Overath
+
+=== Third place match  ‹§3place›
+
+20.06.70  (16.00) Mexico City, Estadio Azteca
+
+GER - URU 1:0 (1:0)
+
+(~104000) Sbardella ITA, Marschall AUT, Aguilar MEX
+
+GER: Wolter - Schnellinger (46 Lorenz), Vogts, Patzke, Fichtel - Weber, Overath,
+Seeler (c) - Held, Müller, Libuda (75 Löhr)
+URU: Mazurkiewicz - Ubiña (c), Ancheta, Matosas, Mujica - Maneiro (Sandoval),
+Cortés, Montero-Castillo, Cubilla - Fontes (Espárrago), Morales
+
+1:0 Overath 27
+
+booked: Lorenz / Ubiña
+
+=== Final  ‹§final›
+
+21.06.70  (12.00) Mexico City, Estadio Azteca
+
+BRA - ITA 4:1 (1:1)
+
+(-108000) Glöckner DDR, Scheurer SUI, Coerezza ARG
+
+BRA: Félix - Carlos Alberto (c), Brito, Piazza, Everaldo - Clodoaldo,
+Gérson, Jairzinho, Tostão - Pelé, Rivelino.
+ITA: Albertosi - Burgnich, Cera, Bertini (75 Juliano) - Rosato, Facchetti (c),
+Domenghini, de Sisti, Mazzola - Boninsegna (84 Rivera), Riva.
+
+1:0 Pelé 18, 1:1 Boninsegna 37, 2:1 Gérson 66, 3:1 Jairzinho 71, 4:1 Carlos
+Alberto 87
+
+booked: Rivelino / Burgnich
+
+=== Scorers' list  ‹§scorers›
+
+10 - Müller GER
+ 7 - Jairzinho BRA
+ 5 - Cubillas PER
+ 4 - Pelé BRA, Bischovets ZSR
+ 3 - Rivelino BRA, Seeler GER, Riva ITA
+ 2 - Lambert, van Moer BEL, Tostão BRA, Petráš CZE, Boninsegna, Rivera ITA,
+     Valdivia MEX, Gallardo PER, Dumitrache ROM
+ 1 - Carlos Alberto, Clodoaldo, Gérson BRA, Bonev, Dzhermendiev, Kolev,
+     Nikodimov, Zhechev BUL, Clarke, Hurst, Mullery, Peters ENG, Beckenbauer,
+     Libuda, Overath, Schnellinger GER, Spiegler ISR, Burgnich, Domenghini ITA,
+     Ghazouani, Houmane MAR, Basaguren, Fragoso, González, Peña MEX + 1
+     own goal, Challe, Chumpitaz PER, Dembrowski, Neagu ROM, Grahn, Turesson
+     SWE, Cubilla, Espárrago, Maneiro, Mujica URU, Asatiani, Khmelnitski ZSR
+own goals - 1 (Peña MEX for ITA + 1 goal)
+
+In total 95 goals (5 p, 7 f, 12 h, 1 o), 2,97 per match. Most goals BRA (19),
+SAL without goals. 54 players scored (including 7 scorers from earlier
+tournaments. Pelé and Seeler scored in the fourth World Cup - an unbeaten
+record!)
+
+=== Coaches, assistants, reserve players  ‹§coaches›
+
+BEL: R. Goethals (R. Ghys, R. Hoste, R. Petit) | Beurlet, Carteurs
+Duquesne, Jenssens, Marlens, Peeters, Trapperniers, van den Daele, Verheyen
+BRA: M. Zagalo (A. de Abreu Chirol, C. A. Parreira, A. de Passo) |
+Baldochi, Leão, Ado, Zé Maria, Camargo, D.J.dos Santos
+BUL: S. Bozhkov, J. Arsov | Grigorov, Kamienski (replaced injured
+Filipov)
+CZE: J. Marko, J. Hucko | Albrecht, Flešar, Pivarnik
+ENG: A. Ramsey, L. Cocker, R. Shepherdson | Hughes, Stepney, Stiles
+GER: H. Schön, J. Derwall | Dietrich, Manglitz, Sieloff
+ISR: E. Schaffer, A. Levkovitch, A. Mitchan | Ben-Rimos, Borba, Chazom,
+Hameiri, Karako, Nossovski, Romano
+ITA: F. Valcareggi, E. Bearzot | Ferrante, Prati, Puja, Vierti, Zoff
+MAR: B. Vidinić, K. Kacem, A. Hedboud | Dahane, Ouriaghly
+MEX: P. Cardenás, P. Nájera, J. de la Torre (I. Trelles-Campos, A.
+Scopelli, F. Zetter*) | Alejándrez-Rodriguez, Castrejón-Ramirez, Montes
+Varela, Mota-Romero, Rivas-Barrales
+PER: Didi, J. Naters, A. Heredia | Corréa, del Castillo, Goyzueta,
+Salinas
+ROM: A. Niculescu, I. Vogl, R. Covaci, N. Dumitru | Deleanu, Dobrin,
+Domide, Coe, Gornes, Ivanescu, Pescaru, Tufan
+SAL: J. H. Carrasco, J. Santacolomba | Fernández, Pineda-Nieto,
+Villalta-Avila, Cabrera, Acevedo
+SWE: O. Bergmark, D. Ericsson | Kristersson, Malberg, Petersson
+URU: J. E. Hohberg, J. López, A. Laglanda | Castano, Camera, Corbo,
+Santos
+ZSR: G. Katchalin, A. Paramonov | Metreveli, Perkujan, Schmutz, Yashin,
+Zhikov
+
+* advisors
+
+=== Oldest and youngest  ‹§records›
+
+Youngest                  Oldest
+player      M. António BRA 19y124d   J.Charlton ENG     37y196d
+goalkeeper  Hellström SWE  21y102d   Félix BRA          32y179d
+scorer      Clodoaldo BRA  20y265d   Seeler GER         33y221d
+champion    M. António BRA 19y124d   Félix BRA          32y179d
+finalist    M. António BRA 19y124d   Félix BRA          32y179d
+medalist    M. António BRA 19y124d   Seeler GER         33y221d
+captain     Lucescu ROM    24y316d   Dimitrov BUL       35y 19d
+coach       Vidinić MAR    33y204d   Katchalin ZSR      59y 80d
+referee     Baretto URU    30y262d   Kandil EGY         49y 16d
+

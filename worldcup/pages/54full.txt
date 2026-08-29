@@ -1,0 +1,531 @@
+<!--
+   title:   World Cup 1954 finals
+   source:  https://rsssf.org/tables/54full.html
+  -->
+
+<!--
+                     Contents:
+
+         World Cup 1954                   
+           Group A - BRA FRA JUG MEX        (see §§gra)
+           Group B - GER HUN KOR TUR        (see §§grb)
+           Group C - AUT CZE SCO URU        (see §§grc)
+           Group D - BEL ENG ITA SUI        (see §§grd)
+           Quarterfinals                    (see §§4fin)
+           Semifinals                       (see §§2fin)
+           Third place match                (see §§3place)
+           Final                            (see §§final)
+           Scorers' list                    (see §§scorers)
+           Coaches, assistants, reserve players  (see §§coaches)
+           Oldest and youngest              (see §§records)
+  -->
+
+
+
+== World Cup 1954
+
+Switzerland, 16 June - 4 July 1954 (Basel, Berne, Geneva, Lausanne, Lugano,
+Zürich). Decided at FIFA Congress in Rio de Janeiro, 22 July 1950. Entries
+deadline 31 Jan 1953. 45 teams entered, 39 seeded, 36 actually played.
+Qualifications drawn 15 Feb 1953. Finals drawn 30 Nov 1953. Quarterfinals
+drawn 21 Jun 1954. Semifinals drawn 27 Jun 1954. All draws in Zürich.
+
+General Note: The placement in groups was determined solely on
+the base of points, goal difference was disregarded. This led to playoff
+matches in two groups (curiosly, teams with worse g/d won).
+
+Matches were extended by an extra-time whenever there happened to be a
+draw after normal time. If the draw persisted after the extra time,
+the result was final.
+
+
+=== Group A - BRA FRA JUG MEX  ‹§gra›
+
+16.06.54  (18.00) Lausanne, La Pontaise
+
+JUG - FRA 1:0 (1:0)
+
+(~16000) Griffiths WAL, Asensi ESP, Baumberger SUI
+
+JUG: Beara - B.Stanković, Crnković, Žl.Čajkovski - I.Horvat, Boškov -
+Milutinović, Mitić, Vukas, Bobek (c), Zebec
+FRA: Remetter - Gianessi, Kaelbel, Penverne - Jonquet (c), Marcel - Kopa,
+Glovacki, Strappe, Dereuddre, Vincent
+
+1:0 Milutinović 14
+
+NOTE: Match preceded by WC opening ceremony
+
+
+16.06.54  (18.00) Geneva, Les Charmilles
+
+BRA - MEX 5:0 (4:0)
+
+(+12000) Wyssling SUI, Costa POR, Schönholser SUI
+
+BRA: Castilho - D.Santos, N.Santos, Brandaozinho - Pinheiro, Bauer (c) -
+Julinho, Didi, Baltazar, Pinga, Rodriguez
+MEX: Mota - López, Gomez, Cárdenas - Romo, Avalos - Torres, Naranjo (c),
+Lamadrid, Balcázar, Arellano
+
+1:0 Baltazar 24, 2:0 Didi 29 f, 3:0 Pinga 34, 4:0 Pinga 42, 5:0 Julinho 90
+
+
+19.06.54  (17.00) Lausanne, La Pontaise
+
+BRA - JUG 1:1 (0:0, 1:1, 1:1)
+
+(~21000) Faultless SCO, Steiner AUT, van Gunten SUI
+
+BRA: Castilho - D.Santos, N.Santos, Brandaozinho - Pinheiro, Bauer (c) -
+Julinho, Didi, Baltazar, Pinga, Rodriguez
+JUG: Beara - Stanković, Crnković, Čajkovski - I.Horvat, Boskov - Milutinović,
+Mitić (c), Vukas, Dvornić, Zebec
+
+0:1 Zebec 49, 1:1 Didi 69
+
+
+19.06.54  (17.10) Geneva, Les Charmilles
+
+FRA - MEX 3:2 (1:0)
+
+(-20000) Asensi ESP, Franken BEL, Baumberger SUI
+
+FRA: Remetter - Gianessi, Kaelbel, Marche (c) - Ben Tifour, Marcel -
+Kopa, Mahjoub, Strappe, Dereuddre, Vincent
+MEX: Carbajal - López, Martinez, Cárdenas - Romo, Avalos - Torres,
+Naranjo (c), Lamadrid, Balcázar, Arellano
+
+1:0 Vincent 19, 2:0 Cárdenas 46 o, 2:1 Lamadrid 54, 2:2 Balcázar 85, 3:2
+Kopa 88 p
+
+1. BRA^         2  1 1 0  3  6-1
+2. JUG^         2  1 1 0  3  2-1
+3. FRA          2  1 0 1  2  3-3
+4. MEX          2  0 0 2  0  2-6
+
+=== Group B - GER HUN KOR TUR  ‹§grb›
+
+17.06.54  (18.00) Zürich, June 17th - Sportzplatz Hardturm
+
+HUN - KOR 9:0 (4:0)
+
+(~13000) Vincentini FRA, Steiner AUT, van Gunten SUI
+
+HUN: Grosics - Buzánszky, Lantos, Bozsik - Lóránt, Szojka - Budai,
+Kocsis, Palotás, Puskás, Czibor
+KOR: Hong Duck-young - Park Kyu-chong, Min Byung-dae (c), Park Yae-
+seung - Kang Chang-gi, Choo Young-kwang - Chung Nam-sik, Park Il-kap, Sung
+Nak-woon, Woo Sang-kwoo, Choi Chung-min
+
+1:0 Puskás 11, 2:0 Lantos 16 f, 3:0 Kocsis 24, 4:0 Kocsis 31, 5:0 Kocsis 49,
+6:0 Czibor 59, 7:0 Palotás 76, 8:0 Palotás 83, 9:0 Puskás 89
+
+
+17.06.54  (18.00) Berne, Wankdorf Stadion
+
+(~28000) Costa POR, Zsolt HUN, Merlotti SUI
+
+GER: Turek - Laband, Kohlmeyer, Eckel - Posipal, Mai - Klodt, Morlock,
+O.Walter, F.Walter (c), Schäfer
+TUR: Turgay - Ridvan, Basri, Mustafa - Çetin, Rober - Erol, Suat, Feridun,
+Burhan, Lefter
+
+0:1 Suat 3, 1:1 Schäfer 12, 2:1 Klodt 51, 3:1 O.Walter 80, 4:1 Morlock 84
+
+
+20.06.54  (16.50) Basle, St. Jakob Stadion
+
+HUN - GER 8:3 (3:1)
+
+(+56000) Ling ENG, Griffiths WAL, Schicken SUI
+
+HUN: Grosics - Buzánszky, Lantos, Bozsik - Lóránt, Zakárias, J.Tóth,
+Kocsis, Hidegkuti, Puskás (c), Czibor
+GER: Kwiatkowski - Bauer, Kohlmeyer, Posipal - Liebrich, Mebus - Rahn,
+Eckel, F.Walter (c), Pfaff, Herrmann
+
+1:0 Kocsis 4, 2:0 Puskás 17, 3:0 Kocsis 21, 3:1 Pfaff 28, 4:1 Hidegkuti 52,
+5:1 Hidegkuti 56, 6:1 Kocsis 69, 7:1 J.Tóth 75, 7:2 Rahn 76, 8:2 Kocsis 79,
+8:3 Hermann 84
+
+
+20.06.54  (17.00) Geneva, Les Charmilles
+
+TUR - KOR 7:0 (4:0)
+
+(~4000) Marino URU, Orlandini ITA, Schönholser SUI
+
+TUR: Turgay (c) - Ridvan, Basri, Mustafa - Çetin, Rober - Erol, Suat, Necmi,
+Burhan, Lefter
+KOR: Hong Duck-young - Park Kyu-chong (c), Han Chang-wha, Lee Chung-kap -
+Kang Chang-gi, Kim Ji-sung - Choi Young-kwun, Lee Seo-nam, Lee Ki-joo, Woo
+Sang-kwon, Chung Kook-chin
+
+1:0 Suat 18, 2:0 Lefter 18, 3:0 Suat 30, 4:0 Burhan 38, 5:0 Burhan 64, 6:0
+Burhan 70 h, 7:0 Erol 76
+
+
+1. HUN^         2  2 0 0  4 17-3
+2. TUR          2  1 0 1  2  8-4
+3. GER^         2  1 0 1  2  7-9
+4. KOR          2  0 0 2  0  0-16
+
+NOTE: Playoff needed between TUR and GER
+
+23.06.54  (18.00) Zürich, Sportzplatz Hardturm (playoff)
+
+GER - TUR 7:2 (3:1)
+
+(~17000) Vincentini ITA, Faultless SCO, Dörflinger SUI
+
+GER: Turek - Laband, Bauer, Eckel - Posipal, Mai - Klodt, Morlock, O.Walter,
+F.Walter (c), Schäfer
+TUR: Sükrü - Ridvan, Basri, Naci - Mustafa, Cetin - Rober, Erol, Necmi,
+Coskun, Lefter
+
+1:0 O.Walter 7, 2:0 Schäfer 11, 2:1 Mustafa 22 h, 3:1 Morlock 31, 4:1 Morlock
+62, 5:1 F.Walter 63, 6:1 Morlock 71, 7:1 Schäfer 79, 7:2 Lefter 84
+
+=== Group C - AUT CZE SCO URU  ‹§grc›
+
+16.06.54  (18.00) Zürich, Sportzplatz Hardturm
+
+AUT - SCO 1:0 (1:0)
+
+(~25000) Franken BEL, Vianna BRA, Gulde SUI
+
+AUT: Schmied - Hanappi, Barschandt, Ocwirk (c) - Happel, Koller - R.Körner,
+Schleger, Dienst, Probst, A.Körner
+SCO: Martin - Cunningham (c), Aird, Docherty - Davidson, Cowie - McKenzie,
+Fernie, Mochan, Brown, Ormond
+
+1:0 Probst 32
+
+
+16.06.54  (18.00) Berne, Wankdorf Stadion
+
+URU - CZE 2:0 (0:0)
+
+(+20500) Ellis ENG, Schicker SUI, Ling ENG
+
+URU: Maspoli - Santamaria, Martinez, Andrade - Varela (c), Cruz - Abbadie,
+Ambrois, Miguez, Schiaffino, Borges
+CZE: Reimann - Šafránek, Novák (c), Trnka - Hledik, Hertl - Hlaváček, Hemele,
+Kačáni, Pažický, Pešek
+
+1:0 Miguez 70 h, 2:0 Schiaffino 84 f
+
+
+19.06.54  (17.00) Zürich, Sportzplatz Hardturm
+
+AUT - CZE 5:0 (4:0)
+
+(~21000) Stefanović JUG, Dörflinger SUI, Gulde SUI
+
+AUT: Schmied - Hanappi, Barschandt, Ocwirk (c) - Happel, Koller -
+R.Körner, Wagner, Stojaspal, Probst, A.Körner
+CZE: Stacho - Šafránek, Novák (c), Trnka - Pluskal, Hertl - Hlaváček, Hemele,
+Kačáni, Pažický, Kraus
+
+1:0 Stojaspal 3, 2:0 Probst 4, 3:0 Probst 21, 4:0 Probst 24, 5:0 Stojaspal 65
+
+
+19.06.54  (16.50) Basel, St.Jakob Stadion
+
+URU - SCO 7:0 (2:0)
+
+(~34000) Orlandini ITA, Wyssling SUI, Guidi SUI
+
+URU: Maspoli - Santamaria, Martinez, Andrade - Varela (c), Cruz -
+Abbadie, Ambrois, Miguez, Schiaffino, Borges
+SCO: Martin - Cunningham (c), Aird, Docherty - Davidson, Cowie - McKenzie,
+Fernie, Mochan, Brown, Ormond
+
+1:0 Borges 17, 2:0 Miguez 31, 3:0 Borges 48, 4:0 Abbadie 55, 5:0 Borges 58,
+6:0 Miguez 82, 7:0 Abbadie 84
+
+1. URU^         2  2 0 0  4  9-0
+2. AUT^         2  2 0 0  4  6-0
+3. CZE          2  0 0 2  0  0-7
+4. SCO          2  0 0 2  0  0-8
+
+=== Group D - BEL ENG ITA SUI  ‹§grd›
+
+17.06.54  (18.10) Basel, St.Jakob Stadion
+
+ENG - BEL 4:4 (2:1, 3:3, 4:3)
+
+(~14000) Schmetzer GER, Büchmuller SUI, Rufli SUI
+
+ENG: Merrick - Staniforth, Byrne, Wright (c) - Owen, Dickinson - Matthews,
+Broadis, Lofthouse, Taylor, Finney
+BEL: Gernaey - Dries, van Brandt, Huysmans - Carre, Mees - Mermans (c), Houf,
+Coppens, Anoul, P.van Den Bosch
+
+0:1 Anoul 6, 1:1 Broadis 25, 2:1 Lofthouse 37 h, 3:1 Broadis 62, 3:2 Anoul
+72 h, 3:3 Coppens 76, 4:3 Lofthouse 92, 4:4 Dickinson 93 o
+
+
+17.06.54  (17.50) Lausanne, La Pontaise
+
+SUI - ITA 2:1 (1:1)
+
+(+40000) Vianna BRA, Asensi ESP, Morino URU
+
+SUI: Parlier - Neury, Kernen, Flückiger - Bocquet (c), Casali - Ballaman,
+Vonlanthen, Hügi, Meier, Fatton
+ITA: Ghezzi - Vincenzi, Giacomazzi, Neri - Tognon, Nesti - Muccinelli,
+Boniperti (c), Galli, Pandolfini, Lorenzi
+
+1:0 Ballaman 18 h, 1:1 Boniperti 44, 2:1 Hügi 79
+
+
+20.06.54  (17.10) Berne, Wankdorf Stadion
+
+ENG - SUI 2:0 (0:0)
+
+(+43000) Zsolt HUN, Stefanović JUG, Costa POR
+
+ENG: Merrick - Staniforth, Byrne, Wright (c) - McGarry, Dickinson -
+Wilshaw, Broadis, Mullen, Taylor, Finney
+SUI: Parlier - Neury, Kernen, Eggimann - Bocquet (c), Bigler - Ballaman,
+Vonlanthen, Antenen, Meier, Fatton
+
+1:0 Mullen 43, 2:0 Wilshaw 69
+
+
+20.06.54  (17.00) Lugano, Stadio Comunale di Cornaredo
+
+ITA - BEL 4:1 (1:0)
+
+(~25000) STeiner AUT, Schmetzer GER, Merlotti SUI
+
+ITA: Ghezzi - Magnini, Giacomazzi, Neri - Tognon, Nesti - Frignani, Cappello,
+Galli, Pandolfini (c), Lorenzi
+BEL: Gernaey - Dries, van Brandt, Huysmans - Carre, Mees - Mermans (c),
+H.van Den Bosch, Coppens, Anoul, P.van Den Bosch
+
+1:0 Pandolfini 41 p, 2:0 Galli 49 h, 3:0 Frignani 58, 4:0 Lorenzi 73, 4:1
+Anoul 81
+
+1. ENG^         2  1 1 0  3  6-4
+2. ITA          2  1 0 1  2  5-3
+3. SUI^         2  1 0 1  2  2-3
+4. BEL          2  0 1 1  1  5-8
+
+NOTE: Playoff needed between ITA and SUI
+
+
+23.06.54  (18.00) Basel, St.Jakob Stadion (playoff)
+
+SUI - ITA 4:1 (1:0)
+
+(~30000) Griffiths WAL, Ling ENG, Costa POR
+
+SUI: Parlier - Neury, Kernen, Eggimann - Bocquet (c), Casali - Ballaman,
+Vonlanthen, Hügi, Antenen, Fatton
+ITA: Viola - Magnini, Giacomazzi, Mari - Tognon, Nesti - Muccinelli,
+Segato, Frignani, Pandolfini (c), Lorenzi
+
+1:0 Hügl 12, 2:0 Ballmann 48 h, 2:1 Nesti 67, 3:1 Hügl 85, 4:1 Fatton 90
+
+=== Quarterfinals  ‹§4fin›
+
+26.06.54  (17.00) Lausanne, La Pontaise
+
+AUT - SUI 7:5 (5:4)
+
+(-32000) Faultless SCO, Schmetzer GER, Asensi ESP
+
+AUT: Schmied - Hanappi, Barschandt, Ocwirk (c) - Happel, Koller - R.Körner,
+Wagner, Stojaspal, Probst, A.Körner
+SUI: Parlier - Neury, Kernen, Eggimann - Bocquet (c), Casali - Antenen,
+Vonlanthen, Hügi, Ballaman, Fatton
+
+0:1 Ballaman 16, 0:2 Hügi 17, 0:3 Hügi 23, 1:3 Wagner 25, 2:2 A.Körner 26,
+3:3 Wagner 28, 4:3 Ocwirk 32, 5:3 A.Körner 34, 5:4 Ballaman 41, 6:4 Wagner
+52, 6:5 Hügi 60, 7:5 Probst 77 (42 A.Körner missed penalty)
+
+
+26.06.54  (17.00) Basle, St.Jakob Stadion
+
+URU - ENG 4:2 (2:1)
+
+(~50000) Steiner AUT, Orlandini ITA, Stefanović JUG
+
+URU: Maspoli - Martinez, Santamaria, Andrade - Varela (c), Cruz - Abbadie,
+Ambrois, Miguez, Schiaffino, Borges
+ENG: Merrick - Staniforth, Byrne, McGarry - (c) Wright, Dickinson - Matthews,
+Broadis, Lofthouse, Wilshaw, Finney
+
+1:0 Borges 5, 1:1 Lofthouse 16, 2:1 Varela 44, 3:1 Schiaffino 47, 3:2
+Finney 67, 4:2 Ambrois 78
+
+
+27.06.54  (17.00) Berne, Wankdorfstadion
+
+HUN - BRA 4:2 (2:1)
+
+(~40000) Ellis ENG, Ling ENG, Wyssling SUI
+
+HUN: Grosics - Buzánszky, Lantos, Bozsik (c) - Lóránt, Zakárias - M.Tóth,
+Kocsis, Hidegkuti, Czibor, J.Tóth
+BRA: Castilho - D.Santos, N.Santos, Brandaozinho - Pinheiro, Bauer (c) -
+Julinho, Didi, Indio, Humberto, Maurinho
+
+1:0 Hidegkuti 4, 2:0 Kocsis 7 h, 2:1 D.Santos 18 p, 3:1 Lántós 53 p, 3:2
+Julinho 65, 4:2 Kocsis 88 h
+
+sent off: Bozsik (71) / N.Santos (71), Humberto (79)
+
+
+27.06.54  (17.00) Geneva, Les Charmilles
+
+GER - JUG 2:0 (1:0)
+
+(~17000) Zsolt HUN, Franken BEL, Büchmuller SUI
+
+GER: Turek - Laband, Kohlmeyer, Eckel - Liebrich, Mai - Rahn, Morlock,
+O.Walter, F.Walter (c), Schäfer
+JUG: Beara - B.Stanković, Crnković, Zl.Čajkovski - I.Horvat, Boskov -
+Milutinović, Mitić, Vukas, Bobek (c), Zebec
+
+1:0 Horvat 10 o, 2:0 Rahn 86
+
+=== Semifinals  ‹§2fin›
+
+30.06.54  (18.00) Lausanne, La Pontaise
+
+HUN - URU 4:2 (1:0, 2:2, 2:2)
+
+(~37000) Griffiths WAL, Faultless SCO, Vincentini FRA
+
+HUN: Grosics - Buzanszky, Lantos, Bozsik (c) - Lóránt, Zakariás - Budai,
+Kocsis, Hidegkuti, Czibor, Palotás
+URU: Maspoli - Martinez (c), Santamaria, Andrade - Carballo, Cruz - Souto,
+Ambrois, Hohberg, Schiaffino, Borges
+
+1:0 Czibor 12, 2:0 Hidegkuti 47 h, 2:1 Hohberg 76, 2:2 Hohberg 87, 3:2 Kocsis
+109 h, 4:2 Kocsis 117 h
+
+
+30.06.54  (18.00) Basel, St.Jakob Stadion
+
+GER - AUT 6:1 (1:0)
+
+(+58000) Orlandini ITA, Ellis ENG, Buchmüller SUI
+
+GER: Turek - Posipal, Kohlmeyer, Eckel - Liebrich, Mai - Rahn, Morlock,
+O.Walter, F.Walter (c), Schäfer
+AUT: Zeman - Hanappi, Schleger, Ocwirk (c) - Happel, Koller, R.Körner,
+Wagner, Stojaspal, Probst, A.Körner
+
+1:0 Schäfer 31, 2:0 Morlock 47 h, 2:1 Probst 52, 3:1 F.Walter 56 p, 4:1 O.Walter
+61 h, 5:1 F.Walter 65 p, 6:1 O.Walter 89 h
+
+
+=== Third place match  ‹§3place›
+
+03.07.54  (17.00) Zürich, Sportzplatz Hardturm
+
+AUT - URU 3:1 (1:1)
+
+(+32000) Wyssling SUI, Zsolt HUN, Ellis ENG
+
+AUT: Schmied - Hanappi, Barschandt, Ocwirk (c) - Kollmann, Koller -
+R.Körner, Wagner, Stojaspal, Probst, Dienst
+URU: Maspoli - Martinez (c), Santamaria, Andrade - Carballo, Cruz -  Abbadie,
+Mendez, Hohberg, Schiaffino, Borges
+
+1:0 Stojaspal 16 p, 1:1 Hohberg 21, 2:1 Cruz 59 o, 3:1 Ocwirk 79
+
+NOTE: 100th game of the World Cup
+
+=== Final  ‹§final›
+
+04.07.54  (17.00) Bern, Wankdorf-Stadion
+
+GER - HUN 3:2 (2:2)
+
+(~65000) Ling ENG, Orlandini ITA, Griffiths WAL
+
+GER: Turek - Posipal, Kohlmeyer, Eckel - Liebrich, Mai - Rahn, Morlock,
+O. Walter, F. Walter (c), Schäfer.
+HUN: Grosics - Buzánszky, Lantos, Bozsik - Lóránt, Zakariás - Czibor,
+Kocsis, Hidegkuti, Puskás (c), M.Tóth.
+
+0:1 Puskás 6, 0:2 Czibor 9, 1:2 Morlock 11, 2:2 Rahn 18, 3:2 Rahn 84
+
+=== Scorers' list  ‹§scorers›
+
+11 - Kocsis HUN
+ 6 - Probst AUT, Morlock GER, Hügl SUI
+ 4 - Rahn, Schäfer, O.Walter GER, Hidegkuti, Puskás HUN, Ballaman SUI, Borges
+     URU
+ 3 - Stojaspal, Wagner AUT, Anoul BEL, Lofthouse ENG, F.Walter GER, Czibor
+     HUN, Burhan, Suat TUR, Hohberg, Miguez URU
+ 2 - A.Körner, Ocwirk AUT, Didi, Julinho, Pinga BRA, Broadis ENG, Lantos,
+     Palotás HUN, Lefter TUR, Abbadie, Schiaffino URU
+ 1 - Coppens BEL, Baltazár, D.Santos BRA, Finney, Mullen, Wilshaw ENG, Kopa,
+     Vincent FRA, Hermann, Klodt, Pfaff GER, J.Tóth HUN, Boniperti, Frignani,
+     Galli, Lorenzi, Nesti, Pandolfini ITA, Milutinović, Zebec JUG, Balcazár,
+     Lamadrid MEX, Fatton SUI, Erol, Mustafa TUR, Ambrois, Varela URU
+own goals - 4 (Cruz URU for AUT, Dickinson ENG for BEL, Cárdenas MEX for FRA,
+Horvat JUG for GER)
+
+In total 140 goals (7 p, 16 h, 3 f, 4 o), 5.38 per match (WC record). Most
+goals HUN (27). CZE, SCO, KOR without goals. 59 players scored (including
+6 earlier scorers from 1950)
+
+=== Coaches, assistants, reserve players  ‹§coaches›
+
+AUT: W. Nausch, E. Früthwirth, J. Molser, H. Pesser | Giesser, Halla,
+Haumer, Pelikan, Riegler, Stotz, Tetnitzer
+BEL: D. Livingstone | Ausloos, Backaert, Dirickx, Geerts, Meertens,
+van der Linden, van Royweghen, van Steen, Vliers
+BRA: Zezé Moreira, L. Vinhais, A. Carvello | Alfredo de Oliveira,
+Cabação, Dequinha, Ely do Amparo, Paulinho, Rubens, W.dos Santos,
+Velludo
+CZE: K. Borby, J. Cajp, O. Nejedlý | Benediković, Gajdaš, Košnar,
+Krásnoborsky, Majer, Malatinský, Procháska, Schrojf
+ENG: W. Winterbottom, J. Trotter | Armstrong, Burgin, Chillion, Green,
+Haynes, Hooper Jr., Jazzard, Quizzali
+FRA: P. Piharot, P. Nicolas * | Abbés, Bieganski, Cuissard, Grimonpond,
+Leblond, Louis, Ruminski, Schultz
+GER: J. Herberger | Bissinger, Erhardt, Kuhchs, Metzner
+HUN: G. Sebes (G. Mandi, M. Bukovi, J. Kalmar, G. Kalocsay, P. Titkos) |
+Csordás, Galler, Karpati, Kovács, Machos, Várhidi **
+ITA: L. Sceisler, A. Schlavio, S. Piola | Cervato, Costagliola, Ferrario,
+Gratton, Pivatelli
+JUG: A. Tirnanić (F. Wölf, B. Pešić, L. Lemešić, M. Ćrić) | Belin,
+Kralj, Mantula, Milovanov, Ognjanov, Pepec, Petaković, Spajić, Veselinović,
+Zeković
+KOR: Kim Young-sik | Han Neung-chul, Lee Sang-yi
+MEX: G. Vial ***, A. Lópes-Herranz | Blaco, Bravo-Martinez, Carús,
+Cortés, Jinish, Nájera, Ochoa Gil, Roca Garcia, Septien
+SCO: A. Beattle | Anderson, Combe, copland, Evans, A.Hamilton, G.Hamilton,
+Henderson, Mathers, McMillan, Wilson
+SUI: K. Rappan (W. Baumgartner, A. Guinchard, L. Kielholz, G. Tschirren) |
+Eich, Eschmann, Fesseler, Frosio, Mathis, Mauron, Riva, Stuber
+TUR: A. Puppo | Aytaç, Beratligi, Berman, Eken, Gökcen, Günar, Kaçmaz
+URU: J. López, R. Vásquez, S. Gambetta, C. Abate | Castro, Davoine,
+Leopardi, Macetras, Pérez, Rivera, Tejera
+
+* president of the selection commitee
+** also called Vinkovics (?)
+*** manager, did not go to Switzerland
+
+=== Oldest and youngest  ‹§records›
+
+Youngest                  Oldest
+player      Coskun TUR     19y 41d   Matthews ENG       39y141d
+goalkeeper  Sükrü TUR      20y160d   Máspoli URU        36y246d
+scorer      Milutinović JUG21y131d   Varela URU         36y279d
+champion    Eckel GER      22y146d   Turek GER          35y167d
+finalist    Eckel GER      22y146d   Turek GER          35y167d
+medalist    Kollman AUT    22y 16d   Turek GER          35y167d
+captain     Turgay TUR     22y 33d   Varela URU         36y279d
+coach       Cejp CZE       30y129d   Sceisler ITA       60y261d
+referee     Zsolt HUN      32y364d   Vianna BRA         51y264d
+

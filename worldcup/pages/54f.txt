@@ -1,0 +1,78 @@
+<!--
+   title:   World Cup 1954
+   source:  https://rsssf.org/tables/54f.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 22 Oct 1999
+  -->
+
+
+== World Cup 1954 (Switzerland, June 16-July 4)
+
+▪ FIRST PHASE ▪
+
+Group A
+16.06.54  Lausanne  Yugoslavia       1-0 France             1.BRAZIL           2  1  1  0   6- 1  3
+16.06.54  Genève    Brazil           5-0 Mexico             2.YUGOSLAVIA       2  1  1  0   2- 1  3
+19.06.54  Genève    France           3-2 Mexico             3.France           2  1  0  1   3- 3  2
+19.06.54  Lausanne  Brazil           1-1 Yugoslavia (aet)   4.Mexico           2  0  0  2   2- 8  0
+
+Group B
+17.06.54  Zürich    Hungary          9-0 South Korea        1.HUNGARY          2  2  0  0  17- 3  4
+17.06.54  Bern      West Germany     4-1 Turkey             2.WEST GERMANY     2  1  0  1   7- 9  2
+20.06.54  Basel     Hungary          8-3 West Germany         Turkey           2  1  0  1   8- 4  2
+20.06.54  Genève    Turkey           7-0 South Korea        4.South Korea      2  0  0  2   0-16  0
+▪ Playoff ▪
+23.06.54  Zürich    West Germany     7-2 Turkey
+
+Group C
+16.06.54  Bern      Uruguay          2-0 Czechoslovakia     1.URUGUAY          2  2  0  0   9- 0  4
+16.06.54  Zürich    Austria          1-0 Scotland           2.AUSTRIA          2  2  0  0   6- 0  4
+19.06.54  Basel     Uruguay          7-0 Scotland           3.Czechoslovakia   2  0  0  2   0- 7  0
+19.06.54  Zürich    Austria          5-0 Czechoslovakia     4.Scotland         2  0  0  2   0- 8  0
+
+Group D
+17.06.54  Basel     England          4-4 Belgium    (aet)   1.ENGLAND          2  1  1  0   6- 4  3
+17.06.54  Lausanne  Switzerland      2-1 Italy              2.SWITZERLAND      2  1  0  1   2- 3  2
+20.06.54  Bern      Switzerland      0-2 England              Italy            2  1  0  1   5- 3  2
+20.06.54  Lugano    Italy            4-1 Belgium            4.Belgium          2  0  1  1   5- 8  1
+▪ Playoff ▪
+23.06.54  Basel     Switzerland      4-1 Italy
+
+▪ QUARTERFINALS ▪
+
+26.06.54  Lausanne  Switzerland      5-7 Austria
+
+26.06.54  Basel     Uruguay          4-2 England
+
+27.06.54  Bern      Hungary          4-2 Brazil
+
+27.06.54  Genève    West Germany     2-0 Yugoslavia
+
+▪ SEMIFINALS ▪
+
+30.06.54  Basel     West Germany     6-1 Austria
+
+30.06.54  Lausanne  Hungary          4-2 Uruguay    (aet)
+
+▪ MATCH FOR THIRD PLACE ▪
+
+03.07.54  Zürich    Austria          3-1 Uruguay
+
+▪ FINAL ▪
+
+Bern, July 4, 1954.
+West Germany     3-2 Hungary
+West Germany: Turek, Posipal, Kohlmeyer, Eckel, Liebrich, Mai, Rahn,
+              Morlock, O. Walter, F. Walter, Schäfer.
+Hungary: Grosics, Buzánszky, Lantos, Bozsik, Lóránt, Zakariás, Czibor,
+         Kocsis, Hidegkuti, Puskás, M. Tóth.
+
+Referee: Ling (England)
+Attendance: 65,000.
+
+Scorers: 6' Puskás 0-1; 9' Czibor 0-2; 11' Morlock 1-2; 18' Rahn 2-2;
+         84' Rahn 3-2.
+
+Topscorer: Kocsis (Hungary) 11 goals.
+
+

@@ -1,0 +1,333 @@
+<!--
+   title:   World Cup 1962 qualifications
+   source:  https://rsssf.org/tables/62qual.html
+  -->
+
+<!--
+                     Contents:
+
+         Europe                           
+         South America                    
+         CONCACAF                         
+         Africa                           
+         Asia                             
+  -->
+
+
+
+
+== Europe
+
+28 teams entered, including ISR and ETH. ROM withdrew after seeding
+Winners of seven groups progress into the finals. Winners of groups 8 and
+9 to play ties with winners of groups 15 and 16.
+
+Group 1 (1960-61)  ‹§gr1›
+
+19,10. Stockholm   SWE-BEL 2:0 (2:0) Börjesson, Brodd (Wharton SCO)
+20.11. Brussels    BEL-SUI 2:4 (1:2) van Himst, Paeschen - Antenen (3),
+                                     Schneiter (Seipelt AUT)
+20,05. Lausanne    SUI-BEL 2:1 (2:0) Ballaman (2) - Claessen (Dorogi HUN)
+28,05. Stockholm   SWE-SUI 4:0 (2:0) Jonsson 8, Börjesson 15,75, Simonsson 70
+                                     (Scares POR)
+04.10. Brussels    BEL-SWE 0:2 (0:0) Brodd 70, 78 (Guerra POR)
+29.10. Bern        SUI-SWE 3:2 (1:1) Antenen 8, Wuthrich 68, Eschmann 81 -
+                                     Simonsson 2, Brodd 79 (Aston ENG)
+
+1.SWE>  4   6  3  0  1  10- 3
+2.SUI>  4   6  3  0  1   9- 9
+3.BEL   4   0  0  0  4   3-10
+
+- play-off game in West Germany
+12.11. Westberlin SUI-SWE 2:1 (0:1) Schneiter 65, Antenen 76 - Brodd 20
+                                    (Dusch GER)
+
+Group 2 (1960-61)  ‹§gr2›
+
+25,09. Helsinki   FIN-FRA 1:2 (1:0) Pahlman 36p - Wisniewski 63, Ujlaki 83
+                                    (Malka GER)
+11.12. Paris      FRA-BUL 3:0 (0:0) Wisniewski 48, Marcel 58. Cossou 80
+                                    (Bonetto ITA)
+16.06. Helsinki   FIN-BUL 0:2 (0:1) Illev, Kolev p (Latishev ZSR)
+28.09. Paris      FRA-FIN 5:1 (3:1) Faivre 6,41, Wiśniewski 12, Piantoni
+                                    79, Schultz 86 - Pahlman 44 (Dienst SUI)
+29.10. Sofia      BUL-FIN 3:1 (2:1) Yakimov, Diev, Velichkov - Pietilainen
+                                    (Baçar TUR)
+12.11. Sofia      BUL-FRA 1:0 (0:0) Illev 89 (Fend CZE)
+
+1.FRA^  4   6  3  0  1  10- 3
+2.BUL   4   6  3  0  1   6- 4
+3.FIN   4   0  0  0  4   3-12
+
+- play-off game in Italy
+16.12. Milano     BUL-FRA 1:0 (0:0) Yakimov 47 (Lo Bello ITA)
+
+Group 3 (1960-61)  ‹§gr3›
+
+26.10. Belfast    NIR-GER 3:4 (1:1) McAdams (3) - Dörfel (2), Brüll, Seeler
+                                    (Horn HOL)
+20.11. Athina     GRE-GER 0:3 (0:3) Haller, Brülls, Dörfel (Ehrlich JUG)
+03.05. Athina     GRE-NIR 2:1 (1:0) Papaemmanouil (2) - J.Mcllroy (Priesner
+                                    ISR)
+10.05. Westberlin GER-NIR 2:1 (1:0) Köress, Brulls - J.Mcllroy (Lindberg SWE)
+17.10. Belfast    NIR-GRE 2:0 (1:0) McLaughlin (2) (Bonetto ITA)
+22.10. Augsburg   GER-GRE 2:1 (2:0) Seeler (2) - Papaemmanouil (Nilsen NOR)
+
+1.GER^  4   8  4  0  0  11- 5
+2.NIR   4   2  1  0  3   7- 8
+3.GRE   4   2  1  0  3   3- 8
+
+Group 4 (1961)  ‹§gr4›
+
+16.04. Budapest   HUN-DDR 2:0 (1:0) Albert 12, Göröcs 52 (Takov BUL)
+30.04. Rotterdam  HOL-HUN 0:3 (0:3) Sandor, Fenyvesi, Tichy (Kingston WAL)
+14.05. Leipzig    DDR-HOL 1:1 (0:0) Erler 79 - Groot 63 (Jörgensen DAN)
+10.09. Berlin     DDR-HUN 2:3 (0:1) Erler 53, P.Ducke 87 - Solymosi 43,
+                                    Sandor 75, Tichy 78 (Lukianov ZSR)
+01.10. ?          HOL-DDR ---
+22.10. Budapest   HUN-HOL 3:3 (2:2) Monostori, Göröcs, Tichy - van der Linden
+                                    (2), Groot (Phillips SCO)
+
+- HOL-DDR match not played due to the East German team being refused visas.
+Not verified by FIFA.
+
+1.HUN^  4   7  3  1  0  11- 5
+2.HOL   3   2  0  2  1   4- 7
+3.DDR   3   1  0  1  2   3- 6
+
+Group 5 (1961)  ‹§gr5›
+
+01.06. Oslo       NOR-TUR 0:1 (0:1) Metin 16 (Hansen DAN)
+18.06. Moskva     ZSR-TUR 1:0 (1:0) Voronin 20 (Hirviniemi FIN)
+01.07. Moskva     ZSR-NOR 5:2 (3:0) Metreveli 14, Ponedelnik 26, Bubukin 32,
+                                    66, Meschi 53 - Borgen 64, E.Hansen 87
+                                    (Kowal POL)
+23.08. Oslo       NOR-ZSR 0:3 (0:0) Ponedelnik 48, Meschi 49, Metreveli 76
+                                    (Meighan IRL)
+29.10. Istanbul   TUR-NOR 2:1 (0:0) Aydin 60, Metin 72 - Jensen (Popa ROM)
+12.11. Istanbul   TUR-ZSR 1:2 (1:2) Metin 78 - Gusarow 12, Mamykin 18 (Verner
+                                    ISR)
+
+1.ZSR^  4   8  4  0  0  11- 3
+2.TUR   3   4  2  0  2   4- 4
+3.NOR   3   0  0  0  4   3-11
+
+Group 6 (1960-61)  ‹§gr6›
+
+19.10. Luxembourg LUX-ENG 0:9 (0:4) R.Charlton (3), Greaves (3), R.Smith (2),
+                                    Haynes (Martens HOL)
+19.03. Lisbona    POR-LUX 6:0 (1:0) J. Aguas, lauca (3), Coluna, Brosius o
+                                    (Mellet SUI)
+21.05. Lisbona    POR-ENG 1:1 (0:0) J. Aguas - Flowers (Bonetto ITA)
+28.09. London     ENG-LUX 4:1 (3:0) Pointer, Viollet, R.Charlton (2) -
+                                    Dimmer (Versyp BEL)
+08.10. Luxembourg LUX-POR 4:2 (1:0) A. Schmit (3), Hoffmann - Eusebio, lauca
+                                    (Tschenscher GER)
+25.10. London     ENG-POR 2:0 (2:0) Connelly, Pointer (Bois FRA)
+
+1.ENG^  4   7  3  1  0  16- 2
+2.POR   4   3  1  1  2   9- 7
+3.LUX   4   2  1  0  3   5-21
+
+Group 7 (1960-61)  ‹§gr7›
+
+ - ROM withdrew, ITA had a walkover
+
+13.11. Nicosia    CYP-ISR 1:1 (1:1) Yasemis - Kaufmann 31 (Bajić JUG)
+27.11. Tel-Aviv   ISR-CYP 6:1 (3:0) S.Levy 14,30,66, Stelmach 61,88, Nahari
+                                    34 - Yasemis (Bajić JUG)
+
+First Round - both matches in Israel
+
+14.03. Tel-Aviv   ISR-ETH 1:0 (0:0) Glazer 69 (Zsolt HUN)
+19.03. Haifa      ISR-ETH 3:2 (1:1) Glazer 27,77, Stelmach 59 - Mengistou,
+                                    Tesfaye (Pósa HUN)
+
+▪ Second Round ▪
+
+15.10. Tel-Aviv   ISR-ITA 2:4 (2:0) Stelmach 15, Young 38 - Lojacono 53p,
+                                    Altafini 79, Corso 87,90 Takow BUL)
+04.11. Turin      ITA-ISR 6:0 (1:0) Sivori 16,52,65,88, Corso 59, Angelillo
+                                    69 (Asensi Martin ESP)
+
+Group 8 (1961)  ‹§gr8›
+
+03.05. Glasgow    SCO-IRL 4:1 (2:0) Brand (2), Herd (2) - Haverty (Guigue
+                                    FRA)
+07.05. Dublin     IRL-SCO 0:3 (0:2) Young (2), Brand (Grandain BEL)
+14.05. Bratislava CZE-SCO 4:0 (3:0) Pospichal (2), Kvašňák, Kadraba (Steiner
+                                    AUT)
+26.09. Glasgow    SCO-CZE 3:2 (1:1) St.John, Law (2) - Scherer, Kvašňák
+                                    (Gulliksen NOR)
+08.10. Dublin     IRL-CZE 1:3 (1:1) Giles - Kvašňák (2), Scherer (Holland ENG)
+29.10. Praha      CZE-IRL 7:1 (4:0) Scherer (2), Kvašňák (2), Masopust,
+                                    Pospichal, Jelinek - Fogarty (Lundell SWE)
+
+1.CZE^  4   6  3  0  1  16- 5
+2.SCO   4   6  3  0  1  10- 7
+3.IRL   4   0  0  0  4   3-17
+
+- play-off game in Belgium
+29.11. Brussels   CZE-SCO 4:2 (2:2) Scherer 84, Pospichal 95, Kvašňák 101,
+                                    Hledik 70 - St. John 38,71 (Versyp BEL)
+
+Group 9 (1961)  ‹§gr9›
+
+19.04. Cardiff    WAL-ESP 1:2 (1:1) Woosnam - Foncho, di Stefano (Reymaeckers
+                                    BEL)
+18.05. Madrid     ESP-WAL 1:1 (0:0) Peiro - Allchurch (Horn HOL)
+
+- play-off with winner of Group 15
+
+Group 10 (1961)  ‹§gr10›
+
+04.06. Belgrad    JUG-POL 2:1 (1:0) Kaloperović 42p, Kostić 49 - Brychczy 65
+                                    (Stathatos GRE)
+25.06. Chorzów    POL-JUG 1:1 (1:1) J.Schmidt 29 - Galić 2 (Korelus CZE)
+
+- play-off with winner of Group 16
+
+== South America
+
+9 teams entered, including BRA (champions) and CHI (hosts), Winners of
+three pairs progress into the finals. PAR allotted to the CONCACAF zone
+(Group 14)
+
+Group 11 (1960)  ‹§gr11›
+
+04.12. Guayaquil  ECU-ARG 3:6 (0:3) Spencer 81, Raffo 83,85 - Corbatta (2),
+                                    Pando, Sosa, Sanfilippo, Ramaciotti
+                                    (Robles CHI)
+17.12. B.Aires    ARG-ECU 5:0 (1:0) Corbatta (2), Sanfilippo, Sosa, Pando
+                                    (Robles CHI)
+
+Group 12 (1961)  ‹§gr12›
+
+15,07. La Paz     BOL-URU 1:1 (1:0) Alcócer 54 - L.Cubilla 23 (Robles CHI)
+30.07. Montevideo URU-BOL 2:1 (2:0) Cabrera 3, Escalada 39 - Camacho 65
+                                    (Robles CHI)
+
+Group 13 (1961)  ‹§gr13›
+
+30.04. Bogota     COL-PER 1:0 (1:0) Gonzalez (Praddaude ARG)
+07.05. Lima       PER-COL 1:1 (1:1) Delgado 3 - Aceros (Marino URU)
+
+== CONCACAF
+
+8 teams entered, CAN withdrew before seeding. Winner of three zonal
+groups and the final group to meet PAR for the South American zone.
+
+Group 14 (1960-61)  ‹§gr14›
+
+▪ First Round ▪
+
+Subgroup A
+
+06.11. L.Angeles  USA-MEX 3:3 (3:1) Bicek 31, Zerhusen 58, Fister 85 - Reyes
+                                    17,21, Mercado 8 (Kulai CAN)
+13.11. Mexico Ct. MEX-USA 3:0 (3:0) Diaz 38, Reyes 35, Mercado 5 (Sanchez
+                                    HON)
+
+Subgroup B
+
+21.08. San José   COS-GUA 3:2 (1:2) Feo, Ulloa, ?-? (Sundheim COL)
+28.08. Guatemala  GUA-COS 4:4 (1:2) ?-Jimenez (2), Ulloa, ?-? (Sundheim COL)
+04.09. T'cigalpa  HON-COS 2:1 (2:0) ? - Rodriguez (Sundheim COL)
+11.09. San José   COS-HON 5:0 (3:0) Jimenez (2), Ulloa (2), Rodriguez
+                                    (Sundheim COL)
+25.09. T'cigalpa  HON-GUA 1:1 (1:0) ? - ? (Mendez SAL)
+02.10. Guatemala  GUA-HON 0:3 wo.
+
+1.COS^  4   5  2  1  1  13- 8
+2.HON   4   5  2  1  1   6- 7
+3.GUA   4   2  0  2  2   7-11
+
+- playoff in Guatemala
+14.01. Guatemala  COS-HON 1:0 (0:0) Rodriguez (Buergo Elcuaz MEX)
+
+Subgroup C
+
+02.10. Paramaribo SUR-AHO 1:2 (0:1) (Orrego COL)
+27.11. Willemstad AHO-SUR 0:0       (Yamasaki PER)
+
+▪ Second Round ▪
+
+22.03. San José   COS-MEX 1:0 (1:0) Goban 51 (Queiroz BRA)
+29.03. San José   COS-AHO 6:0 (4:0) Rodriguez, Goban, Monge, Feo, Ulloa (2)
+                                    (Tejada Burga PER)
+05.04. Mexico Ct. MEX-AHO 7:0 (3:0) F. Flores 28,52,64, Reyes 45,75, Palmer
+                                    65,80 (Morgan CAN)
+12.04. Mexico Ct. MEX-COS 4:1 (2:0) Cardenas 31, C.Gutierrez 77, F.Flores 11,
+                                    Mercado 87 - Ulloa 54 (Sundheim COL)
+23.04. Willemstad AHO-COS 2:0 (0:0) (Trapota López VEN)
+21.05. Willemstad AHO-MEX 0:0       (Goldstein ISR)
+
+
+1.MEX^  4   5  2  1  1  11- 2
+2.COS   4   4  2  0  2   8- 6
+3.AHO   4   3  1  1  2   2-13
+
+▪ Third Round ▪
+
+29.10. Mexico Ct. MEX-PAR 1:0 (1:0) Reyes 20 (van Rosberg AHO)
+05.11. Asunción   PAR-MEX 0:0       (Vaga Albergati URU)
+
+== Africa
+
+7 teams entered, ETH allotted to European zone. SUD and EGY withdrew
+after seeding. The winning team plays the winner of European group 9.
+
+Group 15 (1960-61)  ‹§gr15›
+
+- note: some goal info missing
+
+▪ First Round ▪
+
+(1) - EGY and SUD both withdrew
+
+(2)
+30.10. Casablanca MAR-TUN 2:1 (2:0) Khail 33, Azhar 60 - Meddeb 43 (Blanco
+                                    Perez ESP)
+13.11. Tunis      TUN-MAR 2:1 (0:0) Chetali 47, Tlamcani 60 - Chicha 64
+                                    (Steiner AUT)
+22.01. Palermo    MAR-TUN 1:1 (0:1,1:1,1:1) Azhar 36 - Kerrit 89 (Lo Bello
+                                    ITA)
+
+- play-off game in Italy, MAR progressed on a coin toss
+
+(3)
+28.08. Accra      GHA-NGA 4:1 (2:0) ? - Fayemi 50 (Holland ENG)
+10.09. Lagos      NGA-GHA 2:2 (1:1) Enamako 28, Fayemi 75p - ? (Tschenscher GER)
+
+▪ Second Round ▪
+
+02.04. Accra      GHA-MAR 0:0        (Helmy EGY)
+28.05. Casablanca MAR-GHA 1:0 (1:0)  Khalli (Blanco Perez ESP)
+
+Playoff of groups 9 and 15  ‹§play1›
+
+12.11. Casablanca MAR-ESP 0:1 (0:0) del Soi (Mellet SUI)
+23.11. Madrid     ESP-MAR 3:2 (2:1) Marcelino 12, di Stefano 44, Collar 58 -
+                                    Riahi 40, Abdallah 64 (Jonni ITA)
+
+== Asia
+
+4 teams entered, ISR allotted to European zone. INA withdrew after
+seeding. The winning team plays the winner of European group 10.
+
+Group 16 (1960-61)  ‹§gr16›
+
+- note: some goal info missing
+
+06.11. Seoul      KOR-JAP 2:1 (2:1) (Kim Duck-chun KOR)
+11.06. Tokyo      JAP-KOR 0:2 (0:2) (Pratlett HKG)
+
+- KOR-JAP match refereed by a local referee
+
+Playoff of groups 10 and 16  ‹§play2›
+
+08.10. Beograd    JUG-KOR 5:1 (1:0) Sekularac (2), Čebinac, Radakovic, Galić -
+                                    Chang Sun-chen (Ioannidis GRE)
+26.11. Seoul      KOR-JUG 1:3 (0:2) Ju Pang-sun - Galić (2), Jerkovic (Mak
+                                    Xeun Fei HKG)
+

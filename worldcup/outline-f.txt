@@ -1,0 +1,330 @@
+==> 22 file(s) in (../worldcup) matching ./pages/**/*f.txt:
+
+2022f.txt (in ./pages), 214 line(s):
+  h2  World Cup 2022 (Qatar, November 20 - December 18, 2022)    @7
+  _   FIRST PHASE    @13
+  _   Group A    @15
+  _   Group B    @28
+  _   Group C    @41
+  _   Group D    @54
+  _   Group E    @67
+  _   Group F    @80
+  _   Group G    @93
+  _   Group H    @106
+  _   1/8 FINALS    @120
+  _   QUARTERFINALS    @141
+  _   SEMIFINALS    @154
+  _   THIRD PLACE MATCH    @161
+  _   FINAL    @166
+  h2  About this document    @201, §about
+
+2018f.txt (in ./pages), 220 line(s):
+  h2  World Cup 2018 (Russia, June 14 - July 15, 2018)    @7
+  _   FIRST PHASE    @13
+  _   Group A    @15
+  _   Group B    @28
+  _   Group C    @41
+  _   Group D    @54
+  _   Group E    @67
+  _   Group F    @80
+  _   Group G    @93
+  _   Group H    @106
+  _   1/8 FINALS    @120
+  _   QUARTERFINALS    @142
+  _   SEMIFINALS    @154
+  _   THIRD PLACE MATCH    @161
+  _   FINAL    @166
+  h2  About this document    @200, §about
+
+2014f.txt (in ./pages), 214 line(s):
+  h2  World Cup 2014 (Brazil, June 12 - July 13, 2014)    @7
+  _   FIRST PHASE    @13
+  _   Group A    @15
+  _   Group B    @28
+  _   Group C    @41
+  _   Group D    @54
+  _   Group E    @67
+  _   Group F    @80
+  _   Group G    @93
+  _   Group H    @106
+  _   1/8 FINALS    @120
+  _   QUARTERFINALS    @141
+  _   SEMIFINALS    @153
+  _   THIRD PLACE MATCH    @161
+  _   FINAL    @166
+  h2  About this document    @202, §about
+
+2010f.txt (in ./pages), 217 line(s):
+  h2  World Cup 2010 (South Africa, June 11 - July 11, 2010)    @7
+  _   FIRST PHASE    @13
+  _   Group A    @15
+  _   Group B    @28
+  _   Group C    @41
+  _   Group D    @54
+  _   Group E    @67
+  _   Group F    @80
+  _   Group G    @93
+  _   Group H    @106
+  _   1/8 FINALS    @120
+  _   QUARTERFINALS    @140
+  _   SEMIFINALS    @152
+  _   THIRD PLACE MATCH    @159
+  _   FINAL    @164
+  h2  About this document    @202, §about
+
+2006f.txt (in ./pages), 218 line(s):
+  h2  World Cup 2006 (Germany, June 9 - July 9, 2006)    @7
+  _   FIRST PHASE    @13
+  _   Group A    @15
+  _   Group B    @28
+  _   Group C    @41
+  _   Group D    @54
+  _   Group E    @67
+  _   Group F    @80
+  _   Group G    @93
+  _   Group H    @106
+  _   1/8 FINALS    @120
+  _   QUARTERFINALS    @140
+  _   SEMIFINALS    @153
+  _   THIRD PLACE MATCH    @160
+  _   FINAL    @165
+  h2  About this document    @205, §about
+
+2002f.txt (in ./pages), 214 line(s):
+  h2  World Cup 2002 (South Korea and Japan, 31 May-30 June 2002)    @7
+  _   FIRST PHASE    @12
+  _   Group A    @14
+  _   Group B    @27
+  _   Group C    @40
+  _   Group D    @53
+  _   Group E    @66
+  _   Group F    @79
+  _   Group G    @92
+  _   Group H    @105
+  _   1/8 FINALS    @119
+  _   QUARTERFINALS    @139
+  _   SEMIFINALS    @151
+  _   THIRD PLACE MATCH    @158
+  _   FINAL    @163
+  h2  About this document    @201, §about
+
+98f.txt (in ./pages), 165 line(s):
+  h2  World Cup 1998 (France, June 10-July 12)    @7
+  _   FIRST PHASE    @11
+  _   Group A    @13
+  _   Group B    @21
+  _   Group C    @29
+  _   Group D    @37
+  _   Group E    @45
+  _   Group F    @53
+  _   Group G    @61
+  _   Group H    @69
+  _   1/8 FINALS    @77
+  _   QUARTERFINALS    @96
+  _   SEMIFINALS    @107
+  _   MATCH FOR THIRD PLACE    @114
+  _   FINAL    @118
+  h2  About this document    @152, §about
+
+94f.txt (in ./pages), 150 line(s):
+  h2  World Cup 1994 (United States of America, June 17-July 17)    @7
+  _   FIRST PHASE    @11
+  _   Group A    @13
+  _   Group B    @21
+  _   Group C    @29
+  _   Group D    @37
+  _   Group E    @45
+  _   Group F    @53
+  _   1/8 FINALS    @61
+  _   QUARTERFINALS    @80
+  _   SEMIFINALS    @91
+  _   MATCH FOR THIRD PLACE    @97
+  _   FINAL    @101
+  h2  About this document    @136, §about
+
+90f.txt (in ./pages), 151 line(s):
+  h2  World Cup 1990 (Italy, June 8-July 8)    @7
+  _   FIRST PHASE    @11
+  _   Group A    @13
+  _   Group B    @21
+  _   Group C    @29
+  _   Group D    @37
+  _   Group E    @45
+  _   Group F    @53
+  _   1/8 FINALS    @61
+  _   QUARTERFINALS    @80
+  _   SEMIFINALS    @91
+  _   MATCH FOR THIRD PLACE    @99
+  _   FINAL    @103
+  h2  About this document    @137, §about
+
+86f.txt (in ./pages), 150 line(s):
+  h2  World Cup 1986 (Mexico, May 31-June 29)    @7
+  _   FIRST PHASE    @11
+  _   Group A    @13
+  _   Group B    @21
+  _   Group C    @29
+  _   Group D    @37
+  _   Group E    @45
+  _   Group F    @53
+  _   1/8 FINALS    @61
+  _   QUARTERFINALS    @79
+  _   SEMIFINALS    @92
+  _   MATCH FOR THIRD PLACE    @98
+  _   FINAL    @102
+  h2  About this document    @136, §about
+
+82f.txt (in ./pages), 141 line(s):
+  h2  World Cup 1982 (Spain, June 13-July 11)    @7
+  _   FIRST PHASE    @11
+  _   Group A    @13
+  _   Group B    @21
+  _   Group C    @29
+  _   Group D    @37
+  _   Group E    @45
+  _   Group F    @53
+  _   SECOND PHASE    @61
+  _   Group 1    @63
+  _   Group 2    @68
+  _   Group 3    @73
+  _   Group 4    @78
+  _   SEMIFINALS    @83
+  _   MATCH FOR THIRD PLACE    @90
+  _   FINAL    @94
+  h2  About this document    @127, §about
+
+78f.txt (in ./pages), 114 line(s):
+  h2  World Cup 1978 (Argentina, June 1-25)    @7
+  _   FIRST PHASE    @11
+  _   Group A    @13
+  _   Group B    @21
+  _   Group C    @29
+  _   Group D    @37
+  _   SECOND PHASE    @45
+  _   Group 1    @47
+  _   Group 2    @55
+  _   MATCH FOR THIRD PLACE    @63
+  _   FINAL    @67
+  h2  About this document    @100, §about
+
+74f.txt (in ./pages), 114 line(s):
+  h2  World Cup 1974 (West Germany, June 13-July 7)    @7
+  _   FIRST PHASE    @11
+  _   Group A    @13
+  _   Group B    @21
+  _   Group C    @29
+  _   Group D    @37
+  _   SECOND PHASE    @45
+  _   Group I    @47
+  _   Group II    @55
+  _   MATCH FOR THIRD PLACE    @63
+  _   FINAL    @67
+  h2  About this document    @100, §about
+
+70f.txt (in ./pages), 112 line(s):
+  h2  World Cup 1970 (Mexico, May 31-June 21)    @7
+  _   FIRST PHASE    @11
+  _   Group A    @13
+  _   Group B    @21
+  _   Group C    @29
+  _   Group D    @37
+  _   QUARTERFINALS    @45
+  _   SEMIFINALS    @55
+  _   MATCH FOR THIRD PLACE    @61
+  _   FINAL    @65
+  h2  About this document    @98, §about
+
+66f.txt (in ./pages), 111 line(s):
+  h2  World Cup 1966 (England, July 11-30)    @7
+  _   FIRST PHASE    @10
+  _   Group A    @12
+  _   Group B    @20
+  _   Group C    @28
+  _   Group D    @36
+  _   QUARTERFINALS    @44
+  _   SEMIFINALS    @54
+  _   MATCH FOR THIRD PLACE    @60
+  _   FINAL    @64
+  h2  About this document    @97, §about
+
+62f.txt (in ./pages), 112 line(s):
+  h2  World Cup 1962 (Chile, May 30-June 17)    @7
+  _   FIRST PHASE    @11
+  _   Group A    @13
+  _   Group B    @21
+  _   Group C    @29
+  _   Group D    @37
+  _   QUARTERFINALS    @45
+  _   SEMIFINALS    @55
+  _   MATCH FOR THIRD PLACE    @61
+  _   FINAL    @65
+  h2  About this document    @98, §about
+
+58f.txt (in ./pages), 118 line(s):
+  h2  World Cup 1958 (Sweden, June 8-29)    @7
+  _   FIRST PHASE    @11
+  _   Group A    @13
+  _   Playoff:    @20
+  _   Group B    @23
+  _   Group C    @31
+  _   Playoff:    @38
+  _   Group D    @41
+  _   Playoff:    @48
+  _   QUARTERFINALS    @51
+  _   SEMIFINALS    @61
+  _   MATCH FOR THIRD PLACE    @67
+  _   FINAL    @71
+  h2  About this document    @104, §about
+
+54f.txt (in ./pages), 108 line(s):
+  h2  World Cup 1954 (Switzerland, June 16-July 4)    @7
+  _   FIRST PHASE    @11
+  _   Group A    @13
+  _   Group B    @19
+  _   Playoff:    @24
+  _   Group C    @27
+  _   Group D    @33
+  _   Playoff:    @38
+  _   QUARTERFINALS    @41
+  _   SEMIFINALS    @51
+  _   MATCH FOR THIRD PLACE    @57
+  _   FINAL    @61
+  h2  About this document    @94, §about
+
+50f.txt (in ./pages), 99 line(s):
+  h2  World Cup 1950 (Brazil, June 24-July 16)    @7
+  _   FIRST PHASE    @11
+  _   Group A    @13
+  _   Group B    @21
+  _   Group C    @29
+  _   Group D    @35
+  h2  About this document    @85, §about
+
+38f.txt (in ./pages), 107 line(s):
+  h2  World Cup 1938 (France, June 4-19)    @7
+  _   1/8 FINALS    @10
+  _   QUARTERFINALS    @35
+  _   SEMIFINALS    @48
+  _   MATCH FOR THIRD PLACE    @54
+  _   FINAL    @58
+  h2  About this document    @91, §about
+
+34f.txt (in ./pages), 95 line(s):
+  h2  World Cup 1934 (Italy, May 27-June 10)    @7
+  _   1/8 FINALS    @10
+  _   QUARTERFINALS    @28
+  _   SEMIFINALS    @39
+  _   MATCH FOR THIRD PLACE    @45
+  _   FINAL    @49
+  h2  About this document    @81, §about
+
+30f.txt (in ./pages), 96 line(s):
+  h2  World Cup 1930 (Uruguay, July 13-30)    @7
+  _   FIRST PHASE    @10
+  _   Group A    @12
+  _   Group B    @20
+  _   Group C    @25
+  _   Group D    @30
+  _   SEMIFINALS    @35
+  _   FINAL    @53, §fin
+  h2  About this document    @83, §about

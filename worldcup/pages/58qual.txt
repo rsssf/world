@@ -1,0 +1,337 @@
+<!--
+   title:   World Cup 1958 qualifications
+   source:  https://rsssf.org/tables/58qual.html
+  -->
+
+<!--
+                     Contents:
+
+         Europe                           
+         South America                    
+         CONCACAF                         
+         Africa                           
+         Asia                             
+  -->
+
+
+
+
+== Europe
+
+31 teams entered, including GER (champions) and SWE (host). CYP and TUR
+alloted to a mixed Euro-Afro-Asian zone, both withdrew after seeding.
+Ten places for the winners of nine groups and one of the runners-up
+after a play-off with ISR (see group 14)
+For the first time teams were seeded according to their strengths, and
+not geographically.
+
+Group 1 (1956-57)  ‹§gr1›
+
+03.10. Dublin     IRL-DAN 2:1 (2:0) Curtis 27, Gavin 45pen - A.Jensen 85 (Bond ENG)
+05.12. W'hampton  ENG-DAN 5:2 (2:1) Taylor 2,22,53, Edwards 66,77 - O.Nielsen 27,32
+                                    (Guigue ERA)
+08.05. London     ENG-IRL 5:1 (4:0) Taylor (3), Ateyo (2) - Curtis
+                                    (Phillips SCO)
+15.05. Kobenhavn  DAN-ENG 1:4 (1:1) J.Jensen 27 - Haynes 28, Taylor 71,86, Ateyo 75
+                                    (Dusch GER)
+19.05. Dublin     IRL-ENG 1:1 (1:0) Ringstead - Ateyo (Philips SCO)
+02.10. Kobenhavn  DAN-IRL 0:2 (0:0) Cummins 53, Curtis 61 (Schulz DDR)
+
+1.ENG^  4   7  3  1  0  15- 5
+2.IRL   4   5  2  1  1   6- 7
+3.DAN   4   0  0  0  4   4-13
+
+Group 2 (1956-57)  ‹§gr2›
+
+11.11. Paris      FRA-BEL 6:3 (4:1) Cisowski 13,15,44,72,88, Vincent 18 -
+                                    Houf 16, Willems 61,67 (Clough ENG)
+02.06. Nantes     FRA-ISL 8:0 (5:0) C.Olivier 6,11, Vincent 29,83, Dereuddre
+                                    36, Piantoni 45,81, Brahimi 49 (Ellis ENG)
+05.06. Brussel    BEL-ISL 8:3 (7:1) Orlans (2), Piters, P.van den Berg, Coppens
+                                    (2), Mees (2) - Thordarsson 33,78,
+                                    R.Jonsson 82 (Blitgen LUX)
+01.09. Reykjavik  ISL-FRA 1:5 (0:2) T.Jonsson 64 - Cisowski 29,32, Ujlaki
+                                    48,66, Wisniewski 53 (Davidson SCO)
+04.09. Reykjavik  ISL-BEL 2:5 (1:2) R.Jonsson 1, Thordarsson 73 - van Herpe, P.van
+                                    den Berg (3), Willems (Davidson SCO)
+27.10. Brussel    BEL-FRA 0:0       (Helge DAN)
+
+1.FRA^  4   7  3  1  0  19- 4
+2.BEL   4   5  2  1  1  16-11
+3.ISL   4   0  0  0  4   6-26
+
+Group 3 (1957)  ‹§gr3›
+
+22.05. Oslo       NOR-BUL 1:2 (0:1) Hennum - G.Dimitrov (2) (Lindberg SWE)
+12.06. Oslo       NOR-HUN 2:1 (1:1) Hennum, Kristiansen - Tichy (Helge DAN)
+23.06. Budapest   HUN-BUL 4:1 (3:0) Machos (3), Bozsik - G.Dimitrov (Guigue
+                                    FRA)
+15.09. Sofia      BUL-HUN 1:2 (1:2) Diev - Hidegkuti (2) (Bernardi ITA)
+03.11. Sofia      BUL-NOR 7:0 (3:0) Ilev (3), Panaiotov (2), Yanev, Debarski
+                                    (Macko CZE)
+10.11. Budapest   HUN-NOR 5:0 (2:0) Csordas (2), Sandor, Machos + 1o
+                                    (Dusch GER)
+
+1.HUN^  4   6  3  0  1  12- 4
+2.BUL   4   4  2  0  2  11- 7
+3.NOR   4   2  1  0  3   3-15
+
+Group 4 (1957)  ‹§gr4›
+
+01.05. Cardiff    WAL-CZE 1:0 (0:0) Vernon (Bronkhorst HOL)
+19.05. Leipzig    DDR-WAL 2:1 (1:1) Wirth 21, Tröger 61 - M.Charles 6
+                                    (Latichev ZSR)
+26.05. Praha      CZE-WAL 2:0 (1:0) Kraus, Daniel (og) (Wyssling SUI)
+16.06. Brno       CZE-DDR 3:1 (0:1) Kraus 60. Bubnik 81, Molnar 89 - Wirth 18
+                                    (Jörgensen DAN)
+25.09. Cardiff    WAL-DDR 4:1 (3:0) Palmer 38,44,73, Jones 42 - Kaiser 57
+                                    (Leafe ENG)
+27.10. Leipzig    DDR-CZE 1:4 (1:3) H.Müller 35 - Kraus 4.88, Moravčik 23,
+                                    Novák 43 (Schwinte FRA)
+
+1.CZE^  4   6  3  0  1   9- 3
+2.WAL>  4   4  2  0  2   6- 5
+3.DDR   4   2  1  0  3   5-12
+
+- WAL was drawn to play against ISR in an extra game
+
+Group 5 (1956-57)  ‹§gr5›
+
+30.09. Wien       AUT-LUX 7:0 (2:0) Wagner (2), Hanappi (2), Haummer,
+                                    Walzhofer, E.Kozlicek (Liverani ITA)
+20.03. Rotterdam  HOL-LUX 4:1 (2:1) van der Gijp (2), Brusselers, Dillen -
+                                    Halsdorf (Treichel GER)
+26.05. Wien       AUT-HOL 3:2 (0:2) Buzek, Koller, Stotz - van Melis (2)
+                                    (Schmetzer GER)
+11.09. Rotterdam  HOL-LUX 5:2 (4:1) Lenstra (2), Wilkes, Rijvers, van Melis -
+                                    Fiedler, Letsch (Murdoch ENG)
+25.09. Amsterdam  HOL-AUT 1:1 (0:1) Lenstra - Hanappi (EUis ENG)
+29.09. Luxembourg LUX-AUT 0:3 (0:1) Dienst, Kozlicek, Senekowitsch
+                                    (Versyp BEL)
+
+- both matches LUX-HOL in Netherlands
+
+1.AUT^  4   7  3  1  0  14- 3
+2.HOL   4   5  2  1  1  12- 7
+3.LUX   4   0  0  0  4   3-19
+
+grupa 6 (1957)  ‹§gr6›
+
+23.06. Moskva     ZSR-POL 3:0 (1:0) Tatushin 9, Simonian 55, Ilyin 77
+                                    (Clough ENG)
+05.07. Helsinki   FIN-POL 1:3 (0:1) Vanhanen 72 - Jankowski 19,56,65
+                                    (Nilsen NOR)
+27.07. Moskva     ZSR-FIN 2:1 (1:1) Voinov 23, Netto 62 - Lahtinen 42
+                                    (Mayer AUT)
+15.08. Helsinki   FIN-ZSR0:10 (0:7) Netto 6, Simonian 9,13,31, Isaev 12,20,
+                                    Streltsow 29, 49, Ilyin 60, 87 (A.Asmussen
+                                    DAN)
+20.10. Chorzów    POL-ZSR 2:1 (1:0) Cieślik 43,50 - V.Ivanov 80 (Clough ENG)
+03.11. Warszawa   POL-FIN 4:0 (2-0) Gawlik 2, Brychczy 4,48, Jankowski 60
+                                    (Dusch GER)
+
+1.ZSR>  4   6  3  0  1  16- 3
+2.POL>  4   6  3  0  1   9- 5
+3.FIN   4   0  0  0  4   2-19
+
+- play-off game in East Germany
+
+24.11. Lepzig     ZSR-POL 2:0 (1:0) Strelcow 31, Fiedosow 75 (Clough ENG)
+
+Group 7 (1957)  ‹§gr7›
+
+05.05. Athina     GRE-JUG 0:0       (Devillers FRA)
+16.06. Athina     GRE-ROM 1:2 (1:1) Panakis - Ene, Ozon (Harzic FRA)
+29.09. Bucuresti  ROM-JUG 1:1 (0:0) Ene - Mujić (Grill AUT)
+03.11. Bucuresti  ROM-GRE 3:0 (0:0) Petschovski, Tataru, Cacoveanu (Schwinte
+                                    FRA)
+10.11. Beograd    JUG-GRE 4:1 (2:1) Mujić (2), Petakovic, Krstić - Nestoridis
+                                    (Jonni ITA)
+17.11. Beograd    JUG-ROM 2:0 (0:0) M.Milutinovic (2) (Seipelt AUT)
+
+1.JUG^  4   6  2  2  0   7- 2
+2.ROM   4   5  2  1  1   6- 4
+3.GRE   4   1  0  1  3   2- 9
+
+Group 8 (1957--58)  ‹§gr8›
+
+16.01. Lisboa     POR-NIR 1:1 (1:1) Vasques - Bingham (Lequesne FRA)
+25.04. Roma       ITA-NIR 1:0 (1:0) Cervato 3 (Guigue FRA)
+01.05. Belfast    NIR-POR 3:0 (1:0) Simpson, J.Mcllroy, Casey (Phillips SCO)
+26.05. Lisboa     POR-ITA 3:0 (1:0) Vasques 41, Teixeira 83, Matateu 87
+                                    (Treichel GER)
+22.12. Milano     ITA-POR 3:0 (1:0) Gratton 36,72, Pivatelli 84 (Damiani JUG)
+15.01. Belfast    NIR-ITA 2:1 (2:0) Mcllroy 13, Cush 28 - Da Costa 56 (Zsolt
+                                    HUN)
+
+1.NIR^  4   5  2  1  1   6- 3
+2.ITA   4   4  2  0  2   5- 5
+3.POR   4   3  1  1  2   4- 7
+
+Group 9 (1957)  ‹§gr9›
+
+10.03. Madrid     ESP-SUI 2:2 (1:1) Suarez, Miguel - Hügi (2), Asmussen
+                                    (Erich GER)
+08.05. Glasgow    SCO-ESP 4:2 (2:1) Mudie (3), Hewie - Kubala, Suarez (Dusch
+                                    GER)
+19.05. Basel      SUI-SCO 1:2 (1:1) Vonlanthen - Mudie, Collins (Seipelt AUT)
+26.05. Madrid     ESP-SCO 4:1 (2:0) Basora (2), Mateos, Kubala - G.Smith
+                                    (Leafe ENG)
+06.11. Glasgow    SCO-SUI 3:2 (1:1) A.Robertson, Mudie, Scott - Riva,
+                                    Vonlanthen (Leafe ENG)
+24.11. Lausanne   SUI-ESP 1:4 (0:2) Ballaman - Kubala (2), di Stefano (2)
+                                    (Alsteen BEL)
+
+1.SCO^  4   6  3  0  1  10- 9
+2.ESP   4   5  2  1  1  12- 8
+3.SUI   4   1  0  1  3   6-11
+
+== South America
+
+9 teams entered, VEN withdrew after seeding. Winners of three groups
+progressing into the finals.
+
+Group 10 (1957)  ‹§gr10›
+
+13.04. Lima       PER-BRA 1:1 (1:0) Terry 38 - Indio (Rodriguez URU)
+21.04. R/Janeiro  BRA-PER 1:0 (1:0) Didi (Marino URU)
+
+- VEN withdrew after seeding
+
+Group 11 (1957)  ‹§gr11›
+
+22.09. Santiago   CHI-BOL 2:1 (0:1) G.Diaz, Ramirez - Alcon (Wyssling SUI)
+29.09. La Paz     BOL-CHI 3:0 (1:0) Alcocer (2), Garda (Wyssling SUI)
+06.10. La Paz     BOL-ARG 2:0 (1:0) Alcocer 13, Ramirez 62 (Wyssling SUI)
+13.10. Santiago   CH1-ARG 0:2 (0:1) Menendez, Conde (Wyssling SUI)
+20.10. B.Aires    ARG-CH1 4:0 (4:0) Corbatta (2), Menendez, Zarate (Wyssling
+                                    SUI)
+27.10. B.Aires    ARG-BOL 4:0 (1:0) Zarate, Corbatta, Prado, Menendez
+                                    (Wyssling SUI)
+
+1.ARG^  4   6  3  0  1  10- 2
+2.BOL   4   4  2  0  2   6- 6
+3.CHI   4   2  1  0  3   2-10
+
+Group 12 (1957)  ‹§gr12›
+
+16.06. Bogota     COL-URU 1:1 (1:0) Arango 15 - Ambrois 46 (Husband ENG)
+20.06. Bogota     COL-PAR 2:3 (1:1) Gutierrez, R. Diaz - A. Jara, Aguero,
+                                    Aguilera (Husband ENG)
+30.06. Montevideo URU-COL 1:0 (0:0) Míguez 89p (Husband ENG)
+07.07. Asuncion   PAR-COL 3:0 (1:0) E.Jara, A.Jara, Aguilera (Husband ENG)
+14.07. Asuncion   PAR-URU 5:0 (1:0) Amarilla 5, 48, 57, A. Jara Saguier 88,
+                                    Aguero 90 (Husband ENG)
+28.07. Montevideo URU-PAR 2:0 (1:0) Benítez 8 h, W.Martínez 88 (Husband ENG)
+
+1.PAR^  4   6  3  0  1  11- 4
+2.URU   4   5  2  1  1   4- 6
+3.COL   4   1  0  1  3   3- 8
+
+== CONCACAF
+
+6 teams entered. Winners of two zonal groups play for one final place.
+
+Group 13 (1957)  ‹§gr13›
+
+▪ First Round ▪
+
+Subgroup A
+
+07.04. Mexico Ct. MEX-USA 6:0 (3:0) C. Gutierrez 14,26, Reyes 33,69,76, A.
+                                    Hernandez 63 (van Rosberg AHO)
+28.04. L.Angeles  USA-MEX 2:7 (2:3) Murphy 5, 45 - Keough 20o, A.Hernandez
+                                    31,83, C.Gutierrez 35, H.Hernandez 65, 88,
+                                    Sesma 79 (Morgan CAN)
+22.06. Toronto    CAN-USA 5:1 (2:1) Hughes (2), Stewart, Phillcy, McLeod -
+                                    Keough (Sadler CAN)
+30.06. Mexico Ct. MEX-CAN 3:0 (1:0) C.González 5,85, C.Gutierrez 46 (van
+                                    Rosberg AHO)
+03.07. Mexico Ct. MEX-CAN 2:0 (2:0) C.Gutierrez 8, Sesma 27 (van Rosberg AHO)
+06.07. St.Louis   USA-CAN 2:3 (0:3) Rooney (2) McLeod, Stewart, Beraza
+                                    (Lutostanski USA)
+
+- both matches CAN-MEX in Mexico. In matches USA-CAN and CAN-USA agreed
+local refereeing
+
+1.MEX^  4   8  4  0  0  18- 2
+2.CAN   4   4  2  0  2   8- 8
+3.USA   4   0  0  0  4   5-21
+
+Subgroup B
+
+)0.02. Guatemala  GUA-COS 2:6 (1:4) Vikers, Espinoza - Monge (3), Murillo,
+                                    Jimenez, Rodriguez (Sundheim COL)
+17.02. San José   COS-GUA 3:1 (2:0) Hcrrera, Montero, Jimenez - ? (Orrego
+                                    COL)
+03.03. San José   COS-AHO 4:0 (2:0) Murillo (2), Herrera, Jimenez (McKenna
+                                    ENG)
+14.03. Guatemala  GUA-AHO 1:3 (0:2) Contreras - Schoop (2), Daal (Sundheim
+                                    COL)
+04.08. Willemstad AHO-COS 1:2 (0:1) Schoop - Monge, Montero (Orlandini ITA)
+
+1.COS^  4   8  4  0  0  15- 4
+2.AHO   3   2  1  0  2   4- 7
+3.GUA   3   0  0  0  3   4-12
+
+- AHO-GUA match not played due to COS qualifying anyway; COS-GUA match
+interrupted in 66 min by GUA abandoning the pitch; result affirmed.
+
+▪ Second Round ▪
+
+20,10. Mexico Ct. MEX-COS 2:0 (0:0) Calderón, Sesma (Husband ENG)
+27.10. San José   COS-MEX 1:1 (1:1) Soto 32 - L.Lizorio 27 (Husband ENG)
+
+== Africa
+
+3 teams entered, alloted to group 14 along with Asian teams and CYP and
+TUR; EGY, SYR and SUD withdrew not wanting to play ISR. Because ISR would
+qualify from the group without playing any game, FIFA decided to hold
+a play-off with one of the runners-up of European groups, chosen by lot.
+
+== Asia
+
+4 teams entered, TAI withdrew after seeding, INA withdrew after first
+round. Asian teams alloted to group 14 along with African teams and CYP and
+TUR.
+
+Group 14 (1957)  ‹§gr14›
+
+Preliminaries
+
+- TAI withdrew, INA had a walkover
+
+▪ First Round ▪
+
+(1)
+12.05. Djakarta   INA-CHN 2:0 (0:0) Ramang (2) (Ionni ITA)
+02.06. Peking     CHN-INA 4:3 (2:1) Ha Ching Kuang, Nien We Se, Tjiang Fung Ken,
+                                    Fuk Chen - Siang Liong, Ramang, Witarsa
+                                    (Chakravarti IND)
+23.06. Rangoon    INA-CHN 0:0 (aet) (U Ba Thaung BIR)
+
+- INA progressed on better goal average (1.25 vs. 0.80)
+
+(2) - TUR resigned, ISR had a walkover
+
+(3) - CYP resigned, TUR had a walkover
+
+(4)
+08.03. Khartoum   SUD-SYR 1:0 (0:0) M.Osman (Pieri ITA)
+24.05. Damascus   SYR-SUD 1:1 (1:0) Ciabra - M.Osman (loannidis GRE)
+
+▪ Second Round ▪
+
+(l) - INA withdrew, ISR had a walkover
+(2) - EGY withdrew, SUD had a walkover
+
+▪ Third Round ▪
+
+- SUD withdrew, ISR had a walkover
+
+Play-off game for ISR (1958)
+
+15.01. Tel-Aviv     ISR-WAL 0:2 (0:1) Allchurch, Bowen (Guigue FRA)
+05.02. Cardiff      WAL-ISR 2:0 (0:0) Allchurch, C.Jones (Schipper HOL)
+
+

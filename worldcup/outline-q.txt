@@ -1,0 +1,832 @@
+==> 21 file(s) in (../worldcup) matching ./pages/**/*q.txt:
+
+2022q.txt (in ./pages), 1427 line(s):
+  h2  World Cup 2022 Qualifying    @7
+  h4  Europe    @21, §eur
+  _   Group A    @24
+  _   Group B    @53
+  _   Group C    @82
+  _   Group D    @111
+  _   Group E    @140
+  _   Group F    @169
+  _   Group G    @209
+  _   Group H    @249
+  _   Group I    @289
+  _   Group J    @329
+  _   Semifinals    @374
+  _   Final    @378
+  _   Semifinals    @383
+  _   Final    @387
+  _   Semifinals    @392
+  _   Final    @396
+  h4  South America    @404, §sam
+  h4  Africa    @521, §afr
+  _   First Round    @524
+  _   Second Round    @558
+  _   Group A    @560
+  _   Group B    @580
+  _   Group C    @600
+  _   Group D    @620
+  _   Group E    @640
+  _   Group F    @660
+  _   Group G    @680
+  _   Group H    @700
+  _   Group I    @720
+  _   Group J    @740
+  _   Third Round    @760
+  h4  Asia    @782, §asi
+  _   First Round    @785
+  _   Second Round    @806
+  _   Group A    @814
+  _   Group B    @843
+  _   Group C    @872
+  _   Group D    @901
+  _   Group E    @930
+  _   Group F    @959
+  _   Group G    @988
+  _   Group H    @1017
+  _   Third Round    @1049
+  _   Group A    @1051
+  _   Group B    @1091
+  h4  North and Central America    @1146, §nca
+  _   First Round    @1152
+  _   Group A    @1154
+  _   Group B    @1173
+  _   Group C    @1192
+  _   Group D    @1211
+  _   Group E    @1230
+  _   Group F    @1245
+  _   Second Round    @1264
+  _   Third Round    @1276
+  h4  Oceania    @1354, §oce
+  _   First Round    @1362
+  _   Group A    @1364
+  _   Group B    @1378
+  _   Semifinals    @1392
+  _   Final    @1396
+  h2  About this document    @1415, §about
+
+2018q.txt (in ./pages), 1422 line(s):
+  h2  World Cup 2018 Qualifying    @7
+  h4  Europe    @21, §eur
+  _   Group A    @24
+  _   Group B    @64
+  _   Group C    @104
+  _   Group D    @144
+  _   Group E    @184
+  _   Group F    @224
+  _   Group G    @264
+  _   Group H    @304
+  _   Group I    @344
+  h4  South America    @421, §sam
+  h4  Africa    @538, §afr
+  _   Group A    @622
+  _   Group B    @642
+  _   Group C    @662
+  _   Group D    @682
+  _   Group E    @703
+  h4  Asia    @727, §asi
+  _   Group A    @764
+  _   Group B    @799
+  _   Group C    @829
+  _   Group D    @858
+  _   Group E    @888
+  _   Group F    @917
+  _   Group G    @938
+  _   Group H    @968
+  _   Group A    @1018
+  _   Group B    @1058
+  h4  North and Central America    @1119, §nca
+  _   Group A    @1189
+  _   Group B    @1209
+  _   Group C    @1229
+  h4  Oceania    @1301, §oce
+  _   First Round    @1304
+  _   Second Round    @1318
+  _   Group A    @1323
+  _   Group B    @1336
+  _   Group A    @1362
+  _   Group B    @1375
+  h2  About this document    @1410, §about
+
+2014q.txt (in ./pages), 1397 line(s):
+  h2  World Cup 2014 Qualifying    @7
+  h4  Europe    @21, §eur
+  _   Group A    @24
+  _   Group B    @64
+  _   Group C    @104
+  _   Group D    @144
+  _   Group E    @184
+  _   Group F    @224
+  _   Group G    @264
+  _   Group H    @304
+  _   Group I    @344
+  h4  South America    @411, §sam
+  h4  Africa    @510, §afr
+  _   Group 1    @550
+  _   Group 2    @570
+  _   Group 3    @590
+  _   Group 4    @610
+  _   Group 5    @630
+  _   Group 6    @650
+  _   Group 7    @670
+  _   Group 8    @690
+  _   Group 9    @710
+  _   Group 10    @730
+  h4  Asia    @771, §asi
+  _   Group 1    @839
+  _   Group 2    @859
+  _   Group 3    @879
+  _   Group 4    @899
+  _   Group 5    @919
+  _   Group A    @942
+  _   Group B    @971
+  h4  North and Central America    @1021, §nca
+  _   Group A    @1049
+  _   Group B    @1069
+  _   Group C    @1089
+  _   Group D    @1103
+  _   Group E    @1123
+  _   Group F    @1143
+  _   Group A    @1168
+  _   Group B    @1188
+  _   Group C    @1208
+  h4  Oceania    @1281, §oce
+  _   Group A    @1308
+  _   Group B    @1322
+  h2  About this document    @1383, §about
+
+2010q.txt (in ./pages), 1839 line(s):
+  h2  World Cup 2010 Qualifying    @7
+  h4  Europe    @23, §eur
+  _   Group 1    @27
+  _   Group 2    @67
+  _   Group 3    @107
+  _   Group 4    @147
+  _   Group 5    @187
+  _   Group 6    @227
+  _   Group 7    @267
+  _   Group 8    @307
+  _   Group 9    @347
+  _   Playoff    @392
+  h4  South America    @415, §sam
+  h4  Africa    @618, §afr
+  _   Group 1    @666
+  _   Group 2    @686
+  _   Group 3    @706
+  _   Group 4    @726
+  _   Group 5    @746
+  _   Group 6    @766
+  _   Group 7    @786
+  _   Group 8    @806
+  _   Group 9    @832
+  _   Group 10    @852
+  _   Group 11    @874
+  _   Group 12    @888
+  _   Group A    @940
+  _   Group B    @970
+  _   Group C    @1000
+  _   Playoff    @1030
+  _   Group D    @1034
+  _   Group E    @1066
+  h4  Asia    @1104, §asi
+  _   Group 1    @1234
+  _   Group 2    @1276
+  _   Group 3    @1296
+  _   Group 4    @1316
+  _   Group 5    @1336
+  _   Group 1    @1359
+  _   Group 2    @1406
+  h4  North and Central America    @1474, §nca
+  _   Group A    @1579
+  _   Group B    @1611
+  _   Group C    @1645
+  h4  Oceania    @1767, §oce
+  h2  About this document    @1825, §about
+
+2006q.txt (in ./pages), 2336 line(s):
+  h2  World Cup 2006 Qualifying    @7
+  h4  Europe    @23, §eur
+  _   Group 1    @33
+  _   Group 2    @128
+  _   Group 3    @222
+  _   Group 4    @319
+  _   Group 5    @385
+  _   Group 6    @453
+  _   Group 7    @525
+  _   Group 8    @591
+  h4  South America    @707, §sam
+  _   Round 1    @728
+  _   Round 2    @743
+  _   Round 3    @756
+  _   Round 4    @768
+  _   Round 5    @779
+  _   Round 6    @790
+  _   Round 7    @803
+  _   Round 8    @815
+  _   Round 9    @827
+  _   Round 10    @840
+  _   Round 11    @849
+  _   Round 12    @862
+  _   Round 13    @874
+  _   Round 14    @888
+  _   Round 15    @899
+  _   Round 16    @911
+  _   Round 17    @924
+  _   Round 18    @935
+  h4  Africa    @969, §afr
+  _   Group 1    @1064
+  _   Group 2    @1138
+  _   Group 3    @1209
+  _   Group 4    @1286
+  _   Group 5    @1356
+  h4  Asia    @1447, §asi
+  _   Group 1    @1497
+  _   Group 2    @1534
+  _   Group 3    @1569
+  _   Group 4    @1602
+  _   Group 5    @1635
+  _   Group 6    @1667
+  _   Group 7    @1700
+  _   Group 8    @1730
+  _   Group A    @1766
+  _   Group B    @1797
+  h4  North and Central America    @1849, §nca
+  _   First Round    @1854
+  _   Second Round    @1912
+  _   Group A    @1985
+  _   Group B    @2015
+  _   Group C    @2047
+  h4  Oceania    @2166, §oce
+  _   First Round    @2172
+  _   Second Round    @2240
+  _   Third Round    @2287
+  h2  About this document    @2314, §about
+
+2002q.txt (in ./pages), 2358 line(s):
+  h2  World Cup 2002 Qualifying    @7
+  _   Group 1    @15
+  _   Group 2    @90
+  _   Group 3    @177
+  _   Group 4    @254
+  _   Group 5    @328
+  _   Group 6    @401
+  _   Group 7    @453
+  _   Group 8    @506
+  _   Group 9    @559
+  _   Round 1    @658
+  _   Round 2    @670
+  _   Round 3    @683
+  _   Round 4    @695
+  _   Round 5    @709
+  _   Round 6    @721
+  _   Round 7    @730
+  _   Round 8    @742
+  _   Round 9    @755
+  _   Round 10    @768
+  _   Round 11    @780
+  _   Round 12    @794
+  _   Round 13    @808
+  _   Round 14    @821
+  _   Round 15    @834
+  _   Round 16    @847
+  _   Round 17    @861
+  _   Round 18    @876
+  _   First Round    @915
+  _   Group A    @919
+  _   Group B    @942
+  _   Round 1    @970
+  _   Group 1    @972
+  _   Group 2    @998
+  _   Group 3    @1026
+  _   Round 2    @1050
+  _   Group 1    @1052
+  _   Group 2    @1064
+  _   Group 3    @1075
+  _   Round 3    @1088
+  _   Group C    @1138
+  _   Group D    @1173
+  _   Group E    @1211
+  _   Group 1    @1327
+  _   Group 3    @1390
+  _   Group 4    @1425
+  _   Group 5    @1459
+  _   Group 6    @1501
+  _   Group 7    @1547
+  _   Group 8    @1586
+  _   Group 9    @1625
+  _   Group A    @1703
+  _   Group B    @1757
+  _   Group 1 [Coffs Harbour, NSW, Australia]    @1825
+  _   Group 2 [Albany, near Auckland]    @1865
+  _   Playoff    @1899
+  _   First Round    @1914
+  _   Group 1    @2056
+  _   Group 2    @2111
+  _   Group 3    @2162
+  _   Group 4    @2211
+  _   Group 5    @2272
+  h2  About this document    @2339, §about
+
+98q.txt (in ./pages), 912 line(s):
+  h2  World Cup 1998 Qualifying    @7
+  _   Europe Group 1 [Denmark]    @18
+  _   Europe Group 2 [England]    @40
+  _   Europe Group 3 [Norway]    @62
+  _   Europe Group 4 [Austria]    @84
+  _   Europe Group 5 [Bulgaria]    @116
+  _   Europe Group 6 [Spain]    @138
+  _   Europe Group 7 [Netherlands]    @170
+  _   Europe Group 8 [Romania]    @192
+  _   Europe Group 9 [Germany]    @224
+  _   1st round    @377
+  _   2nd round    @391
+  _   3rd round    @417
+  _   1st round    @521
+  _   Group 1    @523
+  _   Group 2    @537
+  _   Group 3    @551
+  _   Group 4    @559
+  _   Group 5    @573
+  _   Group 6    @587
+  _   Group 7    @595
+  _   Group 8    @603
+  _   Group 9    @617
+  _   Group 10    @625
+  _   2nd round    @633
+  _   Group A [Saudi Arabia]    @635
+  _   Group B [South Korea]    @657
+  _   1st round    @694
+  _   2nd round    @711
+  _   Group 1    @713
+  _   Group 2    @721
+  _   3rd round    @729
+  _   1st round    @747
+  _   2nd round    @804
+  _   Group 1 [Nigeria]    @806
+  _   Group 2 [Tunisia]    @820
+  _   Group 3 [South Africa]    @834
+  _   Group 4 [Cameroon]    @854
+  _   Group 5 [Morocco]    @868
+  h2  About this document    @898, §about
+
+94q.txt (in ./pages), 678 line(s):
+  h2  World Cup 1994 Qualifying    @7
+  _   Europe Group 1 [Italy, Switzerland]    @13
+  _   Europe Group 2 [Norway, Netherlands]    @45
+  _   Europe Group 3 [Spain, Ireland]    @77
+  _   Europe Group 4 [Romania,Belgium]    @121
+  _   Europe Group 5 [Greece, Russia]    @153
+  _   Europe Group 6 [Sweden, Bulgaria]    @176
+  _   South America Group 7 [Colombia, Argentina]    @208
+  _   South America Group 8 [Brazil, Bolivia]    @226
+  _   North and Central America Group 9 [Mexico]    @248
+  _   1st round    @278
+  _   2nd round    @305
+  _   Group A    @307
+  _   Group B    @321
+  _   Africa Group 10 [Nigeria, Morocco, Cameroon]    @351
+  _   1st round    @353
+  _   Subgroup A    @355
+  _   Subgroup B    @364
+  _   Subgroup C    @374
+  _   Subgroup D    @391
+  _   Subgroup E    @402
+  _   Subgroup F    @411
+  _   Subgroup G    @427
+  _   Subgroup H    @436
+  _   Subgroup I    @451
+  _   Group A    @459
+  _   Group B    @467
+  _   Group C    @475
+  _   Asia Group 11 [Saudi Arabia, South Korea]    @483
+  _   1st round    @485
+  _   Group A    @487
+  _   Group B    @509
+  _   Group C    @524
+  _   Group D    @546
+  _   Group E    @568
+  _   Group F    @582
+  _   2nd round    @604
+  _   1st round    @623
+  _   Subgroup A    @625
+  _   Subgroup B    @633
+  _   2nd round    @641
+  h2  About this document    @662, §about
+
+90q.txt (in ./pages), 484 line(s):
+  h2  World Cup 1990 Qualifying    @7
+  _   Europe Group 1 [Romania]    @13
+  _   Europe Group 2 [Sweden, England]    @29
+  _   Europe Group 3 [Soviet Union, Austria]    @45
+  _   Europe Group 4 [Netherlands, West Germany]    @67
+  _   Europe Group 5 [Yugoslavia, Scotland]    @83
+  _   Europe Group 6 [Spain, Ireland]    @105
+  _   Europe Group 7 [Belgium, Czechoslovakia]    @127
+  _   South America Group 8 [Uruguay]    @149
+  _   South America Group 9 [Colombia]    @157
+  _   South America Group 10 [Brazil]    @168
+  _   North and Central America Group 11 [Costa Rica, USA]    @176
+  _   1st round    @180
+  _   2nd round    @207
+  _   3rd round    @226
+  _   Africa Group 12 [Egypt, Cameroon]    @249
+  _   1st round    @251
+  _   2nd round    @279
+  _   Group A    @281
+  _   Group B    @292
+  _   Group C    @306
+  _   Group D    @320
+  _   3rd round    @334
+  _   Asia Group 13 [South Korea, UAE]    @342
+  _   1st round    @344
+  _   Subgroup A    @346
+  _   Subgroup B    @360
+  _   Subgroup C    @369
+  _   Subgroup D    @378
+  _   Subgroup E    @393
+  _   Subgroup F    @407
+  _   2nd round    @421
+  _   1st round    @441
+  h2  About this document    @472, §about
+
+86q.txt (in ./pages), 518 line(s):
+  h2  World Cup 1986 Qualifying    @7
+  _   Europe Group 1 [Poland, Belgium]    @13
+  _   Europe Group 2 [West Germany, Portugal]    @31
+  _   Europe Group 3 [England, Northern Ireland]    @53
+  _   Europe Group 4 [France, Bulgaria]    @75
+  _   Europe Group 5 [Hungary]    @97
+  _   Europe Group 6 [Denmark, Soviet Union]    @112
+  _   Europe Group 7 [Spain, Scotland]    @134
+  _   South America Group 8 [Argentina]    @151
+  _   South America Group 9 [Uruguay]    @166
+  _   South America Group 10 [Brazil]    @175
+  _   1st round    @186
+  _   2nd round    @194
+  _   North and Central America Group 11 [Canada]    @199
+  _   1st round    @201
+  _   2nd round    @229
+  _   Subgroup 1    @231
+  _   Subgroup 2    @239
+  _   Subgroup 3    @247
+  _   3rd round    @255
+  _   Africa Group 12 [Morocco, Algeria]    @264
+  _   1st round    @266
+  _   2nd round    @315
+  _   3rd round    @342
+  _   Asia Group 13 [Iraq]    @364
+  _   1st round    @366
+  _   Subgroup A    @368
+  _   Subgroup B    @373
+  _   Subgroup C    @386
+  _   Subgroup D    @394
+  _   2nd round    @399
+  _   3rd round    @408
+  _   Asia Group 14 [South Korea]    @414
+  _   1st round    @416
+  _   Subgroup A    @418
+  _   Subgroup B    @426
+  _   Subgroup C    @440
+  _   Subgroup D    @454
+  _   2nd round    @462
+  _   3rd round    @470
+  h2  About this document    @504, §about
+
+82q.txt (in ./pages), 460 line(s):
+  h2  World Cup 1982 Qualifying    @7
+  _   Europe Group 1 [West Germany, Austria]    @13
+  _   Europe Group 2 [Belgium, France]    @35
+  _   Europe Group 3 [Soviet Union, Czechoslovakia]    @57
+  _   Europe Group 4 [Hungary, England]    @79
+  _   Europe Group 5 [Yugoslavia, Italy]    @101
+  _   Europe Group 6 [Scotland, Northern Ireland]    @123
+  _   Europe Group 7 [Poland]    @145
+  _   South America Group 8 [Brazil]    @153
+  _   South America Group 9 [Peru]    @161
+  _   South America Group 10 [Chile]    @169
+  _   North and Central America Group 11 [Honduras, El Salvador]    @177
+  _   1st round    @179
+  _   Subgroup A    @217
+  _   Subgroup B    @225
+  _   2nd round    @233
+  _   Africa Group 12 [Algeria, Cameroon]    @251
+  _   1st round    @253
+  _   2nd round    @297
+  _   3rd round    @324
+  _   1st round    @348
+  _   Subgroup A    @350
+  _   Subgroup B    @372
+  _   Subgroup C    @384
+  _   Subgroup D    @392
+  _   Group 1    @399
+  _   Group 2    @404
+  _   Semifinals    @409
+  _   Final    @414
+  _   2nd round    @417
+  h2  About this document    @446, §about
+
+78q.txt (in ./pages), 416 line(s):
+  h2  World Cup 1978 Qualifying    @7
+  _   Europe Group 1 [Poland]    @13
+  _   Europe Group 2 [Italy]    @27
+  _   Europe Group 3 [Austria]    @41
+  _   Europe Group 4 [Netherlands]    @55
+  _   Europe Group 5 [France]    @69
+  _   Europe Group 6 [Sweden]    @77
+  _   Europe Group 7 [Scotland]    @85
+  _   Europe Group 8 [Spain]    @93
+  _   Europe Group 9 [Hungary]    @101
+  _   South America Group 10 [Brazil, Peru]    @112
+  _   1st round    @114
+  _   Subgroup A    @116
+  _   Subgroup B    @124
+  _   Subgroup C    @132
+  _   2nd round    @140
+  _   North and Central America Group 11 [Mexico]    @146
+  _   1st round    @148
+  _   Playoff:    @157
+  _   Subgroup A    @176
+  _   1st round    @177
+  _   Playoff:    @182
+  _   2nd round    @184
+  _   Playoff:    @187
+  _   Subgroup B    @190
+  _   1st round    @194
+  _   2nd round    @199
+  _   Playoff:    @202
+  _   2nd round    @205
+  _   Africa Group 12 [Tunisia]    @223
+  _   1st round    @233
+  _   2nd round    @273
+  _   3rd round    @293
+  _   1st round    @315
+  _   Subgroup 1    @317
+  _   Subgroup 2    @332
+  _   Subgroup 3    @341
+  _   Subgroup 4    @350
+  _   Subgroup 5    @359
+  _   2nd round    @367
+  h2  About this document    @402, §about
+
+74q.txt (in ./pages), 373 line(s):
+  h2  World Cup 1974 Qualifying    @7
+  _   Europe Group 1 [Sweden]    @13
+  _   Playoff:    @26
+  _   Europe Group 2 [Italy]    @29
+  _   Europe Group 3 [Netherlands]    @43
+  _   Europe Group 4 [East Germany]    @57
+  _   Europe Group 5 [Poland]    @71
+  _   Europe Group 6 [Bulgaria]    @79
+  _   Europe Group 7 [Yugoslavia]    @93
+  _   Playoff:    @100
+  _   Europe Group 8 [Scotland]    @103
+  _   Europe Group 9 [none]    @111
+  _   South America Group 10 [Uruguay]    @122
+  _   South America Group 11 [Argentina]    @130
+  _   South America Group 12 [Chile]    @138
+  _   Playoff:    @142
+  _   North and Central America Group 13 [Haiti]    @146
+  _   1st round    @148
+  _   Subgroup A    @150
+  _   Subgroup B    @158
+  _   Subgroup C    @162
+  _   Subgroup D    @166
+  _   Subgroup E    @170
+  _   Subgroup F    @174
+  _   2nd round    @182
+  _   Africa Group 14 [Zaire]    @200
+  _   1st round    @202
+  _   2nd round    @241
+  _   3rd round    @262
+  _   Subgroup A    @289
+  _   Subgroup B    @294
+  _   Subgroup C    @309
+  _   Subgroup D    @323
+  _   Final    @341
+  _   Playoff:    @344
+  h2  About this document    @359, §about
+
+70q.txt (in ./pages), 294 line(s):
+  h2  World Cup 1970 Qualifying    @7
+  _   Europe Group 1 [Romania]    @13
+  _   Europe Group 2 [Czechoslovakia]    @27
+  _   Playoff:    @40
+  _   Europe Group 3 [Italy]    @43
+  _   Europe Group 4 [Soviet Union]    @51
+  _   Europe Group 5 [Sweden]    @59
+  _   Europe Group 6 [Belgium]    @67
+  _   Europe Group 7 [West Germany]    @81
+  _   Europe Group 8 [Bulgaria]    @95
+  _   South America Group 9 [Peru]    @109
+  _   South America Group 10 [Brazil    @117
+  _   South America Group 11 [Uruguay]    @131
+  _   North and Central America Group 12 [El Salvador]    @139
+  _   1st round    @141
+  _   Subgroup 1    @143
+  _   Subgroup 2    @151
+  _   Subgroup 3    @159
+  _   Subgroup 4    @167
+  _   2nd round    @175
+  _   Playoff:    @183
+  _   3rd round    @186
+  _   Playoff:    @190
+  _   Africa Group 13 [Morocco]    @193
+  _   1st round    @195
+  _   2nd round    @217
+  _   Playoff:    @221
+  _   3rd round    @231
+  _   1st round    @242
+  _   2nd round    @251
+  _   Subgroup A    @253
+  _   Playoff:    @256
+  _   Subgroup B    @259
+  _   3rd round    @264
+  h2  About this document    @280, §about
+
+66q.txt (in ./pages), 268 line(s):
+  h2  World Cup 1966 Qualifying    @7
+  _   Europe Group 1 [Bulgaria]    @13
+  _   Playoff:    @20
+  _   Europe Group 2 [West Germany]    @23
+  _   Europe Group 3 [France]    @31
+  _   Europe Group 4 [Portugal]    @45
+  _   Europe Group 5 [Switzerland]    @59
+  _   Europe Group 6 [Hungary]    @73
+  _   Europe Group 7 [Soviet Union]    @81
+  _   Europe Group 8 [Italy]    @95
+  _   Europe Group 9 [Spain]    @109
+  _   Playoff:    @113
+  _   South America Group 10 [Uruguay]    @116
+  _   South America Group 11 [Chile]    @124
+  _   Playoff:    @131
+  _   South America Group 12 [Argentina]    @134
+  _   North and Central America Group 13 [Mexico]    @142
+  _   1st round    @144
+  _   Subgroup A    @146
+  _   Subgroup B    @154
+  _   Subgroup C    @162
+  _   2nd round    @170
+  _   Asia and Africa Group 14 [North Korea]    @179
+  _   First Round    @185
+  _   Group 1    @187
+  _   Group 2    @191
+  _   Group 3    @195
+  _   Group 4    @200
+  _   Group 5    @205
+  _   Group 6    @209
+  _   Second Round    @214
+  _   Semifinals    @226
+  h2  About this document    @254, §about
+
+62q.txt (in ./pages), 217 line(s):
+  h2  World Cup 1962 Qualifying    @7
+  _   Europe Group 1 [Switzerland]    @13
+  _   Playoff:    @20
+  _   Europe Group 2 [Bulgaria]    @23
+  _   Playoff:    @30
+  _   Europe Group 3 [West Germany]    @33
+  _   Europe Group 4 [Hungary]    @41
+  _   Europe Group 5 [Soviet Union]    @49
+  _   Europe Group 6 [England]    @57
+  _   Europe Group 7 [Italy]    @65
+  _   Subgroup A    @67
+  _   Subgroup B    @72
+  _   1st round    @73
+  _   2nd round    @76
+  _   Playoff:    @80
+  _   Europe Group 8 [Czechoslovakia]    @84
+  _   Playoff:    @91
+  _   Europe Group 9 [Spain]    @94
+  _   Playoff:    @98
+  _   Europe Group 10 [Yugoslavia]    @102
+  _   Playoff:    @106
+  _   South America Group 11 [Argentina]    @110
+  _   South America Group 12 [Uruguay]    @114
+  _   South America Group 13 [Colombia]    @118
+  _   North and Central America and Paraguay Group 14 [Mexico]    @122
+  _   1st round    @124
+  _   Subgroup A    @126
+  _   Subgroup B    @130
+  _   Playoff:    @137
+  _   Subgroup C    @140
+  _   2nd round    @144
+  _   Playoff:    @154
+  _   Africa Group 15 [none]    @158
+  _   1st round    @162
+  _   Subgroup A    @164
+  _   Subgroup B    @167
+  _   Playoff:    @170
+  _   Subgroup C    @174
+  _   2nd round    @178
+  _   Asia Group 16[none]    @183
+  h2  About this document    @203, §about
+
+58q.txt (in ./pages), 204 line(s):
+  h2  World Cup 1958 Qualifying    @7
+  _   Europe Group 1 [England]    @13
+  _   Europe Group 2 [France]    @21
+  _   Europe Group 3 [Hungary]    @29
+  _   Europe Group 4 [Czechoslovakia]    @37
+  _   Europe Group 5 [Austria]    @45
+  _   Europe Group 6 [Soviet Union]    @53
+  _   Playoff:    @60
+  _   Europe Group 7 [Yugoslavia]    @63
+  _   Europe Group 8 [Northern Ireland]    @71
+  _   Europe Group 9 [Scotland]    @79
+  _   South America Group 10 [Brazil]    @87
+  _   South America Group 11 [Argentina]    @92
+  _   South America Group 12 [Paraguay]    @100
+  _   Central and North America Group 13 [Mexico]    @108
+  _   1st round    @112
+  _   Subgroup A    @114
+  _   Subgroup B    @122
+  _   2nd round    @130
+  _   Asia and Africa Group 14 [Wales]    @135
+  _   1st round    @137
+  _   Subgroup 1    @139
+  _   Playoff:    @143
+  _   Subgroup 2    @147
+  _   Subgroup 3    @150
+  _   Subgroup 4    @154
+  _   2nd round    @158
+  _   3rd round    @163
+  _   Playoff:    @167
+  h2  About this document    @190, §about
+
+54q.txt (in ./pages), 128 line(s):
+  h2  World Cup 1954 Qualifying    @7
+  _   Group 1 [West Germany]    @13
+  _   Group 2 [Belgium]    @21
+  _   Group 3 [England, Scotland]    @29
+  _   Group 4 [France]    @37
+  _   Group 5 [Austria]    @45
+  _   Group 6 [Turkey]    @49
+  _   Group 7 [Hungary]    @55
+  _   Group 8 [Czechoslovakia]    @58
+  _   Group 9 [Italy]    @66
+  _   Group 10 [Yugoslavia]    @70
+  _   Group 11 [Brazil]    @78
+  _   Group 12 [Mexico]    @87
+  _   Group 13 [South Korea]    @95
+  h2  About this document    @114, §about
+
+50q.txt (in ./pages), 111 line(s):
+  h2  World Cup 1950 Qualifying    @7
+  _   Group 1 [England]    @13
+  _   Group 2 [none]    @24
+  _   1st round    @25
+  _   2nd round    @27
+  _   Group 3 [Yugoslavia]    @31
+  _   1st round    @32
+  _   2nd round    @35
+  _   Group 4 [Switzerland]    @42
+  _   1st round    @43
+  _   2nd round    @46
+  _   Group 5 [Sweden]    @49
+  _   Group 6 [Spain]    @57
+  _   Group 7 [Chile, Bolivia]    @62
+  _   Group 8 [Uruguay, Paraguay]    @65
+  _   Group 9 [Mexico, USA]    @68
+  _   Group 10 [none]    @76
+  _   1st round    @77
+  _   2nd round    @80
+  h2  About this document    @97, §about
+
+38q.txt (in ./pages), 171 line(s):
+  h2  World Cup 1938 Qualifying    @7
+  _   Group 1 [Germany, Sweden]    @15
+  _   Group 3 [Romania]    @31
+  _   Group 4 [Switzerland]    @36
+  _   Group 5 [Hungary]    @39
+  _   1st round    @40
+  _   2nd round    @43
+  _   Group 6 [Czechoslovakia]    @46
+  _   Group 7 [Austria]    @50
+  _   1st round    @51
+  _   2nd round    @54
+  _   Group 8 [Netherlands, Belgium]    @57
+  _   Group 9 [Dutch East Indies]    @64
+  _   Group 10 [Brazil]    @84
+  _   Group 11    @97
+  _   Group 12 [Cuba]    @107
+  h2  About this document    @156, §about
+
+34q.txt (in ./pages), 104 line(s):
+  h2  World Cup 1934 Qualifying    @7
+  _   Group 1 [Sweden]    @13
+  _   Group 2 [Spain]    @17
+  _   Group 3 [Italy]    @21
+  _   Group 4 [Hungary, Austria]    @25
+  _   Group 5 [Czechoslovakia]    @31
+  _   Group 6 [Romania, Switzerland]    @37
+  _   Group 7 [Netherlands, Belgium]    @42
+  _   Group 8 [Germany, France]    @47
+  _   Group 9 [Brazil]    @51
+  _   Group 10 [Argentina]    @54
+  _   Group 11 [USA]    @57
+  _   1st round    @58
+  _   2nd round    @62
+  _   3rd round    @66
+  _   Group 12 [Egypt]    @71
+  h2  About this document    @88, §about

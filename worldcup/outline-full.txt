@@ -1,0 +1,319 @@
+==> 20 file(s) in (../worldcup) matching ./pages/**/*full.txt:
+
+2014full.txt (in ./pages), 1383 line(s):
+  h2  World Cup 2014 - Match Details    @7
+  _   Round 1    @15
+  _   Group A    @17
+  _   Group B    @136
+  _   Group C    @253
+  _   Group D    @375
+  _   Group E    @495
+  _   Group F    @615
+  _   Group G    @731
+  _   Group H    @848
+  _   Round 2    @968
+  _   Quarter-finals    @1141
+  _   Semi-finals    @1222
+  _   Third place match    @1267
+  _   Final    @1291
+  h2  Statistics    @1341, §stats
+  h2  About this document    @1368, §about
+
+2010full.txt (in ./pages), 1363 line(s):
+  h2  World Cup 2010 - Match Details    @7
+  h2  World Cup 2010, Final Tournament    @13
+  _   Round 1    @15
+  _   Group A    @17
+  _   Group B    @137
+  _   Group C    @258
+  _   Group D    @373
+  _   Group E    @495
+  _   Group F    @615
+  _   Group G    @729
+  _   Group H    @845
+  _   Round 2    @968
+  _   Quarter-finals    @1121
+  _   Semi-finals    @1204
+  _   Third place match    @1243
+  _   Final    @1265
+  h2  Statistics    @1318, §stats
+  h2  About this document    @1347, §about
+
+2006full.txt (in ./pages), 2011 line(s):
+  h2  World Cup 2006 - Match Details    @7
+  h4  Group A    @37, §gra
+  h4  Group B    @164, §grb
+  h4  Group C    @286, §grc
+  h4  Group D    @415, §grd
+  h4  Group E    @536, §gre
+  h4  Group F    @663, §grf
+  h4  Group G    @783, §grg
+  h4  Group H    @908, §grh
+  h4  1/8 Finals    @1030, §8f
+  h4  Quarterfinals    @1195, §qf
+  h4  Semifinals    @1292, §sf
+  h4  Third Place Match    @1339, §3m
+  h4  Final    @1365, §fin
+  h2  Goalscorers    @1415, §scorers
+  h2  Awards    @1471, §awards
+  h2  Statistics    @1490, §stats
+  h2  Squads    @1519, §squads
+  h2  About this document    @1998, §about
+
+2002full.txt (in ./pages), 2305 line(s):
+  h2  World Cup 2002 - Match Details    @7
+  h4  Group A    @34, §gra
+  h4  Group B    @160, §grb
+  h4  Group C    @284, §grc
+  h4  Group D    @397, §grd
+  h4  Group E    @518, §gre
+  h4  Group F    @642, §grf
+  h4  Group G    @761, §grg
+  h4  Group H    @887, §grh
+  h4  1/8 Finals    @1011, §8f
+  h4  Quarterfinals    @1171, §qf
+  h4  Semifinals    @1251, §sf
+  h4  Third Place Match    @1292, §3m
+  h4  Final    @1316, §fin
+  h2  Squads    @1339, §squads
+  h2  Oldest and youngest    @2245, §records
+  h2  Awards    @2263, §awards
+  h2  About this document    @2285, §about
+
+98full.txt (in ./pages), 2210 line(s):
+  h1  World Cup 1998    @7
+  h2  Group Stage    @39
+  h2  Group A - BRA MAR NOR SCO    @43, §gra
+  h2  Group B - AUT CAM CHI ITA    @152, §grb
+  h2  Group C - ARS DAN FRA SAF    @267, §grc
+  h2  Group D - BUL ESP NGA PAR    @381, §grd
+  h2  Group E - BEL KOR HOL MEX    @495, §gre
+  h2  Group F - GER IRN JUG USA    @614, §grf
+  h2  Group G - COL ENG ROM TUN    @729, §grg
+  h2  Group H - ARG CRO JAM JAP    @842, §grh
+  h2  Eightfinals    @952, §8fin
+  h2  Quarterfinals    @1100, §4fin
+  h2  Semifinals    @1176, §2fin
+  h2  Third place match    @1217, §3place
+  h2  Final    @1234, §fin
+  h2  Squads    @1253, §squads
+  h2  Scorers' list    @2125, §scorers
+  h2  Coaches and reserve players    @2154, §coaches
+  h2  Oldest and youngest    @2195, §records
+
+94full.txt (in ./pages), 1741 line(s):
+  h1  World Cup 1994    @7
+  h2  Group A - COL ROM SUI USA    @40, §gra
+  h2  Group B - BRA CAM RUS SWE    @152, §grb
+  h2  Group C    @264, §grc
+  h2  Group D - ARG BUL GRE NGA    @373, §grd
+  h2  Group E    @499, §gre
+  h2  Group F - ARS BEL HOL MAR    @614, §grf
+  h2  Second Round    @724, §8fin
+  h2  Quarterfinals    @872, §4fin
+  h2  Semifinals    @951, §2fin
+  h2  Third place match    @986, §3place
+  h2  Final    @1004, §final
+  h2  Squads    @1023, §squads
+  h2  Scorers' list    @1676, §scorers
+  h2  Coaches and reserve players    @1699, §coaches
+  h2  Oldest and youngest    @1728, §records
+
+90full.txt (in ./pages), 1704 line(s):
+  h1  World Cup 1990    @7
+  h2  Group A - AUT CZE ITA USA    @40, §gra
+  h2  Group B - ARG CAM ROM ZSR    @151, §grb
+  h2  Group C - BRA COS SCO SWE    @267, §grc
+  h2  Group D    @373, §grd
+  h2  Group E - BEL ESP KOR URU    @490, §gre
+  h2  Group F    @606, §grf
+  h2  Second Round    @711, §8fin
+  h2  Quarterfinals    @855, §4fin
+  h2  Semifinals    @929, §2fin
+  h2  Third place match    @972, §3place
+  h2  Final    @987, §final
+  h2  Squads    @1005, §squads
+  h2  Scorers' list    @1636, §scorers
+  h2  Coaches, assistants, reserve players    @1659, §coaches
+  h2  Oldest and youngest    @1691, §records
+
+86full.txt (in ./pages), 1073 line(s):
+  h1  World Cup 1986    @7
+  h2  Group A - ARG BUL ITA KOR    @39, §gra
+  h2  Group B - BEL IRK MEX PAR    @149, §grb
+  h2  Group C - CAN FRA HUN ZSR    @258, §grc
+  h2  Group D - ALG BRA ESP NIR    @363, §grd
+  h2  Group E - DAN GER SCO URU    @473, §gre
+  h2  Group F - ENG MAR POL POR    @585, §grf
+  h2  Second Round    @699, §8fin
+  h2  Quarterfinals    @842, §4fin
+  h2  Semifinals    @921, §2fin
+  h2  Third place match    @953, §3place
+  h2  Final    @971, §final
+  h2  Scorers' list    @989, §scorers
+  h2  Coaches, assistants, reserve players    @1013, §coaches
+  h2  Oldest and youngest    @1060, §records
+
+82full.txt (in ./pages), 1062 line(s):
+  h1  World Cup 1982 finals    @7
+  h2  Group A - CAM ITA PER POL    @41, §gra
+  h2  Group B - ALG AUT CHI GER    @143, §grb
+  h2  Group C - ARG BEL HUN SAL    @252, §grc
+  h2  Group D - CZE ENG FRA KUW    @364, §grd
+  h2  Group E - ESP JUG HON NIR    @473, §gre
+  h2  Group F - BRA NZL SCO ZSR    @580, §grf
+  h1  Second  phase    @678
+  h2  Group 1 - BEL POL ZSR    @680, §gr1
+  h2  Group 2 - ENG ESP GER    @734, §gr2
+  h2  Group 3 - ARG BRA ITA    @786, §gr3
+  h2  Group 4 - AUT FRA NIR    @843, §gr4
+  h2  Semifinals    @899, §2fin
+  h2  Third place match    @938, §3place
+  h2  Final    @956, §final
+  h2  Scorers' list    @975, §scorers
+  h2  Coaches, assistants, reserve players    @1002, §coaches
+
+78full.txt (in ./pages), 776 line(s):
+  h1  World Cup 1978 finals    @7
+  h2  Group A - ARG FRA HUN ITA    @36, §gra
+  h2  Group B - GER MEX POL TUN    @145, §grb
+  h2  Group C - AUT BRA ESP SWE    @243, §grc
+  h2  Group D - HOL IRN PER SCO    @349, §grd
+  h2  Group 1 - AUT GER HOL ITA    @458, §gr1
+  h2  Group 2 - ARG BRA PER POL    @568, §gr2
+  h2  Third place match    @672, §3place
+  h2  Final    @689, §final
+  h2  Scorers' list    @707, §scorers
+  h2  Coaches, assistants reserve players    @729, §coaches
+  h2  Oldest and youngest    @763, §records
+
+74full.txt (in ./pages), 776 line(s):
+  h1  World Cup 1974 finals    @7
+  h2  Group A - AUS CHI DDR GER    @36, §gra
+  h2  Group B - BRA JUG SCO ZAI    @143, §grb
+  h2  Group C - BUL HOL SWE URU    @250, §grc
+  h2  Group D - ARG HAI ITA POL    @352, §grd
+  h1  Second Phase    @463
+  h2  Group 1 - ARG BRA DDR HOL    @465, §gr1
+  h2  Group 2 - GER JUG POL SWE    @570, §gr2
+  h2  THIRD PLACE MATCH    @677, §3place
+  h2  FINAL    @694, §final
+  h2  Scorers' list    @711, §scorers
+  h2  Coaches, assistants, reserve players    @732, §coaches
+  h2  Oldest and youngest    @763, §records
+
+70full.txt (in ./pages), 656 line(s):
+  h1  World Cup 1970    @7
+  h2  Group A - BEL MEX SAL ZSR    @36, §gra
+  h2  Group B - ISR ITA SWE URU    @146, §grb
+  h2  Group C - BRA CZE ENG ROM    @239, §grc
+  h2  Group D - BUL GER MAR PER    @347, §grd
+  h2  Quarterfinals    @444, §4fin
+  h2  Semifinals    @519, §semi
+  h2  Third place match    @554, §3place
+  h2  Final    @571, §final
+  h2  Scorers' list    @589, §scorers
+  h2  Coaches, assistants, reserve players    @611, §coaches
+  h2  Oldest and youngest    @643, §records
+
+66full.txt (in ./pages), 614 line(s):
+  h1  World Cup 1966    @7
+  h2  Group A - ENG FRA MEX URU    @37, §gra
+  h2  Group B - ARG ESP GER SUI    @128, §grb
+  h2  Group C - BRA BUL HUN POR    @224, §grc
+  h2  Group D - CHI ITA KLD ZSR    @319, §grd
+  h2  Quarterfinals    @417, §4fin
+  h2  Semifinals    @486, §2fin
+  h2  Third place match    @518, §3place
+  h2  Final    @533, §final
+  h2  Scorers' List    @551, §scorers
+  h2  Coaches, assistants, reserve players    @569, §coaches
+  h2  Oldest and youngest    @601, §records
+
+62full.txt (in ./pages), 612 line(s):
+  h1  World Cup 1962    @7
+  h2  Group A - COL JUG URU ZSR    @36, §gra
+  h2  Group B - GER CHI ITA SUI    @135, §grb
+  h2  Group C - BRA CZE ESP MEX    @232, §grc
+  h2  Group D - ARG BUL ENG HUN    @324, §grd
+  h2  Quarterfinals    @418, §4fin
+  h2  Semifinals    @479, §2fin
+  h2  Third place match    @512, §3place
+  h2  Final    @527, §final
+  h2  Scorers' list    @542, §scorers
+  h2  Coaches' list    @561, §coaches
+  h2  Oldest and youngest    @599, §records
+
+58full.txt (in ./pages), 664 line(s):
+  h1  World Cup 1958    @7
+  h2  Group A - ARG CZE GER NIR    @42, §gra
+  h2  Group B - FRA JUG PAR SCO    @151, §grb
+  h2  Group C - HUN MEX SWE WAL    @250, §grc
+  h2  Group D - AUT BRA ENG ZSR    @360, §grd
+  h2  Quarterfinals    @468, §4fin
+  h2  Semifinals    @528, §2fin
+  h2  Third place match    @561, §3place
+  h2  Final    @577, §final
+  h2  Scorers' list    @593, §scorers
+  h2  Coaches, assistants, reserve players    @613, §coaches
+  h2  Oldest and youngest    @651, §records
+
+54full.txt (in ./pages), 553 line(s):
+  h1  World Cup 1954    @7
+  h2  Group A - BRA FRA JUG MEX    @44, §gra
+  h2  Group B - GER HUN KOR TUR    @112, §grb
+  h2  Group C - AUT CZE SCO URU    @199, §grc
+  h2  Group D - BEL ENG ITA SUI    @265, §grd
+  h2  Quarterfinals    @349, §4fin
+  h2  Semifinals    @415, §2fin
+  h2  Third place match    @449, §3place
+  h2  Final    @466, §final
+  h2  Scorers' list    @481, §scorers
+  h2  Coaches, assistants, reserve players    @502, §coaches
+  h2  Oldest and youngest    @540, §records
+
+50full.txt (in ./pages), 465 line(s):
+  h1  World Cup 1950    @7
+  h2  Group A - BRA JUG MEX SUI    @34, §gra
+  h2  Group B - CHI ENG ESP USA    @137, §grb
+  h2  Group C - ITA PAR SWE (IND withdrew)    @235, §grc
+  h2  Group D - BOL URU (SCO, TUR withdrew)    @285, §grd
+  h2  Final Pool - BRA ESP SWE URU    @304, §final
+  h2  Scorers' list    @407, §scorers
+  h2  Coaches, assistants, reserve players    @423, §coaches
+  h2  Oldest and youngest    @452, §records
+
+38full.txt (in ./pages), 433 line(s):
+  h1  World Cup 1938 finals    @7
+  h2  Eightfinals    @34, §8fin
+  h2  Quarter finals    @188, §4fin
+  h2  Semifinals    @268, §2fin
+  h2  MATCH FOR THIRD PLACE    @302, §3place
+  h2  FINAL    @319, §fin
+  h2  Scorers' list    @335, §scorers
+  h2  Coaches, assistants, reserve players    @353, §coaches
+  h2  Oldest and youngest    @383, §records
+
+34full.txt (in ./pages), 363 line(s):
+  h1  World Cup 1934 finals    @7
+  h2  Eightfinals    @33, §8fin
+  h2  Quarter Finals    @159, §4fin
+  h2  Semifinals    @237, §2fin
+  h2  Third place match    @270, §3place
+  h2  Final    @285, §final
+  h2  Scorers' list    @300, §scorers
+  h2  Coaches, assistants, reserve players    @316, §coaches
+  h2  Oldest and youngest    @350, §records
+
+30full.txt (in ./pages), 438 line(s):
+  h1  World Cup 1930    @7
+  h2  First Phase    @29
+  h2  Group A - ARG CHI FRA MEX    @35, §gra
+  h2  Group B - BOL BRA JUG    @137, §grb
+  h2  Group C - PER ROM URU    @186, §grc
+  h2  Group D - BEL PAR USA    @239, §grd
+  h2  Semifinals    @292, §semi
+  h2  Final    @324, §final
+  h2  Scorers' list    @353, §scorers
+  h2  Coaches, assistants, reserve players    @371, §coaches
+  h2  Oldest and youngest    @394, §records

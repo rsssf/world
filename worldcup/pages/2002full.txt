@@ -1,0 +1,2195 @@
+<!--
+   title:   World Cup 2002 - Match Details
+   source:  https://rsssf.org/tables/2002full.html
+   author:  Erlan Manaschev
+   updated: 3 Jul 2008
+  -->
+
+<!--
+                     Contents:
+
+         World Cup 2002 - Match Details   
+           Group A                          (see §§gra)
+           Group B                          (see §§grb)
+           Group C                          (see §§grc)
+           Group D                          (see §§grd)
+           Group E                          (see §§gre)
+           Group F                          (see §§grf)
+           Group G                          (see §§grg)
+           Group H                          (see §§grh)
+           1/8 Finals                       (see §§8f)
+           Quarterfinals                    (see §§qf)
+           Semifinals                       (see §§sf)
+           Third Place Match                (see §§3m)
+           Final                            (see §§fin)
+         Squads                             (see §§squads)
+         Oldest and youngest                (see §§records)
+         Awards                             (see §§awards)
+  -->
+
+
+
+== World Cup 2002 - Match Details
+=== Group A  ‹§gra›
+
+31/05/2002, Seoul (South Korea), Seoul World Cup Stadium, 62561
+World Cup
+FRANCE              0
+SENEGAL             1 (Papa Bouba Diop 30')
+France:             Fabien Barthez, Bixente Lizarazu, Patrick Vieira, Youri Djorkaeff
+                    (Christophe Dugarry 60'), Marcel Desailly [c], Sylvain Wiltord
+                    (Djibril Cissé 81'), Thierry Henry, Lilian Thuram, Emmanuel Petit,
+                    Frank Leboeuf, David Trézéguet.
+Senegal:            Tonny Sylva, Omar Daf, Papa Malick Diop, Aliou Cissé [c], Khalilou Fadiga,
+                    El-Hadji Diouf, Lamine Diatta, Moussa Ndiaye, Salif Diao, Ferdinand Coly,
+                    Papa Bouba Diop.
+Referee:            Ali Bujsaim (UAE).
+Coaches:            France: Roger Lemerre.
+                    Senegal: Bruno Metsu (France).
+Cards:              France: Emmanuel Petit [Y 45+'].
+                    Senegal: Aliou Cissé [Y 51'].
+
+01/06/2002, Ulsan (South Korea), Munsu Football Stadium, 30157
+World Cup
+URUGUAY             1 (Darío Rodríguez 47')
+DENMARK             2 (Jon Dahl Tomasson 45', 83')
+Uruguay:            Fabián Carini, Gustavo Méndez, Gonzalo Sorondo, Paolo Montero [c],
+                    Darío Rodríguez (Federico Magallanes 87'), Pablo García, Gustavo Varela,
+                    Gianni Guigou, Álvaro Recoba (Mario Regueiro 80'), Darío Silva,
+                    Sebastián Abreu (Richard Morales 88').
+Denmark:            Thomas Sørensen, Stig Tøfting, René Henriksen, Martin Laursen,
+                    Jan Heintze [c] (Niclas Jensen 58'), Thomas Helveg, Thomas Gravesen,
+                    Jesper Grønkjær (Martin Jørgensen 70'), Jon Dahl Tomasson,
+                    Ebbe Sand (Christian Poulsen 89'), Dennis Rommedahl.
+Referee:            Saad Mane (Kuwait).
+Coaches:            Uruguay: Víctor Púa.
+                    Denmark: Morten Olsen.
+Cards:              Uruguay: Gustavo Méndez [Y 25'].
+                    Denmark: Jan Heintze [Y 34'], Martin Laursen [Y 51'].
+
+06/06/2002, Busan (South Korea), Busan Asiad Main Stadium, 38289
+World Cup
+FRANCE              0
+URUGUAY             0
+France:             Fabien Barthez, Bixente Lizarazu, Patrick Vieira, Marcel Desailly [c],
+                    Sylvain Wiltord (Christophe Dugarry 90+'), Thierry Henry, Lilian Thuram,
+                    Emmanuel Petit, Frank Leboeuf (Vincent Candela 16'), David Trézéguet
+                    (Djibril Cissé 81').
+Uruguay:            Fabián Carini, Alejandro Lembo, Paolo Montero [c], Pablo García,
+                    Darío Rodríguez (Gianni Guigou 72'), Gustavo Varela, Darío Silva
+                    (Federico Magallanes 60'), Sebastián Abreu, Gonzalo Sorondo,
+                    Marcelo Romero (Gonzalo De los Santos 71'), Álvaro Recoba.
+Referee:            Felipe Ramos Rizo (Mexico).
+Coaches:            France: Roger Lemerre.
+                    Uruguay: Víctor Púa.
+Cards:              France: Thierry Henry [R 25'], Emmanuel Petit [Y 45+'].
+                    Uruguay: Pablo García [Y 11'], Sebastián Abreu [Y 47'],
+                             Marcelo Romero [Y 45+'], Darío Silva [Y 47'].
+
+06/06/2002, Daegu (South Korea), Daegu World Cup Stadium, 43500
+World Cup
+DENMARK             1 (Jon Dahl Tomasson 16' pen)
+SENEGAL             1 (Salif Diao 52')
+Denmark:            Thomas Sørensen, Stig Tøfting, René Henriksen, Martin Laursen,
+                    Jan Heintze [c], Thomas Helveg, Thomas Gravesen (Christian Poulsen 62'),
+                    Jesper Grønkjær (Martin Jørgensen 50'), Jon Dahl Tomasson,
+                    Ebbe Sand, Dennis Rommedahl (Peter Løvenkrands 89').
+Senegal:            Tony Sylva, Omar Daf, Papa Sarr (Souleymane Camara 46' (Habib Bèye 82')),
+                    Papa Malick Diop [c], Khalilou Fadiga, El-Hadji Diouf, Lamine Diatta,
+                    Moussa Ndiaye (Henri Camara 46'), Salif Diao, Ferdinand Coly,
+                    Papa Bouba Diop.
+Referee:            Carlos Batrés (Guatemala).
+Coaches:            Denmark: Morten Olsen.
+                    Senegal: Bruno Metsu (France).
+Cards:              Denmark: Ebbe Sand [Y 7'], Jon Dahl Tomasson [Y 20'],
+                             Thomas Helveg [Y 82'], Christian Poulsen [Y 84'].
+                    Senegal: Khalilou Fadiga [Y 10'], Salif Diao [Y 62', YR 80'].
+
+11/06/2002, Suwon (South Korea), Suwon World Cup Stadium, 33681
+World Cup
+SENEGAL             3 (Khalilou Fadiga 20' pen, Papa Bouba Diop 26', 38')
+URUGUAY             3 (Richard Morales 46', Diego Forlán 69', Álvaro Recoba 88' pen)
+Senegal:            Tony Sylva, Omar Daf, Papa Malick Diop, Alassane Ndour (Amdy Faye 76'),
+                    Aliou Cissé [c], Henri Camara (Moussa Ndiaye 67'), Khalilou Fadiga,
+                    El-Hadji Diouf, Lamine Diatta, Ferdinand Coly (Habib Bèye 63'),
+                    Papa Bouba Diop.
+Uruguay:            Fabián Carini, Alejandro Lembo, Paolo Montero [c], Pablo García,
+                    Darío Rodríguez, Gustavo Varela, Darío Silva, Sebastián Abreu
+                    (Diego Forlán 46'), Gonzalo Sorondo (Mario Reguero 32'), Marcelo Romero
+                    (Richard Morales 46'), Álvaro Recoba.
+Referee:            Jan Wegereef (Netherlands).
+Coaches:            Senegal: Bruno Metsu (France).
+                    Uruguay: Víctor Púa.
+Cards:              Senegal: Henri Camara [Y 2'], Omar Daf [Y 4'], Ferdinand Coly [Y 39'],
+                             Papa Bouba Diop [Y 69'], El-Hadji Djouf [Y 82'],
+                             Khalilou Fadiga [Y 87'], Habib Bèye [Y 87'].
+                    Uruguay: Marcelo Romero [Y 8'], Fabián Carini [Y 19'],
+                             Pablo García [Y 35'], Darío Rodríguez [Y 40'],
+                             Paolo Montero [Y 82'].
+
+11/06/2002, Incheon (South Korea), Incheon Munhak Stadium, 48100
+World Cup
+DENMARK             2 (Dennis Rommedahl 22', Jon Dahl Tomasson 67')
+FRANCE              0
+Denmark:            Thomas Sørensen, Stig Tøfting (Brian Steen Nielsen 79'),
+                    René Henriksen [c], Martin Laursen, Thomas Helveg, Thomas Gravesen,
+                    Jon Dahl Tomasson, Martin Jørgensen (Jesper Grønkjær 46'), Niclas Jensen,
+                    Christian Poulsen (Kasper Bøgelund 76'), Dennis Rommedahl.
+France:             Fabien Barthez, Vincent Candela, Bixente Lizarazu, Patrick Vieira
+                    (Johan Micoud 71'), Claude Makelele, Marcel Desailly [c], Zinedine Zidane,
+                    Sylvain Wiltord (Youri Djorkaeff 83'), Lilian Thuram, David Trézéguet,
+                    Christophe Dugarry (Djibril Cissé 54').
+Referee:            Vítor Melo Pereira (Portugal).
+Coaches:            Denmark: Morten Olsen.
+                    France: Roger Lemerre.
+Cards:              Denmark: Christian Poulsen [Y 27'], Niclas Jensen [Y 71'].
+                    France: Christophe Dugarry [Y 8'].
+
+Table:
+ 1.DENMARK          3  2  1  0   5- 2  7
+ 2.SENEGAL          3  1  2  0   5- 4  5
+ 3.Uruguay          3  0  2  1   4- 5  2
+ 4.France           3  0  1  2   0- 3  1
+
+
+=== Group B  ‹§grb›
+
+02/06/2002, Gwangju (South Korea), Gwangju World Cup Stadium, 28598
+World Cup
+SPAIN               3 (Raúl 44', Valerón 74', Hierro 87' pen)
+SLOVENIA            1 (Sebastjan Cimirotič 82')
+Spain:              Iker Casillas, Juanfran (Romero 82'), Puyol, Hierro [c], Raúl,
+                    Baraja, Diego Tristán (Morientes 67'), De Pedro, Valerón, Nadal,
+                    Luis Enrique (Iván Helguera 74').
+Slovenia:           Marko Simeunovič, Željko Milinovič, Marinko Galič, Aleksander Knavs,
+                    Đoni Novak (Saša Gajser 77'), Aleš Čeh [c], Milan Osterc
+                    (Sebastjan Cimirotič 57'), Zlatko Zahovič (Milenko Ačimovič 63'),
+                    Miran Pavlin, Mladen Rudonja, Amir Karič.
+Referee:            Mohamed Guezzaz (Morocco).
+Coaches:            Spain: Camacho.
+                    Slovenia: Srečko Katanec.
+Cards:              Spain: Valerón [Y 36'].
+                    Slovenia: Amir Karič [Y 45+'], Sebastjan Cimirotič [Y 65'].
+
+02/06/2002, Busan (South Korea), Busan Asiad Main Stadium, 25186
+World Cup
+PARAGUAY            2 (Roque Santa Cruz 39', Francisco Arce 55')
+SOUTH AFRICA        2 (Teboho Mokoena 63', Quinton Fortune 90+' pen)
+Paraguay:           Ricardo Tavarelli, Francisco Arce, Carlos Gamarra [c], Celso Ayala,
+                    Estanislao Struway (Juan Carlos Franco 86'), Guido Alvarenga
+                    (Diego Gavilán 66'), Roque Santa Cruz, Roberto Acuña, Jorge Campos
+                    (Gustavo Morínigo 72'), Julio César Cáceres, Denis Caniza.
+South Africa:       Andre Arendse, Cyril Nzama, Lucas Radebe [c], Bradley Carnell,
+                    Aaron Mokoena, MacBeth Sibaya, Quinton Fortune, Teboho Mokoena,
+                    Pierre Issa (MacDonald Mukasi 27'), Sibusiso Zuma, Benedict McCarthy
+                    (George Koumantarakis 78').
+Referee:            Lubos Michel (Slovakia).
+Coaches:            Paraguay: Cesare Maldini (Italy).
+                    South Africa: Jomo Sono.
+Cards:              Paraguay: Julio César Cáceres [Y 35'], Denis Caniza [Y 65'],
+                              Ricardo Tavarelli [Y 90'], Juan Carlos Franco [Y 90+'].
+                    South Africa: Aaron Mokoena [Y 3'], Pierre Issa [Y 9'],
+                                  Benedict McCarthy [Y 38'], Sibusiso Zuma [Y 45+'].
+
+07/06/2002, Jeonju (South Korea), Jeonju World Cup Stadium, 24000
+World Cup
+SPAIN               3 (Morientes 53', 69', Hierro 83' pen)
+PARAGUAY            1 (Puyol 10' OG)
+Spain:              Iker Casillas, Juanfran, Puyol, Hierro [c], Nadal, Baraja, Diego Tristán
+                    (Morientes 46'), De Pedro, Valerón (Xavi 85'), Raúl, Luis Enrique
+                    (Iván Helguera 46').
+Paraguay:           José Luis Chilavert [c], Francisco Arce, Carlos Gamarra, Celso Ayala,
+                    Roque Santa Cruz, Roberto Acuña, Carlos Humberto Paredes,
+                    Diego Gavilán, Julio César Cáceres, José Cardozo (Jorge Campos 63'),
+                    Denis Caniza (Estanislao Struway 78').
+Referee:            Gamal Ghandour (Egypt).
+Coaches:            Spain: Camacho.
+                    Paraguay: Cesare Maldini (Italy).
+Cards:              Spain: Baraja [Y 9'].
+                    Paraguay: Francisco Arce [Y 43'], Diego Gavilán [Y 60'],
+                              Roque Santa Cruz [Y 80'].
+
+08/06/2002, Daegu (South Korea), Daegu World Cup Stadium, 47226
+World Cup
+SOUTH AFRICA        1 (Siyabonga Nomvete 4')
+SLOVENIA            0
+South Africa:       Andre Arendse, Cyril Nzama, Bradley Carnell, Aaron Mokoena,
+                    MacBeth Sibaya, Quinton Fortune (Jabu Pule 84'), Teboho Mokoena,
+                    Siyabonga Nomvete (Delron Buckley 71'), Sibusiso Zuma, Benedict McCarthy
+                    (George Koumantarakis 80'), Lucas Radebe [c].
+Slovenia:           Marko Simeunovič, Željko Milinovič, Muamer Vugdalič, Aleksander Knavs
+                    (Spasoje Bulajič 60'), Đoni Novak, Aleš Čeh [c], Miran Pavlin,
+                    Mladen Rudonja, Milenko Ačimovič (Nastja Čeh 60'), Amir Karič,
+                    Sebastjan Cimirotič (Milan Osterc 41').
+Referee:            Ángel Sánchez (Argentina).
+Coaches:            South Africa: Jomo Sono.
+                    Slovenia: Srečko Katanec.
+Cards:              South Africa: Lucas Radebe [Y 12'], Teboho Mokoena [Y 59'].
+                    Slovenia: Muamer Vugdalič [Y 35'], Željko Milinovič [Y 52'],
+                              Aleš Čeh [Y 62'], Miran Pavlin [Y 75'].
+
+12/06/2002, Daejeon (South Korea), Daejeon World Cup Stadium, 31024
+World Cup
+SOUTH AFRICA        2 (Benedict McCarthy 31', Lucas Radebe 53')
+SPAIN               3 (Raúl 4', 56', Mendieta 45+')
+South Africa:       Andre Arendse, Cyril Nzama, Bradley Carnell, Aaron Mokoena,
+                    MacBeth Sibaya, Quinton Fortune (Jacob Lekgetho 83'), Teboho Mokoena,
+                    Siyabonga Nomvete (George Koumantarakis 74'), Sibusiso Zuma,
+                    Benedict McCarthy, Lucas Radebe [c] (Thabang Molefe 80').
+Spain:              Iker Casillas, Curro Torres, Iván Helguera, Raúl (Luis Enrique 82'),
+                    Morientes (Luque 77'), Albelda (Sergio 53'), Romero, Mendieta, Xavi,
+                    Nadal [c], Joaquín.
+Referee:            Saad Mane (Kuwait).
+Coaches:            South Africa: Jomo Sono.
+                    Spain: Camacho.
+Cards:              South Africa: Cyril Nzama [Y 16'], Bradley Carnell [Y 67'],
+                                  Siyabonga Nomvete [Y 69'], Aaron Mokoena [Y 81'].
+                    Spain: None.
+
+12/06/2002, Seogwipo (South Korea), Jeju World Cup Stadium, 30176
+World Cup
+SLOVENIA            1 (Milenko Ačimovič 45+')
+PARAGUAY            3 (Nelson Cuevas 65', 84', Jorge Campos 73')
+Slovenia:           Mladen Dabanovič, Željko Milinovič, Đoni Novak, Aleš Čeh [c],
+                    Milan Osterc (Senad Tiganj 77'), Miran Pavlin (Mladen Rudonja 40'),
+                    Rajko Tavčar, Milenko Ačimovič (Nastja Čeh 62'), Amir Karič,
+                    Sebastjan Cimirotič, Spasoje Bulajič.
+Paraguay:           José Luis Chilavert [c], Francisco Arce, Carlos Gamarra, Celso Ayala,
+                    Guido Alvarenga (Jorge Campos 53'), Roque Santa Cruz, Roberto Acuña,
+                    Carlos Humberto Paredes, Julio César Cáceres, José Cardozo
+                    (Nelson Cuevas 61' (Juan Carlos Franco 90+')), Denis Caniza.
+Referee:            Felipe Ramón Rizo (Mexico).
+Coaches:            Slovenia: Srečko Katanec.
+                    Paraguay: Cesare Maldini (Italy).
+Cards:              Slovenia: Miran Pavlin [Y 15'], Amir Karič [Y 68'],
+                              Mladen Rudonja [Y 69'], Željko Milinovič [Y 79'],
+                              Nastja Čeh [R 81'].
+                    Paraguay: Carlos Humberto Paredes [Y 4' YR 22'].
+
+Table:
+ 1.SPAIN            3  3  0  0   9- 4  9
+ 2.PARAGUAY         3  1  1  1   6- 6  4
+ 3.South Africa     3  1  1  1   5- 5  4
+ 4.Slovenia         3  0  0  3   2- 7  0
+
+
+=== Group C  ‹§grc›
+
+03/06/2002, Ulsan (South Korea), Munsu Football Stadium, 33842
+World Cup
+BRAZIL              2 (Ronaldo 50', Rivaldo 87' pen)
+TURKEY              1 (Hasan Şaş 45+')
+Brazil:             Marcos, Cafu [c], Lúcio, Roque Júnior, Edmílson, Roberto Carlos,
+                    Gilberto Silva, Ronaldo (Luizão 73'), Rivaldo, Ronaldinho Gaúcho
+                    (Denílson 67'), Juninho Paulista (Vampeta 72').
+Turkey:             Rüştü Reçber, Bülent Korkmaz (Ümit Davala 66'), Fatih Akyel, Alpay Özalan,
+                    Tugay Kerimoğlu (Arif Erdem 88'), Hakan Şükür [c], Yıldıray Baştürk
+                    (İlhan Mansız 66'), Hasan Şaş, Ümit Özat, Hakan Ünsal, Emre Belözoğlu.
+Referee:            Kim Young-Joo (South Korea).
+Coaches:            Brazil: Luiz Felipe Scolari.
+                    Turkey: Şenol Güneş.
+Cards:              Brazil: Denílson [Y 73'].
+                    Turkey: Fatih Akyel [Y 21'], Hakan Ünsal [Y 24', YR 90+'],
+                            Alpay Özalan [Y 44' R 86'].
+
+04/06/2002, Gwangju (South Korea), Gwangju World Cup Stadium, 27217
+World Cup
+CHINA               0
+COSTA RICA          2 (Rónald Gómez 61', Mauricio Wright 65')
+China:              Jiang Jin, Wu Chengying, Fan Zhiyi (Yu Genwei 74'), Sun Jihai
+                    (Qu Bo 26'), Li Tie, Ma Mingyu [c], Hao Haidong, Li Weifeng, Li Xiaopeng,
+                    Yang Chen (Su Maozhen 66'), Xu Yunlong.
+Costa Rica:         Erick Lonnis [c], Luis Marín, Mauricio Wright, Gilberto Martínez,
+                    Rolando Fonseca (Hernán Medford 57'), Mauricio Solís, Paulo Wanchope
+                    (Wílmer López 80'), Wálter Genteno, Rónald Gómez, Hárold Wallace
+                    (Steven Bryce 70'), Carlos Castro.
+Referee:            Kyros Vassaras (Greece).
+Coaches:            China: Bora Milutinović (Yugoslavia).
+                    Costa Rica: Alexandre Guimarães.
+Cards:              China: Li Tie [Y 60'], Xu Yunlong [Y 72'], Li Xiaopeng [Y 77'].
+                    Costa Rica: Luis Marín [Y 15'], Mauricio Solís [Y 17'],
+                                Rónald Gómez [Y 79'], Wálter Centeno [Y 85'].
+
+08/06/2002, Seogwipo (South Korea), Jeju World Cup Stadium, 36750
+World Cup
+BRAZIL              4 (Roberto Carlos 15', Rivaldo 32', Ronaldinho Gaúcho 45' pen, Ronaldo 55')
+CHINA               0
+Brazil:             Marcos, Cafu [c], Lúcio, Roque Júnior, Roberto Carlos, Gilberto Silva,
+                    Ronaldo (Edílson 72'), Rivaldo, Ronaldinho Gaúcho (Denílson 46'),
+                    Ânderson Polga, Juninho Paulista (Ricardinho 70').
+China:              Jiang Jin, Wu Chengying, Li Tie, Ma Mingyu [c] (Yang Pu 62'), Hao Haidong
+                    (Qu Bo 75'), Li Weifeng, Zhao Junzhe, Du Wei, Li Xiaopeng, Qi Hong
+                    (Shao Jiayi 66'), Xu Yunlong.
+Referee:            Anders Frisk (Sweden).
+Coaches:            Brazil: Luiz Felipe Scolari.
+                    China: Bora Milutinović (Yugoslavia).
+Cards:              Brazil: Ronaldinho Gaúcho [Y 25'], Roque Júnior [Y 69'].
+                    China: None.
+
+09/06/2002, Incheon (South Korea), Munhak Stadium, 42299
+World Cup
+COSTA RICA          1 (Winston Parks 86')
+TURKEY              1 (Emre Belözoğlu 56')
+Costa Rica:         Erick Lonnis [c], Luis Marín, Mauricio Wright, Gilberto Martínez,
+                    Wílmer López (Winston Parks 77'), Mauricio Solís, Paulo Wanchope,
+                    Wálter Centeno (Hernán Medford 66'), Rónald Gómez, Hárold Wallace
+                    (Steven Bryce 77'), Carlos Castro.
+Turkey:             Rüştü Reçber, Emre Aşık, Fatih Akyel, Tugay Kerimoğlu (Arif Erdem 88'),
+                    Hakan Şükür [c] (İlhan Mansız 75'), Yıldıray Baştürk (Nihat Kahveci 66'),
+                    Hasan Şaş, Ümit Özat, Ergün Penbe, Emre Belözoğlu, Ümit Davala.
+Referee:            Coffi Codjia (Benin).
+Coaches:            Costa Rica: Alexandre Guimarães.
+                    Turkey: Şenol Güneş.
+Cards:              Costa Rica: Gilberto Martínez [Y 24'], Carlos Castro [Y 43'].
+                    Turkey: Emre Aşık [Y 20'], Tugay Kerimoğlu [Y 45'], Emre Belözoğlu [Y 89'].
+
+13/06/2002, Suwon (South Korea), Suwon World Cup Stadium, 38524
+World Cup
+COSTA RICA          2 (Paulo Wanchope 39', Rónald Gómez 56')
+BRAZIL              5 (Ronaldo 10', 13', Edmílson 38', Rivaldo 62', Júnior 64')
+Costa Rica:         Erick Lonnis [c], Luis Marín, Mauricio Wright, Gilberto Martínez
+                    (Winston Parks 74'), Wílmer López, Mauricio Solís (Rolando Fonseca 65'),
+                    Paulo Wanchope, Wálter Centeno, Rónald Gómez, Hárold Wallace
+                    (Steven Bryce 46'), Carlos Castro.
+Brazil:             Marcos, Cafu [c], Lúcio, Edmílson, Gilberto Silva, Ronaldo, Rivaldo
+                    (Kaká 72'), Ânderson Polga, Júnior, Juninho Paulista (Ricardinho 61'),
+                    Edílson (Kléberson 57').
+Referee:            Gamal Ghandour (Egypt).
+Coaches:            Costa Rica: Alexandre Guimarães.
+                    Brazil: Luiz Felipe Scolari.
+Cards:              Costa Rica: None.
+                    Brazil: Cafu [Y 90+'].
+
+13/06/2002, Seoul (South Korea), Seoul World Cup Stadium, 43605
+World Cup
+TURKEY              3 (Hasan Şaş 6', Bülent Korkmaz 9', Ümit Davala 85')
+CHINA               0
+Turkey:             Rüştü Reçber (Ömer Çatkış 35'), Emre Aşık, Bülent Korkmaz, Fatih Akyel,
+                    Tugay Kerimoğlu (Tayfur Havutçu 84'), Hakan Şükür [c], Yıldıray Baştürk
+                    (İlhan Mansız 70'), Hasan Şaş, Hakan Ünsal, Emre Belözoğlu, Ümit Davala.
+China:              Jiang Jin, Yang Pu, Wu Chengying (Shao Jiayi 46'), Li Tie, Hao Haidong
+                    (Yu Genwei 73'), Li Weifeng, Zhao Junzhe, Du Wei, Li Xiaopeng, Yang Chen
+                    (Qu Bo 73'), Xu Yunlong.
+Referee:            Oscar Ruiz (Colombia).
+Coaches:            Turkey: Şenol Güneş.
+                    China: Bora Milutinović (Yugoslavia).
+Cards:              Turkey: Emre Aşık [Y 19'], Emre Belözoğlu [Y 30'], Hasan Şaş [Y 81'].
+                    China: Yang Pu [Y 45+'], Shao Jiayi [R 58'], Li Weifeng [Y 62'].
+
+Table:
+ 1.BRAZIL           3  3  0  0  11- 3  9
+ 2.TURKEY           3  1  1  1   5- 3  4
+ 3.Costa Rica       3  1  1  1   5- 6  4
+ 4.China            3  0  0  3   0- 9  0
+
+
+=== Group D  ‹§grd›
+
+04/06/2002, Busan, Busan Asiad Main Stadium, 48760
+World Cup
+SOUTH KOREA         2 (Hwang Seon-Hong 26', Yoo Sang-Cheol 53')
+POLAND              0
+South Korea:        Lee Woon-Jae, Choi Jin-Cheol, Kim Nam-Il, Yoo Sang-Cheol
+                    (Lee Cheon-Soo 61'), Kim Tae-Young, Seol Ki-Hyun (Cha Doo-Ri 89'),
+                    Lee Eul-Yong, Hwang Seon-Hong (Ahn Jung-Hwan 50'), Hong Myung-Bo [c],
+                    Park Ji-Sung, Song Jong-Gook.
+Poland:             Jerzy Dudek, Michał Żewłakow, Tomasz Hajto, Piotr Świerczewski,
+                    Radosław Kałużny (Marcin Żewłakow 64'), Emmanuel Olisadebe,
+                    Tomasz Wałdoch [c], Jacek Krzynówek, Maciej Żurawski
+                    (Paweł Kryszałowicz 46'), Jacek Bąk (Tomasz Kłos 50'), Marek Koźmiński.
+Referee:            Oscar Ruiz (Colombia).
+Coaches:            South Korea: Guus Hiddink (Netherlands).
+                    Poland: Jerzy Engel.
+Cards:              South Korea: Park Ji-Sung [Y 70'], Cha Doo-Ri [Y 90'].
+                    Poland: Jacek Krzynówek [Y 31'], Tomasz Hajto [Y 79'],
+                            Piotr Świerczewski [Y 84'].
+
+05/06/2002, Suwon (South Korea), Suwon World Cup Stadium, 37306
+World Cup
+USA                 3 (John O'Brien 4', Jorge Costa 29' OG, Brian McBride 36')
+PORTUGAL            2 (Beto 39', Jeff Agoos 71' OG)
+USA:                Brad Friedel, Frankie Hejduk, Pablo Mastroeni, John O'Brien,
+                    Ernie Stewart [c] (Cobi Jones 46'), Jeff Agoos, DaMarcus Beasley,
+                    Brian McBride, Landon Donovan (Joe-Max Moore 75'), Tony Sanneh, Eddie Pope
+                    (Carlos Llamosa 80').
+Portugal:           Vítor Baía, Jorge Costa (Jorge Andrade 73'), Fernando Couto [c], Figo,
+                    João Manuel Vieira Pinto, Pauleta, Rui Costa (Nuno Gomes 80'),
+                    Sérgio Conceição, Petit, Beto, Rui Jorge (Paulo Bento 69').
+Referee:            Byron Moreno (Ecuador).
+Coaches:            USA: Bruce Arena.
+                    Portugal: António Oliveira.
+Cards:              USA: DaMarcus Beasley [Y 90+'].
+                    Portugal: Beto [Y 34'], Petit [Y 52'].
+
+10/06/2002, Daegu, Daegu World Cup Stadium, 60778
+World Cup
+SOUTH KOREA         1 (Ahn Jung-Hwan 78')
+USA                 1 (Clint Mathis 24')
+South Korea:        Lee Woon-Jae, Choi Jin-Cheol, Kim Nam-II, Yoo Sang-Cheol
+                    (Choi Yong-Soo 69'), Kim Tae-Young, Seol Ki-Hyun, Lee Eul-Yong,
+                    Hwang Seon-Hong (Ahn Jung-Hwan 56'), Hong Myung-Bo [c], Park Ji-Sung
+                    (Lee Cheon-Soo 38'), Song Jong-Gook.
+USA:                Brad Friedel, Frankie Hejduk, John O'Brien, Claudio Reyna [c],
+                    Clint Mathis (Josh Wolff 82'), Jeff Agoos, DaMarcus Beasley
+                    (Eddie Lewis 75'), Brian McBride, Landon Donovan, Tony Sanneh, Eddie Pope.
+Referee:            Urs Meier (Switzerland).
+Coaches:            South Korea: Guus Hiddink (Netherlands).
+                    USA: Bruce Arena.
+Cards:              South Korea: Hong Myung-Bo [Y 80'].
+                    USA: Frankie Hejduk [Y 30'], Jeff Agoos [Y 39'].
+Note:               Brad Friedel saved a penalty by Lee Eul-Yong at 39'.
+
+10/06/2002, Jeonju (South Korea), Jeonju World Cup Stadium, 31000
+World Cup
+PORTUGAL            4 (Pauleta 14', 65', 77', Rui Costa 88')
+POLAND              0
+Portugal:           Vítor Baía, Jorge Costa, Fernando Couto [c], Figo, João Manuel Vieira Pinto
+                    (Rui Costa 60'), Pauleta, Sérgio Conceição (Capucho 69'), Paulo Bento,
+                    Frechaut (Beto 63'), Petit, Rui Jorge.
+Poland:             Jerzy Dudek, Michał Żewłakow (Tomasz Rząsa 71'), Tomasz Hajto,
+                    Piotr Świerczewski, Paweł Kryszałowicz, Radosław Kałużny
+                    (Arkadiusz Bąk 16'), Emmanuel Olisadebe, Tomasz Wałdoch [c],
+                    Jacek Krzynówek, Maciej Żurawski (Marcin Żewłakow 56'), Marek Kożmiński.
+Referee:            Hugh Dallas (Scotland).
+Coaches:            Portugal: Antônio Oliveira.
+                    Poland: Jerzy Engel.
+Cards:              Portugal: Frechaut [Y 25'], Jorge Costa [Y 27'], Rui Jorge [Y 31'].
+                    Poland: Piotr Świerczewski [Y 21'], Arkadiusz Bąk [Y 39'].
+
+14/06/2002, Incheon, Munhak Stadium, 50239
+World Cup
+SOUTH KOREA         1 (Park Ji-Sung 70')
+PORTUGAL            0
+South Korea:        Lee Woon-Jae, Choi Jin-Cheol, Kim Nam-Il, Yoo Sang-Cheol, Kim Tae-Young,
+                    Seol Ki-Hyun, Lee Young-Pyo, Ahn Jung-Hwan (Lee Cheon-Soo 90+'),
+                    Hong Myung-Bo [c], Park Ji-Sung, Song Jong-Gook.
+Portugal:           Vítor Baía, Jorge Costa, Fernando Couto [c], Rui Jorge (Abel Xavier 73'),
+                    Figo, João Manuel Vieira Pinto, Pauleta (Jorge Andrade 69'),
+                    Sérgio Conceição, Paulo Bento, Petit (Nuno Gomes 77').
+Referee:            Ángel Sánchez (Argentina)
+Coaches:            South Korea: Guus Hiddink (Netherlands).
+                    Portugal: António Oliveira.
+Cards:              South Korea: Kim Tae-Young [Y 24'], Seol Ki-Hyun [Y 57'],
+                                 Kim Nam-II [Y 74'], Ahn Jung-Hwan [Y 90+'].
+                    Portugal: Beto [Y 22' YR 66'], João Manuel Vieira Pinto [R 27'],
+                              Jorge Costa [Y 83'].
+
+14/06/2002, Daejeon (South Korea), Daejeon World Cup Stadium, 26482
+World Cup
+POLAND              3 (Emmanuel Olisadebe 3', Paweł Kryszałowicz 5', Marcin Żewłakow 66')
+USA                 1 (Landon Donovan 83')
+Poland:             Radosław Majdan, Tomasz Kłos (Tomasz Wałdoch 89'), Jacek Zieliński [c],
+                    Cezary Kucharski (Marcin Żewłakow 65'), Paweł Kryszałowicz,
+                    Emmanuel Olisadebe (Paweł Sibik 86'), Arkadiusz Głowacki, Maciej Murawski,
+                    Jacek Krzynówek, Maciej Żurawski, Marek Koźmiński.
+USA:                Brad Friedel, Frankie Hejduk, John O'Brien, Ernie Stewart [c]
+                    (Cobi Jones 68'), Claudio Reyna [c], Clint Mathis, Jeff Agoos
+                    (DaMarcus Beasley 36'), Brian McBride (Joe-Max Moore 58'), Landon Donovan,
+                    Tony Sanneh, Eddie Pope.
+Referee:            Jun Lu (China).
+Coaches:            Poland: Jerzy Engel.
+                    USA: Bruce Arena.
+Cards:              Poland: Radosław Majdan [Y 44'], Marek Koźmiński [Y 46'],
+                            Cezary Kucharski [Y 63'], Emmanuel Olisadebe [Y 86'].
+                    USA: Frankie Hejduk [Y 72'].
+Note:               Brad Friedel saved a penalty by Maciej Żurawski at 67'.
+
+Table:
+ 1.SOUTH KOREA      3  2  1  0   4- 1  7
+ 2.USA              3  1  1  1   5- 6  4
+ 3.Portugal         3  1  0  2   6- 4  3
+ 4.Poland           3  1  0  2   3- 7  3
+
+
+=== Group E  ‹§gre›
+
+01/06/2002, Niigata (Japan), Niigata Stadium, 33679
+World Cup
+IRELAND             1 (Matt Holland 52')
+CAMEROON            1 (Patrick Mboma 39')
+Ireland:            Shay Given, Ian Harte (Steven Reid 77'), Steve Staunton [c],
+                    Jason McAteer (Steve Finnan 46'), Matt Holland, Damien Duff, Robbie Keane,
+                    Kevin Kilbane, Mark Kinsella, Gary Breen, Gary Kelly.
+Cameroon:           Alioum Boukar, Bill Tchato, Pierre Wome, Rigobert Song [c],
+                    Raymond Kalla, Geremi Njitap, Samuel Eto'o, Patrick Mboma
+                    (Patrick Suffo 69'), Lauren Etame-Mayer, Marc-Vivien Foé, Salomon Olembe.
+Referee:            Toru Kamikawa (Japan).
+Coaches:            Ireland: Mick McCarthy.
+                    Cameroon: Winfried Schäfer (Germany).
+Cards:              Ireland: Jason McAteer [Y 30'], Steve Finnan [Y 51'], Steven Reid [Y 82'].
+                    Cameroon: Raymond Kalla [Y 89'].
+
+01/06/2002, Sapporo (Japan), Sapporo Dome, 32218
+World Cup
+GERMANY             8 (Miroslav Klose 20', 25', 70', Michael Ballack 40', Carsten Jancker 45+',
+                       Thomas Linke 73', Oliver Bierhoff 84', Bernd Schneider 90+')
+SAUDI ARABIA        0
+Germany:            Oliver Kahn [c], Thomas Linke, Carsten Ramelow (Jens Jeremies 46'),
+                    Christian Ziege, Dietmar Hamann, Carsten Jancker (Oliver Bierhoff 67'),
+                    Miroslav Klose (Oliver Neuville 76'), Michael Ballack, Bernd Schneider,
+                    Christoph Metzelder, Torsten Frings.
+Saudi Arabia:       Mohammed Al-Deayea, Redha Tukar, Abdullah Sulaiman Zubromawi,
+                    Mohammed Noor, Sami Al-Jaber [c], Ahmed Dukhi Al-Dosari, Hussein Sulimani,
+                    Khamis Al-Owairan Al-Dossari (Ibrahim Al-Shahrani 46'),
+                    Abdullah Al-Waked Al-Shahrani, Nawaf Al-Temyat (Abdulaziz Khathran 46'),
+                    Al-Hasan Al-Yami (Abdullah Gaman Al-Dosary 77').
+Referee:            Ubaldo Aquino (Paraguay).
+Coaches:            Germany: Rudi Völler.
+                    Saudi Arabia: Nasser Al-Johar.
+Cards:              Germany: Christian Ziege [Y 43'], Dietmar Hamann [Y 83'].
+                    Saudi Arabia: Mohammed Noor [Y 90+'].
+
+05/06/2002, Ibaraki (Japan), Kashima Stadium, 35854
+World Cup
+GERMANY             1 (Miroslav Klose 19')
+IRELAND             1 (Robbie Keane 90+')
+Germany:            Oliver Kahn [c], Thomas Linke, Carsten Ramelow, Christian Ziege,
+                    Dietmar Hamann, Carsten Jancker (Oliver Bierhoff 75'), Miroslav Klose
+                    (Marco Bode 85'), Michael Ballack, Bernd Schneider (Jens Jeremies 89'),
+                    Christoph Metzelder, Torsten Frings.
+Ireland:            Shay Given, Steve Finnan, Ian Harte (Steven Reid 73'), Steve Staunton [c]
+                    (Kenny Cunningham 87'), Matt Holland, Damien Duff, Robbie Keane,
+                    Kevin Kilbane, Mark Kinsella, Gary Breen, Gary Kelly (Niall Quinn 73').
+Referee:            Kim Milton Nielsen (Denmark).
+Coaches:            Germany: Rudi Völler.
+                    Ireland: Mick McCarthy.
+Cards:              None.
+
+06/06/2002, Saitama (Japan), Saitama Stadium, 52328
+World Cup
+CAMEROON            1 (Samuel Eto'o 66')
+SAUDI ARABIA        0
+Cameroon:           Alioum Boukar, Bill Tchato, Pierre Wome, Rigobert Song [c], Raymond Kalla,
+                    Geremi Njitap, Samuel Eto'o, Patrick Mboma (Pius N'Diefi 74'),
+                    Lauren Etame-Mayer, Marc-Vivien Foé, Daniel Ngom Kome (Salomon Olembe 46').
+Saudi Arabia:       Mohammed Al-Deayea, Mohammed Al-Jahani, Redha Tukar,
+                    Abdullah Sulaiman Zubromawi (Abdullah Gaman Al-Dosary 72'),
+                    Fouzi Al-Shehri, Ibrahim Al-Shahrani, Obaid Al-Dosari
+                    (Al-Hasan Al-Yami 35'), Hussein Sulimani, Abdulaziz Khathran
+                    (Mohammed Noor 86'), Abdullah Al-Waked Al-Shahrani, Nawaf Al-Temyat.
+Referee:            Terje Hauge (Norway).
+Coaches:            Cameroon: Winfried Schäfer (Germany).
+                    Saudi Arabia: Nasser Al-Johar.
+Cards:              Cameroon: Pierre Wome [Y 10'].
+                    Saudi Arabia: Al-Hasan Al-Yami [Y 59'].
+
+11/06/2002, Shizuoka (Japan), Shizuoka Stadium ECOPA, 47085
+World Cup
+CAMEROON            0
+GERMANY             2 (Marco Bode 50', Miroslav Klose 79')
+Cameroon:           Alioum Boukar, Bill Tchato (Patrick Suffo 53'), Pierre Wome,
+                    Rigobert Song [c], Raymond Kalla, Geremi Njitap, Samuel Eto'o,
+                    Patrick Mboma (Joseph-Désiré Job 80'), Lauren Etame-Mayer, Marc-Vivien Foé,
+                    Salomon Olembe (Daniel Ngom Kome 64').
+Germany:            Oliver Kahn [c], Thomas Linke, Carsten Ramelow, Christian Ziege,
+                    Dietmar Hamann, Carsten Jancker (Marco Bode 46'), Miroslav Klose
+                    (Oliver Neuville 84'), Michael Ballack, Bernd Schneider,
+                    Christoph Metzelder, Torsten Frings.
+Referee:            Antonio López Nieto (Spain).
+Coaches:            Cameroon: Winfried Schäfer (Germany).
+                    Germany: Rudi Völler.
+Cards:              Cameroon: Marc-Vivien Foé [Y 8'], Rigobert Song [Y 42'],
+                              Bill Tchato [Y 44'], Geremi Njitap [Y 56'],
+                              Salomon Olembe [Y 58'], Patrick Suffo [Y 60' YR 77'],
+                              Lauren Etame-Mayer [Y 81'].
+                    Germany: Carsten Jancker [Y 9'], Dietmar Hamann [Y 29'],
+                             Michael Ballack [Y 31'], Carsten Ramelow [Y 37' YR 40'],
+                             Oliver Kahn [Y 42'], Christian Ziege [Y 72'],
+                             Torsten Frings [Y 74'].
+
+11/06/2002, Yokohama (Japan), International Stadium Yokohama, 65320
+World Cup
+SAUDI ARABIA        0
+IRELAND             3 (Robbie Keane 7', Gary Breen 61', Damien Duff 87')
+Saudi Arabia:       Mohammed Al-Deayea, Mohammed Al-Jahani (Ahmed Dukhi Al-Dosari 79'),
+                    Redha Tukar, Abdullah Sulaiman Zubromawi (Abdullah Gaman Al-Dosary 68'),
+                    Fouzi Al-Shehri, Ibrahim Al-Shahrani, Hussein Sulimani,
+                    Abdulaziz Khathran (Mohammad Al-Shlhoub 67'), Khamis Al-Owairan Al-Dossari,
+                    Nawaf Al-Temyat, Al-Hasan Al-Yami.
+Ireland:            Shay Given, Steve Finnan, Ian Harte (Niall Quinn 46'), Steve Staunton [c],
+                    Matt Holland, Damien Duff, Robbie Keane, Kevin Kilbane, Mark Kinsella
+                    (Lee Carsley 89'), Gary Breen, Gary Kelly (Jason McAteer 80').
+Referee:            Falla Ndoye (Senegal).
+Coaches:            Saudi Arabia: Nasser Al-Johar.
+                    Ireland: Mick McCarthy.
+Cards:              Saudi Arabia: Nawaf Al-Temyat [Y 61'].
+                    Ireland: Steve Staunton [Y 70'].
+
+Table:
+ 1.GERMANY          3  2  1  0  11- 1  7
+ 2.IRELAND          3  1  2  0   5- 2  5
+ 3.Cameroon         3  1  1  1   2- 3  4
+ 4.Saudi Arabia     3  0  0  3   0-12  0
+
+
+=== Group F  ‹§grf›
+
+02/06/2002, Saitama (Japan), Saitama Stadium 2002, 52721
+World Cup
+ENGLAND             1 (Sol Campbell 24')
+SWEDEN              1 (Niclas Alexandersson 59')
+England:            David Seaman, Danny Mills, Ashley Cole, Rio Ferdinand, Sol Campbell,
+                    David Beckham [c] (Kieron Dyer 63'), Paul Scholes, Michael Owen,
+                    Emile Heskey, Owen Hargreaves, Darius Vassell (Joe Cole 74').
+Sweden:             Magnus Hedman, Olof Mellberg, Johan Mjällby [c], Tobias Linderoth,
+                    Niclas Alexandersson, Fredrik Ljungberg, Marcus Allbäck
+                    (Andreas Andersson 80'), Henrik Larsson, Andreas Jakobsson, Teddy Lucic,
+                    Magnus Svensson (Anders Svensson 56').
+Referee:            Carlos Simon (Brazil).
+Coaches:            England: Sven-Göran Eriksson (Sweden).
+                    Sweden: Lars Lagerbäck and Tommy Söderberg.
+Cards:              England: Sol Campbell [Y 12'].
+                    Sweden: Marcus Allbäck [Y 45+'], Andreas Jakobsson [Y 73'].
+
+02/06/2002, Ibaraki (Japan), Kashima Stadium, 34050
+World Cup
+ARGENTINA           1 (Gabriel Batistuta 63')
+NIGERIA             0
+Argentina:          Pablo Cavallero, Juan Pablo Sorín, Mauricio Pochettino, Walter Samuel,
+                    Claudio López (Cristian 'Kily' González 46'), Javier Zanetti,
+                    Gabriel Batistuta (Hernán Crespo 81'), Ariel Ortega,
+                    Juan Sebastián Verón [c] (Pablo Aimar 78'), Diego Placente, Diego Simeone.
+Nigeria:            Ike Shorunmu, Joseph Yobo, Celestine Babayaro, Nwankwo Kanu
+                    (Pius Ikedia 48'), Isaac Okoronkwo, Taribo West, Bartholomew Ogbeche,
+                    Augustine Okocha [c], Garba Lawal, Efetobore Sodje
+                    (Justice Christopher 73'), Julius Aghahowa.
+Referee:            Gilles Veissière (France).
+Coaches:            Argentina: Marcelo Bielsa.
+                    Nigeria: Adegboye Onigbinde.
+Cards:              Argentina: Walter Samuel [Y 51'], Diego Simeone [Y 90'].
+                    Nigeria: Efetobore Sodje [Y 73'].
+
+07/06/2002, Kobe (Japan), Kobe Wing Stadium, 36194
+World Cup
+SWEDEN              2 (Henrik Larsson 35', 63' pen)
+NIGERIA             1 (Julius Aghahowa 27')
+Sweden:             Magnus Hedman, Olof Mellberg, Johan Mjällby [c], Tobias Linderoth,
+                    Niclas Alexandersson, Anders Svensson (Magnus Svensson 83'),
+                    Fredrik Ljungberg, Marcus Allbäck (Andreas Andersson 64'), Henrik Larsson,
+                    Andreas Jakobsson, Teddy Lucic.
+Nigeria:            Ike Shorunmu, Joseph Yobo, Celestine Babayaro (Nwankwo Kanu 65'),
+                    Isaac Okoronkwo, Taribo West, Bartholomew Ogbeche (Pius Ikedia 70'),
+                    Augustine Okocha [c], Ifeanyi Udeze, Justice Christopher, Julius Aghahowa.
+Referee:            René Ortube (Bolivia).
+Coaches:            Sweden: Lars Lagerbäck and Tommy Söderberg.
+                    Nigeria: Adegboye Onigbinde.
+Cards:              Sweden: Johan Mjällby [Y 31'], Niclas Alexandersson [Y 69'].
+                    Nigeria: Taribo West [Y 80'].
+
+07/06/2002, Sapporo (Japan), Sapporo Dome, 35927
+World Cup
+ARGENTINA           0
+ENGLAND             1 (David Beckham 44' pen)
+Argentina:          Pablo Cavallero, Juan Pablo Sorín, Mauricio Pochettino, Walter Samuel,
+                    Javier Zanetti, Gabriel Batistuta (Hernán Crespo 60'), Ariel Ortega,
+                    Juan Sebastián Verón [c] (Pablo Aimar 46'), Diego Placente, Diego Simeone,
+                    Cristian 'Kily' González (Claudio López 64').
+England:            David Seaman, Danny Mills, Ashley Cole, Rio Ferdinand, Sol Campbell,
+                    David Beckham [c], Paul Scholes, Michael Owen (Wayne Bridge 80'),
+                    Emile Heskey (Teddy Sheringham 54'), Owen Hargreaves (Trevor Sinclair 19'),
+                    Nicky Butt.
+Referee:            Pierluigi Collina (Italy).
+Coaches:            Argentina: Marcelo Bielsa.
+                    England: Sven-Göran Eriksson (Sweden).
+Cards:              Argentina: Gabriel Batistuta [Y 13'].
+                    England: Ashley Cole [Y 29'], Emile Heskey [Y 50'].
+
+12/06/2002, Miyagi (Japan), Miyagi Stadium, 45777
+World Cup
+SWEDEN              1 (Anders Svensson 59')
+ARGENTINA           1 (Hernán Crespo 88')
+Sweden:             Magnus Hedman, Olof Mellberg, Johan Mjällby [c], Tobias Linderoth,
+                    Niclas Alexandersson, Anders Svensson (Mattias Jonson 68'), Marcus Allbäck
+                    (Andreas Andersson 46'), Henrik Larsson (Zlatan Ibrahimovic 88'),
+                    Andreas Jakobsson, Teddy Lucic, Magnus Svensson.
+Argentina:          Pablo Cavallero, Juan Pablo Sorín (Cristian 'Kily' González 63'),
+                    Mauricio Pochettino, Matías Almeyda (Juan Sebastián Verón 63'),
+                    Walter Samuel, Claudio López, Javier Zanetti, Gabriel Batistuta [c]
+                    (Hernán Crespo 58'), Ariel Ortega, Pablo Aimar, José Chamot.
+Referee:            Ali Bujsaim (UAE).
+Coaches:            Sweden: Lars Lagerbäck and Tommy Söderberg.
+                    Argentina: Marcelo Bielsa.
+Cards:              Sweden: Magnus Svensson [Y 65'], Henrik Larsson [Y 78'].
+                    Argentina: José Chamot [Y 55'], Matías Almeyda [Y 58'],
+                               Cristian 'Kily' González [Y 75'].
+Notes:              Magnus Hedman saved a penalty by Ariel Ortega at 88'.
+                    Claudio Caniggia was sent off from the substitutes bench at 45+'.
+
+12/06/2002, Osaka (Japan), Osaka Nagai Stadium, 44864
+World Cup
+NIGERIA             0
+ENGLAND             0
+Nigeria:            Vincent Enyeama, Joseph Yobo, Isaac Okoronkwo, Augustine Okocha [c],
+                    Ifeanyi Udeze, Justice Christopher, Efetobore Sodje, Julius Aghahowa,
+                    Benedict Akwuegbu, James Obiorah, Feml Opabunmi (Pius Ikedia 86').
+England:            David Seaman, Danny Mills, Ashley Cole (Wayne Bridge 85'),
+                    Trevor Sinclair, Rio Ferdinand, Sol Campbell, David Beckham [c],
+                    Paul Scholes, Michael Owen (Darius Vassell 77'), Emile Heskey
+                    (Teddy Sheringham 69'), Nicky Butt.
+Referee:            Brian Hall (USA).
+Coaches:            Nigeria: Adegboye Onigbinde.
+                    England: Sven-Göran Eriksson (Sweden).
+Cards:              None.
+
+Table:
+ 1.SWEDEN           3  1  2  0   4- 3  5
+ 2.ENGLAND          3  1  2  0   2- 1  5
+ 3.Argentina        3  1  1  1   2- 2  4
+ 4.Nigeria          3  0  1  2   1- 3  1
+
+
+=== Group G  ‹§grg›
+
+03/06/2002, Niigata (Japan), Niigata Stadium Big Swan, 32239
+World Cup
+CROATIA             0
+MEXICO              1 (Cuauhtémoc Blanco 60' pen)
+Croatia:            Stipe Pletikosa, Josip Šimunić, Stjepan Tomas, Boris Živković,
+                    Robert Prosinečki (Milan Rapaić 46'), Davor Šuker [c] (Daniel Šarić 64'),
+                    Niko Kovač, Alen Bokšić (Mario Stanić 67'), Zvonimir Soldo, Robert Jarni,
+                    Robert Kovač.
+Mexico:             Oscar Pérez, Rafael Márquez [c], Manuel Vidrio, Gerardo Torrado,
+                    Ramón Morales, Jared Borgetti (Luis Hernández 68'), Cuauhtémoc Blanco
+                    (Juan Francisco Palencia 79'), Braulio Luna, Sigifredo Mercado,
+                    Salvador Carmona, Gabriel Caballero.
+Referee:            Jun Lu (China).
+Coaches:            Croatia: Mirko Jozić.
+                    Mexico: Javier Aguirre.
+Cards:              Croatia: Boris Živković [R 59'].
+                    Mexico: None.
+
+3/06/2002, Sapporo (Japan), Sapporo Dome, Japan
+World Cup
+ITALY               2 (Christian Vieri 7', 27')
+ECUADOR             0
+Italy:              Gianluigi Buffon, Christian Panucci, Paolo Maldini [c], Fabio Cannavaro,
+                    Francesco Totti (Alessandro Del Piero 74'), Cristiano Doni
+                    (Angelo Di Livio 64'), Alessandro Nesta, Luigi Di Biagio
+                    (Gennaro Gattuso 69'), Damiano Tommasi, Gianluca Zambrotta,
+                    Christian Vieri.
+Ecuador:            José Francisco Cevallos, Augusto Porozo, Iván Hurtado [c],
+                    Ulises De la Cruz, Alfonso Obregón, Raúl Guerrón, Alex Aguinaga [c]
+                    (Carlos Tenorio 46'), Agustín Delgado, Kléber Chalá (Nicolás Asencio 85'),
+                    Edison Méndez, Edwin Tenorio (Marlon Ayoví 59').
+Referee:            Brian Hall (USA).
+Coaches:            Italy: Giovanni Trapattoni.
+                    Ecuador: Hernán Darío Gómez (Colombia).
+Cards:              Italy: None.
+                    Ecuador: Augusto Porozo [Y 14'], Ulises De la Cruz [Y 49'],
+                             Kléber Chalá [Y 54'].
+
+08/06/2002, Ibaraki (Japan), Kashima Stadium, 36472
+World Cup
+ITALY               1 (Christian Vieri 55')
+CROATIA             2 (Ivica Olić 73', Milan Rapaić 76')
+Italy:              Gianluigi Buffon, Christian Panucci, Paolo Maldini [c], Fabio Cannavaro,
+                    Cristiano Zanetti, Francesco Totti, Cristiano Doni (Filippo Inzaghi 79'),
+                    Alessandro Nesta (Marco Materazzi 24'), Damiano Tommasi,
+                    Gianluca Zambrotta, Christian Vieri.
+Croatia:            Stipe Pletikosa, Josip Šimunić, Stjepan Tomas, Milan Rapaić
+                    (Dario Šimić 79'), Davor Vugrinec (Ivica Olić 57'), Niko Kovač,
+                    Alen Bokšić, Zvonimir Soldo (Jurica Vranješ 62'), Daniel Šarić,
+                    Robert Jarni [c], Robert Kovač.
+Referee:            Graham Poll (England).
+Coaches:            Italy: Giovanni Trapattoni.
+                    Croatia: Mirko Jozić.
+Cards:              Italy: Christian Vieri [Y 51'].
+                    Croatia: Robert Kovač [Y 39'].
+
+09/06/2002, Miyagi (Japan), Miyagi Stadium, 45610
+World Cup
+MEXICO              2 (Jared Borgetti 28', Gerardo Torrado 57')
+ECUADOR             1 (Agustín Delgado 5')
+Mexico:             Oscar Pérez, Rafael Márquez [c], Manuel Vidrio, Gerardo Torrado,
+                    Ramón Morales, Jared Borgetti (Luis Hernández 77'), Cuauhtémoc Blanco
+                    (Sigifredo Mercado 90+'), Braulio Luna, Salvador Carmona, Johan Rodríguez
+                    (Gabriel Caballero 87'), Jesús Arellano.
+Ecuador:            José Francisco Cevallos, Augusto Porozo, Iván Hurtado [c],
+                    Ulises De la Cruz, Alfonso Obregón (Alex Aguinaga 58'), Raúl Guerrón,
+                    Iván Kaviedes (Carlos Tenorio 53'), Agustín Delgado, Kléber Chala,
+                    Edison Méndez, Edwin Tenorio (Marlon Ayoví 35').
+Referee:            Mourad Deami (Tunisia).
+Coaches:            Mexico: Javier Aguirre.
+                    Ecuador: Hernán Darío Gómez (Colombia).
+Cards:              Mexico: Gerardo Torrado [Y 65'].
+                    Ecuador: Iván Kaviedes [Y 15'], José Francisco Cevallos [Y 27'],
+                             Raúl Guerrón [Y 49'], Carlos Tenorio [Y 61'],
+                             Agustín Delgado [Y 87'].
+
+13/06/2002, Oita (Japan), Oita Stadium Big Eye, 39291
+World Cup
+MEXICO              1 (Jared Borgetti 34')
+ITALY               1 (Alessandro Del Piero 85')
+Mexico:             Oscar Pérez, Rafael Márquez [c], Manuel Vidrio, Gerardo Torrado,
+                    Ramón Morales (Rafael García 76'), Braulio Luna, Salvador Carmona,
+                    Johan Rodríguez (Gabriel Caballero 76'), Jesús Arellano,
+                    Jared Borgetti (Juan Francisco Palencia 76'), Cuauhtémoc Blanco.
+Italy:              Gianluigi Buffon, Christian Panucci (Francesco Coco 63'),
+                    Paolo Maldini [c], Fabio Cannavaro, Cristiano Zanetti, Filippo Inzaghi
+                    (Vincenzo Montella 55'), Francesco Totti (Alessandro Del Piero 78'),
+                    Alessandro Nesta, Damiano Tommasi, Gianluca Zambrotta, Christian Vieri.
+Referee:            Carlos Simon (Brazil).
+Coaches:            Mexico: Javier Aguirre.
+                    Italy: Giovanni Trapattoni.
+Cards:              Mexico: Jesús Arellano [Y 2'], Oscar Pérez [Y 84'].
+                    Italy: Fabio Cannavaro [Y 5'], Christian Panucci [Y 10'],
+                           Francesco Totti [Y 43'], Gianluca Zambrotta [Y 55'],
+                           Vincenzo Montella [Y 57'].
+
+13/06/2002, Yokohama (Japan), International Stadium Yokohama, 65862
+World Cup
+ECUADOR             1 (Edison Méndez 48')
+CROATIA             0
+Ecuador:            José Francisco Cevallos, Augusto Porozo, Iván Hurtado [c],
+                    Ulises De la Cruz, Alfonso Obregón (Alex Aguinaga 40'), Raúl Guerrón,
+                    Agustín Delgado, Marlon Ayoví, Kléber Chalá, Carlos Tenorio
+                    (Iván Kaviedes 76'), Edison Méndez.
+Croatia:            Stipe Pletikosa, Robert Kovač, Josip Šimunić, Stjepan Tomas, Niko Kovač
+                    (Jurica Vranješ 59'), Alen Bokšić, Daniel Šarić (Mario Stanić 68'),
+                    Robert Jarni [c], Ivica Olić, Dario Šimić (Davor Vugrinec 52'),
+                    Milan Rapaić.
+Referee:            Wílliam Mattus (Costa Rica).
+Coaches:            Ecuador: Hernán Darío Gómez (Colombia).
+                    Croatia: Mirko Jozić.
+Cards:              Ecuador: Kléber Chalá [Y 86'].
+                    Croatia: Stjepan Tomas [Y 72'], Josip Šimunić [Y 90+'].
+
+Table:
+ 1.MEXICO           3  2  1  0   4- 2  7
+ 2.ITALY            3  1  1  1   4- 3  4
+ 3.Croatia          3  1  0  2   2- 3  3
+ 4.Ecuador          3  1  0  2   2- 4  3
+
+
+=== Group H  ‹§grh›
+
+04/06/2002, Saitama, Saitama Stadium 2002, 55256
+World Cup
+JAPAN               2 (Takayuji Suzuki 59', Junichi Inamoto 67')
+BELGIUM             2 (Marc Wilmots 57', Peter van der Heyden 75')
+Japan:              Seigo Narazaki, Naoki Matsuda, Ryozo Morioka [c] (Tsuneyasu Miyamoto 71'),
+                    Junichi Inamoto, Hidetoshi Nakata, Takayuki Suzuki (Hiroaki Morishima 68'),
+                    Atsushi Yanagisawa, Koji Nakata, Shinji Ono (Alex Santos 64'),
+                    Kazuyuki Toda, Daisuke Ichikawa.
+Belgium:            Geert De Vlieger, Eric van Meir, Timmy Simons, Marc Wilmots [c], Bart Goor,
+                    Johan Walem (Wesley Sonck 68'), Gert Verheyen (Branko Strupar 83'),
+                    Peter van der Heyden, Jacky Peeters, Daniel Van Buyten, Yves Vanderhaeghe.
+Referee:            Wílliam Mattus (Costa Rica).
+Coaches:            Japan: Philippe Troussier (France).
+                    Belgium: Robert Waseige.
+Cards:              Japan: Kazuyuki Toda [Y 31'], Junichi Inamoto [Y 54'].
+                    Belgium: Peter van der Heyden [Y 21'], Gert Verheyen [Y 62'],
+                             Eric van Meir [Y 82'].
+
+05/06/2002, Kobe (Japan), Kobe Wing Stadium, 30957
+World Cup
+RUSSIA              2 (Egor Titov 59', Valery Karpin 64' pen)
+TUNISIA             0
+Russia:             Ruslan Nigmatullin, Yuri Kovtun, Yuri Nikiforov, Andrei Solomatin,
+                    Igor Semshov (Dmitry Khokhlov 46'), Viktor Onopko [c], Valery Karpin,
+                    Egor Titov, Vladimir Beschastnykh (Dmitri Sychev 55'), Ruslan Pimenov,
+                    Marat Izmailov (Dmitry Alenichev 78').
+Tunisia:            Ali Boumnijel, Khaled Badra (Ali Zitouni 84'), Mohamed Mkacher,
+                    Zied Jaziri, Hatem Trabelsi, Hassen Gabsi (Imed Mhedhebi 67'),
+                    Adel Sellimi [c] (Zoubeir Beya 67'), Raouf Bouzaiène, Riadh Bouazizi,
+                    Radhi Jaïdi, Slim Ben Achour.
+Referee:            Peter Prendergast (Jamaica).
+Coaches:            Russia: Oleg Romantsev.
+                    Tunisia: Ammar Souayah.
+Cards:              Russia: Igor Semshov [Y 27'], Dmitry Alenichev [Y 88'].
+                    Tunisia: Hassen Gabsi [Y 50'], Zied Jaziri [Y 75'].
+
+09/06/2002, Yokohama, International Stadium Yokohama, 66108
+World Cup
+JAPAN               1 (Junichi Inamoto 51')
+RUSSIA              0
+Japan:              Seigo Narazaki, Naoki Matsuda, Junichi Inamoto (Takashi Fukunishi 85'),
+                    Hidetoshi Nakata, Takayuki Suzuki (Masashi Nakayama 72'),
+                    Atsushi Yanagisawa, Koji Nakata, Tsuneyasu Miyamoto [c], Shinji Ono
+                    (Toshihiro Hattori 75'), Tomokazu Myojin, Kazuyuki Toda.
+Russia:             Ruslan Nigmatullin, Yuri Kovtun, Yuri Nikiforov, Alexei Smertin
+                    (Vladimir Beschastnykh 57'), Andrei Solomatin, Igor Semshov,
+                    Viktor Onopko [c], Valery Karpin, Egor Titov, Ruslan Pimenov
+                    (Dmitri Sychev 46'), Marat Izmailov (Dmitry Khokhlov 52').
+Referee:            Markus Merk (Germany).
+Coaches:            Japan: Philippe Troussier (France).
+                    Russia: Oleg Romantsev.
+Cards:              Japan: Tsuneyasu Miyamoto [Y 15'], Koji Nakata [Y 42'],
+                           Masashi Nakayama [Y 90+'].
+                    Russia: Ruslan Pimenov [Y 13'], Andrei Solomatin [Y 38'],
+                            Dmitry Khokhlov [Y 60'].
+
+10/06/2002, Oita (Japan), Oita Stadium Big Eye, 39700
+World Cup
+TUNISIA             1 (Raouf Bouzaiène 17')
+BELGIUM             1 (Marc Wilmots 13')
+Tunisia:            Ali Boumnijel, Khaled Badra [c], Zied Jaziri (Ali Zitouni 77'),
+                    Hatem Trabelsi, Hassen Gabsi (Adel Sellimi 67'), Kaies Ghodhbane,
+                    Raouf Bouzaiène, Riadh Bouazizi, Radhi Jaïdi, Slim Ben Achour,
+                    Mourad Melki (Zoubeir Beya 88').
+Belgium:            Geert De Vlieger, Eric Deflandre, Glen De Boeck, Timmy Simons
+                    (Mbo Mpenza 74'), Marc Wilmots [c], Bart Goor, Gert Verheyen
+                    (Wesley Sonck 46'), Peter van der Heyden, Daniel van Buyten,
+                    Yves Vanderhaeghe, Branko Strupar (Sven Vermant 46').
+Referee:            Mark Shield (Australia).
+Coaches:            Tunisia: Ammar Souayah.
+                    Belgium: Robert Waseige.
+Cards:              Tunisia: Hassen Gabsi [Y 22'], Kaies Ghodhbane [Y 43'],
+                             Hatem Trabelsi [Y 68'], Mourad Melki [Y 69'].
+                    Belgium: Daniel van Buyten [Y 40'].
+
+14/06/2002, Shizuoka (Japan), Shizuoka Stadium ECOPA, 46640
+World Cup
+BELGIUM             3 (Johan Walem 7', Wesley Sonck 78', Marc Wilmots 82')
+RUSSIA              2 (Vladimir Beschastnykh 52', Dmitri Sychev 88')
+Belgium:            Geert De Vlieger, Glen De Boeck (Eric van Meir 90+'), Nico van Kerckhoven,
+                    Marc Wilmots [c], Bart Goor, Johan Walem, Gert Verheyen (Timmy Simons 78'),
+                    Jacky Peeters, Daniel van Buyten, Yves Vanderhaeghe, Mbo Mpenza
+                    (Wesley Sonck 70').
+Russia:             Ruslan Nigmatullin, Yuri Kovtun, Yuri Nikiforov (Dmitri Sennikov 43'),
+                    Alexei Smertin (Dmitri Sychev 34'), Andrei Solomatin, Viktor Onopko [c],
+                    Valery Karpin (Alexander Kerzhakov 82'), Egor Titov, Vladimir Beschastnykh,
+                    Dmitri Alenichev, Dmitry Khokhlov.
+Referee:            Kim Milton Nielsen (Denmark).
+Coaches:            Belgium: Robert Waseige.
+                    Russia: Oleg Romantsev.
+Cards:              Belgium: Yves Vanderhaeghe [Y 39'].
+                    Russia: Andrei Solomatin [Y 12'], Alexei Smertin [Y 14'],
+                            Dmitri Alenichev [Y 64'], Dmitri Sennikov [Y 84'].
+
+14/06/2002, Osaka, Nagai Stadium, 45213
+World Cup
+JAPAN               2 (Hiroaki Morishima 48', Hidetoshi Nakata 75')
+TUNISIA             0
+Japan:              Seigo Narazaki, Naoki Matsuda, Junichi Inamoto (Hiroaki Morishima 46'),
+                    Hidetoshi Nakata (Mitsuo Ogasawara 84'), Takayuki Suzuki,
+                    Atsushi Yanagisawa (Daisuke Ichikawa 46'), Koji Nakata,
+                    Tsuneyasu Miyamoto [c], Shinji Ono, Tomokazu Myojin, Kazuyuki Toda.
+Tunisia:            Ali Boumnijel, Khaled Badra [c], Zied Jaziri, Hatem Trabelsi,
+                    Kaies Ghodhbane, Raouf Bouzaiène (Ali Zitouni 78'), Riadh Bouazizi,
+                    Radhi Jaïdi, Slim Ben Achour, Mourad Melki (Zoubeir Beya 46'),
+                    José Clayton (Imed Mhedhebi 61').
+Referee:            Gilles Veissière (France).
+Coaches:            Japan: Philippe Troussier (France).
+                    Tunisia: Ammar Souayah.
+Cards:              Japan: none.
+                    Tunisia: Riadh Bouazizi [Y 21'], Khaled Badra [Y 81'].
+
+Table:
+ 1.JAPAN            3  2  1  0   5- 2  7
+ 2.BELGIUM          3  1  2  0   6- 5  5
+ 3.Russia           3  1  0  2   4- 4  3
+ 4.Tunisia          3  0  1  2   1- 5  1
+
+
+=== 1/8 Finals  ‹§8f›
+
+15/06/2002, Seogwipo (South Korea), Jeju World Cup Stadium, 25176
+World Cup
+GERMANY             1 (Oliver Neuville 88')
+PARAGUAY            0
+Germany:            Oliver Kahn [c], Thomas Linke, Marko Rehmer (Sebastian Kehl 46'),
+                    Oliver Neuville (Gerald Asamoah 90+'), Miroslav Klose, Michael Ballack,
+                    Jens Jeremies, Marco Bode, Bernd Schneider, Christoph Metzelder
+                    (Frank Baumann 60'), Torsten Frings.
+Paraguay:           José Luis Chilavert [c], Francisco Arce, Carlos Gamarra, Celso Ayala,
+                    Estanislao Struway (Nelson Cuevas 90+'), Roque Santa Cruz
+                    (Jorge Campos 29'), Roberto Acuña, Carlos Bonet (Diego Gavilán 84'),
+                    Julio César Cáceres, José Cardozo, Denis Caniza.
+Referee:            Carlos Batrés (Guatemala).
+Coaches:            Germany: Rudi Völler.
+                    Paraguay: Cesare Maldini (Italy).
+Cards:              Germany: Bernd Schneider [Y 35'], Frank Baumann [Y 71'],
+                             Michael Ballack [Y 90+'].
+                    Paraguay: Roberto Acuña [Y 26' YR 90+'], José Cardozo [Y 50'].
+
+15/06/2002, Niigata (Japan), Niigata Stadium Big Swan, 40582
+World Cup
+DENMARK             0
+ENGLAND             3 (Rio Ferdinand 5', Michael Owen 22', Emile Heskey 44')
+Denmark:            Thomas Sørensen, Stig Tøfting (Claus Jensen 58'), René Henriksen [c],
+                    Martin Laursen, Thomas Helveg (Kasper Bøgelund 7'), Thomas Gravesen,
+                    Jesper Grønkjær, Jon Dahl Tomasson, Ebbe Sand, Niclas Jensen,
+                    Dennis Rommedahl.
+England:            David Seaman, Danny Mills, Ashley Cole, Trevor Sinclair, Rio Ferdinand,
+                    Sol Campbell, David Beckham [c], Paul Scholes (Kieron Dyer 49'),
+                    Michael Owen (Robbie Fowler 46'), Emile Heskey (Teddy Sheringham 69'),
+                    Nicky Butt.
+Referee:            Markus Merk (Germany).
+Coaches:            Denmark: Morten Olsen.
+                    England: Sven-Göran Eriksson (Sweden).
+Cards:              Denmark: Stig Tøfting [Y 24'].
+                    England: Danny Mills [Y 50'].
+
+16/06/2002, Oita (Japan), Oita Stadium Big Eye, 39747
+World Cup
+SWEDEN              1 (Henrik Larsson 11')
+SENEGAL             2 (Henri Camara 37', 104')
+After sudden death extra time.
+Sweden:             Magnus Hedman, Olof Mellberg, Johan Mjällby [c], Tobias Linderoth,
+                    Niclas Alexandersson (Zlatan Ibrahimovic 76'), Anders Svensson,
+                    Marcus Allbäck (Andreas Andersson 65'), Henrik Larsson, Andreas Jakobsson,
+                    Teddy Lucic, Magnus Svensson (Mattias Jonson 99').
+Senegal:            Tony Sylva, Omar Daf, Papa Malick Diop (Habib Bèye 66'), Aliou Cissé [c],
+                    Henri Camara, El-Hadji Diouf, Amdy Faye, Lamine Diatta, Ferdinand Coly,
+                    Pape Thiaw, Papa Bouba Diop.
+Referee:            Ubaldo Aquino (Paraguay).
+Coaches:            Sweden: Lars Lagerbäck and Tommy Söderberg.
+                    Senegal: Bruno Metsu (France).
+Cards:              Sweden: None.
+                    Senegal: Ferdinand Coly [Y 73'], Pape Thiaw [Y 94'].
+
+16/06/2002, Suwon (South Korea), Suwon World Cup Stadium, 38926
+World Cup
+SPAIN               1 (Fernando Morientes 8')
+IRELAND             1 (Robbie Keane 90' pen)
+Spain won 3-2 on penalties.
+Spain:              Iker Casillas, Juanfran, Iván Helguera, Puyol, Hierro [c], Raúl
+                    (Luque 80'), Baraja, Morientes (Albelda 72'), De Pedro (Mendieta 66'),
+                    Valerón, Luis Enrique.
+Ireland:            Shay Given, Steve Finnan, Ian Harte (David Connolly 82'),
+                    Steve Staunton [c] (Kenny Cunningham 50'), Matt Holland, Damien Duff,
+                    Robbie Keane, Kevin Kilbane, Mark Kinsella, Gary Breen, Gary Kelly
+                    (Niall Quinn 55').
+Referee:            Anders Frisk (Sweden).
+Coaches:            Spain: Camacho.
+                    Ireland: Mick McCarthy.
+Cards:              Spain: Juanfran [Y 62'], Baraja [Y 87'], Hierro [Y 89'].
+                    Ireland: none.
+Penalties:          0-1 Robbie Keane, 1-1 Hierro, 1-1 Matt Holland (miss), 2-1 Baraja,
+                    2-1 David Connolly (save), 2-1 Juanfran (miss), 2-1 Kevin Kilbane (save),
+                    2-1 Valerón (miss), 2-2 Steve Finnan, 3-2 Mendieta.
+Note:               Iker Casillas saved a penalty by Ian Harte at 62'.
+
+17/06/2002, Kobe (Japan), Kobe Wing Stadium, 40440
+World Cup
+BRAZIL              2 (Rivaldo 67', Ronaldo 87')
+BELGIUM             0
+Brazil:             Marcos, Cafu [c], Lúcio, Roque Júnior, Edmílson, Roberto Carlos,
+                    Gilberto Silva, Ronaldo, Rivaldo (Ricardinho 90'), Ronaldinho Gaúcho
+                    (Kléberson 81'), Juninho Paulista (Denílson 57').
+Belgium:            Geert De Vlieger, Nico van Kerckhoven, Timmy Simons, Marc Wilmots [c],
+                    Bart Goor, Johan Walem, Gert Verheyen, Jacky Peeters (Wesley Sonck 72'),
+                    Daniel van Buyten, Yves Vanderhaeghe, Mbo Mpenza.
+Referee:            Peter Prendergast (Jamaica).
+Coaches:            Brazil: Luiz Felipe Scolari.
+                    Belgium: Robert Waseige.
+Cards:              Brazil: Roberto Carlos [Y 28'].
+                    Belgium: Yves Vanderhaeghe [Y 24'].
+
+17/06/2002, Jeonju (South Korea), Jeonju World Cup Stadium, 36380
+World Cup
+USA                 2 (Brian McBride 8', Landon Donovan 65')
+MEXICO              0
+USA:                Brad Friedel, Gregg Berhalter, Pablo Mastroeni (Carlos Llamosa 90+'),
+                    John O'Brien, Eddie Pope, Eddie Lewis, Claudio Reyna [c], Josh Wolff
+                    (Ernie Stewart 59'), Brian McBride (Cobi Jones 79'), Landon Donovan,
+                    Tony Sanneh.
+Mexico:             Oscar Pérez, Rafael Márquez [c], Manuel Vidrio (Sigifredo Mercado 46'),
+                    Gerardo Torrado (Alberto García Aspe 78'), Jesús Arellano, Ramón Morales
+                    (Luis Hernández 28'), Jared Borgetti, Cuauhtémoc Blanco, Braulio Luna,
+                    Salvador Carmona, Johan Rodríguez.
+Referee:            Vítor Melo Pereira (Portugal)
+Coaches:            USA: Bruce Arena
+                    Mexico: Javier Aguirre
+Cards:              USA: Eddie Pope [Y 26'], Pablo Mastroeni [Y 47'], Josh Wolff [Y 50'],
+                         Gregg Berhalter [Y 53'], Brad Friedel [Y 83'].
+                    Mexico: Manuel Vidrio [Y 37'], Luis Hernández [Y 67'],
+                            Cuauhtémoc Blanco [Y 70'], Alberto García Aspe [Y 81'],
+                            Salvador Carmona [Y 84'], Rafael Márquez [R 88'].
+
+18/06/2002, Miyagi, Miyagi Stadium, 45666
+World Cup
+JAPAN               0
+TURKEY              1 (Ümit Davala 12')
+Japan:              Seigo Narazaki, Naoki Matsuda,  Tsuneyasu Miyamoto [c], Tomokazu Myojin,
+                    Junichi Inamoto (Daisuke Ichikawa 46' (Hiroaki Morishima 86')),
+                    Hidetoshi Nakata, Akinori Nishizawa, Alex Santos (Takayuki Suzuki 46'),
+                    Koji Nakata, Shinji Ono, Kazuyuki Toda.
+Turkey:             Rüştü Reçber, Bülent Korkmaz, Fatih Akyel, Alpay Özalan, Tugay Kerimoğlu,
+                    Hakan Şükür [c], Yıldıray Baştürk (İlhan Mansız 90'), Hasan Şaş
+                    (Tayfur Havutçu 85'), Ergün Penbe, Hakan Ünsal, Ümit Davala
+                    (Nihat Kahveci 74').
+Referee:            Pierluigi Collina (Italy).
+Coaches:            Japan: Philippe Troussier (France).
+                    Turkey: Şenol Güneş.
+Cards:              Japan: Kazuyuki Toda [Y 45'].
+                    Turkey: Alpay Özalan [Y 21'], Ergün Penbe [Y 44'], Hakan Şükür [Y 90+'].
+
+18/06/2002, Daejeon, Daejeon World Cup Stadium, 38588
+World Cup
+SOUTH KOREA         2 (Seol Ki-Hyun 88', Ahn Jung-Hwan 117')
+ITALY               1 (Christian Vieri 18')
+After sudden death extra time.
+South Korea:        Lee Woon-Jae, Choi Jin-Cheol, Kim Nam-II (Lee Cheon-Soo, 68'),
+                    Yoo Sang-Cheol, Kim Tae-Young (Hwang Seon-Hong 63'), Seol Ki-Hyun,
+                    Lee Young-Pyo, Ahn Jung-Hwan, Hong Myung-Bo [c] (Cha Doo-Ri 83'),
+                    Park Ji-Sung, Song Jong-Gook.
+Italy:              Gianluigi Buffon, Christian Panucci, Paolo Maldini [c], Francesco Coco,
+                    Cristiano Zanetti, Alessandro Del Piero (Gennaro Gattuso 61'),
+                    Francesco Coco, Mark Iuliano, Damiano Tommasi, Gianluca Zambrotta
+                    (Angelo Di Livio 72'), Christian Vieri.
+Referee:            Byron Moreno (Ecuador).
+Coaches:            South Korea: Guus Hiddink (Netherlands).
+                    Italy: Giovanni Trapattoni.
+Cards:              South Korea: Kim Tae-Young [Y 17'], Song Jong-Gook [Y 80'],
+                                 Lee Cheon-Soo [Y 99'], Choi Jin-Cheol [Y 115'].
+                    Italy: Francesco Coco [Y 4'], Francesco Totti [Y 22' YR 103'],
+                           Damiano Tommasi [Y 55'], Cristiano Zanetti [Y 59'].
+Note:               Gianluigi Buffon saved a penalty by Ahn Jung-Hwan at 4'.
+
+
+=== Quarterfinals  ‹§qf›
+
+21/06/2002, Shizuoka (Japan), Shizuoka Stadium ECOPA, 47436
+World Cup
+ENGLAND             1 (Michael Owen 23')
+BRAZIL              2 (Rivaldo 45+', Ronaldinho Gaúcho 50')
+England:            David Seaman, Danny Mills, Ashley Cole (Teddy Sheringham 80'),
+                    Trevor Sinclair (Kieron Dyer 56'), Rio Ferdinand, Sol Campbell,
+                    David Beckham [c], Paul Scholes, Michael Owen (Darius Vassell 79'),
+                    Emile Heskey, Nicky Butt.
+Brazil:             Marcos, Cafu [c], Lúcio, Roque Júnior, Edmílson, Roberto Carlos,
+                    Gilberto Silva, Ronaldo (Edílson 70'), Rivaldo, Ronaldinho Gaúcho,
+                    Kléberson.
+Referee:            Felipe Ramos Rizo (Mexico).
+Coaches:            England: Sven-Göran Eriksson (Sweden).
+                    Brazil: Luis Felipe Scolari.
+Cards:              England: Paul Scholes [Y 75'], Rio Ferdinand [Y 86'].
+                    Brazil: Ronaldinho Gaúcho [R 57'].
+
+21/06/2002, Ulsan (South Korea), Munsu Football Stadium, 37337
+World Cup
+GERMANY             1 (Michael Ballack 39')
+USA                 0
+Germany:            Oliver Kahn, Thomas Linke, Christian Ziege, Oliver Neuville
+                    (Marco Bode 80'), Dietmar Hamann, Miroslav Klose (Oliver Bierhoff 88'),
+                    Michael Ballack, Sebastian Kehl, Bernd Schneider (Jens Jeremies 60'),
+                    Christoph Metzelder, Torsten Frings.
+USA:                Brad Friedel, Frankie Hejduk (Cobi Jones 65'), Gregg Berhalter,
+                    Pablo Mastroeni (Ernie Stewart 80'), John O'Brien, Eddie Lewis,
+                    Claudio Reyna [c], Brian McBride (Clint Mathis 58'), Landon Donovan,
+                    Tony Sanneh, Eddie Pope.
+Referee:            Hugh Dallas (Scotland).
+Coaches:            Germany: Rudi Völler.
+                    USA: Bruce Arena.
+Cards:              Germany: Sebastian Kehl [Y 66'], Jens Jeremies [Y 68'].
+                    USA: Eddie Lewis [Y 40'], Eddie Pope [Y 41'], Claudio Reyna [Y 68'],
+                         Pablo Mastroeni [Y 69'], Gregg Berhalter [Y 70'].
+
+22/06/2002, Gwangju, Gwangju World Cup Stadium, 42114
+World Cup
+SOUTH KOREA         0
+SPAIN               0
+South Korea won 5-3 on penalties.
+South Korea:        Lee Woon-Jae, Choi Jin-Cheol, Kim Nam-II (Lee Eul-Yong, 32'),
+                    Yoo Sang-Cheol (Lee Cheon-Soo 60'), Kim Tae-Young (Hwang Seon-Hong 90'),
+                    Seol Ki-Hyun, Lee Young-Pyo, Ahn Jung-Hwan, Hong Myung-Bo [c],
+                    Park Ji-Sung, Song Jong-Gook.
+Spain:              Iker Casillas, Iván Helguera (Xavi 93'), Puyol, Hierro [c], Baraja,
+                    Morientes, De Pedro (Mendieta 70'), Romero, Valerón (Luis Enrique 80'),
+                    Nadal, Joaquín.
+Referee:            Gamal Ghandour (Egypt).
+Coaches:            South Korea: Guus Hiddink (Netherlands).
+                    Spain: Camacho.
+Cards:              South Korea: Yoo Sang-Cheol [Y 52'].
+                    Spain: De Pedro [Y 53'], Morientes [Y 111'].
+Penalties:          1-0 Hwang Seon-Hong, 1-1 Hierro, 2-1 Park Ji-Sung, 2-2 Baraja,
+                    3-2 Seol Ki-Hyun, 3-3 Xavi, 4-3 Ahn Jung-Hwan, 4-3 Joaquín (save),
+                    5-3 Hong Myung-Bo.
+
+22/06/2002, Osaka (Japan), Nagai Stadium, 44233
+World Cup
+SENEGAL             0
+TURKEY              1 (İlhan Mansız 94')
+After sudden death extra time.
+Senegal:            Tony Sylva, Omar Daf, Papa Malick Diop, Aliou Cissé [c], Henri Camara,
+                    Khalilou Fadiga, El-Hadji Diouf, Lamine Diatta, Salif Diao,
+                    Ferdinand Coly, Papa Bouba Diop.
+Turkey:             Rüştü Reçber, Bülent Korkmaz, Fatih Akyel, Alpay Özalan, Tugay Kerimoğlu,
+                    Hakan Şükür [c] (İlhan Mansız 67'), Yıldıray Baştürk, Hasan Şaş,
+                    Ergün Penbe, Emre Belözoğlu (Arif Erdem 91'), Ümit Davala.
+Referee:            Oscar Ruiz (Colombia).
+Coaches:            Senegal: Bruno Metsu (France).
+                    Turkey: Şenol Güneş.
+Cards:              Senegal: Omar Daf [Y 12'], Aliou Cissé [Y 63'].
+                    Turkey: Emre Belözoğlu [Y 22'], İlhan Mansız [Y 87'].
+
+
+=== Semifinals  ‹§sf›
+
+25/06/2002, Seoul, Seoul World Cup Stadium, 65256
+World Cup
+SOUTH KOREA         0
+GERMANY             1 (Michael Ballack 75')
+South Korea:        Lee Woon-Jae, Choi Jin-Cheol (Lee Min-Sung 56'), Yoo Sang-Cheol,
+                    Kim Tae-Young, Lee Young-Pyo, Lee Cheon-Soo, Cha Doo-Ri, Hwang Seon-Hong
+                    (Ahn Jung-Hwan 54'), Hong Myung-Bo [c] (Seol Ki-Hyun 80'), Park Ji-Sung,
+                    Song Jong-Gook.
+Germany:            Oliver Kahn [c], Thomas Linke, Carsten Ramelow, Oliver Neuville
+                    (Gerald Asamoah 88'), Dietmar Hamann, Miroslav Klose (Oliver Bierhoff 70'),
+                    Michael Ballack, Marco Bode, Bernd Schneider (Jens Jeremies 85'),
+                    Christoph Metzelder, Torsten Frings.
+Referee:            Urs Meier (Switzerland).
+Coaches:            South Korea: Guus Hiddink (Netherlands).
+                    Germany: Rudi Völler.
+Cards:              South Korea: Lee Min-Sung [Y 90+'].
+                    Germany: Michael Ballack [Y 71'], Oliver Neuville [Y 85'].
+
+26/06/2002, Saitama (Japan), Saitama Stadium 2002, 61058
+World Cup
+BRAZIL              1 (Ronaldo 49')
+TURKEY              0
+Brazil:             Marcos, Cafu, Lúcio, Roque Júnior, Edmílson, Roberto Carlos,
+                    Gilberto Silva, Ronaldo (Luizão 68'), Rivaldo, Kléberson (Belletti 85'),
+                    Edílson (Denílson 75').
+Turkey:             Rüştü Reçber, Bülent Korkmaz, Fatih Akyel, Alpay Özalan, Tugay Kerimoğlu,
+                    Hakan Şükür [c], Yıldıray Baştürk (Arif Erdem 88'), Hasan Şaş,
+                    Ergün Penbe, Emre Belözoğlu (İlhan Mansız 62'), Ümit Davala
+                    (Mustafa İzzet 74').
+Referee:            Kim Milton Nielsen (Denmark).
+Coaches:            Brazil: Luiz Felipe Scolari.
+                    Turkey: Şenol Güneş.
+Cards:              Brazil: Gilberto Silva [Y 41'].
+                    Turkey: Tugay Kerimoğlu [Y 59'], Hasan Şaş [Y 90'].
+
+
+=== Third Place Match  ‹§3m›
+
+29/06/2002, Daegu, Daegu World Cup Stadium, 63483
+World Cup
+SOUTH KOREA         2 (Lee Eul-Yong 9', Song Jong-Gook 90+')
+TURKEY              3 (Hakan Şükür 1', İlhan Mansız 13', 32')
+South Korea:        Lee Woon-Jae, Yoo Sang-Cheol, Seol Ki-Hyun (Choi Tae-Uk 79'),
+                    Lee Young-Pyo, Lee Eul-Yong (Cha Doo-Ri 65'), Lee Cheon-Soo, Lee Min-Sung,
+                    Ahn Jung-Hwan, Hong Myung-Bo [c] (Kim Tae-Young 46'), Park Ji-Sung,
+                    Song Jong-Gook.
+Turkey:             Rüştü Reçber, Bülent Korkmaz, Fatih Akyel, Alpay Özalan, Tugay Kerimoğlu,
+                    Hakan Şükür [c], Yıldıray Baştürk (Tayfur Havutçu 86'), İlhan Mansız,
+                    Ergün Penbe, Emre Belözoğlu (Hakan Ünsal 41'), Ümit Davala
+                    (Okan Buruk 76').
+Referee:            Saad Mane (Kuwait).
+Coaches:            South Korea: Guus Hiddink (Netherlands).
+                    Turkey: Şenol Güneş.
+Cards:              South Korea: Lee Eul-Yong [Y 23'].
+                    Turkey: Tugay Kerimoğlu [Y 50'], Rüştü Reçber [Y 83'].
+
+
+=== Final  ‹§fin›
+
+30/06/2002, Yokohama (Japan), International Stadium Yokohama, 69029
+World Cup
+GERMANY             0
+BRAZIL              2 (Ronaldo 67', 79')
+Germany:            Oliver Kahn [c], Thomas Linke, Carsten Ramelow, Oliver Neuville,
+                    Dietmar Hamann, Miroslav Klose (Oliver Bierhoff 74'), Jens Jeremies
+                    (Gerald Asamoah 77'), Marco Bode (Christian Ziege 84'), Bernd Schneider,
+                    Christoph Metzelder, Torsten Frings.
+Brazil:             Marcos, Cafu [c], Lúcio, Roque Júnior, Edmílson, Roberto Carlos,
+                    Gilberto Silva, Ronaldo (Denílson 90'), Rivaldo, Ronaldinho Gaúcho
+                    (Juninho Paulista 85'), Kléberson.
+Referee:            Pierluigi Collina (Italy).
+Coaches:            Germany: Rudi Völler.
+                    Brazil: Luiz Felipe Scolari.
+Cards:              Germany: Miroslav Klose [Y 9'].
+                    Brazil: Roque Júnior [Y 6'].
+
+
+== Squads  ‹§squads›
+
+ARGENTINA  ‹§arg›
+
+Germán Burgos
+Roberto Ayala
+Juan Pablo Sorín
+Mauricio Pochettino
+Matías Almeyda
+Walter Samuel
+Claudio López
+Javier Zanetti
+Gabriel Batistuta
+Juan Sebastián Verón
+Pablo Cavallero
+Diego Placente
+Diego Simeone
+Claudio Husaín
+Pablo Aimar
+Gustavo López
+Cristian 'Kily' González
+Hernán Crespo
+Marcelo Gallardo
+Claudio Caniggia
+José Chamot
+Ariel Ortega
+Roberto Bonano
+Coach: Marcelo Bielsa (Argentina).
+
+BELGIUM  ‹§bel›
+
+Geert de Vlieger
+Eric Deflandre
+Glen de Boeck
+Eric van Meir
+Nico van Kerckhoven
+Timmy Simons
+Marc Wilmots
+Bart Goor
+Wesley Sonck
+Johan Walem
+Gert Verheyen
+Peter van der Heyden
+Franky Vandendriessche
+Sven Vermant
+Jacky Peeters
+Daniel van Buyten
+Gaetan Englebert
+Yves Vanderhaeghe
+Bernd Thijs
+Branko Strupar
+Danny Boffin
+Mbo Mpenza
+Frédéric Herpoël
+Coach: Robert Waseige (Belgium).
+
+BRAZIL  ‹§bra›
+
+Marcos [Marcos Roberto Silveira Reis]
+Cafu [Marcos Evangelista de Moraes]
+Lúcio [Lucimar da Silva Ferreira]
+Roque Júnior [José Vítor Roque Júnior]
+Edmílson [Edmílson José Gomes de Moraes]
+Roberto Carlos II [Roberto Carlos da Silva]
+Ricardinho II [Ricardo Luís Pozzi Rodrigues]
+Gilberto Silva [Gilberto Aparecido da Silva]
+Ronaldo [Ronaldo Luís Nazário de Lima]
+Rivaldo [Vítor Borba Ferreira]
+Ronaldinho Gaúcho [Ronaldo de Assis Moreira]
+Dida [Nélson de Jesus Silva]
+Belletti [Juliano Haus Belletti]
+Ânderson Polga [Ânderson Corrêa Polga]
+Kléberson [José Kléberson Pereira]
+Júnior II [Jenílson Ângelo de Souza]
+Denílson III [Denílson de Oliveira]
+Vampeta [Marcos André Batista dos Santos]
+Juninho Paulista [Oswaldo Giroldo Júnior]
+Edílson [Edílson da Silva Ferreira]
+Luizão [Luiz Carlos Goulart]
+Rogério Ceni [Rogério Ceni]
+Kaká [Ricardo Izecson dos Santos Leite]
+Coach: Luiz Felipe Scolari (Brazil).
+
+CAMEROON  ‹§cam›
+
+Boukar Alioum
+Bill Tchato
+Pierre Wome
+Rigobert Song
+Raymond Kalla
+Pierre Njanka
+Joseph Ndo
+Geremi Njitap
+Samuel Eto'o
+Patrick Mboma
+Pius N'Diefi
+Lauren Etame-Mayer
+Lucien Mettomo
+Joël Epalle
+Nicolas Alnoudji
+Jacques Songo'o
+Marc-Vivien Foé
+Patrick Suffo
+Eric Djemba-Djemba
+Salomon Olembé
+Joseph-Désiré Job
+Idriss Carlos Kameni
+Daniel Ngom Kome
+Coach: Winfried Schäfer (Germany).
+
+CHINA  ‹§chi›
+
+An Qi
+Zhang Enhua
+Yang Pu
+Wu Chengying
+Fan Zhiyi
+Shao Jiayi
+Sun Jihai
+Li Tie
+Ma Mingyu
+Hao Haidong
+Yu Genwei
+Su Maozhen
+Gao Yao
+Li Weifeng
+Zhao Junzhe
+Qu Bo
+Du Wei
+Li Xiaopeng
+Qi Hong
+Yang Chen
+Xu Yunlong
+Jiang Jin
+Ou Chuliang
+Coach: Velibor 'Bora' Milutinović (Yugoslavia).
+
+COSTA RICA  ‹§cos›
+
+Erick Lonnis
+Jervis Drummond
+Luis Marín
+Mauricio Wright
+Gilberto Martínez
+Wílmer López
+Rolando Fonseca
+Mauricio Solís
+Paulo Wanchope
+Wálter Centeno
+Ronald Gómez
+Winston Parks
+Daniel Vallejos
+Juan José Rodríguez
+Harold Wallace
+Steven Bryce
+Hernán Medford
+Álvaro Mesén
+Rodrigo Cordero
+Wílliam Sunsing
+Pablo Chinchilla
+Carlos Castro
+Lester Morgan
+Coach: Alexandre Guimarães (Costa Rica).
+
+CROATIA  ‹§cro›
+
+Stipe Pletikosa
+Anthony Šerić
+Josip Šimunić
+Stjepan Tomas
+Milan Rapaić
+Boris Živković
+Davor Vugrinec
+Robert Prosinečki
+Davor Šuker
+Niko Kovač
+Alen Bokšić
+Tomislav Butina
+Mario Stanić
+Zvonimir Soldo
+Daniel Šarić
+Jurica Vranješ
+Robert Jarni
+Ivica Olić
+Goran Vlaović
+Dario Šimić
+Robert Kovač
+Boško Balaban
+Vladimir Vasilj
+Coach: Mirko Jozić (Croatia).
+
+DENMARK  ‹§den›
+
+Thomas Sørensen
+Stig Tøfting
+René Henriksen
+Martin Laursen
+Jan Heintze
+Thomas Helveg
+Thomas Gravesen
+Jesper Grønkjær
+Jon Dahl Tomasson
+Martin Jørgensen
+Ebbe Sand
+Niclas Jensen
+Steven Lustü
+Claus Jensen
+Jan Michaelsen
+Peter Kjær
+Christian Poulsen
+Peter Løvenkrands
+Dennis Rommedahl
+Kasper Bøgelund
+Peter Madsen
+Jesper Christiansen
+Brian Steen Nielsen
+Coach: Morten Olsen (Denmark).
+
+ECUADOR  ‹§ecu›
+
+José Francisco Cevallos
+Augusto Porozo
+Iván Hurtado
+Ulises De la Cruz
+Alfonso Obregón
+Raúl Guerrón
+Nicolás Asencio
+Luis Gómez
+Iván Kaviedes
+Alex Aguinaga
+Agustín Delgado
+Oswaldo Ibarra
+Ángel Fernández
+Juan Carlos Burbano
+Marlon Ayoví
+Kléber Chalá
+Geovanny Espinoza
+Carlos Tenorio
+Edison Méndez
+Edwin Tenorio
+Wellington Sánchez
+Daniel Viteri
+Walter Ayoví
+Coach: Hernán Darío Gómez (Colombia).
+
+ENGLAND  ‹§eng›
+
+David Seaman
+Danny Mills
+Ashley Cole
+Danny Murphy
+Rio Ferdinand
+Sol Campbell
+David Beckham
+Paul Scholes
+Robbie Fowler
+Michael Owen
+Emile Heskey
+Wes Brown
+Nigel Martyn
+Wayne Bridge
+Martin Keown
+Gareth Southgate
+Teddy Sheringham
+Owen Hargreaves
+Joe Cole
+Darius Vassell
+Nicky Butt
+David James
+Kieron Dyer
+Coach: Sven-Göran Eriksson (Sweden).
+
+FRANCE  ‹§fra›
+
+Ulrich Ramé
+Vincent Candela
+Bixente Lizarazu
+Patrick Vieira
+Philippe Christanval
+Youri Djorkaeff
+Claude Makelele
+Marcel Desailly
+Djibril Cissé
+Zinedine Zidane
+Sylvain Wiltord
+Thierry Henry
+Mikaël Silvestre
+Alain Boghossian
+Lilian Thuram
+Fabien Barthez
+Emmanuel Petit
+Frank Leboeuf
+Willy Sagnol
+David Trézéguet
+Christophe Dugarry
+Johan Micoud
+Grégory Coupet
+Coach: Roger Lemerre (France).
+
+GERMANY  ‹§ger›
+
+Oliver Kahn
+Thomas Linke
+Marko Rehmer
+Frank Baumann
+Carsten Ramelow
+Christian Ziege
+Oliver Neuville
+Dietmar Hamann
+Carsten Jancker
+Lars Ricken
+Miroslav Klose
+Jens Lehmann
+Michael Ballack
+Gerald Asamoah
+Sebastian Kehl
+Jens Jeremies
+Marco Bode
+Jörg Böhme
+Bernd Schneider
+Oliver Bierhoff
+Christoph Metzelder
+Torsten Frings
+Hans-Jörg Butt
+Coach: Rudolf 'Rudi' Völler (Germany).
+
+IRELAND  ‹§ire›
+
+Shay Given
+Steve Finnan
+Ian Harte
+Kenny Cunningham
+Steve Staunton
+Jason McAteer
+Roy Keane*
+Matt Holland
+Damien Duff
+Robbie Keane
+Kevin Kilbane
+Mark Kinsella
+David Connolly
+Gary Breen
+Richard Dunne
+Dean Kiely
+Niall Quinn
+Gary Kelly
+Clinton Morrison
+Andy O'Brien
+Steven Reid
+Lee Carsley
+Alan Kelly
+Coach: Mick [Michael?] McCarthy (Ireland).
+*Roy Keane was sent home before the tournament began.
+
+ITALY  ‹§ita›
+
+Gianluigi Buffon
+Christian Panucci
+Paolo Maldini
+Francesco Coco
+Fabio Cannavaro
+Cristiano Zanetti
+Alessandro Del Piero
+Gennaro Gattuso
+Filippo Inzaghi
+Francesco Totti
+Cristiano Doni
+Christian Abbiati
+Alessandro Nesta
+Luigi Di Biagio
+Mark Iuliano
+Angelo Di Livio
+Damiano Tommasi
+Marco Delvecchio
+Gianluca Zambrotta
+Vincenzo Montella
+Christian Vieri
+Francesco Toldo
+Marco Materazzi
+Coach: Giovanni Trapattoni (Italy).
+
+JAPAN  ‹§jap›
+
+Yoshikatsu Kawaguchi
+Yutaka Akita
+Naoki Matsuda
+Ryuzo Morioka
+Junichi Inamoto
+Toshihiro Hattori
+Hidetoshi Nakata
+Hiroaki Morishima
+Akinori Nishizawa
+Masashi Nakayama
+Takayuki Suzuki
+Seigo Narazaki
+Atsushi Yanagisawa
+Alex [Alexsandro Santos]
+Takashi Fukunishi
+Koji Nakata
+Tsuneyasu Miyamoto
+Shinji Ono
+Mitsuo Ogasawara
+Tomokazu Myojin
+Kazuyuki Toda
+Daisuke Ichikawa
+Hitoshi Sogahata
+Coach: Philippe Troussier (France).
+
+MEXICO  ‹§mex›
+
+Oscar Pérez
+Francisco Gabriel de Anda
+Rafael García
+Rafael Márquez
+Manuel Vidrio
+Gerardo Torrado
+Ramón Morales
+Alberto García Aspe
+Jared Borgetti
+Cuauhtémoc Blanco
+Braulio Luna
+Oswaldo Sánchez
+Sigifredo Mercado
+Germán Villa
+Luis Hernández
+Salvador Carmona
+Juan Francisco Palencia
+Johan Rodríguez
+Gabriel Caballero
+Melvin Brown
+Jesús Arellano
+Alberto Rodríguez
+Jorge Campos
+Coach: Javier Aguirre (Mexico).
+
+NIGERIA  ‹§nig›
+
+Ike Shorunmu
+Joseph Yobo
+Celestine Babayaro
+Nwankwo Kanu
+Isaac Okoronkwo
+Taribo West
+Pius Ikedia
+Mutiu Adepoju
+Bartholomew Ogbeche
+Jay Jay Okocha
+Garba Lawal
+Austin Ejide
+Rabiu Afolabi
+Ifeanyi Udeze
+Justice Christopher
+Efetobore Sodje
+Julius Aghahowa
+Benedict Akwuegbu
+Eric Ejiofor
+James Obiorah
+John Utaka
+Vincent Enyeama
+Femi Opabunmi
+Coach: Adegboye Onigbinde (Nigeria).
+
+PARAGUAY  ‹§par›
+
+José Luis Chilavert
+Francisco Arce
+Pedro Sarabia
+Carlos Gamarra
+Celso Ayala
+Estanislao Struway
+Richard Báez
+Guido Alvarenga
+Roque Santa Cruz
+Roberto Acuña
+Jorge Campos
+Justo Villar
+Carlos Humberto Paredes
+Diego Gavilán
+Carlos Bonet
+Gustavo Morínigo
+Juan Carlos Franco
+Julio César Cáceres
+Daniel Sanabria
+José Cardozo
+Denis Caniza
+Ricardo Tavarelli
+Nelson Cuevas
+Coach: Cesare Maldini (Italy).
+
+POLAND  ‹§pol›
+
+Jerzy Dudek
+Tomasz Kłos
+Jacek Zieliński
+Michał Żewłakow
+Tomasz Rząsa
+Tomasz Hajto
+Piotr Świerczewski
+Cezary Kucharski
+Paweł Kryszałowicz
+Radosław Kałużny
+Emmanuel Olisadebe
+Radosław Majdan
+Arkadiusz Głowacki
+Marcin Żewłakow
+Tomasz Wałdoch
+Maciej Murawski
+Arkadiusz Bąk
+Jacek Krzynówek
+Maciej Żurawski
+Jacek Bąk
+Marek Koźmiński
+Adam Matysek
+Paweł Sibik
+Coach: Jerzy Engel (Poland).
+
+PORTUGAL  ‹§por›
+
+Vítor Baía
+Jorge Costa
+Abel Xavier
+Caneira
+Fernando Couto
+Paulo Sousa
+Figo
+João Pinto II [João Manuel Vieira Pinto]
+Pauleta
+Rui Costa
+Sérgio Conceição
+Hugo Viana
+Jorge Andrade
+Pedro Barbosa
+Nélson
+Ricardo
+Paulo Bento
+Frechaut
+Capucho
+Petit
+Nuno Gomes
+Beto
+Rui Jorge
+Coach: António Oliveira (Portugal).
+
+RUSSIA  ‹§rus›
+
+Ruslan Nigamatullin
+Yuri Kovtun
+Yuri Nikiforov
+Alexei Smertin
+Andrei Solomatin
+Igor Semshov
+Viktor Onopko
+Valery Karpin
+Egor Titov
+Alexandr Mostovoi
+Vladimir Beschastnykh
+Stanislav Cherchesov
+Viacheslav Daev
+Igor Chugainov
+Dmitry Alenichev
+Alexander Kerzhakov
+Sergei Semak
+Dmitri Sennikov
+Ruslan Pimenov
+Marat Izmailov
+Dmitry Khokhlov
+Dmitri Sychev
+Aleksander Filimonov
+Coach: Oleg Romantsev (Russia).
+
+SAUDI ARABIA  ‹§sau›
+
+Mohammed Al-Deayea
+Mohammed Al-Jahani
+Redha Tukar
+Abdullah Sulaiman Zubromawi
+Mohsin Harthi
+Fouzi Al-Shehri
+Ibrahim Al-Shahrani
+Mohammed Noor
+Sami Al-Jaber
+Mohammed Al-Shlhoub
+Obeid Al-Dossary
+Ahmed Dukhi Al-Dossary
+Hussein Sulimani
+Abdulaziz Al-Khathran
+Abdullah Jumaan Al-Dosary
+Khamis Al-Owairan Al-Dossari
+Abdullah Alwaked Al-Shahrani
+Nawaf Al-Temyat
+Omar Al-Ghamdi
+Al Hassan Al-Yami
+Mabrouk Zaid
+Mohammed Khojali Babkr
+Mansour Al-Thagafi
+Coach: Nasser Al-Johar (Saudi Arabia).
+
+SENEGAL  ‹§sen›
+
+Tony Sylva
+Omar Daf
+Pape Sarr
+Pape Malick Diop
+Alassane Ndour
+Aliou Cissé
+Henri Camara
+Amara Traoré
+Souleymane Camara
+Khalilou Fadiga
+El Hadji Diouf
+Amdy Faye
+Lamine Diatta
+Moussa Ndiaye
+Salif Diao
+Omar Diallo
+Ferdinand Coly
+Pape Thiaw
+Pape Bouba Diop
+Sylvain Ndiaye
+Habib Bèye
+Kalidou Cissokho
+Makthar Ndiaye
+Coach: Bruno Metsu (France).
+
+SLOVENIA  ‹§slo›
+
+Marko Simeunovič
+Goran Sankovič
+Željko Milinovič
+Muamer Vugdalič
+Marinko Galič
+Aleksander Knavs
+Đoni Novak
+Aleš Čeh
+Milan Osterc
+Zlatko Zahovič
+Miran Pavlin
+Mladen Dabanovič
+Mladen Rudonja
+Saša Gajser
+Rajko Tavčar
+Senad Tiganj
+Zoran Pavlovič
+Milenko Ačimovič
+Amir Karič
+Nastja Čeh
+Sebastjan Cimirotič
+Dejan Nemec
+Spasoje Bulajič
+Coach: Srečko Katanec (Slovenia).
+
+SOUTH AFRICA  ‹§saf›
+
+Hans Vonk
+Cyril Nzama
+Bradley Carnell
+Aaron Mokoena
+Jacob Lekgetho
+MacBeth Sibaya
+Quinton Fortune
+Thabo Mngomeni
+MacDonald Mukasi
+Bennett Mnguni
+Jabu Pule
+Teboho Mokoena
+Pierre Issa
+Siyabonga Nomvethe
+Sibusiso Zuma
+Andre Arendse
+Benedict McCarthy
+Delron Buckley
+Lucas Radebe
+Calvin Marlin
+Steven Pienaar
+Thabang Molefe
+George Koumantarakis
+Coach: Jomo Sono (South Africa).
+
+SOUTH KOREA  ‹§sko›
+
+Lee Woon-Jae
+Hyun Young-Min
+Choi Sung-Yong
+Choi Jin-Cheol
+Kim Nam-Il
+Yoo Sang-Cheol
+Kim Tae-Young
+Choi Tae-Uk
+Seol Ki-Hyun
+Lee Young-Pyo
+Choi Yong-Soo
+Kim Byung-Ji
+Lee Eul-Yong
+Lee Cheon-Soo
+Lee Min-Sung
+Cha Doo-Ri
+Yoon Jong-Hwan
+Hwang Seon-Hong
+Ahn Jung-Hwan
+Hong Myung-Bo
+Park Ji-Sung
+Song Jong-Gook
+Choi Eun-Sung
+Coach: Guus Hiddink (Netherlands).
+
+SPAIN  ‹§spa›
+
+Iker Casillas
+Curro Torres
+Juanfran
+Iván Helguera
+Puyol
+Hierro
+Raúl
+Baraja
+Morientes
+Diego Tristán
+De Pedro
+Luque
+Ricardo
+Albelda
+Romero
+Mendieta
+Valerón
+Sergio
+Xavi
+Nadal
+Luis Enrique
+Joaquín Sánchez
+Contreras
+Coach: Camacho (Spain).
+
+SWEDEN  ‹§swe›
+
+Magnus Hedman
+Olof Mellberg
+Patrik Andersson
+Johan Mjällby
+Michael Svensson
+Tobias Linderoth
+Niclas Alexandersson
+Anders Svensson
+Fredrik Ljungberg
+Marcus Allbäck
+Henrik Larsson
+Magnus Kihlstedt
+Tomas Antonelius
+Erik Edman
+Andreas Jakobsson
+Teddy Lucic
+Magnus Svensson
+Mattias Jonson
+Pontus Farnerud
+Daniel Andersson
+Zlatan Ibrahimovic
+Andreas Andersson
+Andreas Isaksson
+Coach: Lars Lagerbäck (Sweden) and Tommy Söderberg (Sweden).
+
+TUNISIA  ‹§tun›
+
+Ali Boumnijel
+Khaled Badra
+Zoubeir Beya
+Mohamed Mkacher
+Zied Jaziri
+Hatem Trabelsi
+Imed Mhadhebi
+Hassen Gabsi
+Riadh Jelassi
+Kaies Ghodhbane
+Adel Sellimi
+Raouf Bouzaiène
+Riadh Bouazizi
+Hamdi Marzouki
+Radhi Jaïdi
+Hassen Bejaoui
+Tarek Thabet
+Slim Ben Achour
+Emir Mkademi
+Ali Zitouni
+Mourad Melki
+Ahmed Jaouachi
+José Clayton
+Coach: Ammar Souayah (Tunisia).
+
+TURKEY  ‹§tur›
+
+Rüştü Reçber
+Emre Aşık
+Bülent Korkmaz
+Fatih Akyel
+Alpay Özalan
+Arif Erdem
+Okan Buruk
+Tugay Kerimoğlu
+Hakan Šükür
+Yıldıray Baştürk
+Hasan Şaş
+Ömer Çatkıç
+Mustafa İzzet
+Tayfur Havutçu
+Nihat Kahveci
+Ümit Özat
+İlhan Mansız
+Ergün Penbe
+Abdullah Ercan
+Hakan Ünsal
+Emre Belözoğlu
+Ümit Davala
+Zafer Özgültekın
+Coach: Şenol Güneş (Turkey).
+
+URUGUAY  ‹§uru›
+
+Fabián Carini
+Gustavo Méndez
+Alejandro Lembo
+Paolo Montero
+Pablo García
+Darío Rodríguez
+Gianni Guigou
+Gustavo Varela
+Darío Silva
+Fabián O'Neill
+Federico Magallanes
+Gustavo Munúa
+Sebastián Abreu
+Gonzalo Sorondo
+Nicolás Olivera
+Marcelo Romero
+Mario Regueiro
+Richard Morales
+Joe Bizera
+Álvaro Recoba
+Diego Forlán
+Gonzalo De los Santos
+Federico Elduayen
+Coach: Víctor Púa (Uruguay).
+
+USA  ‹§usa›
+
+Brad Friedel
+Frankie Hejduk
+Gregg Berhalter
+Pablo Mastroeni
+John O'Brien
+David Regis
+Eddie Lewis
+Earnie Stewart
+Joe-Max Moore
+Claudio Reyna
+Clint Mathis
+Jeff Agoos
+Cobi Jones
+Steve Cherundolo
+Josh Wolff
+Carlos Llamosa
+DaMarcus Beasley
+Kasey Keller
+Tony Meola
+Brian McBride
+Landon Donovan
+Tony Sanneh
+Eddie Pope
+Coach: Bruce Arena (USA).
+
+
+== Oldest and youngest  ‹§records›
+
+               Youngest                        Oldest
+player         Opabunmi, NGR     17 y 101 d    Heintze, DEN      38 y 293 d
+goalkeeper     Enyeama, NGR      19 y 287 d    Seaman, ENG       38 y 275 d
+scorer         Sychev, RUS       18 y 231 d    Hierro, SPA       34 y  76 d
+champion       Kaká, BRA         20 y  69 d    Cafu, BRA         32 y  11 d
+finalist       Metzelder, GER    21 y 237 d    Bierhoff, GER     34 y  60 d
+medalist       Kaká, BRA         20 y  69 d    Bierhoff, GER     34 y  60 d
+captain        Márquez, MEX      23 y 110 d    Heintze, DEN      38 y 293 d
+coach          Katanec, SLO      38 y 321 d    Maldini, PAR      70 y 110 d
+referee        Shield, AUS       28 y 281 d    Sánchez, ARG      45 y 103 d
+
+
+== Awards  ‹§awards›
+
+Tournament's Best Player:
+adidas Golden Ball - Oliver Kahn (Germany)
+adidas Silver Ball - Ronaldo (Brazil)
+adidas Bronze Ball - Hong Myung Bo (South Korea)
+Top Scorer:
+adidas Golden Shoe - Ronaldo (Brazil) - 8 goals
+adidas Silver Shoe - Miroslav Klose (Germany) - 5 goals
+adidas Bronze Shoe - Rivaldo (Brazil) - 5 goals
+Gillette Best Young Player - Landon Donovan (United States)
+Most Entertaining Team - South Korea
+Lev Yashin (Best Goalkeeper) - Oliver Kahn (Germany)
+FIFA Fair Play Trophy - Belgium
+
+

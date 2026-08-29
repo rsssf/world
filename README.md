@@ -1,13 +1,17 @@
-# football.db RSSSF (Rec.Sport.Soccer Statistics Foundation) archive data from around the world 
+# football.db RSSSF (Rec.Sport.Soccer Statistics Foundation) archive data from around the world
+
+
+
 
 what?
 
-find rsssf (tables) pages 
-(automatically) converted via `fmtfix`  from .txt (see [/tables](https://github.com/rsssf/tables)), that is, the original .html pages only in .txt, 
-to a format that gets you closer to the structured football.txt format 
+find rsssf (tables) pages
+(automatically) converted via `fmtfix`  from .txt (see [/tables](https://github.com/rsssf/tables)), that is, the original .html pages only in .txt,
+to a format that gets you closer to the structured football.txt format
 by applying a series of "autofixes" e.g.
 
-(i) converting "plain" round headers to football.txt-style round headers 
+
+(i) converting "plain" round headers to football.txt-style round headers
 enclosed in square (`▪`) markers e.g.
 
 ```
@@ -19,21 +23,22 @@ Semifinals                =>     ▪ Semifinals ▪
 Final                     =>     ▪ Final ▪
 ```
 
-(ii) converting date headers in brackets (`[...]`) to football.txt-style "plain" dates and normalizing the date format for "single "dates 
+(ii) converting date headers in brackets (`[...]`) to football.txt-style "plain" dates and normalizing the date format for "single "dates
 or date ranges, legs & lists e.g.
 
 ```
 [Aug 7]                       => _ Aug 7 _
-[Aug 8]                       => _ Aug 8 _   
+[Aug 8]                       => _ Aug 8 _
 [Mar 21,22]                   => _ Mar 21 & 22 _
 [Mar 21-23]                   => _ Mar 21-23 _
 [Aug 30,31; Sep 1]            => _ Aug 30,31; Sep 1 _
 ```
 
-note:  the underscores (`_`) are only used for "visual" debugging 
+note:  the underscores (`_`) are only used for "visual" debugging
 and not required (for parsing) in the football.txt format.
 
-- (iii) converting "combined" round & date headers and more header variants e.g.
+
+(iii) converting "combined" round & date headers and more header variants e.g.
 
 ```
 Round 24 [Mar 21]                     =>  ▪ Round 24 ▪  Mar 21
@@ -46,7 +51,7 @@ Final [May 29, Wembley; att: 11,689]  =>  ▪ Final ▪  May 29 @ Wembley; att: 
 [Apr 11 2021, Brasília]               =>  _ Apr 11 2021 _ @ Brasília
 ```
 
-(iiii) converting goal lines enclosed in brackets (`[...]`) - following a match line with a score - into football.txt-style enclosed in parentheses (`()`).  
+(iiii) converting goal lines enclosed in brackets (`[...]`) - following a match line with a score - into football.txt-style enclosed in parentheses (`()`).
 
 <!--
 aside - in the football.txt format text enclosed in brackets `[...]` is used (reserved) for notes.
@@ -85,10 +90,11 @@ see [/scripts](https://github.com/rsssf/scripts) for more.
 
 
 
-## all together now.  show don't tell. 
+
+## all together now.  show don't tell.
 
 to get a better sense about the applied (format) autofixes via `fmtfix` -
-look at some real-world samples with all changes all together now. 
+look at some real-world samples with all changes all together now.
 
 
 before (in "classic" rsssf style)
@@ -155,8 +161,8 @@ and so on.
 
 
 
-note - do NOT expect magic - the `fmtfix` applied autofixes get you closer to the structured football.txt format (that you can automatically parse and convert to json, csv, sql & friends) depending on the ad-hoc rsssf input format variant    
+note - do NOT expect magic - the `fmtfix` applied autofixes get you closer to the structured football.txt format (that you can automatically parse and convert to json, csv, sql & friends) depending on the ad-hoc rsssf input format variant
 
-BUT expect some edge cases that you have to fix "by-hand" 
-or with one-off search & replace scripts 
+BUT expect some edge cases that you have to fix "by-hand"
+or with one-off search & replace scripts
 or why not? use a.i. and your llms of choice

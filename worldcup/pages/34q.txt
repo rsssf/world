@@ -1,0 +1,77 @@
+<!--
+   title:   World Cup 1934 Qualifying
+   source:  https://rsssf.org/tables/34q.html
+   authors: Karel Stokkermans and Sergio Henrique Jarreta
+   updated: 4 Nov 2021
+  -->
+
+
+
+
+Hosts: Italy (not automatically qualified)
+Holders: Uruguay (did not enter)
+
+Group 1 [Sweden]
+11.06.33  Stockholm       Sweden           6-2 Estonia
+29.06.33  Kaunas          Lithuania        0-2 Sweden
+
+Group 2 [Spain]
+11.03.34  Madrid          Spain            9-0 Portugal
+18.03.34  Lisboa          Portugal         1-2 Spain
+
+Group 3 [Italy]
+25.03.34  Milano          Italy            4-0 Greece
+NB: both federations agreed to play a single match in Milano only
+
+Group 4 [Hungary, Austria]
+25.03.34  Sofia           Bulgaria         1-4 Hungary
+25.04.34  Wien            Austria          6-1 Bulgaria
+29.04.34  Budapest        Hungary          4-1 Bulgaria
+Bulgaria withdrew
+
+Group 5 [Czechoslovakia]
+15.10.33  Warszawa        Poland           1-2 Czechoslovakia
+15.03.34  Praha           Czechoslovakia   n/p Poland
+NB: the Polish government prevented the Polish football team from travelling for the
+    return leg for political reasons
+
+Group 6 [Romania, Switzerland]
+24.09.33  Beograd         Yugoslavia       2-2 Switzerland
+29.10.33  Bern            Switzerland      2-2 Romania         [awarded 2-0 to Switzerland]
+29.04.34  București       Romania          2-1 Yugoslavia
+
+Group 7 [Netherlands, Belgium]
+25.02.34  Dublin          Ireland          4-4 Belgium
+08.04.34  Amsterdam       Netherlands      5-2 Ireland
+29.04.34  Antwerpen       Belgium          2-4 Netherlands
+
+Group 8 [Germany, France]
+11.03.34  Luxembourg      Luxembourg       1-9 Germany
+15.04.34  Luxembourg      Luxembourg       1-6 France
+
+Group 9 [Brazil]
+Peru withdrew, Brazil had a walkover.
+
+Group 10 [Argentina]
+Chile withdrew, Argentina had a walkover.
+
+Group 11 [USA]
+▪ 1st round ▪
+28.01.34  Port-au-Prince  Haiti            1-3 Cuba
+01.02.34  Port-au-Prince  Haiti            1-1 Cuba
+04.02.34  Port-au-Prince  Haiti            0-6 Cuba
+▪ 2nd round ▪
+04.03.34  Cd. de México   Mexico           3-2 Cuba
+11.03.34  Cd. de México   Mexico           5-0 Cuba
+18.03.34  Cd. de México   Mexico           4-1 Cuba
+▪ 3rd round ▪
+24.05.34  Roma            USA              4-2 Mexico
+
+NB: see also ‹Cuba in the 1934 World Cup versus Haiti and Mexico, see page 34cubacampaign›
+
+Group 12 [Egypt]
+Turkey withdrew
+16.03.34  Cairo           Egypt            7-1 Palestina
+06.04.34  Tel-Aviv        Palestina        1-4 Egypt
+
+

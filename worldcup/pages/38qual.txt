@@ -1,0 +1,558 @@
+<!--
+   title:   WORLD CUP 1938 - QUALIFYING
+   source:  https://rsssf.org/tables/38qual.html
+   author:  Barrie Courtney
+   updated: 5 Jun 2006
+  -->
+
+
+
+
+GROUP 1 [ESTONIA, FINLAND, GERMANY, SWEDEN]
+
+16/06/1937, Stockholm, Solna Råsunda Stadion, 19.544
+SWEDEN                 4-0           FINLAND [HT 0-0]
+BUNKE, Lennart  60'
+PERSSON, Erik   65'
+SVANSTRÖM, Kurt 68'
+BUNKE, Lennart  82'
+
+Sweden:                              Finland:
+ 1-SJÖBERG, Gustav                    1-SALMINEN, Paavo
+ 2-LUNDGREN, Valter                   2-KARJAGIN, Ragnar
+ 3-KÄLLGREN, Olle                     3-LINDBÄCK, Ragnar
+ 4-SVANSTRÖM, Kurt                    4-LAHTI, Eino
+ 5-LÖFTGREN, Gunnar                   5-OKSANEN, Kaarlo [c]
+ 6-ANDERSSON, Ernst [c]               6-KILPI, Eino
+ 7-JOSEFSSON, Gustaf                  7-TAIPALE, Lauri
+ 8-PERSSON, Erik                      8-WECKSTRÖM, Kurt
+ 9-ZETHERLUND, Olle                   9-LEHTONEN, Aatos
+10-BUNKE, Lennart                    10-SALO, Sulo
+11-NILSSON, Axel                     11-KYLMÄLÄ, Yrjö
+Coaches:
+CARLSSON, Gustaf                     FABRA, Ferdinand
+
+Referee: DAEHLEN, Kolbjørn [NORWAY]
+
+20/06/1937, Stockholm, Solna Råsunda Stadion, 18.270
+SWEDEN                 7-2           ESTONIA [HT 3-2]
+JOSEFSSON, Gustaf    7'              SIIMENSON, Georg   2'
+BUNKE, Lennart      40'              UUKKIVI, Heinrich  3'
+JOSEFSSON, Gustaf   41'
+JONASSON, Sven      49'pen
+WETTERSTRÖM, Gustav 73'
+WETTERSTRÖM, Gustav 77'
+WETTERSTRÖM, Gustav 84'
+
+Sweden:                              Estonia:
+ 1-SJÖBERG, Gustav                    1-TIPNER, Evald [c]
+ 2-LUNDGREN, Valter                   2-PETERSON, Voldemar
+ 3-KÄLLGREN, Olle                     3-NEERIS, Valter
+ 4-ALMGREN, Erik                      4-SILBERG-SILLAK, Karl-Rudolf
+ 5-LÖFTGREN, Gunnar                   5-PARBO, Egon
+ 6-SVANSTRÖM, Kurt                    6-RÄÄSTAS, Helmuth
+ 7-JOSEFSSON, Gustaf                  7-SIIMENSON, Georg
+ 8-JONASSON, Sven                     8-UUKKIVI, Heinrich
+ 9-ERICSSON, Bertil                   9-KUREMAA, Richard
+10-BUNKE, Lennart [c]                10-KALJO, Julius
+11-WETTERSTRÖM, Gustav               11-KASS, Leonhard
+Coaches:
+CARLSSON, Gustaf                     REIN, Bernhard
+
+Referee: REMKE, Dr. Otto [DENMARK]
+
+29/06/1937, Helsinki, Pallokenttä, 6.619
+FINLAND                0-2           GERMANY [HT 0-1]
+                                     LEHNER, Ernst 26'
+                                     URBAN, Adolf  38'
+
+Finland:                             Germany:
+ 1-HALME, Viljo                       1-JAKOB, Hans
+ 2-KARJAGIN, Frans                    2-JANES, Paul
+ 3-LINDBÄCK, Ragnar                   3-MÜNZENBERG, Reinhold
+ 4-LAHTI, Eino                        4-KUPFER, Andreas
+ 5-OKSANEN, Kaarlo [c]                5-GOLDBRUNNER, Ludwig
+ 6-KILPI, Eino                        6-KITZINGER, Albin
+ 7-TAIPALE, Lauri                     7-LEHNER, Ernst
+ 8-WECKSTRÖM, Kurt                    8-GELLESCH, Rudolf
+ 9-LARVO, Pentti                      9-SIFFLING, Otto
+10-GRÖNLUND, Ernst                   10-SZEPAN, Fritz [c]
+11-LINTAMO, Nuutti                   11-URBAN, Adolf
+Coaches:
+FABRA, Ferdinand                     HERBERGER, Sepp
+
+Referee: REMKE, Dr. Otto [DENMARK]
+
+19/08/1937, Turku, Urheilupuisto, 4.797
+FINLAND                0-1           ESTONIA [HT 0-0]
+                                     KUREMAA, Richard 56'
+
+Finland:                             Estonia:
+ 1-HALME, Viljo                       1-TIPNER, Evald [c]
+ 2-KARJAGIN, Frans                    2-TEPP, Elmar
+ 3-OKSANEN, Ilmari                    3-NEERIS, Valter
+ 4-KANERVA, William                   4-SILBERG-SILLAK, Karl-Rudolf
+ 5-MALMGREN, Jarl [c]                 5-PARBO, Egon
+ 6-LAHTI, Eino                        6-MATSALU, Juho
+ 7-VIRTANEN, Paavo                    7-SIIMENSON, Georg
+ 8-WECKSTRÖM, Kurt                    8-KALJO, Julius
+ 9-LEHTONEN, Aatos                    9-KUREMAA, Richard
+10-SALO, Sulo                        10-VEIDEMANN, Ralf
+11-SALIN, Holger                     11-UUKKIVI, Heinrich
+Coaches:
+COMMITTEE                            REIN, Bernhard
+
+Referee: EKLIND, Ivan [SWEDEN]
+
+29/08/1937, Königsberg, Horst-Wessel Stadion, 18.000
+GERMANY                4-1           ESTONIA [HT 0-1]
+LEHNER, Ernst 50'                    SIIMENSON, Georg 34'
+GAUCHEL, Jupp 53'
+LEHNER, Ernst 65'
+GAUCHEL, Jupp 86'
+
+Germany:                             Estonia:
+ 1-JAKOB, Hans                        1-TIPNER, Evald [c]
+ 2-JANES, Paul                        2-TEEP, Elmar
+ 3-MÜNZENBERG, Reinhold               3-NEERIS, Valter
+ 4-ROSE, Walter                       4-MURR, Ferdinand
+ 5-GOLDBRUNNER, Ludwig                5-PARBO, Egon
+ 6-SCHÄDLER, Erwin                    6-SILBERG-SILLAK, Karl-Rudolf
+ 7-LEHNER, Ernst                      7-SIIMENSON, Georg
+ 8-GAUCHEL, Jupp                      8-UUKKIVI, Heinrich
+ 9-BERNDT, Hans                       9-KUREMAA, Richard
+10-SZEPAN, Fritz [c]                 10-KALJO, Julius
+11-SIMETSREITER, Wilhelm             11-VEIDEMANN, Ralf
+Coaches:
+HERBERGER, Sepp                      REIN, Bernhard
+
+Referee: PFÜTZNER, Bruno [CZECHOSLOVAKIA]
+
+21/11/1937, Hamburg, Altonaer Stadion, 51.000
+GERMANY                5-0           SWEDEN [HT 2-0]
+SIFFLING, Otto  2'
+SZEPAN, Fritz   8'
+SCHÖN, Helmut  48'
+SIFFLING, Otto 57'
+SCHÖN, Helmut  63'
+
+Germany:                             Sweden:
+ 1-JAKOB, Hans                        1-BERQUIST, Sven
+ 2-JANES, Paul                        2-ERIKSSON, Ivar
+ 3-MÜNZENBERG, Reinhold               3-JOHANSSON, Karl
+ 4-KUPFER, Andreas                    4-FLODIN, Lars
+ 5-GOLDBRUNNER, Ludwig                5-NILSSON, Sven [c]
+ 6-GELLESCH, Rudolf                   6-GRAHN, Karl-Erik
+ 7-LEHNER, Ernst                      7-MÅRTENSSON, Malte
+ 8-SCHÖN, Helmut                      8-CARLSSON, Lennart
+ 9-SIFFLING, Otto                     9-NYBERG, Arne
+10-SZEPAN, Fritz [c]                 10-BERGSTRÖM, Gunnar
+11-URBAN, Adolf                      11-ANDERSSON, Åke
+Coaches:
+HERBERGER, Sepp                      LUNDAHL, Harry
+
+Referee: PFÜTZNER, Bruno [CZECHOSLOVAKIA]
+
+GROUP 2 [IRELAND, NORWAY]
+
+10/10/1937, Oslo, Ullevaal Stadion, 19.000
+NORWAY                 3-2           IRELAND [HT 1-1]
+KVAMMEN, Reidar 30'                  GEOGHEGAN, Mathew 37'
+KVAMMEN, Reidar 64'                  DUNNE, James      49'
+MARTINSEN, Alf  78'
+
+Norway:                              Ireland:
+ 1-BLOHM, Tom                         1-MacKENZIE, George
+ 2-JOHANNESSEN, Rolf                  2-WILLIAMS, Joseph
+ 3-HOLMSEN, Øivind                    3-HOY, Michael
+ 4-ULLEBERG, Frithjof                 4-O'REILLY, Joseph
+ 5-ERIKSEN, Nils [c]                  5-TURNER, Charles [c]
+ 6-HOLMBERG, Rolf                     6-KINSELLA, Owen
+ 7-FRANTZEN, Odd                      7-DONNELLY, Thomas
+ 8-KVAMMEN, Reidar                    8-DONNELLY, Joseph
+ 9-MARTINSEN, Alf                     9-DUNNE, James
+10-ISAKSEN, Magnar                   10-JORDAN, William
+11-BRUSTAD, Arne                     11-GEOGHEGAN, Mathew
+Coaches:
+HALVORSEN, Asbjørn                   COMMITTEE
+
+Referee: BAUWENS, Dr. Peco [GERMANY]
+Note: Rolf Holmberg missed a penalty in the first half.
+
+07/11/1937, Dublin, Dalymount Park, 27.000
+IRELAND                3-3           NORWAY [HT 1-2]
+DUNNE, James      10'                KVAMMEN, Reidar 16'
+O'FLANAGAN, Kevin 62'                KVAMMEN, Reidar 33'
+DUGGAN, Henry     88'                MARTINSEN, Alf  49'
+
+Ireland:                             Norway:
+ 1-MacKENZIE, George                  1-NORDBY, Sverre
+ 2-O'NEILL, William                   2-JOHANNESSEN, Rolf
+ 3-GORMAN, William                    3-HOLMSEN, Øivind
+ 4-O'REILLY, Joseph                   4-HENRIKSEN, Kristian
+ 5-TURNER, Charles [c]                5-ERIKSEN, Nils [c]
+ 6-ARRIGAN, Thomas                    6-HOLMBERG, Rolf
+ 7-O'FLANAGAN, Dr. Kevin              7-EEG, Kjell
+ 8-DUGGAN, Henry                      8-KVAMMEN, Reidar
+ 9-DUNNE, James                       9-MARTINSEN, Alf
+10-CAREY, John                       10-FRANTZEN, Odd
+11-FOY, Thomas                       11-HVAL, Jørgen
+Coaches:
+COMMITTEE                            HALVORSEN, Asbjørn
+
+Referee: GIBBS, Thomas [ENGLAND]
+
+GROUP 3 [POLAND, YUGOSLAVIA]
+
+10/10/1937, Warszawa, Stadion Wojska Polskiego, 30.000
+POLAND                 4-0           YUGOSLAVIA [HT 2-0]
+PIATEK Leonard     3'
+PIATEK Leonard    20'
+WOSTAL Jerzy      57'
+WILIMOWSKI Ernest 78'
+
+Poland:                              Yugoslavia:
+ 1-KRZYK, Adolf                       1-GLAZER, Franjo
+ 2-SZCZEPANIAK, Wladyslaw [c]         2-HÜGL, Bernard
+ 3-GALECKI, Antoni                    3-MATOŠIC, Jozo
+ 4-GÓRA, Wilhelm                      4-LEHNER, Gustav
+ 5-NYC, Edward                        5-STEVOVIC, Iva
+ 6-DYTKO, Edward                      6-KOKOTOVIC, Mirko
+ 7-HABOWSKI, Boleslaw                 7-MEDARIC, Ivan
+ 8-PIATEK, Leonard                    8-MARJANOVIC, Blagoje
+ 9-WOSTAL, Jerzy                      9-VALJAREVIC, Svetislav
+10-WILIMOWSKI, Ernest                10-VUJADINOVIC, Ðordje [c]
+11-WODARZ, Gerard                    11-PLEŠE, Branko
+Coaches:
+KALUZA, Józef/SPOJDA, Marian         POPOVIC, Svetozar-Kika
+
+Referee: LECLERCQ, Lucien [FRANCE]
+
+03/04/1938, Beograd, Stadion BSK, 26.000
+YUGOSLAVIA             1-0           POLAND [HT 0-0]
+MARJANOVIC, Blagoje 61'
+
+Yugoslavia:                          Poland:
+ 1-GLAZER, Franjo                     1-MADEJSKI, Edward
+ 2-HÜGL, Bernard                      2-SZCZEPANIAK, Wladyslaw [c]
+ 3-DUBAC, Ernest                      3-GALECKI, Antoni
+ 4-LECHNER, Gustav                    4-GÓRA, Wilhelm
+ 5-JAZBINŠEK, Ivan                    5-NYC, Edward
+ 6-KNEŽEVIC, Bruno                    6-DYTKO, Edward
+ 7-ŠIPOŠ, Vilim                       7-PIEC, Ryszard
+ 8-MARJANOVIC, Blagoje                8-PIATEK, Leonard
+ 9-LEŠNIK, August                     9-WOSTAL, Jerzy
+10-BOŽOVIC, Vojin                    10-WILIMOWSKI, Ernest
+11-KOKOTOVIC, Mirko                  11-WODARZ, Gerard
+Coaches:
+POPOVIC, Svetozar-Kika               KALUZA, Józef/SPOJDA, Marian
+
+Referee: BARLASSINA, Rinaldo [ITALY]
+
+GROUP 5 [PORTUGAL, SWITZERLAND]
+
+01/05/1938, Milan, Stadio Civico Arena, 16.000
+SWITZERLAND            2-1           PORTUGAL [HT 2-0]
+AEBY, Georges   24'                  PEYROTEO, Fernando 72'pen
+AMADO, Lauro    29'
+
+Switzerland:                         Portugal:
+ 1-HUBER, Wilhelm                     1-AZEVEDO, João
+ 2-MINELLI, Severino [c]              2-SIMOES, José
+ 3-STELZER, Adolf                     3-TEIXEIRA, Gustavo [c]
+ 4-SPRINGER, Hermann                  4-AMARO, Mariano
+ 5-VERNATI, Sirio                     5-ALBINO, Francisco
+ 6-LÖRTSCHER, Ernst                   6-PEREIRA, Carlos
+ 7-BICKEL, Alfred                     7-MOURAO, Adolfo
+ 8-ABEGGLEN, André 'Trello'           8-SOEIRO, Manuel
+ 9-AEBY, Georges                      9-PEYROTEO, Fernando
+10-KIELHOLZ, Leopold                 10-de SOUSA, Artur 'Pinga'
+11-AMADO, Lauro                      11-CRUZ, João
+Coaches:
+RAPPAN, Karl                         OLIVEIRA, Candido
+
+Referee: MATTEA, Francesco [ITALY]
+Note: João Cruz missed a penalty after 55'.
+      Another source indicates Abegglen scored the Swiss second goal.
+      The Swiss second goal was deflected into the net by Mariano Amaro.
+
+GROUP 6 [GREECE, HUNGARY, PALESTINE]
+
+22/01/1938, Tel Aviv, Ramat Gan, 8.000
+PALESTINE              1-3           GREECE [HT 1-2]
+NEUFELD, Peri 36'                    VIKELIDIS, Kleanthis 15'
+                                     VIKELIDIS, Kleanthis 30'
+                                     MIGIAKIS, Antonis    73'
+
+Palestine:                           GREECE
+ 1-KLEIN, Julius                      1-SKLAVOUNOS, Spyros
+ 2-BEIT-HALEVI, Avraham               2-GASPARIS, Georgios
+ 3-REZNIK, Avraham [c]                3-PAPADOPOULOS, Georgios
+ 4-LIBERMANN, Yosef                   4-KRITIKOS, Tasos
+ 5-SUKENIK, Yohanan                   5-KASIMATIS, Antonis
+ 6-MIRMOVICH, Menahem                 6-GIKAS, Kostas
+ 7-GINZBURG, Mila                     7-MIGIAKIS, Antonis [c]
+ 8-BRASHEDSKI, Shuka                  8-BALTATSIS, Dimitris
+ 9-NEUFELD, Peri                      9-VIKELIDIS, Kleanthis
+10-MACHLIS, Gaul                     10-MAROPOULOS, Kleanthis
+11-NUDELMANN, Avraham                11-SYMEONIDIS, Theologis
+Subs:
+                                     12-KONTOULIS, Spyros [<5]  46'
+Coaches:
+POLLAK, Egon                         NEGREPONTIS, Kostas
+
+Referee: YOUSSEF, Mohammed [EGYPT]
+Note: Baltatsis is also credited with Greece's second goal.
+      The goal timings are also quoted as 3,9,21,51. [Rsssf Israel page].
+
+20/02/1938, Athinai, Stadio Leoforos Alexandras, 12.000
+GREECE                 1-0           PALESTINE [HT 0-0]
+VIKELIDIS, Kleanthis 88'pen
+
+Greece:                              Palestine:
+ 1-SKLAVOUNOS, Spyros                 1-ELSNER, Israel
+ 2-GASPARIS, Georgios                 2-BEIT-HALEVI, Avraham
+ 3-PAPADOPOULOS, Georgios             3-REZNIK, Avraham [c]
+ 4-KRITIKOS, Tasos                    4-MIRMOVICH, Menahem
+ 5-KONTOULIS, Spyros                  5-FUCHS, Gdalyahu
+ 6-GIKAS, Kostas                      6-LIBERMANN, Yosef
+ 7-MIGIAKIS, Antonis [c]              7-MACHLIS, Gaul
+ 8-DEPOUNTIS, Spyros                  8-STERN, Yona
+ 9-VIKELIDIS, Kleanthis               9-NEUFELD, Peri
+10-MAROPOULOS, Kleanthis             10-BEIT-HALEVI, Moshe
+11-MANETAS, Vassilis                 11-PENTZ, Natan
+Subs:
+12-SOTIRIADIS, Nikos [<1]  15'
+Coaches:
+NEGREPONTIS, Kostas                  POLLAK, Egon
+
+Referee: POPOVIC, Mika [YUGOSLAVIA]
+
+25/03/1938, Budapest, Hungária, 12.000
+HUNGARY               11-1           GREECE [HT 7-0]
+ZSENGELLÉR, Gyula 15'                MAKRIS, Lefteris 89'
+TITKOS, Pál       18'
+ZSENGELLÉR, Gyula 23'pen
+ZSENGELLÉR, Gyula 25'
+VINCZE, Jeno      26'
+NEMES, József     34'
+NEMES, József     40'
+NEMES, József     52'
+ZSENGELLÉR, Gyula 65'
+TITKOS, Pál       75'
+ZSENGELLÉR, Gyula 81'
+
+Hungary:                             Greece:
+ 1-HÁDA, József                       1-SKLAVOUNOS, Spyros
+ 2-KORÁNYI, Lajos                     2-TSAGANIAS, Nikos
+ 3-BÍRÓ, Sándor                       3-PAPADOPOULOS, Georgios
+ 4-LÁZÁR, Gyula                       4-DELIGIANNIS, Georgios
+ 5-SZÜCS, György                      5-KONTOULIS, Spyros
+ 6-BALOGH, István                     6-GIKAS, Kostas
+ 7-SAS, Ferenc                        7-MIGIAKIS, Antonis [c]
+ 8-VINCZE, Jeno                       8-MAROPOULOS, Kleanthis
+ 9-NEMES, József                      9-VIKELIDIS, Kleanthis
+10-ZSENGELLÉR, Gyula                 10-MAKRIS, Lefteris
+11-TITKOS, Pál                       11-CHRISTODOULOU, Kostas
+Coaches:
+SCHAFFER, Alfred                     BUCKETT, ?
+
+Referee: XIFANDO, Denis [ROMANIA]
+
+GROUP 7 [BULGARIA, CZECHOSLOVAKIA]
+
+07/11/1937, Sofia, Junak Stadion, 15.000
+BULGARIA               1-1           CZECHOSLOVAKIA [HT 0-1]
+PANCHEDIEV, Georgi 89'pen            RÍHA, Jan 44'
+
+Bulgaria:                            Czechoslovakia:
+ 1-MAZNIKOV, Radi                     1-VECHET, Vojtech
+ 2-KOVACHEV, Anastas                  2-BURGR, Jaroslav [c]
+ 3-BALUKCHIEV, Georgi                 3-CTYROKÝ, Josef
+ 4-PETROV, Ljubomir                   4-KOŠTÁLEK, Josef
+ 5-STEFANOV, Panayot                  5-BOUCEK, Jaroslav
+ 6-GABROVSKI, Borislav                6-KOLSKÝ, Karel
+ 7-NIKOLOV, Nikolai B                 7-RÍHA, Jan
+ 8-ANGELOV, Ljubomir [c]              8-KLOZ, František
+ 9-MILEV, Krum                        9-SOBOTKA, Jirí
+10-PANCHEDIEV, Georgi                10-KOPECKÝ, Vlastimil
+11-KAMENSKI, Borislav                11-RULC, Oldrich
+Coaches:
+TOMS, Stanislav                      TESAR, Josef
+
+Referee: BARLASSINA, Rinaldo [ITALY]
+
+24/04/1938, Praha, AC Sparta Stadion, 28.000
+CZECHOSLOVAKIA         6-0           BULGARIA [HT 1-0]
+ŠIMUNEK, Ladislav 21'
+NEJEDLÝ, Oldrich  57'
+LUDL, Josef       73'
+NEJEDLÝ, Oldrich  77'
+ŠIMUNEK, Ladislav 79'
+ŠIMUNEK, Ladislav 89'
+
+Czechoslovakia:                      Bulgaria:
+ 1-PLÁNICKA, František [c]            1-MAZNIKOV, Radi
+ 2-BURGR, Jaroslav                    2-NIKOLOV, Nikolai
+ 3-DAUCÍK, Ferdinand                  3-BALUKCHIEV, Georgi
+ 4-KOŠTÁLEK, Josef                    4-PETROV, Ljubomir
+ 5-KREUZ, Arnošt                      5-STEFANOV, Panayot
+ 6-KOLSKÝ, Karel                      6-GABROVSKI, Borislav [c]
+ 7-RÍHA, Jan                          7-ANGELOV, Ljubomir
+ 8-LUDL, Josef                        8-LOZANOV, Michail
+ 9-ŠIMUNEK, Ladislav                  9-KALUCHEV, Stefan
+10-NEJEDLÝ, Oldrich                  10-PANCHEDIEV, Georgi
+11-RADÓ, Ludovít                     11-YORDANOV, Vucho
+Coaches:
+MEISSNER, Václav                     TOMS, Stanislav
+
+Referee: von HERTZKA, Pál [HUNGARY]
+Note: Radó missed a penalty for Czechoslovakia.
+
+GROUP 8 [AUSTRIA, LATVIA, LITHUANIA]
+
+29/07/1937, Riga, ASK Stadion, 10.000
+LATVIA                 4-2           LITHUANIA [HT 1-0]
+KANEPS, Fricis   19'                 GUDELIS, Juozas  79'
+VESTERMANS, Ilja 50'                 PAULIONIS, Jonas 90'
+KANEPS, Fricis   52'
+KANEPS, Fricis   83'
+
+Latvia:                              Lithuania:
+ 1-BEBRIS, Janis                      1-JANKAUSKAS, Bronius
+ 2-LAUKS, Peteris                     2-ILGUNAS, Dizmanas
+ 3-SLAVIŠÉNS, Rudolfs                 3-GELEZUINAS, Vytautas
+ 4-MAGERS, Sergejs                    4-VILIMAVICIUS, Antanas
+ 5-PÉTERSONS, Eriks                   5-MARCINKUS, Romauldas [c]
+ 6-LIDMANIS, Janis                    6-NEVINSKAS, Romauldas
+ 7-RAISTERS, Eriks                    7-NORMANTAS, Jonas
+ 8-VESTERMANS, Ilja                   8-PAULAUSKAS, Antanas
+ 9-KANEPS, Fricis                     9-LINGIS, Antanas
+10-VERNERS, Alfreds                  10-PAULIONIS, Jonas
+11-BORDUŠKO, Vaclavs                 11-GUDELIS, Juozas
+Coaches:
+                                     JISZDA, Karl
+
+Referee: KRIST, Gustav [CZECHOSLOVAKIA]
+
+03/09/1937, Kaunas, Valstybinis stadionas, 10.000
+LITHUANIA              1-5           LATVIA [HT 0-4]
+PAULIONIS, Jonas 72'                 KANEPS, Fricis     4'
+                                     BORDUŠKO, Vaclavs 11'
+                                     BORDUŠKO, Vaclavs 30'
+                                     KANEPS, Fricis    45'pen
+                                     VESTERMANS, Ilja  67'
+
+Lithuania:                           Latvia:
+ 1-JANKAUSKAS, Bronius                1-BEBRIS, Janis
+ 2-ILGUNAS, Dizmanas                  2-LAUKS, Peteris
+ 3-KYMONTAS, Juozas                   3-SLAVIŠÉNS, Rudolfs
+ 4-ŠOPYS, Ceslovas                    4-MAGERS, Sergejs
+ 5-VILIMAVICIUS, Antanas              5-PÉTERSONS, Eriks
+ 6-NEVINSKAS, Romauldas [c]           6-LIDMANIS, Janis
+ 7-NORMANTAS, Jonas                   7-RAISTERS, Eriks
+ 8-ABARAVICIUS, Kazys                 8-VESTERMANS, Ilja
+ 9-SABALIAUSKAS, Zigmas               9-KANEPS, Fricis
+10-PAULIONIS, Jonas                  10-VERNERS, Alfreds
+11-GUDELIS, Juozas                   11-BORDUŠKO, Vaclavs
+Subs:
+12-SKALSKIS, Stasys [<1]  30'
+Coaches:
+JISZDA, Karl
+
+Referee: FRANKENSTEIN, Hans [AUSTRIA]
+Note: Skalskis played only 5 minutes in goal, when Jankauskas returned.
+
+05/10/1937, Wien, Praterstadion, 16.000
+AUSTRIA                2-1           LATVIA [HT 2-1]
+JERUSALEM, Camillo 15'               VESTERMANS, Ilja  6'
+BINDER, Franz      34'
+
+Austria:                             Latvia:
+ 1-ZÖHRER, Rudolf                     1-BEBRIS, Janis
+ 2-ANDRITZ, Karl                      2-LAUKS, Peteris
+ 3-SZESTAK, Karl 'Sesta'              3-SLAVIŠÉNS, Rudolfs
+ 4-VAVRA, Franz                       4-MAGERS, Sergejs
+ 5-PEKAREK, Josef                     5-PÉTERSONS, Eriks
+ 6-NAUSCH, Walter                     6-LIDMANIS, Janis
+ 7-ZISCHEK, Karl                      7-RAISTERS, Eriks
+ 8-GEITER, Rudolf                     8-VESTERMANS, Ilja
+ 9-BINDER, Franz                      9-KANEPS, Fricis
+10-JERUSALEM, Camillo                10-ROZITIS, Janis
+11-PESSER, Johann                    11-BORDUŠKO, Vaclavs
+Coaches:
+RETSCHURY, Heinrich
+
+Referee: von HERTZKA, Pál [HUNGARY]
+
+GROUP 9 [BELGIUM, LUXEMBOURG, NETHERLANDS]
+
+28/11/1937, Rotterdam, Stadion Feyenoord 'De Kuip', 40.000
+NETHERLANDS            4-0           LUXEMBOURG [HT 1-0]
+SMIT, Kick    29'
+de BOER, Piet 68'
+de BOER, Piet 78'
+de BOER, Piet 82'
+
+Netherlands:                         Luxembourg:
+ 1-VAN MALE, Adri                     1-HOSCHEID, Jean-Pierre
+ 2-PUNT, Piet                         2-WITRY, Joseph
+ 3-CALDENHOVE, Bertus                 3-MAJERUS, Victor [c]
+ 4-PAAUWE, Bas                        4-FISCHER, Joseph
+ 5-KUPPEN, Gerard                     5-BOMMERTZ, Pierre
+ 6-VAN HEEL, Puck [c]                 6-DUMONT, François
+ 7-WELS, Frank                        7-TOUBA, Nicolas
+ 8-VAN SPAANDONCK, Henk               8-WANTZ, Dominique
+ 9-de BOER, Piet                      9-LIBAR, Camille
+10-SMIT, Kick                        10-GEIB, Robert
+11-BERGMAN, Ko                       11-KEMP, Gustave
+Coaches:
+GLENDENNING, Bob                     COMMITTEE
+
+Referee: WEINGÄRTNER, Karl [AUSTRIA]
+
+13/03/1938, Luxembourg City, Stade Municipal, 11.200
+LUXEMBOURG             2-3           BELGIUM [HT 2-1]
+LIBAR, Camille  4'                   VOORHOOF, Bernard  19'
+KEMP, Gustave  33'                   BRAINE, Raymond    55'
+                                     DE VRIES, François 59'
+
+Luxembourg:                          Belgium:
+ 1-HOSCHEID, Jean-Pierre              1-BADJOU, Arnold
+ 2-MOUSEL, Pierre                     2-PAVERICK, Robert
+ 3-MAJERUS, Victor [c]                3-SEYS, Corneel
+ 4-DUMONT, François                   4-DALEM, Pierre
+ 5-ROSA, Pierre                       5-MEULDERMANS, Pierre
+ 6-HEMMEN, Othon                      6-DE WINTER, Alfons
+ 7-STAMET, Oscar                      7-DE VRIES, François
+ 8-LIBAR, Camille                     8-VOORHOOF, Bernard
+ 9-MART, Léon                         9-BRAINE, Raymond [c]
+10-GALES, George                     10-ISEMBORGHS, Hendrik
+11-KEMP, Gustave                     11-VANDEN EYNDE, Stanley
+Coaches:
+COMMITTEE                            BUTLER, Jack
+
+Referee: CAPDEVILLE, Georges [FRANCE]
+
+03/04/1938, Antwerp, Bosuil Stadion, 47.660
+BELGIUM                1-1           NETHERLANDS [HT 0-1]
+ISEMBORGHS, Hendrik 53'              VAN SPAANDONCK, Henk 37'
+
+Belgium:                             Netherlands:
+ 1-BADJOU, Arnold                     1-VAN MALE, Adri
+ 2-PAVERICK, Robert                   2-WEBER, Mauk
+ 3-PETIT, Jean                        3-CALDENHOVE, Bertus
+ 4-VAN ALPHEN, John                   4-PAAUWE, Jaap
+ 5-STIJNEN, Emile                     5-ANDERIESEN, Wim
+ 6-DE WINTER, Alfons                  6-VAN HEEL, Puck [c]
+ 7-VANDEN WOUWER, Charles             7-WELS, Frank
+ 8-VOORHOOF, Bernard                  8-VAN SPAANDONCK, Henk
+ 9-ISEMBORGHS, Hendrik                9-VENTE, Leen
+10-BRAINE, Raymond [c]               10-SMIT, Kick
+11-BUYLE, Fernand                    11-MIJNDERS, Kees
+Coaches:
+BUTLER, Jack                         GLENDENNING, Bob
+
+Referee: JEWELL, Arthur [ENGLAND]
+
+

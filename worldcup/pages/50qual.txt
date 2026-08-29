@@ -1,0 +1,164 @@
+<!--
+   title:   World Cup 1950 qualifications
+   source:  https://rsssf.org/tables/50qual.html
+  -->
+
+<!--
+                     Contents:
+
+         Europe                           
+         South America                    
+         CONCACAF                         
+         Asia                             
+  -->
+
+
+
+
+== Europe
+
+17 teams entered (including ISR and SYR), ITA exempted as defending champion.
+AUT and BEL were withdrew after seeding. TUR withdrew after playing one
+match. 7 places in 6 groups, one group of 4 teams (with 2 places), rest -
+2-3 teams (exception group 5, where preliminary matches were played).
+
+Group 1 (1949)  ‹§gr1›
+
+01.10. Belfast     NIR-SCO 2:8 (0:3) Smyth (2) - Morris (3), Waddel (2),
+                                     Steel, Reilly, Mason (Mortimer ENG)
+15.10. Cardiff     WAL-ENG 1:4 (0:3) Griffiths - Milburn (3), Mortensen
+                                     (Mowat SCO)
+09.11. Glasgow     SCO-WAL 2:0 (1:0) McPhaill, Linwood (Law ENG)
+16.11. Manchester  ENG-NIR 9:2 (4:0) Rowley (4), Pearson (2), Mortensen (2),
+                                     Froggatt - Smyth, Brennan (Griffiths WAL)
+08.03. Wrexham     WAL-NIR 0:0       (Leafe ENG)
+15.04. Glasgow     SCO-ENG 0:1 (0:1) (Bentley ENG - agreed)
+
+This group was also the Home (aka British) Championship for the year 1949.
+
+1. ENG^         3  3 0 0  6 14-3
+2. SCO^         3  2 0 1  4 10-3
+3. NIR          3  0 1 2  1  4-17
+4. WAL          3  0 1 2  1  1-6
+
+Group 2 (1949)  ‹§gr2›
+
+▪ 1st round ▪
+
+20.11. Ankara      TUR-SYR 7:0 (3:0) Fahrettin 12,16,87, Billem 44, Lefter
+                                     66, Erol 67, Gündüz 72 (Gamba ITA)
+- the second leg wasn't played
+
+▪ 2nd round ▪
+
+AUT withdrew, TUR had a walkover.
+
+Group 3 (1949)  ‹§gr3›
+
+▪ 1st round ▪
+
+21.08. Beograd     JUG-ISR 6:0 (4:0) Pajević (3), Sencić, Ž.Čajkovski, Bobek
+                                     (Galeati ITA)
+18.09. Tel Aviv    ISR-JUG 2:5 (0:3) Glazer 65,76 - Valok (2), Bobek,
+                                     Zl.Čajkovski, Ž.Čajkovski (Künstler CYP)
+
+▪ 2nd round ▪
+
+09.10. Beograd     JUG-FRA 1:1 (1:0) Ž.Čajkovski 36 - Baillot 55 (van der
+                                     Meer HOL)
+30.10. Paris       FRA-JUG 1:1 (1:1) Baillot 9 - Bobek 44 (Scherz I SUI)
+11.12. Firenze     JUG-FRA 3:2 (1:1,2:2,3:2)
+                                     Mihajlović 14,84p, Ž.Čajkovski 114 -
+                                     Walter 13, Luciani 85 (Galeati ITA)
+
+Group 4 (1949)  ‹§gr4›
+
+▪ 1st round ▪
+
+26.06. Zürich      SUI-LUX 5:2 (3:1) Fatton (2), Maillard, Ballaman,
+                                     Antenen - C. Wagner, Reuter (Delasalle
+                                     FRA)
+18.09. Luxembourg  LUX-SUI 2:3 (2:1) Müller, Kremer - Maillard, Oberer,
+                                     Fatton (Theusen BEL)
+
+▪ 2nd round ▪
+
+BEL withdrew, SUI had a walkover
+
+Group 5 (1949)  ‹§gr5›
+
+02.06. Stockholm   SWE-IRL 3:1 (2:1) S.Andersson 18p, Jepsson 38, Liedholm 69 -
+                                     Walsh 9 (Baert BEL)
+08.09. Dublin      IRL-FIN 3:0 (2:0) Gavin 36, Martin 44p,68 (Evans ENG)
+02.10. Malmö       SWE-FIN 8:1 (5:1) Jonsson 7,9,17, Rydell 24,75,83, Palmer 41,
+                                     Jakobsson 89 - Valhela 4 (Jorkow DEN)
+09.10. Helsinki    FIN-IRL 1:1 (0:0) Valhela 89 - Farrell 72 (Bronkhorst HOL)
+13.11. Dublin      IRL-SWE 1:3 (0:2) Martin 61p - Palmér 4,40,60 (Ling ENG)
+
+- match FIN-SWE not played; Finland withdrew, FIFA declared their matches
+  friendlies
+
+1. SWE^         2  2 0 0  4  6-2
+2. IRL          2  0 0 2  0  2-6
+-. FIN          3  0 1 2  1  2-12
+
+Group 6 (1950)  ‹§gr6›
+
+02.04. Madrid      ESP-POR 5:1 (3:1) Zarra (2), Basora, Panizo, Molowny -
+                                     Cabrita (Leafe ENG)
+09.04. Lisboa      POR-ESP 2:2 (0:1) Travassos, J.Correia - Zarra, Gainza
+                                     (Mowat SCO)
+
+== South America
+
+8 teams entered, including exempted BRA as host nation. ARG, ECU, PER
+withdrew, so no matches at all were played in this zone (the third WC
+qualifications in a row - quite an unusual situation).
+
+Group 7 [Bolivia, Chile]  ‹§gr7›
+
+26.02. La Paz      BOL-CHI 2:0 (0:0) Mena 52, Ferrer 64 (Alvarez BOL)
+
+As ARG withdrew, CHI and BOL had walkovers and the rest of ther programme
+was scratched.
+
+Group 8 [Uruguay, Paraguay]  ‹§gr8›
+
+PER and ECU withdrew, URU and PAR had walkovers.
+
+== CONCACAF
+
+3 teams in one group for two places. Two legs played, all matches in
+Mexico City.
+
+Group 9 (1949) - a tournament in Mexico  ‹§gr9›
+
+04.09. Mexico City MEX - USA 6:0 (3:0) Fuente 38,55,58, N.Flores 20, Luna 37,
+                                       Septien 85 (Tápia CUB)
+11.09. Mexico City MEX - CUB 2:0 (1:0) Luna 26, Casarin 56 (Garcia USA)
+14.09. Mexico City CUB - USA 1:1 (1:1) Gomez 28 - Wallace 23 (Nieto Lara MEX)
+18.09. Mexico City MEX - USA 6:2 (3:0) Ortiz 15, Casarin 24,40,76, Ochoa 8,59 -
+                                       Watman 47, Wallace 51 (Tápia CUB)
+21.09. Mexico City USA - CUB 5:2 (4:1) Bahr 16, J. Souza 23, Matevich 30,35, Wallace 48 -
+                                       Barquin 23p, Vampiro 50 (Nieto Lara MEX)
+25.09. Mexico City MEX - CUB 3:0 (1:0) Naranjo 42,87, N.Flores 59 (Garcia USA)
+
+1. MEX^         4  4 0 0  8 17-2
+2. USA^         4  1 1 2  3  8-15
+3. CUB          4  0 1 3  1  3-11
+
+== Asia
+
+Group 10  ‹§gr10›
+
+4 teams for one place, BUR, INA and FIL withdrew.
+
+▪ 1st round ▪
+
+(1) BUR withdrew, IND had a walkover.
+(2) FIL and INA withdrew.
+
+▪ 2nd round ▪
+
+IND had a walkover.
+

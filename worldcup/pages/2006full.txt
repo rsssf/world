@@ -1,0 +1,1940 @@
+<!--
+   title:   World Cup 2006 - Match Details
+   source:  https://rsssf.org/tables/2006full.html
+   author:  Hamdan Saaid
+   updated: 7 Feb 2007
+  -->
+
+<!--
+                     Contents:
+
+         World Cup 2006 - Match Details   
+           Group A                          (see §§gra)
+           Group B                          (see §§grb)
+           Group C                          (see §§grc)
+           Group D                          (see §§grd)
+           Group E                          (see §§gre)
+           Group F                          (see §§grf)
+           Group G                          (see §§grg)
+           Group H                          (see §§grh)
+           1/8 Finals                       (see §§8f)
+           Quarterfinals                    (see §§qf)
+           Semifinals                       (see §§sf)
+           Third Place Match                (see §§3m)
+           Final                            (see §§fin)
+         Goalscorers                        (see §§scorers)
+         Awards                             (see §§awards)
+         Statistics                         (see §§stats)
+         Squads                             (see §§squads)
+  -->
+
+
+
+== World Cup 2006 - Match Details
+=== Group A  ‹§gra›
+
+_ Jun 9 _
+
+In Munich (FIFA World Cup Stadium)
+Germany 4 (Philipp Lahm 6, Miroslav Klose 17, 61, Torsten Frings 87)
+Costa Rica 2 (Paulo Wanchope 12, 73)
+HT: 2-1. Att: 64,950. Ref: Horacio Elizondo (Argentina).
+GER: 1-Jens Lehmann; 3-Arne Friedrich, 21-Christoph Metzelder, 17-Per
+     Mertesacker, 16-Philipp Lahm; 19-Bernd Schneider © (22-David
+     Odonkor 90+1), 8-Torsten Frings, 18-Tim Borowski (5-Sebastian Kehl
+     72), 7-Bastian Schweinsteiger; 11-Miroslav Klose (10-Oliver
+     Neuville 79), 20-Lukas Podolski.
+CRC: 18-Jose Francisco Porras; 4-Michael Umana, 20-Douglas Sequeira,
+     3-Luis Marin ©; 5-Gilberto Martinez (2-Jervis Drummond 67),
+     6-Danny Fonseca, 8-Mauricio Solis (7-Christian Bolanos 78),
+     12-Leonardo Gonzales; 10-Walter Centeno, 9-Paulo Wanchope,
+     11-Ronald Gomez (14-Randall Azofeifa 90+1).
+Booked: CRC - Fonseca 30.
+Man-of-the-Match: Miroslav Klose (Germany).
+
+In Gelsenkirchen (FIFA World Cup Stadium)
+Poland 0
+Ecuador 2 (Carlos Tenorio 24, Agustin Delgado 80)
+HT: 0-1. Att: 48,426. Ref: Toru Kamikawa (Japan).
+POL: 1-Artur Boruc; 4-Marcin Baszczynski, 6-Jacek Bak ©, 2-Mariusz Jop,
+     14-Michal Zewlakow; 10-Miroslaw Szymkowiak, 16-Arkadiusz Radomski,
+     7-Radoslaw Sobolewski (21-Ireneusz Jelen 68), 8-Jacek Krzynowek
+     (5-Kamil Kosowski 78); 15-Euzebiusz Smolarek, 9-Maciej Zurawski
+     (23-Pawel Brozek 84).
+ECU: 12-Christian Mora; 4-Ulises de la Cruz, 3-Ivan Hurtado © (2-Jorge
+     Guagua 69), 17-Giovanny Espinoza, 18-Neicer Reasco; 8-Edison
+     Mendez, 14-Segundo Castillo, 20-Edwin Tenorio, 16-Luis Antonio
+     Valencia; 11-Agustin Delgado (6-Patricio Urrutia 83), 21-Carlos
+     Tenorio (10-Ivan Kaviedes 65).
+Booked: POL - Smolarek 36.
+        ECU - Hurtado 31, Mendez 70.
+Man-of-the-Match: Agustin Delgado (Ecuador).
+
+_ Jun 14 _
+
+In Dortmund (FIFA World Cup Stadium)
+Germany 1 (Oliver Neuville 90+1)
+Poland 0
+HT: 0-0. Att: 65,000. Ref: Luis Medina Cantalejo (Spain).
+GER: 1-Jens Lehmann; 3-Arne Friedrich (22-David Odonkor 63),
+     21-Christoph Metzelder, 17-Per Mertesacker, 16-Philipp Lahm;
+     19-Bernd Schneider, 8-Torsten Frings, 13-Michael Ballack ©,
+     7-Bastian Schweinsteiger (18-Tim Borowski 77); 20-Lukas Podolski
+     (10-Oliver Neuville 71), 11-Miroslav Klose.
+POL: 1-Artur Boruc; 4-Marcin Baszczynski, 6-Jacek Bak ©, 19-Bartosz
+     Bosacki, 14-Michal Zewlakow (17-Dariusz Dudka 83); 8-Jacek
+     Krzynowek (18-Mariusz Lewandowski 77), 16-Arkadiusz Radomski,
+     7-Radoslaw Sobolewski, 21-Ireneusz Jelen (23-Pawel Brozek 90+1),
+     9-Maciej Zurawski; 15-Euzebiusz Smolarek.
+Booked: GER - Ballack 58, Odonkor 68, Metzelder 70.
+        POL - Krzynowek 3, Sobolewski 28, 75, Boruc 89.
+Sent off: POL - Sobolewski 75.
+Man-of-the-Match: Philipp Lahm (Germany).
+
+In Hamburg (FIFA World Cup Stadium)
+Ecuador 3 (Carlos Tenorio 8, Agustin Delgado 54, Ivan Kaviedes 90+2)
+Costa Rica 0
+HT: 1-0. Att: 50,000. Ref: Coffi Codjia (Benin).
+ECU: 12-Cristian Mora; 4-Ulises de la Cruz, 3-Ivan Hurtado ©,
+     17-Giovanny Espinoza (2-Jorge Guaga 68), 18-Neicer Reasco;
+     8-Edison Mendez, 20-Edwin Tenorio, 14-Segundo Castillo, 16-Luis
+     Antonio Valencia (6-Patrico Urrutia 69); 11-Agustin Delgado,
+     21-Carlos Tenorio (10-Ivan Kaviedes 46).
+CRC: 18-Jose Francisco Porras; 3-Luis Marin ©, 4-Michael Umana,
+     15-Harold Wallace; 12-Leonardo Gonzalez (16-Carlos Hernandez 56),
+     8-Mauricio Solis, 10-Walter Centeno (13-Kurt Bernard 84),
+     20-Douglas Sequeira, 6-Danny Fonseca (19-Alvaro Saborio 29);
+     11-Ronald Gomez, 9-Paulo Wanchope.
+Booked: ECU - Castillo 44, De la Cruz 54, Mora 60.
+        CRC - Marin 10, Solis 28.
+Man-of-the-Match: Agustin Delgado (Ecuador).
+
+_ Jun 20 _
+
+In Berlin (Olympiastadion)
+Ecuador 0
+Germany 3 (Miroslav Klose 4, 44, Lukas Podolski 57)
+HT: 0-2. Att: 72,000. Ref: Valentin Ivanov (Russia).
+ECU: 12-Cristian Mora; 4-Ulises de la Cruz, 2-Jorge Guagua, 17-Giovanny
+     Espinoza, 13-Paul Ambrossi; 8-Edison Mendez, 20-Edwin Tenorio,
+     15-Marlon Ayovi © (6-Patrico Urrutia 68), 16-Luis Antonio Valencia
+     (7-Cristian Lara 63); 9-Felix Borja (23-Cristian Benitez 46),
+     10-Ivan Kaviedes.
+GER: 1-Jens Lehmann; 3-Arne Friedrich, 4-Robert Huth, 17-Per
+     Mertesacker, 16-Philipp Lahm; 19-Bernd Schneider (14-Gerald
+     Asamoah 73), 8-Torsten Frings (18-Tim Borowski 66), 13-Michael
+     Ballack ©, 7-Bastian Schweinsteiger; 20-Lukas Podolski,
+     11-Miroslav Klose (10-Oliver Neuville 66).
+Booked: ECU - Valencia 52.
+        GER - Borowski 75.
+Man-of-the-Match: Michael Ballack (Germany).
+
+In Hanover (FIFA World Cup Stadium)
+Costa Rica 1 (Ronald Gomez 24)
+Poland 2 (Bartosz Bosacki 33, 66)
+HT: 1-1. Att: 43,000. Ref: Shamsul Maidin (Singapore).
+CRC: 18-Jose Francisco Porras; 2-Jervis Drummond (15-Harold Wallace
+     70), 3-Luis Marin ©, 4-Michael Umana; 12-Leonardo Gonzalez,
+     8-Mauricio Solis, 10-Walter Centeno, 7-Christian Bolanos
+     (19-Alvaro Saborio 78), 17-Gabriel Badilla; 11-Ronald Gomez
+     (16-Carlos Hernandez 82), 9-Paulo Wanchope.
+POL: 1-Artur Boruc; 4-Marcin Baszczynski, 6-Jacek Bak ©, 19-Bartosz
+     Bosacki, 14-Michal Zewlakow; 8-Jacek Krzynowek, 16-Arkadiusz
+     Radomski (18-Mariusz Lewandowski 64), 10-Miroslaw Szymkowiak,
+     15-Euzebiusz Smolarek (11-Grzegorz Rasiak 85); 21-Ireneusz Jelen,
+     9-Maciej Zurawski (23-Pawel Brozek 46).
+Booked: CRC - Umana 17, Marin 45+2, Gomez 45+3, Badilla 56, Gonzalez 76.
+        POL - Radomski 18, Bak 24, Zewlakow 29, Baszczynski 60, Boruc
+              90.
+Man-of-the-Match: Bartosz Bosacki (Poland).
+
+     Standings            P   W   D   L   F   A  Pts
+     1.GERMANY            3   3   0   0   8   2   9
+     2.ECUADOR            3   2   0   1   5   3   6
+     3.Poland             3   1   0   2   2   4   3
+     4.Costa Rica         3   0   0   3   3   9   0
+
+
+=== Group B  ‹§grb›
+
+_ Jun 10 _
+
+In Dortmund (FIFA World Cup Stadium)
+Trinidad & Tobago 0
+Sweden 0
+Att: 62,959. Ref: Shamsul Maidin (Singapore).
+TRI: 1-Shaka Hislop; 8-Cyd Gray, 6-Dennis Lawrence, 5-Brent Sancho,
+     3-Avery John; 11-Carlos Edwards, 12-Collin Samuel (13-Cornell Glen
+     52), 7-Christopher Birchall, 19-Dwight Yorke ©, 18-Densill
+     Theobald (9-Aurtis Whitley 66); 14-Stern John.
+SWE: 23-Rami Shaaban; 7-Niclas Alexandersson, 3-Olof Mellberg ©,
+     4-Teddy Lucic, 5-Erik Edman; 21-Christian Wilhelmsson (18-Mattias
+     Jonson 78), 6-Tobias Linderoth (16-Kim Kallstroem 78), 8-Anders
+     Svensson (20-Marcus Allbaeck 62), 9-Fredrik Ljungberg; 11-Henrik
+     Larsson, 10-Zlatan Ibrahimovic.
+Booked: TRI - A John 15, Yorke 74.
+        SWE - Larsson 90.
+Sent off: TRI - A John 46.
+Man-of-the-Match: Dwight Yorke (Trinidad & Tobago).
+
+In Frankfurt (FIFA World Cup Stadium)
+England 1 (Carlos Gamarra og 3)
+Paraguay 0
+HT: 1-0. Att: 48,000. Ref: Marco Rodriguez (Mexico).
+ENG: 1-Paul Robinson; 2-Gary Neville, 5-Rio Ferdinand, 6-John Terry,
+     3-Ashley Cole; 7-David Beckham ©, 4-Steven Gerrard, 8-Frank
+     Lampard, 11-Joe Cole (16-Owen Hargreaves 83); 10-Michael Owen
+     (20-Stewart Downing 56), 21-Peter Crouch.
+PAR: 1-Justo Villar (22-Aldo Bobadilla 8); 6-Carlos Bonet (23-Nelson
+     Cuevas 68), 5-Julio Cesar Caceres, 4-Carlos Gamarra ©, 3-Delio
+     Toledo (2-Jorge Nunez 82); 21-Denis Caniza, 10-Roberto Acuna,
+     13-Carlos Paredes, 16-Cristian Riveros; 9-Roque Santa Cruz,
+     18-Nelson Valdez.
+Booked: ENG - Gerrard 19, Crouch 63.
+        PAR - Valdez 22.
+Man-of-the-Match: Frank Lampard (England).
+
+_ Jun 15 _
+
+In Nuremberg (Franken-Stadion)
+England 2 (Peter Crouch 83, Steven Gerrard 90+1)
+Trinidad & Tobago 0
+HT: 0-0. Att: 41,000. Ref: Toru Kamikawa (Japan).
+ENG: 1-Paul Robinson; 15-Jamie Carragher (19-Aaron Lennon 58), 5-Rio
+     Ferdinand, 6-John Terry, 3-Ashley Cole; 7-David Beckham ©, 8-Frank
+     Lampard, 4-Steven Gerrard, 11-Joe Cole (20 Stewart Downing 75);
+     10-Michael Owen (9-Wayne Rooney 58), 21-Peter Crouch.
+TRI: 1-Shaka Hislop; 6-Dennis Lawrence, 5-Brent Sancho, 8-Cyd Gray,
+     11-Carlos Edwards; 9-Aurtis Whitley, 7-Chris Birchall, 18-Densill
+     Theobald (16-Evans Wise 85), 15-Kenwyne Jones (13-Cornell Glen
+     70); 14-Stern John, 19-Dwight Yorke ©.
+Booked: ENG - Lampard 64.
+        TRI - Theobald 18, Whitley 19, Jones 45, Hislop 47, Gray 56.
+Man-of-the-Match: David Beckham (England).
+
+In Berlin (Olympiastadion)
+Sweden 1 (Freddie Ljungberg 89)
+Paraguay 0
+HT: 0-0. Att: 72,000. Ref: Lubos Michel (Slovakia).
+SWE: 1-Andreas Isaksson; 3-Olof Mellberg ©, 4-Teddy Lucic, 5-Erik
+     Edman; 6-Tobias Linderoth, 7-Niclas Alexandersson, 9-Fredrik
+     Ljungberg, 21-Christian Wilhelmsson (18-Mattias Jonson 68), 16-Kim
+     Kallstrom (17-Johan Elmander 86); 10-Zlatan Ibrahimovic (20-Marcus
+     Allback 46), 11-Henrik Larsson.
+PAR: 22-Aldo Bobadilla; 21-Denis Caniza, 5-Julio Cesar Caceres,
+     4-Carlos Gamarra ©, 2-Jorge Nunez; 6-Carlos Bonet (8-Edgar Barreto
+     81), 10-Roberto Acuna, 13-Carlos Paredes, 16-Cristian Riveros
+     (19-Julio Dos Santos 62); 9-Roque Santa Cruz (20-Dante Lopez 65),
+     18-Nelson Haedo Valdez.
+Booked: SWE - Linderoth 14, Lucic 48, Allback 60.
+        PAR - Caniza 3, Acuna 51, Nunez 54, Paredes 73, Barreto 85.
+Man-of-the-Match: Fredrik Ljungberg (Sweden).
+
+_ Jun 20 _
+
+In Cologne (FIFA World Cup Stadium)
+Sweden 2 (Marcus Allback 51, Henrik Larsson 90)
+England 2 (Joe Cole 34, Steven Gerrard 85)
+HT: 0-1. Att: 45,000. Ref: Massimo Busacca (Switzerland).
+SWE: 1-Andreas Isaksson; 3-Olof Mellberg ©, 4-Teddy Lucic, 5-Erik
+     Edman, 7-Niclas Alexandersson; 18-Mattias Jonson (21-Christian
+     Wilhelmsson 54), 6-Tobias Linderoth (19-Daniel Andersson 90),
+     16-Kim Kallstrom, 9-Fredrik Ljungberg; 20-Marcus Allback (17-Johan
+     Elmander 74), 11-Henrik Larsson.
+ENG: 1-Paul Robinson; 15-Jamie Carragher, 5-Rio Ferdinand (12-Sol
+     Campbell 56), 6-John Terry, 3-Ashley Cole; 7-David Beckham ©,
+     8-Frank Lampard, 16-Owen Hargreaves, 11-Joe Cole; 10-Michael Owen
+     (21-Peter Crouch 4), 9-Wayne Rooney (4-Steven Gerrard 69).
+Booked: SWE - Alexandersson 83, Ljungberg 87.
+        ENG - Hargreaves 76.
+Man-of-the-Match: Joe Cole (England).
+
+In Kaiserslautern (Fritz-Walter-Stadion)
+Paraguay 2 (Brent Sancho og 25, Nelson Cuevas 86)
+Trinidad & Tobago 0
+HT: 1-0. Att: 46,000. Ref: Roberto Rosetti (Italy).
+PAR: 22-Aldo Bobadilla; 21-Denis Caniza (14-Paulo Da Silva 89), 5-Julio
+     Cesar Caceres (15-Julio Manzur 78), 4-Carlos Gamarra ©, 2-Jorge
+     Nunez; 10-Roberto Acuna, 8-Edgar Barreto, 13-Carlos Paredes,
+     19-Julio Dos Santos; 9-Roque Santa Cruz, 18-Nelson Haedo Valdez
+     (23-Nelson Cuevas 67).
+TRI: 21-Kelvin Jack; 6-Dennis Lawrence, 5-Brent Sancho, 3-Avery John
+     (15-Kenwyne Jones 31); 11-Carlos Edwards, 9-Aurtis Whitley
+     (10-Russell Latapy 67), 7-Chris Birchall, 18-Densill Theobald,
+     19-Dwight Yorke ©; 14-Stern John, 13-Cornell Glen (16-Evans Wise
+     41).
+Booked: PAR - Paredes 30, dos Santos 55.
+        TRI - Sancho 45, Whitley 49.
+Man-of-the-Match: Julio Dos Santos (Paraguay).
+
+     Standings            P   W   D   L   F   A  Pts
+     1.ENGLAND            3   2   1   0   5   2   7
+     2.SWEDEN             3   1   2   0   3   2   5
+     3.Paraguay           3   1   0   2   2   2   3
+     4.Trinidad & Tobago  3   0   1   2   0   4   1
+
+
+=== Group C  ‹§grc›
+
+_ Jun 10 _
+
+In Hamburg (FIFA World Cup Stadium)
+Argentina 2 (Hernan Crespo 24, Javier Saviola 38)
+Ivory Coast 1 (Didier Drogba 82)
+HT: 2-0. Att: 49,480. Ref: Frank De Bleeckere (Belgium).
+ARG: 1-Roberto Abbondanzieri; 21-Nicolas Burdisso, 2-Roberto Ayala,
+     6-Gabriel Heinze, 3-Juan Pablo Sorin ©; 18-Maxi Rodriguez,
+     8-Javier Mascherano, 5-Esteban Cambiasso; 10-Juan Roman Riquelme
+     (16-Pablo Aimar 90+3); 7-Javier Saviola (22-Luis Gonzalez 75),
+     9-Hernan Crespo (14-Rodrigo Palacio 64).
+CIV: 1-Jean-Jacques Tizie; 21-Emmanuel Eboue, 4-Kolo Toure,
+     12-Abdoulaye Meite, 3-Arthur Boka; 19-Yaya Toure, 18-Abdul Kader
+     Keita (9-Arouna Kone 77), 8-Bonaventure Kalou (15-Aruna Dindane
+     55), 5-Didier Zokora, 2-Kanga Akale (14-Bakary Kone 62); 11-Didier
+     Drogba ©.
+Booked: ARG - Saviola 41, Heinze 49, Gonzalez 81.
+        CIV - Eboue 61, Drogba 90+1.
+Man-of-the-Match: Javier Saviola (Argentina).
+
+_ Jun 11 _
+
+In Leipzig (Zentralstadion)
+Serbia & Montenegro 0
+Netherlands 1 (Arjen Robben 18)
+HT: 0-1. Att: 37,216. Ref: Markus Merk (Germany).
+SCG: 1-Dragoslav Jevric; 14-Nenad Djordjevic (7-Ognjen Koroman 43),
+     6-Goran Gavrancic, 20-Mladen Krstajic, 3-Ivica Dragutinovic;
+     17-Albert Nadj, 4-Igor Duljaj, 10-Dejan Stankovic, 11-Predrag
+     Djordjevic; 8-Mateja Kezman (21-Danijel Ljuboja 67), 9-Savo
+     Milosevic © (19-Nikola Zigic 46).
+NED: 1-Edwin van der Sar ©; 14-Johnny Heitinga, 13-Andre Ooijer,
+     4-Joris Mathijsen (3-Khalid Boulahrouz 86), 5-Giovanni van
+     Bronckhorst; 18-Mark van Bommel (6-Denny Landzaat 60), 20-Wesley
+     Sneijder, 8-Philip Cocu; 17-Robin van Persie, 9-Ruud van
+     Nistelrooy (7-Dirk Kuyt 69), 11-Arjen Robben.
+Booked: SCG - Stankovic 34, Koroman 64, Dragutinovic 81, Gavrancic 90.
+        NED - Van Bronckhorst 56, Heitinga 85.
+Man-of-the-Match: Arjen Robben (Netherlands).
+
+_ Jun 16 _
+
+In Gelsenkirchen (FIFA World Cup Stadium)
+Argentina 6 (Maxi Rodriguez 6, 41, Esteban Cambiasso 31, Hernan Crespo
+     78, Carlos Tevez 84, Lionel Messi 88)
+Serbia & Montenegro 0
+HT: 3-0. Att: 52,000. Ref: Roberto Rosetti (Italy).
+ARG: 1-Roberto Abbondanzieri; 21-Nicolas Burdisso, 2-Roberto Ayala,
+     6-Gabriel Heinze, 3-Juan Pablo Sorin ©; 22-Luis Gonzalez
+     (5-Esteban Cambiasso), 8-Javier Mascherano, 18-Maxi Rodriguez
+     (19-Lionel Messi 75); 10-Juan Roman Riquelme; 7-Javier Saviola
+     (11-Carlos Tevez 58), 9-Hernan Crespo.
+SCG: 1-Dragoslav Jevric; 4-Igor Duljaj, 6-Goran Gavrancic, 20-Mladen
+     Krstajic, 15-Milan Dudic; 17-Albert Nadj (2-Ivan Ergic 46),
+     10-Dejan Stankovic, 11-Predrag Djordjevic, 7-Ognjen Koroman
+     (21-Danijel Ljuboja 49); 9-Savo Milosevic © (18-Zvonimir Vukic
+     69), 8-Mateja Kezman.
+Booked: ARG - Crespo 37.
+        SCG - Koroman 7, Nadj 27, Krstajic 42.
+Sent off: SCG - Kezman 65.
+Man-of-the-Match: Javier Saviola (Argentina).
+
+In Stuttgart (Gottlieb-Daimler-Stadion)
+Netherlands 2 (Robin van Persie 23, Ruud van Nistelrooy 26)
+Ivory Coast 1 (Bakary Kone 38)
+HT: 2-1. Att: 52,000. Ref: Oscar Ruiz (Colombia).
+NED: 1-Edwin van der Sar ©; 14-Johnny Heitinga (3-Khalid Boulahrouz
+     46), 13-Andre Ooijer, 4-Joris Mathijsen, 5-Giovanni van
+     Bronckhorst; 18-Mark van Bommel, 20-Wesley Sneijder (10-Rafael van
+     der Vaart 50), 8-Philip Cocu; 17-Robin van Persie, 9-Ruud van
+     Nistelrooy (6-Denny Landzaat 73), 11-Arjen Robben.
+CIV: 1-Jean-Jacques Tizie; 21-Emmanuel Eboue, 4-Kolo Toure, 3-Arthur
+     Boka, 12-Abdoulaye Meite; 5-Didier Zokora, 14-Bakary Kone
+     (15-Aruna Dindane 62), 19-Gneri Yaya Toure, 22-Romaric (10-Gilles
+     Yapi Yapo 62); 9-Arouna Kone (2-Kanga Akale 73), 11-Didier Drogba ©.
+Booked: NED - Robben 34, Mathijsen 35, Van Bommel 58, Boulahrouz 90+4.
+        CIV - Zokora 25, Drogba 41, Boka 66.
+Man-of-the-Match: Arjen Robben (Netherlands).
+
+_ Jun 21 _
+
+In Frankfurt (FIFA World Cup Stadium)
+Netherlands 0
+Argentina 0
+Att: 48,000. Ref: Luis Medina Cantalejo (Spain).
+NED: 1-Edwin van der Sar ©; 2-Kew Jaliens, 3-Khalid Boulahrouz, 13-Andre
+     Ooijer, 15-Tim de Cler; 20-Wesley Sneijder (16-Hedwiges Maduro
+     86), 10-Rafael van der Vaart, 8-Philip Cocu; 7-Dirk Kuyt, 9-Ruud
+     van Nistelrooy (21-Ryan Babel 56), 17-Robin van Persie (6-Denny
+     Landzaat 67).
+ARG: 1-Roberto Abbondanzieri; 21-Nicolas Burdisso (4-Fabricio Coloccini
+     4), 2-Roberto Ayala ©, 15-Gabriel Milito, 17-Leandro Cufre;
+     5-Esteban Cambiasso, 8-Javier Mascherano, 10-Juan Roman Riquelme
+     (16-Pablo Aimar 79), 18-Maxi Rodriguez; 19-Lionel Messi (20-Julio
+     Ricardo Cruz 69), 11-Carlos Tevez.
+Booked: NED - Kuyt 28, Ooijer 42, De Cler 48.
+        ARG - Cambiasso 57, Mascherano 90.
+Man-of-the-Match: Carlos Tevez (Argentina).
+
+In Munich (FIFA World Cup Stadium)
+Ivory Coast 3 (Aruna Dindane 36pen, 67, Bonaventure Kalou 86pen)
+Serbia & Montenegro 2 (Nikola Zigic 10, Sasa Ilic 20)
+HT: 1-2. Att: 66,000. Ref: Marco Rodriguez (Mexico).
+CIV: 23-Boubacar Barry; 21-Emmanuel Eboue, 17-Cyrille Domoraud ©,
+     3-Arthur Boka, 6-Blaise Kouassi; 5-Didier Zokora, 19-Gneri Yaya
+     Toure, 2-Kanga Akale (14-Bakary Kone 60), 18-Abdelkader Keita
+     (8-Bonaventure Kalou 73); 9-Arouna Kone, 15-Aruna Dindane.
+SCG: 1-Dragoslav Jevric; 14-Nenad Djordjevic, 6-Goran Gavrancic,
+     20-Mladen Krstajic (17-Albert Nadj 15), 15-Milan Dudic; 2-Ivan
+     Ergic, 4-Igor Duljaj, 10-Dejan Stankovic ©, 11-Predrag Djordjevic;
+     22-Sasa Ilic, 19-Nikola Zigic (9-Savo Milosevic 66).
+Booked: CIV - Keita 33, Domoraud 41, 90+2, Dindane 43.
+        SCG - Nadj 17, 45+1, Dudic 35, Duljaj 37, Gavrancic 57.
+Sent off: CIV - Cyrille Domoraud 90+2.
+          SCG - Albert Nadj 45+1.
+Man-of-the-Match: Aruna Dindane (Ivory Coast).
+
+     Standings            P   W   D   L   F   A  Pts
+     1.ARGENTINA          3   2   1   0   8   1   7
+     2.NETHERLANDS        3   2   1   0   3   1   7
+     3.Ivory Coast        3   1   0   2   5   6   3
+     4.Serbia-Montenegro  3   0   0   3   2  10   0
+
+
+=== Group D  ‹§grd›
+
+_ Jun 11 _
+
+In Nuremberg (Franken-Stadion)
+Mexico 3 (Omar Bravo 28, 76, Antonio Naelson 'Zinha' 79)
+Iran 1 (Yahya Golmohammadi 36)
+HT: 1-1. Att: 41,000. Ref: Roberto Rosetti (Italy).
+MEX: 1-Oswaldo Sanchez; 16-Mario Mendez, 5-Ricardo Osorio, 4-Rafael
+     Marquez ©, 3-Carlos Salcido; 14-Gonzalo Pineda, 6-Gerardo Torrado
+     (23-Luis Perez 46), 8-Pavel Pardo, 19-Omar Bravo; 10-Guillermo
+     Franco (7-Antonio Naelson 'Zinha' 46), 9-Jared Borgetti (17-Jose
+     Fonseca 52).
+IRN: 1-Ebrahim Mirzapour; 13-Hossein Kaebi, 5-Rahman Rezaei, 4-Yahya
+     Golmohammadi, 20-Mohammad Nosrati (15-Arash Borhani 81); 2-Mehdi
+     Mahdavikia, 6-Javad Nekonam, 14-Andranik Taymoorian, 8-Ali Karimi
+     (21-Mehrzad Madanchi 63); 10-Ali Daei ©, 9-Vahid Hashemian.
+Booked: MEX - Torrado 18.
+        IRN - Nekounam 55.
+Man-of-the-Match: Omar Bravo (Mexico).
+
+In Cologne (FIFA World Cup Stadium)
+Angola 0
+Portugal 1 (Pedro Pauleta 4)
+HT: 0-1. Att: 45,000. Ref: Jorge Larrionda (Uruguay).
+ANG: 1-Joao Ricardo; 20-Loco, 3-Jamba, 5-Kali, 21-Delgado; 17-Ze
+     Kalanga (13-Edson 70), 8-Andre Macanga, 7-Paulo Figueiredo
+     (6-Miloy 80), 14-Mendonca; 10-Akwa © (9-Mantorras 60), 11-Mateus.
+POR: 1-Ricardo; 13-Miguel, 5-Fernando Meira, 16-Ricardo Carvalho,
+     14-Nuno Valente; 7-Luis Figo ©, 8-Armando Petit (18-Maniche 72),
+     19-Tiago (10-Hugo Viana 83); 17-Cristiano Ronaldo (6-Francisco
+     Costinha 60), 9-Pedro Pauleta, 11-Simao Sabrosa.
+Booked: ANG - Jamba 28, Loco 45+3, Andre 52.
+        POR - Ronaldo 26, Nuno Valente 79.
+Man-of-the-Match: Luis Figo (Portugal).
+
+_ Jun 16 _
+
+In Hanover (FIFA World Cup Stadium)
+Mexico 0
+Angola 0
+Att: 43,000. Ref: Shamsul Maidin (Singapore).
+MEX: 1-Oswaldo Sanchez; 16-Mario Mendez, 4-Rafael Marquez ©, 5-Ricardo
+     Osorio, 3-Carlos Salcido, 14-Gonzalo Pineda (11-Ramon Carlos
+     Morales 78); 6-Gerardo Torrado, 7-Antonio Naelson "Zinha"
+     (21-Jesus Arellano 52), 8-Pavel Pardo; 10-Guillermo Franco
+     (17-Jose Fonseca 73), 19-Omar Bravo.
+ANG: 1-Joao Ricardo; 20-Loco, 3-Jamba, 5-Kali, 21-Delgado; 17-Ze
+     Kalanga (6-Miloy 83), 8-Andre Macanga, 7-Figueiredo (15-Rui
+     Marques 72), 11-Mateus (9-Mantorras 68), 14-Mendonca; 10-Fabrice
+     Akwa ©.
+Booked: MEX - Pineda 59.
+        ANG - Delgado 13, Andre 44, 79, Ze Kalanga 50, Joao Ricardo 86.
+Sent off: ANG - Andre Macanga 79.
+Man-of-the-Match: Joao Ricardo (Angola).
+
+_ Jun 17 _
+
+In Frankfurt (FIFA World Cup Stadium)
+Portugal 2 (Deco 63, Cristiano Ronaldo 80pen)
+Iran 0
+HT: 0-0. Att: 48,000. Ref: Eric Poulat (France).
+POR: 1-Ricardo Pereira; 13-Miguel, 16-Ricardo Carvalho, 5-Fernando
+     Meira, 14-Nuno Valente; 20-Deco Souza (19-Tiago 81), 6-Francisco
+     Costinha, 18-Maniche (8-Armando Petit 67), 7-Luis Figo © (11-Simao
+     Sabrosa 88), 17-Cristiano Ronaldo; 9-Pedro Pauleta.
+IRN: 1-Ebrahim Mirzapour; 13-Hossein Kaebi, 5-Rahman Rezaei, 4-Yahya
+     Golmohammadi © (3-Sohrab Bakhtiarizadeh 89), 20-Mohammad Nosrati;
+     2-Mehdi Mahdavikia, 6-Javad Nekounam, 8-Ali Karimi (7-Ferydoon
+     Zandi 65), 14-Andranik Taymoorian; 21-Mehrzad Madanchi (11-Rasoul
+     Khatibi 66), 9-Vahid Hashemian.
+Booked: POR - Pauleta 45, Deco 48, Costinha 61.
+        IRN - Nekounam 20, Madanchi 32, Kaabi 73, Golmohammadi 87.
+Man-of-the-Match: Deco (Portugal).
+
+_ Jun 21 _
+
+In Gelsenkirchen (FIFA World Cup Stadium)
+Portugal 2 (Maniche 6, Simao Sabrosa 24pen)
+Mexico 1 (Jose Fonseca 29)
+HT: 2-1. Att: 52,000. Ref: Lubos Michel (Slovakia).
+POR: 1-Ricardo Perreira; 13-Miguel (2-Paulo Ferreira 61), 16-Ricardo
+     Carvalho, 5-Fernando Meira, 3-Marco Caneira; 8-Armando Petit,
+     18-Maniche, 19-Tiago, 7-Luis Figo © (15-Luis Boa Morte 80),
+     11-Simao Sabrosa; 23-Helder Postiga (21-Nuno Gomes 69).
+MEX: 1-Oswaldo Sanchez; 16-Mario Mendez (10-Guillermo Franco 80),
+     4-Rafael Marquez ©, 5-Ricardo Osorio, 3-Carlos Salcido, 14-Gonzalo
+     Pineda (15-Jose Antonio Castro 69); 22-Francisco Rodriguez
+     (7-Antonio Naelson 'Zinha' 46), 23-Luis Perez, 8-Pavel Pardo;
+     17-Jose Fonseca, 19-Omar Bravo.
+Booked: POR - Miguel 26, Maniche 69, Boa Morte 88, Nuno Gomes 90.
+        MEX - Rodriguez 22, Perez 27, 61, Marquez 65, Zinha 87.
+Sent off: MEX - Perez 61.
+Man-of-the-Match: Jose Fonseca (Mexico).
+
+In Leipzig (Zentralstadion)
+Iran 1 (Sohrab Bakhtiarizadeh 75)
+Angola 1 (Flavio 60)
+HT: 0-0. Att: 43,000. Ref: Mark Shield (Australia).
+IRN: 1-Ebrahim Mirzapour; 13-Hossein Kaebi (15-Arash Borhani 67),
+     5-Rahman Rezaei, 3-Sohrab Bakhtiarizadeh, 20-Mohammad Nosrati
+     (23-Masoud Shojaei 13); 2-Mehdi Mahdavikia, 7-Ferydoon Zandi,
+     21-Mehrzad Madanchi, 14-Andranik Taymoorian; 9-Vahid Hashemian
+     (11-Rasoul Khatibi 39); 10-Ali Daei ©.
+ANG: 1-Joao Ricardo; 20-Loco, 3-Jamba, 5-Kali, 21-Delgado; 17-Ze
+     Kalanga, 6-Miloy, 7-Figueiredo (15-Rui Marques 69), 11-Mateus
+     (18-Love 23), 14-Mendonca; 10-Fabrice Akwa © (16-Flavio 51).
+Booked: IRN - Madanchi 37, Teymourian 55, Zandi 90.
+        ANG - Loco 22, Mendonca 45+1, Ze Kalanga 67.
+Man-of-the-Match: Ze Kalanga (Angola).
+
+     Standings            P   W   D   L   F   A  Pts
+     1.PORTUGAL           3   3   0   0   5   1   9
+     2.MEXICO             3   1   1   1   4   3   4
+     3.Angola             3   0   2   1   1   2   2
+     4.Iran               3   0   1   2   2   6   1
+
+
+=== Group E  ‹§gre›
+
+_ Jun 12 _
+
+In Gelsenkirchen (FIFA World Cup Stadium)
+United States 0
+Czech Republic 3 (Jan Koller 5, Tomas Rosicky 36, 76)
+HT: 0-2. Att: 52,000. Ref: Carlos Amarilla (Paraguay).
+USA: 18-Kasey Keller; 6-Steve Cherundolo (9-Eddie Johnson 46),
+     22-Oguchi Onyewu, 23-Eddie Pope, 7-Eddie Lewis; 17-DaMarcus
+     Beasley, 21-Landon Donovan, 10-Claudio Reyna ©, 4-Pablo Mastroeni
+     (5-John O'Brien 46), 15-Bobby Convey; 20-Brian McBride (16-Josh
+     Wolff 77).
+CZE: 1-Petr Cech; 2-Zdenek Grygera, 22-David Rozehnal, 21-Tomas
+     Ujfalusi, 6-Marek Jankulovski; 8-Karel Poborsky (19-Jan Polak 82),
+     4-Tomas Galasek ©, 10-Tomas Rosicky (17-Jiri Stajner 86), 11-Pavel
+     Nedved, 20-Jaroslav Plasil; 9-Jan Koller (12-Vratislav Lokvenc 45).
+Booked: USA - Onyewu 5, Reyna 60.
+        CZE - Rozehnal 16, Lokvenc 59, Rosicky 81, Grygera 88.
+Man-of-the-Match: Tomas Rosicky (Czech Republic).
+
+In Hanover (FIFA World Cup Stadium)
+Italy 2 (Andrea Pirlo 40, Vincenzo Iaquinta 83)
+Ghana 0
+HT: 1-0. Att: 43,000. Ref: Carlos Simon (Brazil).
+ITA: 1-Gianluigi Buffon; 2-Cristian Zaccardo, 13-Alessandro Nesta,
+     5-Fabio Cannavaro ©, 3-Fabio Grosso; 20-Simone Perrotta, 21-Andrea
+     Pirlo, 10-Francesco Totti (16-Mauro Camoranesi 56), 4-Daniele De
+     Rossi; 9-Luca Toni (7-Alessandro Del Piero 82), 11-Alberto
+     Gilardino (15-Vincenzo Iaquinta 64).
+GHA: 22-Richard Kingston; 6-Emmanuel Pappoe (7-Shilla Illiasu 46),
+     4-Samuel Kuffour, 5-John Mensah, 15-John Paintsil; 10-Stephen
+     Appiah ©, 18-Eric Addo, 8-Mickael Essien, 11-Sulley Muntari;
+     3-Asamoah Gyan (12-Alex Tachie-Mensah 89), 14-Matthew Amoah
+     (19-Razak Pimpong 68).
+Booked: ITA - De Rossi 10, Camoranesi 62, Iaquinta 88.
+        GHA - Muntari 41, Gyan 65.
+Man-of-the-Match: Andrea Pirlo (Italy).
+
+_ Jun 17 _
+
+In Cologne (FIFA World Cup Stadium)
+Czech Republic 0
+Ghana 2 (Asamoah Gyan 2, Sulley Muntari 82)
+HT: 1-0. Att: 45,000. Ref: Horacio Elizondo (Argentina).
+CZE: 1-Petr Cech; 2-Zdenek Grygera, 6-Marek Jankulovski, 22-David
+     Rozehnal, 21-Tomas Ujfalusi; 4-Tomas Galasek © (19-Jan Polak 46),
+     11-Pavel Nedved, 8-Karel Poborsky (17-Jiri Stajner 55), 10-Tomas
+     Rosicky, 20-Jaroslav Plasil (7-Libor Sionko 69); 12-Vratislav
+     Lokvenc.
+GHA: 22-Richard Kingston; 15-John Paintsil, 13-Habib Mohamed, 5-John
+     Mensah, 7-Illiasu Shilla; 11-Sulley Muntari, 8-Michael Essien,
+     10-Stephen Appiah ©, 20-Otto Addo (9-Derek Boateng 46); 3-Asamoah
+     Gyan (19-Razak Pimpong 85), 14-Matthew Amoah (18-Eric Addo 80).
+Booked: CZE - Lokvenc 48.
+        GHA - Addo 18, Essien 37, Gyan 66, Boateng 75, Muntari 84,
+              Habib Mohamed 90+3.
+Sent off: CZE - Ujfalusi 66.
+Man-of-the-Match: Michael Essien (Ghana).
+
+In Kaiserslautern (Fritz-Walter-Stadion)
+Italy 1 (Alberto Gilardino 22)
+United States 1 (Cristian Zaccardo og 27)
+HT: 1-1. Att: 46,000. Ref: Jorge Larrionda (Uruguay).
+ITA: 1-Gianluigi Buffon; 2-Cristian Zaccardo (7-Alessandro Del Piero
+     55), 13-Alessandro Nesta, 5-Fabio Cannavaro ©, 19-Gianluca
+     Zambrotta; 4-Daniele De Rossi, 21-Andrea Pirlo, 20-Simone
+     Perrotta; 10-Francesco Totti (8-Gennaro Gattuso 35); 9-Luca Toni
+     (15-Vincenza Iaquinta 61), 11-Alberto Gilardino.
+USA: 18-Kasey Keller; 6-Steve Cherundolo, 22-Oguchi Onyewu, 23-Eddie
+     Pope, 3-Carlos Bocanegra; 8-Clint Dempsey (17-DaMarcus Beasley
+     62), 10-Claudio Reyna ©, 4-Pablo Mastroeni, 15-Bobby Convey
+     (13-Jimmy Conrad 52); 21-Landon Donovan, 20-Brian McBride.
+Booked: ITA - Totti 5, Zambrotta 70.
+        USA - Pope 21, 47.
+Sent off: ITA - De Rossi 28.
+          USA - Mastroeni 45, Pope 47.
+Man-of-the-Match: Kasey Keller (United States).
+
+_ Jun 22 _
+
+In Hamburg (FIFA World Cup Stadium)
+Czech Republic 0
+Italy 2 (Marco Materazzi 26, Filippo Inzaghi 87)
+HT: 0-1. Att: 50,000. Ref: Benito Archundia (Mexico).
+CZE: 1-Petr Cech; 2-Zdenek Grygera, 6-Marek Jankulovski, 22-David
+     Rozehnal, 5-Radoslav Kovac (18-Marek Heinz 78); 19-Jan Polak,
+     11-Pavel Nedved ©, 8-Karel Poborsky (17-Jiri Stajner 46), 10-Tomas
+     Rosicky, 20-Jaroslav Plasil; 15-Milan Baros (14-David Jarolim 64).
+ITA: 1-Gianluigi Buffon; 3-Fabio Grosso, 13-Alessandro Nesta (23-Marco
+     Materazzi 17), 5-Fabio Cannavaro ©, 19-Gianluca Zambrotta;
+     21-Andrea Pirlo, 8-Gennaro Gattuso, 20-Simone Perrotta, 16-Mauro
+     Camoranesi (17-Simone Barone 74); 10-Francesco Totti; 11-Alberto
+     Gilardino (18-Filippo Inzaghi 61).
+Booked: CZE - Polak 35, 45+2.
+        ITA - Gattuso 31.
+Sent off: CZE - Polak 45+2.
+Man-of-the-Match: Marco Materazzi (Italy).
+
+In Nuremberg (Franken-Stadion)
+Ghana 2 (Haminu Dramani 22, Stephen Appiah 45+2pen)
+United States 1 (Clint Dempsey 43)
+HT: 2-1. Att: 41,000. Ref: Markus Merk (Germany).
+GHA: 22-Richard Kingston; 15-John Paintsil, 13-Habib Mohamed, 5-John
+     Mensah, 7-Shilla Illiasu; 9-Derek Boateng (20-Otto Addo 46),
+     8-Michael Essien, 10-Stephen Appiah ©, 23-Haminu Dramani (12-Alex
+     Tachie-Mensah 12); 14-Matthew Amoah (18-Eric Addo 59), 19-Razak
+     Pimpong.
+USA: 18-Kasey Keller; 3-Carlos Bocanegra, 22-Oguchi Onyewu, 13-Jimmy
+     Conrad, 6-Steve Cherundolo (9-Eddie Johnson 61), 7-Eddie Lewis
+     (15-Bobby Convey 74); 17-DaMarcus Beasley, 10-Claudio Reyna ©
+     (14-Ben Olson 40), 21-Landon Donovan, 8-Clint Dempsey; 20-Brian
+     McBride.
+Booked: GHA - Essien 5, Shilla 32, Mensah 81, Appiah 90+2.
+        USA - Lewis 7.
+Man-of-the-Match: Stephen Appiah (Ghana).
+
+     Standings            P   W   D   L   F   A  Pts
+     1.ITALY              3   2   1   0   5   1   7
+     2.GHANA              3   2   0   1   4   3   6
+     3.Czech Republic     3   1   0   2   3   4   3
+     4.United States      3   0   1   2   2   6   1
+
+
+=== Group F  ‹§grf›
+
+_ Jun 12 _
+
+In Kaiserslautern (Fritz-Walter-Stadion)
+Australia 3 (Tim Cahill 84, 89, John Aloisi 90+2)
+Japan 1 (Shunsuke Nakamura 26)
+HT: 0-1. Att: 46,000. Ref: Esam Abd El Fatah (Egypt).
+AUS: 1-Mark Schwarzer; 3-Craig Moore (19-Josh Kennedy 61), 2-Lucas
+     Neill, 14-Scott Chipperfield; 20-Luke Wilkshire (15-John Aloisi
+     75), 7-Brett Emerton, 13-Vincenzo Grella, 5-Jason Culina, 23-Marco
+     Bresciano (4-Tim Cahill 53); 9-Mark Viduka ©, 10-Harry Kewell.
+JPN: 23-Yoshikatsu Kawaguchi; 19-Keisuke Tsuboi (2-Teruyuki Moniwa 56;
+     16-Masashi Oguro 90+1), 5-Tsuneyasu Miyamoto ©, 22-Yuji Nakazawa;
+     3-Yuichi Komano, 10-Shunsuke Nakamura, 7-Hidetoshi Nakata,
+     15-Takashi Fukunishi, 14-Alex; 9-Naohiro Takahara, 13-Atsushi
+     Yanagisawa (18-Shinji Ono 79).
+Booked: AUS - Grella 34, Moore 57, Cahill 69, Aloisi 77.
+        JPN - Miyamoto 31, Takahara 40, Moniwa 68.
+Man-of-the-Match: Tim Cahill (Australia).
+
+_ Jun 13 _
+
+In Berlin (Olympiastadion)
+Brazil 1 (Kaka 44)
+Croatia 0
+HT: 1-0. Att: 66,000. Ref: Benito Archundia (Mexico).
+BRA: 1-Dida; 2-Cafu ©, 3-Lucio, 4-Juan, 6-Roberto Carlos; 5-Emerson,
+     8-Kaka, 10-Ronaldinho, 11-Ze Roberto; 7-Adriano, 9-Ronaldo
+     (23-Robinho 69).
+CRO: 1-Stipe Pletikosa; 7-Dario Simic, 4-Robert Kovac, 3-Josep Simunic;
+     2-Darijo Srna, 5-Igor Tudor, 19-Niko Kranjcar, 10-Nico Kovac ©
+     (16-Jerko Leko 41), 8-Marko Babic; 17-Ivan Klasnic (18-Ivica Olic
+     57), 9-Dado Prso.
+Booked: BRA - Emerson 42.
+        CRO - N Kovac 32, R Kovac 67, Tudor 90.
+Man-of-the-Match: Kaka (Brazil).
+
+_ Jun 18 _
+
+In Nuremberg (Franken-Stadion)
+Japan 0
+Croatia 0
+Att: 41,000. Ref: Frank de Bleeckere (Belgium).
+JPN: 23-Yoshikatsu Kawaguchi; 21-Akira Kaji, 5-Tsuneyasu Miyamoto ©,
+     22-Yuji Nakazawa, 14-Alessandro Santos; 8-Mitsuo Ogasawara,
+     7-Hidetoshi Nakata, 15-Takashi Fukunishi (17-Junichi Inamoto 46),
+     10-Shunsuke Nakamura; 9-Naohiro Takahara (16-Masahi Oguro 85),
+     13-Atsushi Yanagisawa (20-Keiji Tamada 62).
+CRO: 1-Stipe Pletikosa; 7-Dario Simic, 4-Robert Kovac, 3-Josip Simunic;
+     2-Darijo Srna (22-Ivan Bosnjak 87), 5-Igor Tudor (18-Ivica Olic
+     70), 10-Niko Kovac ©, 8-Marko Babic; 19-Niko Kranjcar (14-Luka
+     Modric 78); 17-Ivan Klasnic, 9-Dado Prso.
+Booked: JPN - Miyamoto 22, Kawaguchi 42, Alex 73.
+        CRO - R Kovac 32, Srna 69.
+Man-of-the-Match: Hidetoshi Nakata (Japan).
+
+In Munich (FIFA World Cup Stadium)
+Brazil 2 (Adriano 49, Fred 89)
+Australia 0
+HT: 0-0. Att: 66,000. Ref: Markus Merk (Germany).
+BRA: 1-Dida; 2-Cafu ©, 3-Lucio, 4-Juan, 6-Roberto Carlos; 5-Emerson
+     (17-Gilberto Silva 72), 11-Ze Roberto; 8-Kaka, 10-Ronaldinho;
+     9-Ronaldo (23-Robinho 72), 7-Adriano (21-Fred 88).
+AUS: 1-Mark Schwarzer; 2-Lucas Neill, 3-Craig Moore (15-John Aloisi 69),
+     6-Tony Popovic (23-Marco Bresciano 40), 5-Jason Culina; 7-Brett
+     Emerton, 14-Scott Chipperfield, 13-Vince Grella, 4-Tim Cahill
+     (10-Harry Kewell 56), 21-Mile Sterjovski; 9-Mark Viduka ©.
+Booked: BRA - Cafu 29, Ronaldo 31, Robinho 83.
+        AUS - Emerton 13, Culina 39.
+Man-of-the-Match: Ze Roberto (Brazil).
+
+_ Jun 22 _
+
+In Dortmund (FIFA World Cup Stadium)
+Japan 1 (Keiji Tamada 34)
+Brazil 4 (Ronaldo 45+1, 81, Juninho Pernambucano 53, Gilberto 59)
+HT: 1-1. Att: 65,000. Ref: Eric Poulat (France).
+JPN: 23-Yoshikatsu Kawaguchi; 21-Akira Kaji, 22-Yuji Nakazawa,
+     19-Keisuke Tsuboi, 14-Alessandro Santos; 8-Mitsuo Ogasawara
+     (6-Koji Nakata 56), 7-Hidetoshi Nakata ©, 17-Junichi Inamoto,
+     10-Shunsuke Nakamura; 20-Keiji Tamada, 11-Seiichiro Maki
+     (9-Naohiro Takaha 60; 16-Masashi Oguro 66).
+BRA: 1-Dida © (12-Rogerio Ceni 82); 13-Cicinho, 3-Lucio, 4-Juan,
+     16-Gilberto; 17-Gilberto Silva, 19-Juninho Pernambucano, 8-Kaka
+     (20-Ricardinho 71), 10-Ronaldinho (11-Ze Roberto 71); 9-Ronaldo,
+     23-Robinho.
+Booked: JPN - Kaji 40.
+        BRA - Gilberto 44.
+Man-of-the-Match: Ronaldo (Brazil).
+
+In Stuttgart (Gottlieb-Daimler-Stadion)
+Croatia 2 (Darijo Srna 2, Niko Kovac 56)
+Australia 2 (Craig Moore 38pen, Harry Kewell 79)
+HT: 1-1. Att: 52,000. Ref: Graham Poll (England).
+CRO: 1-Stipe Pletikosa; 7-Dario Simic, 13-Stjepan Tomas, 3-Josip
+     Simunic, 8-Marko Babic; 2-Darijo Srna, 5-Igor Tudor, 10-Niko Kovac
+     ©, 19-Niko Kranjcar (16-Jerko Leko 65); 18-Ivica Olic (14-Luka
+     Modric 74), 9-Dado Prso.
+AUS: 18-Zeljko Kalac; 7-Brett Emerton, 2-Lucas Neill, 3-Craig Moore,
+     14-Scott Chipperfield (19-Josh Kennedy 75); 13-Vince Grella
+     (15-John Aloisi 63), 5-Jason Culina, 4-Tim Cahill, 21-Mile
+     Sterjovski (23-Marco Bresciano 71), 10-Harry Kewell; 9-Mark Viduka
+     ©.
+Booked: CRO - Simic 32, 85, Tudor 38, Simunic 62, 90, Pletikosa 70.
+        AUS - Emerton 81, 87.
+Sent off: CRO - Simic 85, Simunic 90.
+          AUS - Emerton 87.
+Man-of-the-Match: Harry Kewell (Australia).
+
+     Standings            P   W   D   L   F   A  Pts
+     1.BRAZIL             3   3   0   0   7   1   9
+     2.AUSTRALIA          3   1   1   1   5   5   4
+     3.Croatia            3   0   2   1   2   3   2
+     4.Japan              3   0   1   2   2   7   1
+
+
+=== Group G  ‹§grg›
+
+_ Jun 13 _
+
+In Frankfurt (FIFA World Cup Stadium)
+Korea Republic 2 (Lee Chun-soo 54, Ahn Jung-hwan 72)
+Togo 1 (Abdelkader Coubadja 31)
+HT: 0-1. Att: 48,000. Ref: Graham Poll (England).
+KOR: 1-Lee Woon-jae ©; 2-Kim Young-chul, 4-Choi Jin-cheul, 6-Kim Jin-
+     kyu (9-Ahn Jung-hwan 46), 12-Lee Young-pyo; 22-Song Chong-gug,
+     17-Lee Ho, 13-Lee Eul-yong (5-Kim Nam-il 68); 7-Park Ji-sung,
+     19-Cho Jae-jin (18-Kim Sang-sik 83), 14-Lee Chun-soo.
+TOG: 16-Kossi Agassa; 5-Massamasso Tchangai, 3-Jean-Paul Abalo Dosseh ©,
+     2-Dare Nibombe, 19-Ludovic Assemoassa (13-Richmond Forson 62);
+     18-Yao Senaya Junior (23-Assimiou Toure 55), 15-Alaixys Romao,
+     10-Cherif Toure-Maman, 7-Moustapha Salifou (6-Yao Aziawonou 86);
+     4-Emmanuel Adebayor, 17-Abdelkader Coubadja.
+Booked: KOR - Young-chul 41, Chun-soo 51.
+        TOG - Abalo 23, 53, Romao 24, 90+2.
+Sent off: TOG - Abalo 53.
+Man-of-the-Match: Ahn Jung-hwan (South Korea).
+
+In Stuttgart (Gottlieb-Daimler-Stadion)
+France 0
+Switzerland 0
+Att: 52,000. Ref: Valentin Ivanov (Russia).
+FRA: 16-Fabien Barthez; 19-Willy Sagnol, 15-Lilian Thuram, 5-William
+     Gallas, 3-Eric Abidal; 11-Sylvain Wiltord (8-Vikash Dhorasoo 84),
+     4-Patrick Vieira, 10-Zinedine Zidane ©, 6-Claude Makelele,
+     22-Franck Ribery (14-Louis Saha 70); 12-Thierry Henry.
+SUI: 1-Pascal Zuberbuehler; 23-Philipp Degen, 20-Patrick Mueller
+     (2-Johan Djourou 75), 4-Philippe Senderos, 3-Ludovic Magnin;
+     16-Tranquillo Barnetta, 6-Johann Vogel ©, 7-Ricardo Cabanas,
+     8-Raphael Wicky (5-Xavier Margairaz 82); 9-Alexander Frei,
+     11-Marco Streller (10-Daniel Gygax 56).
+Booked: FRA - Abidal 64, Zidane 72, Sagnol 90+3.
+        SUI - Magnin 42, Barnetta 45, Degen 56, Cabanas 72, Frei 90+3.
+Man-of-the-Match: Claude Makelele (France).
+
+_ Jun 18 _
+
+In Leipzig (Zentralstadion)
+France 1 (Thierry Henry 9)
+Korea Republic 1 (Park Ji-sung 81)
+HT: 1-0. Att: 43,000. Ref: Benito Archundia (Mexico).
+FRA: 16-Fabien Barthez; 19-Willy Sagnol, 15-Lilian Thuram, 5-William
+     Gallas, 3-Eric Abidal; 4-Patrick Vieira, 6-Claude Makelele;
+     7-Florent Malouda (8-Vikash Dhorasoo 88), 10-Zinedine Zidane ©
+     (20-David Trezeguet 90+1), 11-Sylvain Wiltord (22-Franck Ribery
+     60); 12-Thierry Henry.
+KOR: 1-Lee Woon-jae ©; 2-Kim Young-chul, 3-Kim Dong-jin, 4-Choi Jin-
+     cheul; 12-Lee Young-pyo, 5-Kim Nam-il, 17-Lee Ho (18-Kim Sang-sik
+     69), 13-Lee Eul-yong (11-Seol Ki-hyeon 46); 14-Lee Chun-soo (9-Ahn
+     Jung-hwan 72), 19-Cho Jae-jin, 7-Park Ji-sung.
+Booked: FRA - Abidal 79, Zidane 85.
+        KOR - Lee Ho 11, Dong-jin 29.
+Man-of-the-Match: Park Ji-sung (South Korea).
+
+_ Jun 19 _
+
+In Dortmund (FIFA World Cup Stadium)
+Togo 0
+Switzerland 2 (Alexander Frei 16, Tranquillo Barnetta 88)
+HT: 0-1. Att: 65,000. Ref: Carlos Amarilla (Paraguay).
+TOG: 16-Kossi Agassa; 2-Dare Nibombe, 23-Toure Assimiou, 5-Massamesso
+     Tchangai ©, 8-Kuami Agboh (7-Moustapha Salifou 25); 9-Thomas Dossevi
+     (18-Yao Junior Senaya 69), 10-Cherif Toure Maman (11-Robert Malm
+     88), 15-Alaixys Romao, 17-Mohamed Kader Coubadja; 13-Richmond
+     Forson, 4-Emmanuel Adebayor.
+SUI: 1-Pascal Zuberbuehler; 3-Ludovic Magnin, 4-Philippe Senderos,
+     20-Patrick Mueller, 23-Philipp Degen; 8-Raphael Wicky, 6-Johann
+     Vogel ©, 7-Ricardo Cabanas (11-Marco Streller 77), 16-Tranquillo
+     Barnetta; 10-Daniel Gygax (22-Hakan Yakin 46), 9-Alexander Frei
+     (18-Mauro Lustrinelli 87).
+Booked: TOG - Salifou 45, Adebayor 47, Romao 53.
+        SUI - Vogel 90.
+Man-of-the-Match: Alexander Frei (Switzerland).
+
+_ Jun 23 _
+
+In Cologne (FIFA World Cup Stadium)
+Togo 0
+France 2 (Patrick Vieira 55, Thierry Henry 61)
+HT: 0-0. Att: 45,000. Ref: Jorge Larrionda (Uruguay).
+TOG: 16-Kossi Agassa; 2-Dare Nibombe, 3-Jean Paul Abalo Dosseh ©,
+     5-Massamesso Tchangai; 7-Moustapha Salifou, 18-Yao Junior Senaya,
+     10-Cherif Toure Mamam (14-Adekanmi Olufade 59), 6-Yao Aziawanou,
+     17-Mohamed Kader Coubadja; 13-Richmond Forson, 4-Emmanuel Adebayor
+     (9-Thomas Dossevi 75).
+FRA: 16-Fabien Barthez; 19-Willy Sagnol, 15-Lilian Thuram, 5-William
+     Gallas, 13-Mikael Silvestre; 22-Franck Ribery (9-Sidney Govou 77),
+     4-Patrick Vieira © (18-Alou Diarra 81), 6-Claude Makelele,
+     7-Florent Malouda (11-Sylvain Wiltord 74); 20-David Trezeguet,
+     12-Thierry Henry.
+Booked: TOG - Aziawonou 38, Cherif Toure 44, Salifou 88.
+        FRA - Makelele 30.
+Man-of-the-Match: Patrick Vieira (France).
+
+In Hanover (FIFA World Cup Stadium)
+Switzerland 2 (Philippe Senderos 23, Alexander Frei 77)
+Korea Republic 0
+HT: 1-0. Att: 43,000. Ref: Horacio Elizondo (Argentina).
+SUI: 1-Pascal Zuberbuehler; 23-Philipp Degen, 4-Philippe Senderos
+     (2-Johan Djourou 53), 20-Patrick Mueller, 17-Christoph Spycher;
+     16-Tranquillo Barnetta, 6-Johann Vogel ©, 7-Ricardo Cabanas,
+     22-Hakan Yakin (5-Xavier Margairaz 71), 8-Raphael Wicky (19-Valon
+     Behrami 88); 9-Alexander Frei.
+KOR: 1-Lee Woon-jae ©; 12-Lee Young-pyo (9-Ahn Jung-hwan 63), 6-Kim
+     Jin-kyu, 4-Choi Jin-cheul, 3-Kim Dong-jin; 7-Park Ji-sung, 5-Kim
+     Nam-il, 17-Lee Ho; 14-Lee Chun-soo, 19-Cho Jae-jin, 10-Park Chu-
+     young (11-Seol Ki-hyeon 66).
+Booked: SUI - Senderos 43, Yakin 55, Wicky 69, Spycher 82, Djourou 90.
+        KOR - Chu-young 23, Jin-kyu 37, Chun-soo 80.
+Man-of-the-Match: Alexander Frei (Switzerland).
+
+     Standings            P   W   D   L   F   A  Pts
+     1.SWITZERLAND        3   2   1   0   4   0   7
+     2.FRANCE             3   1   2   0   3   1   5
+     3.Korea Republic     3   1   1   1   3   4   4
+     4.Togo               3   0   0   3   1   6   0
+
+
+=== Group H  ‹§grh›
+
+_ Jun 14 _
+
+In Leipzig (Zentralstadion)
+Spain 4 (Xabi Alonso 13, David Villa 17, 48pen, Fernando Torres 81)
+Ukraine 0
+HT: 2-0. Att: 43,000. Ref: Massimo Busacca (Switzerland).
+ESP: 1-Iker Casillas ©; 15-Sergio Ramos, 22-Pablo, 5-Carles Puyol,
+     3-Mariano Pernia; 16-Marcos Senna, 14-Xabi Alonso (6-David Albelda
+     55), 8-Xavi; 11-Luis Garcia (18-Francesc Fabregas 77), 21-David
+     Villa (7-Raul 55), 9-Fernando Torres.
+UKR: 1-Oleksandr Shovkovskyi; 5-Vladimir Yezerskyi, 6-Andriy Rusol,
+     17-Vladyslav Vashchuk, 2-Andriy Nesmachnyi; 9-Oleg Gusev (16-Andriy
+     Vorobey 46), 4-Anatoliy Tymoschuk, 14-Andriy Gusin (8-Oleg
+     Shelayev 46), 21-Ruslan Rotan (11-Serhiy Rebrov 64); 10-Andriy
+     Voronin, 7-Andriy Shevchenko ©.
+Booked: UKR - Rusol 16, Yezerskyi 52.
+Sent off: UKR - Vashchuk 47.
+Man-of-the-Match: Xavi (Spain).
+
+In Munich (FIFA World Cup Stadium)
+Tunisia 2 (Zied Jaziri 23, Radhi Jaidi 90+3)
+Saudi Arabia 2 (Yassir Al Qahtani 57, Sami Al Jaber 84)
+HT: 1-0. Att: 66,000. Ref: Mark Shield (Australia).
+TUN: 1-Ali Boumnijel; 6-Hatem Trabelsi, 18-David Jemmali, 3-Karim Hagui,
+     15-Radhi Jaidi; 20-Hamed Namouchi, 13-Riadh Bouazizi © (8-Medhi
+     Nafti 55), 12-Joahar Mnari, 14-Adel Chedli (10-Kaies Ghodhbane 69);
+     9-Yassine Chikhaoui (2-Karim Essediri 82), 5-Zied Jaziri.
+KSA: 21-Mabrouk Zaid; 2-Ahmed Dokhi, 3-Redha Tuker, 4-Hamad Al
+     Montashari, 13-Hussein Sulimani ©; 6-Omar Al Ghamdi, 8-Mohamed
+     Noor (7-Mohamed Ameen 75), 16-Khaled Al Thaker, 18-Nawaf Al Temyat
+     (23-Malik Al Hawsawi 67), 14-Saud Al Khariri; 20-Yassir Al Qahtani
+     (9-Sami Al Jaber 82).
+Booked: TUN - Hagui 35, Bouazizi 37, Chedli 65, Chikhaoui 79.
+Man-of-the-Match: Zied Jaziri (Tunisia).
+
+_ Jun 19 _
+
+In Hamburg (FIFA World Cup Stadium)
+Saudi Arabia 0
+Ukraine 4 (Andriy Rusol 4, Serhiy Rebrov 36, Andriy Shevchenko 46,
+     Maksym Kalinichenko 84)
+HT: 0-2. Att: 50,000. Ref: Graham Poll (England).
+KSA: 21-Mabrouk Zaid; 2-Ahmed Dokhi (12-Abdulaziz Al Khathran 55),
+     13-Hussein Sulimani ©, 4-Hamad Al Montashari, 3-Redha Tukar;
+     14-Saud Al Khariri, 6-Omar Al Ghamdi, 8-Mohamed Noor (9-Sami Al
+     Jaber 77), 7-Mohamed Ameen (23-Malik Al Hawsawi 55), 16-Khaled Al
+     Thaker; 20-Yasser Al Qahtani.
+UKR: 1-Oleksandr Shovkovskyi; 6-Andriy Rusol, 2-Andriy Nesmachnyi,
+     22-Vyacheslav Sviderskyi; 9-Oleg Gusev, 4-Anatoliy Tymoschuk,
+     8-Oleg Shelayev, 19-Maksym Kalinichenko, 11-Serhiy Rebrov
+     (21-Ruslan Rotan 72), 7-Andriy Shevchenko © (15-Artem Milevskiy
+     86), 10-Andriy Voronin (14-Andriy Gusin 79).
+Booked: KSA - Dokhi 41, Al-Ghamdi 57, Kariri 73.
+        UKR - Nesmachnyi 22, Kalinichenko 77, Sviderskyi 89.
+Man-of-the-Match: Maksym Kalinichenko (Ukraine).
+
+In Stuttgart (Gottlieb-Daimler-Stadion)
+Spain 3 (Raul 71, Fernando Torres 76, 90+1 pen)
+Tunisia 1 (Jaouhar Mnari 8)
+HT: 0-1. Att: 52,000. Ref: Carlos Simon (Brazil).
+ESP: 1-Iker Casillas ©; 15-Sergio Ramos, 5-Carles Puyol, 22-Pablo Ibanez,
+     3-Mariano Pernia; 16-Marcos Senna (18-Francesc Fabregas 46),
+     14-Xabi Alonso, 8-Xavi; 11-Luis Garcia (7-Raul 46), 9-Fernando
+     Torres, 21-David Villa (17-Joaquin 56).
+TUN: 1-Ali Boumnijel; 6-Hatem Trabelsi, 15-Radhi Jaidi, 3-Karim Hagui,
+     19-Anis Ayari (4-Alaeddine Yahia 57); 20-Hamed Namouchi, 12-Jaouhar
+     Mnari, 14-Adel Chedli (7-Haykel Guemamdia 80), 8-Mehdi Nafti,
+     13-Riadh Bouazizi © (10-Kaies Ghodhbane 57); 5-Zied Jaziri.
+Booked: ESP - Puyol 30, Fabregas 89.
+        TUN - Ayari 32, Trabelsi 40, Jaidi 70, Guemamdia 80, Jaziri 85,
+              Mnari 90.
+Man-of-the-Match: Xabi Alonso (Spain).
+
+_ Jun 23 _
+
+In Kaiserslautern (Fritz-Walter-Stadion)
+Saudi Arabia 0
+Spain 1 (Juanito 36)
+HT: 0-1. Att: 46,000. Ref: Coffi Codjia (Benin).
+KSA: 21-Mabrouk Zaid; 2-Ahmed Dokhi, 13-Hussein Sulaimani (19-Mohammed
+     Masaad 80), 4-Hamad Al Montashari, 3-Redha Tuker; 14-Saud Al
+     Khariri, 8-Mohamed Noor, 12-Abdulaziz Al Khathran, 16-Khaled Al
+     Thaker (18-Nawaf Al Temyat 13), 9-Sami Al Jaber © (23-Malik Al
+     Hawsawi 68), 11-Saad Al Harthi.
+ESP: 19-Santiago Canizares; 2-Michel Salgado, 20-Juanito, 4-Carlos
+     Marchena, 12-Antonio Lopez; 6-David Albelda, 13-Andres Iniesta,
+     18-Francesc Fabregas (8-Xavi 66); 17-Joaquin, 10-Jose Antonio
+     Reyes (9-Fernando Torres 70), 7-Raul © (21-David Villa 46).
+Booked: KSA - Al Jaber 27, Al Temyat 77.
+        ESP - Albelda 30, Reyes 35, Marchena 75.
+Man-of-the-Match: Juanito (Spain).
+
+In Berlin (Olympiastadion)
+Ukraine 1 (Andriy Shevchenko 70pen)
+Tunisia 0
+HT: 0-0. Att: 72,000. Ref: Carlos Amarilla (Paraguay).
+UKR: 1-Oleksandr Shovkovskyi; 6-Andriy Rusol, 22-Vyacheslav Sviderskyi,
+     2-Andriy Nesmachnyi; 9-Oleg Gusev, 4-Anatoliy Tymoschuk, 8-Oleg
+     Shelayev, 19-Maksym Kalinichenko (14-Andry Gusin 75), 11-Serhiy
+     Rebrov (16-Andriy Vorobey 55); 7-Andriy Shevchenko © (15-Artem
+     Milevskyi 88), 10-Andriy Voronin.
+TUN: 1-Ali Boumnijel; 6-Hatem Trabelsi, 15-Radhi Jaidi, 3-Karim Hagui,
+     19-Anis Ayari; 20-Hamed Namouchi, 12-Jaouhar Mnari, 14-Adel Chedli
+     (17-Issam Jomaa 79), 8-Mehdi Nafti (10-Kaies Ghodhbane 90+1),
+     13-Riadh Bouazizi © (11-Francileudo dos Santos 79); 5-Zied Jaziri.
+Booked: UKR - Sviderskyy 18, Shelayev 47, Tymoschuk 61, Rusol 65.
+        TUN - Jaziri 9, Bouazizi 43, Jaidi 90.
+Sent off: TUN - Jaziri 45+1.
+Man-of-the-Match: Anatoliy Tymoschuk (Ukraine).
+
+     Standings            P   W   D   L   F   A  Pts
+     1.SPAIN              3   3   0   0   8   1   9
+     2.UKRAINE            3   2   0   1   5   4   6
+     3.Tunisia            3   0   1   2   3   6   1
+     4.Saudi Arabia       3   0   1   2   2   7   1
+
+
+=== 1/8 Finals  ‹§8f›
+
+_ Jun 24 _
+
+In Munich (FIFA World Cup Stadium)
+Germany 2 (Lukas Podolski 4, 12)
+Sweden 0
+HT: 2-0. Att: 66,000. Ref: Carlos Simon (Brazil).
+GER: 1-Jens Lehmann; 3-Arne Friedrich, 21-Christoph Metzelder, 17-Per
+     Mertesacker, 16-Philipp Lahm; 19-Bernd Schneider, 8-Torsten Frings
+     (5-Sebastian Kehl 85), 13-Michael Ballack ©, 7-Bastian
+     Schweinsteiger (18-Tim Borowski 72); 20-Lukas Podolski (10-Oliver
+     Neuville 74), 11-Miroslav Klose.
+SWE: 1-Andreas Isaksson; 3-Olof Mellberg ©, 4-Teddy Lucic, 5-Erik
+     Edman, 7-Niclas Alexandersson; 6-Tobias Linderoth, 9-Fredrik
+     Ljungberg, 18-Mattias Jonson (21-Christian Wilhelmsson 52), 16-Kim
+     Kallstrom (13-Petter Hansson 39); 10-Zlatan Ibrahimovic (20-Marcus
+     Allback 72), 11-Henrik Larsson.
+Booked: GER - Frings 27.
+        SWE - Lucic 28, 35, Jonson 48, Allback 78.
+Sent off: SWE - Lucic 35.
+Man-of-the-Match: Miroslav Klose (Germany).
+
+In Leipzig (Zentralstadion)
+Argentina 2 (Hernan Crespo 10, Maxi Rodriguez 98)
+Mexico 1 (Rafael Marquez 6)
+HT: 1-1. Att: 43,000. Ref: Massimo Busacca (Switzerland).
+[After extra-time]
+ARG: 1-Roberto Abbondanzieri; 13-Lionel Scaloni, 2-Roberto Ayala,
+     6-Gabriel Heinze, 3-Juan Pablo Sorin ©; 18-Maxi Rodriguez,
+     8-Javier Mascherano, 5-Esteban Cambiasso (16-Pablo Aimar 76),
+     10-Juan Roman Riquelme; 7-Javier Saviola (19-Lionel Messi 84),
+     9-Hernan Crespo (11-Carlos Tevez 76).
+MEX: 1-Oswaldo Sanchez; 16-Mario Mendez, 15-Jose Antonio Castro,
+     5-Ricardo Osorio, 3-Carlos Salcido; 4-Rafael Marquez ©, 18-Andres
+     Guardado (14-Gonzalo Pineda 67), 8-Pavel Pardo (6-Gerardo Torrado
+     38); 9-Jared Borgetti, 11-Ramon Morales (7-Antonio Naelson 'Zinha'
+     74), 17-Jose Francisco Fonseca.
+Booked: ARG - Heinze 45+1, Sorin 112.
+        MEX - Marquez 70, Castro 82, Torrado 118, Fonseca 119.
+Man-of-the-Match: Maxi Rodriguez (Argentina).
+
+_ Jun 25 _
+
+In Stuttgart (Gottlieb-Daimler-Stadion)
+England 1 (David Beckham 60)
+Ecuador 0
+HT: 0-0. Att: 52,000. Ref: Frank De Bleeckere (Belgium).
+ENG: 1-Paul Robinson; 16-Owen Hargreaves, 5-Rio Ferdinand, 6-John
+     Terry, 3-Ashley Cole; 7-David Beckham © (19-Aaron Lennon 87),
+     8-Frank Lampard, 18-Michael Carrick, 4-Steven Gerrard (20-Stewart
+     Downing 90+2), 11-Joe Cole (15-Jamie Carragher 77); 9-Wayne Rooney.
+ECU: 12-Cristian Mora; 4-Ulises de la Cruz, 3-Ivan Hurtado ©,
+     17-Giovanny Espinoza, 18-Neicer Reasco; 8-Edison Mendez, 20-Edwin
+     Tenorio (7-Cristian Lara 69), 14-Segundo Castillo, 16-Luis Antonio
+     Valencia; 11-Agustin Delgado, 21-Carlos Tenorio (10-Ivan Kaviedes
+     71).
+Booked: ENG - Terry 18, Robinson 78, Carragher 82.
+        ECU - Valencia 24, C Tenorio 37, De la Cruz 67.
+Man-of-the-Match: John Terry (England).
+
+In Nuremberg (Franken-Stadion)
+Portugal 1 (Maniche Ribeiro 23)
+Netherlands 0
+HT: 1-0. Att: 41,000. Ref: Valentin Ivanov (Russia).
+POR: 1-Ricardo Pereira; 13-Miguel, 16-Ricardo Carvalho, 5-Fernando
+     Meira, 14-Nuno Valente; 6-Francisco Costinha, 18-Maniche Ribeiro,
+     7-Luis Figo © (19-Tiago 84), 20-Deco, 17-Cristiano Ronaldo
+     (11-Simao Sabrosa 34); 9-Pedro Pauleta (8-Armando Petit 46).
+NED: 1-Edwin van der Sar ©; 3-Khalid Boulahrouz, 13-Andre Ooijer,
+     4-Joris Mathijsen (10-Rafael van der Vaart 56), 5-Giovanni van
+     Bronckhorst; 18-Mark van Bommel (14-Johnny Heitinga 67), 20-Wesley
+     Sneijder, 8-Phillip Cocu (19-Jan Vennegoor of Hesselink 85);
+     17-Robin van Persie, 7-Dirk Kuyt, 11-Arjen Robben.
+Booked: POR - Maniche 20, Costinha 31, 45+1, Petit 50, Figo 60, Deco 73,
+              78, Nuno Valente 76, Ricardo 76.
+        NED - Van Bommel 2, Boulahrouz 7, 63, Van Bronckhorst 59, 90+5,
+              Sneijder 73, Van der Vaart 74.
+Sent off: POR - Costinha 45+1, Deco 78.
+          NED - Boulahrouz 63, Van Bronckhorst 90+5.
+Man-of-the-Match: Maniche Ribeiro (Portugal).
+
+_ Jun 26 _
+
+In Kaiserslautern (Fritz-Walter-Stadion)
+Italy 1 (Francesco Totti 90+4pen)
+Australia 0
+HT: 0-0. Att: 46,000. Ref: Luis Medina Cantalejo (Spain).
+ITA: 1-Gianluigi Buffon; 19-Gianluca Zambrotta, 23-Marco Materazzi,
+     5-Fabio Cannavaro ©, 3-Fabio Grosso; 20-Simone Perrotta, 21-Andrea
+     Pirlo, 8-Gennaro Gattuso; 7-Alessandro Del Piero (10-Francesco
+     Totti 75), 9-Luca Toni (6-Andrea Barzagli 56), 11-Alberto
+     Gilardino (15-Vincenzo Iaquinta 46).
+AUS: 1-Mark Schwarzer; 23-Marco Bresciano, 2-Lucas Neill, 3-Craig Moore,
+     14-Scott Chipperfield; 13-Vince Grella, 5-Jason Culina, 4-Tim
+     Cahill, 21-Mile Sterjovski (15-John Aloisi 81), 20-Luke Wilkshire;
+     9-Mark Viduka ©.
+Booked: ITA - Grosso 29, Gattuso 89, Zambrotta 90+1.
+        AUS - Grella 23, Cahill 49, Wilkshire 61.
+Sent off: ITA - Materazzi 51.
+Man-of-the-Match: Gianluigi Buffon (Italy).
+
+In Cologne (FIFA World Cup Stadium)
+Switzerland 0
+Ukraine 0
+[After extra-time; Ukraine win 3-0 on penalties]
+Att: 45,000. Ref:  Benito Archundia (Mexico).
+SUI: 1-Pascal Zuberbuehler; 3-Ludovic Magnin, 2-Johann Djourou
+     (13-Stephane Grichting 33), 20-Patrick Mueller, 23-Philipp Degen;
+     8-Raphael Wicky, 6-Johann Vogel ©, 7-Ricardo Cabanas, 22-Hakan
+     Yakin (11-Marco Streller 64), 16-Tranquillo Barnetta; 9-Alexander
+     Frei (18-Mauro Lustrinelli 116).
+UKR: 1-Oleksandr Shovkovskyi; 14-Andriy Gusin, 17-Vladyslav Vashchuk,
+     2-Andriy Nesmachnyi; 9-Oleg Gusev, 4-Anatoliy Tymoschuk, 8-Oleg
+     Shelayev, 19-Maksym Kalinichenko (21-Ruslan Rotan 75), 16-Andriy
+     Vorobey (11-Serhiy Rebrov 93); 7-Andriy Shevchenko ©, 10-Andriy
+     Voronin (15-Artem Milevskyi 111).
+Booked: SUI - Barnetta 59.
+Man-of-the-Match: Oleksandr Shovkovskyi (Ukraine).
+
+Penalty shoot-out:
+UKRAINE                        SWITZERLAND
+Shevchenko (saved)    0-0      Streller (saved)      0-0
+Milevskyi (scored)    1-0      Barnetta (missed)     1-0
+Rebrov (scored)       2-0      Cabanas  (saved)      2-0
+Gusev (scored)        3-0
+
+_ Jun 27 _
+
+In Dortmund (FIFA World Cup Stadium)
+Brazil 3 (Ronaldo 5, Adriano 45+1, Ze Roberto 84)
+Ghana 0
+HT: 2-0. Att: 65,000. Ref: Lubos Michel (Slovakia).
+BRA: 1-Dida; 2-Cafu ©, 3-Lucio, 4-Juan, 6-Roberto Carlos; 5-Emerson
+     (17-Gilberto Silva 46), 11-Ze Roberto, 8-Kaka (20-Ricardinho 83),
+     10-Ronaldinho; 9-Ronaldo, 7-Adriano (19-Juninho Pernambucano 61).
+GHA: 22-Richard Kingston; 15-John Paintsil, 6-Emmanuel Pappoe, 5-John
+     Mensah, 7-Shilla Illiasu; 18-Eric Addo (9-Derek Boateng 60),
+     10-Stephen Appiah ©, 23-Haminu Dramani, 11-Sulley Muntari;
+     14-Matthew Amoah (12-Alex Tachie-Mensah 69), 3-Asamoah Gyan.
+Booked: BRA - Adriano 13, Juan 44.
+        GHA - Appiah 7, Muntari 11, Paintsil 29, Addo 38, Gyan 48, 81.
+Sent off: GHA - Gyan 81.
+Man-of-the-Match: Ze Roberto (Brazil).
+
+In Hanover (FIFA World Cup Stadium)
+Spain 1 (David Villa 28pen)
+France 3 (Franck Ribery 41, Patrick Vieira 83, Zinedine Zidane 90+2)
+HT: 1-1. Att: 43,000. Ref: Roberto Rosetti (Italy).
+ESP: 1-Iker Casillas; 15-Sergio Ramos, 5-Carles Puyol, 22-Pablo Ibanez,
+     3-Mariano Pernia; 18-Francesc Fabregas, 14-Xabi Alonso, 8-Xavi
+     (16-Marcos Senna 72); 7-Raul © (11-Luis Garcia 54), 9-Fernando
+     Torres, 21-David Villa (17-Joaquin 54).
+FRA: 16-Fabien Barthez; 19-Willy Sagnol, 15-Lilian Thuram, 5-William
+     Gallas, 3-Eric Abidal; 4-Patrick Vieira, 6-Claude Makelele;
+     22-Franck Ribery, 10-Zinedine Zidane ©, 7-Florent Malouda
+     (9-Sidney Govou 74); 12-Thierry Henry (11-Sylvain Wiltord 88).
+Booked: ESP - Puyol 82.
+        FRA - Vieira 68, Ribery 87, Zidane 90+.
+Man-of-the-Match: Patrick Vieira (France).
+
+
+=== Quarterfinals  ‹§qf›
+
+_ Jun 30 _
+
+In Berlin (Olympiastadion)
+Germany 1 (Miroslav Klose 80)
+Argentina 1 (Roberto Ayala 49)
+HT: 0-0. AET: 1-1. Att: 72,000. Ref: Lubos Michel (Slovakia).
+(Germany win 4-2 on penalties)
+GER: 1-Jens Lehmann; 3-Arne Friedrich, 21-Christoph Metzelder, 17-Per
+     Mertesacker, 16-Philipp Lahm; 19-Bernd Schneider (22-David Odonkor
+     62), 8-Torsten Frings, 13-Michael Ballack ©, 7-Bastian
+     Schweinsteiger (18-Tim Borowski 75); 20-Lukas Podolski,
+     11-Miroslav Klose (10-Oliver Neuville 86).
+ARG: 1-Roberto Abbondanzieri (12-Leo Franco 71); 4-Fabricio Coloccini,
+     2-Roberto Ayala, 6-Gabriel Heinze, 3-Juan Pablo Sorin ©; 22-Luis
+     Gonzalez, 8-Javier Mascherano, 10-Juan Roman Riquelme (5-Esteban
+     Cambiasso 72), 18-Maxi Rodriguez; 11-Carlos Tevez, 9-Hernan Crespo
+     (20-Julio Cruz 79).
+Booked: GER - Podolski 3, Odonkor 90+4, Friedrich 114.
+        ARG - Sorin 46, Mascherano 60, Rodriguez 88, Cruz 96.
+Red card: ARG - Leandro Cufre 121.
+Man-of-the-Match: Michael Ballack (Germany).
+
+Penalty shoot-out:
+GERMANY                        ARGENTINA
+Neuville (scored)     1-0      Cruz (scored)         1-1
+Ballack (scored)      2-1      Ayala (saved)         2-1
+Podolski (scored)     3-1      Rodriguez (scored)    3-2
+Borowski (scored)     4-2      Cambiasso (missed)    4-2
+
+In Hamburg (FIFA World Cup Stadium)
+Italy 3 (Gianluca Zambrotta 6, Luca Toni 59, 69)
+Ukraine 0
+HT: 1-0. Att: 50,000. Ref: Frank De Bleeckere (Belgium).
+ITA: 1-Gianluigi Buffon; 19-Gianluca Zambrotta, 6-Andrea Barzagli,
+     5-Fabio Cannavaro ©, 3-Fabio Grosso; 20-Simone Perrotta, 21-Andrea
+     Pirlo (17-Simone Barone 68), 8-Gennaro Gattuso (2-Cristian
+     Zaccardo 77); 16-Mauro Camoranesi (22-Massimo Oddo 68),
+     10-Francesco Totti; 9-Luca Toni.
+UKR: 1-Oleksandr Shovkovskyi; 6-Andriy Rusol (17-Vladyslav Vashchuk
+     45+2), 22-Vyacheslav Sviderskyi (16-Andriy Vorobey 20), 2-Andriy
+     Nesmachnyi; 9-Oleg Gusev, 4-Anatoliy Tymoschuk, 8-Oleg Shelayev,
+     19-Maksym Kalinichenko, 14-Andriy Gusin; 7-Andriy Shevchenko ©,
+     15-Artem Milevskiy (20-Oleksiy Belik 72).
+Booked: ITA - None.
+        UKR - Sviderskyi 16, Kalinichenko 21, Milevskiy 68.
+Man-of-the-Match: Gennaro Gattuso (Italy).
+
+_ Jul 1 _
+
+In Gelsenkirchen (FIFA World Cup Stadium)
+England 0
+Portugal 0
+Att: 52,000. Ref: Horacio Elizondo (Argentina).
+[After extra-time, Portugal won 3-1 on penalties]
+ENG: 1-Paul Robinson; 2-Gary Neville, 5-Rio Ferdinand, 6-John Terry,
+     3-Ashley Cole; 7-David Beckham © (19-Aaron Lennon 52; 15-Jamie
+     Carragher 119), 8-Frank Lampard, 16-Owen Hargreaves, 4-Steven
+     Gerrard, 11-Joe Cole (21-Peter Crouch 65); 9-Wayne Rooney.
+POR: 1-Ricardo Pereira; 13-Miguel, 16-Ricardo Carvalho, 5-Fernando
+     Meira, 14-Nuno Valente; 8-Armando Petit, 18-Maniche Ribeiro,
+     19-Tiago (10-Hugo Viana 74), 7-Luis Figo © (23-Helder Postiga 86),
+     17-Cristiano Ronaldo; 9-Pedro Pauleta (11-Simao Sabrosa 64).
+Booked: ENG - Terry 30, Hargreaves 107.
+        POR - Petit 44, Carvalho 111.
+Sent off: ENG - Rooney 62.
+Man-of-the-Match: Owen Hargreaves (England).
+
+Penalty shoot-out:
+PORTUGAL                       ENGLAND
+Simao (scored)        1-0      Lampard (saved)       1-0
+Viana (missed)        1-0      Hargreaves (scored)   1-1
+Petit (missed)        1-1      Gerrard (saved)       1-1
+Postiga (scored)      2-1      Carragher (saved)     2-1
+Ronaldo (scored)      3-1
+
+In Frankfurt (FIFA World Cup Stadium)
+Brazil 0
+France 1 (Thierry Henry 57)
+HT: 0-0. Att: 48,000. Ref: Luis Medina Cantalejo (Spain).
+BRA: 1-Dida; 2-Cafu © (13-Cicinho 76), 3-Lucio, 4-Juan, 6-Roberto
+     Carlos; 17-Gilberto Silva, 11-Ze Roberto, 8-Kaka (23-Robinho 79),
+     19-Juninho Pernambucano (7-Adriano 63); 10-Ronaldinho, 9-Ronaldo.
+FRA: 16-Fabien Barthez; 19-Willy Sagnol, 15-Lilian Thuram, 5-William
+     Gallas, 3-Eric Abidal; 4-Patrick Vieira, 6-Claude Makelele;
+     22-Franck Ribery (9-Sidney Govou 77), 10-Zinedine Zidane ©,
+     7-Florent Malouda (11-Sylvain Wiltord 81); 12-Thierry Henry
+     (14-Louis Saha 86).
+Booked: BRA - Cafu 25, Juan 45, Ronaldo 45+2, Lucio 75.
+        FRA - Sagnol 74, Saha 87, Thuram 88.
+Man-of-the-Match: Zinedine Zidane (France).
+
+
+=== Semifinals  ‹§sf›
+
+_ Jul 4 _
+
+In Dortmund (FIFA World Cup Stadium)
+Germany 0
+Italy 2 (Fabio Grosso 119, Alessandro Del Piero 120+1)
+HT: 0-0. Att: 65,000. Ref: Benito Archundia (Mexico).
+[After extra-time]
+GER: 1-Jens Lehmann; 3-Arne Friedrich, 21-Christoph Metzelder, 17-Per
+     Mertesacker, 16-Philipp Lahm; 19-Bernd Schneider (22-David Odonkor
+     83), 5-Sebastian Kehl, 13-Michael Ballack ©, 18-Tim Borowski
+     (7-Bastian Schweinsteiger 73); 20-Lukas Podolski, 11-Miroslav
+     Klose (10-Oliver Neuville 111).
+ITA: 1-Gianluigi Buffon; 19-Gianluca Zambrotta, 23-Marco Materazzi,
+     5-Fabio Cannavaro ©, 3-Fabio Grosso; 20-Simone Perrotta
+     (7-Alessandro Del Piero 104), 21-Andrea Pirlo, 8-Gennaro Gattuso,
+     16-Mauro Camoranesi (15-Vincenzo Iaquinta 90); 10-Francesco Totti;
+     9-Luca Toni (11-Alberto Gilardino 74).
+Booked: GER - Borowski 40, Metzelder 56.
+        ITA - Camoranesi 90.
+Man-of-the-Match: Fabio Cannavaro (Italy).
+
+_ Jul 5 _
+
+In Munich (FIFA World Cup Stadium)
+Portugal 0
+France 1 (Zinedine Zidane 33pen)
+HT: 0-1. Att: 66,000. Ref: Jorge Larrionda (Uruguay).
+POR: 1-Ricardo Pereira; 13-Miguel (2-Paulo Ferreira 62), 16-Ricardo
+     Carvalho, 5-Fernando Meira, 14-Nuno Valente; 6-Francisco Costinha
+     (23-Helder Postiga 74), 18-Maniche Ribeiro, 20-Deco Souza, 7-Luis
+     Figo ©, 17-Cristiano Ronaldo; 9-Pedro Pauleta (11-Simao Sabrosa
+     68).
+FRA: 16-Fabien Barthez; 19-Willy Sagnol, 15-Lilian Thuram, 5-William
+     Gallas, 3-Eric Abidal; 4-Patrick Vieira, 6-Claude Makelele;
+     22-Franck Ribery (9-Sidney Govou 72), 10-Zinedine Zidane ©,
+     7-Florent Malouda (11-Sylvain Wiltord 69); 12-Thierry Henry
+     (14-Louis Saha 85).
+Booked: POR - Carvalho 82.
+        FRA - Saha 87.
+Man-of-the-Match: Lilian Thuram (France).
+
+
+=== Third Place Match  ‹§3m›
+
+_ Jul 8 _
+
+In Stuttgart (Gottlieb-Daimler-Stadion)
+Germany 3 (Bastian Schweinsteiger 56 78, Armando Petit og 60)
+Portugal 1 (Nuno Gomes 88)
+HT: 0-0. Att: 52,000. Ref: Toru Kamikawa (Japan).
+GER: 12-Oliver Kahn ©; 16-Philipp Lahm, 21-Christoph Metzelder, 6-Jens
+     Nowotny, 2-Marcell Jansen; 19-Bernd Schneider, 5-Sebastian Kehl,
+     8-Torsten Frings, 7-Bastian Schweinsteiger (15-Thomas Hitzlsperger
+     79); 20-Lukas Podolski (9-Mike Hanke 71), 11-Miroslav Klose
+     (10-Oliver Neuville 64).
+POR: 1-Ricardo Pereira; 2-Paulo Ferreira, 5-Fernando Meira, 4-Ricardo
+     Costa, 14-Nuno Valente (21-Nuno Gomes 69); 6-Francisco Costinha
+     (8-Armando Petit 46), 18-Maniche Ribeiro, 11-Simao Sabrosa,
+     17-Cristiano Ronaldo, 20-Deco Souza; 9-Pedro Pauleta © (7-Luis
+     Figo 77).
+Booked: GER - Frings 7, Schweinsteiger 78.
+        POR - Ricardo Costa 24, Costinha 33, Paulo Ferreira 60.
+Man-of-the-Match: Bastian Schweinsteiger (Germany).
+
+
+=== Final  ‹§fin›
+
+_ Jul 9 _
+
+In Berlin (Olympiastadion)
+Italy 1 (Marco Materazzi 19)
+France 1 (Zinedine Zidane 7pen)
+HT: 1-1. AET: 1-1. Att: 69,000. Ref: Horacio Elizondo (Argentina).
+(Italy win 5-3 on penalties)
+ITA: 1-Gianluigi Buffon; 19-Gianluca Zambrotta, 23-Marco Materazzi,
+     5-Fabio Cannavaro ©, 3-Fabio Grosso; 20-Simone Perrotta
+     (15-Vincenzo Iaquinta 61), 21-Andrea Pirlo, 8-Gennaro Gattuso,
+     16-Mauro Camoranesi (7-Alessandro Del Piero 86); 10-Francesco
+     Totti (4-Daniele De Rossi 61); 9-Luca Toni.
+FRA: 16-Fabien Barthez; 19-Willy Sagnol, 15-Lilian Thuram, 5-William
+     Gallas, 3-Eric Abidal; 4-Patrick Vieira (18-Alou Diarra 56),
+     6-Claude Makelele; 22-Franck Ribery (20-David Trezeguet 100),
+     10-Zinedine Zidane ©, 7-Florent Malouda; 12-Thierry Henry
+     (11-Sylvain Wiltord 107).
+Booked: ITA - Zambrotta 5.
+        FRA - Sagnol 12, Makelele 76, Malouda 111.
+Sent off: FRA - Zidane 110.
+Man-of-the-Match: Andrea Pirlo (Italy).
+
+Penalty shoot-out:
+ITALY                          FRANCE
+Pirlo (Goal)          1-0      Wiltord (Goal)        1-1
+Materazzi (Goal)      2-1      Trezeguet (Crossbar)  2-1
+De Rossi (Goal)       3-1      Abidal (Goal)         3-2
+Del Piero (Goal)      4-2      Sagnol (Goal)         4-3
+Grosso (Goal)         5-3
+
+How the penalty shootout played out:
+1-0 Italy: Andrea Pirlo scores with a shot straight into the net.
+1-1 France: Sylvain Wiltord beats Ginaluigi Buffon, who dives to his
+    right and guesses wrong.
+2-1 Italy: Marco Materazzi scores to keeper Fabien Barthez's left.
+2-1 France: David Trezeguet's shot goes off the crossbar and bounces
+    just on the wrong side of the line.
+3-1 Italy: Daniele De Rossi scores high into the net.
+3-2 France: Eric Abidal beats Buffon, who dives the wrong way.
+4-2 Italy: Alessandro Del Piero scores high into the net.
+4-3 France: Willy Sagnol converts his penalty.
+5-3 Italy: Fabio Grosso beats Barthez who dives right, with the ball
+    going to his left.
+
+
+== Goalscorers  ‹§scorers›
+
+5 - Miroslav Klose (Germany);
+3 - Thierry Henry (France), Zinedine Zidane (France), Fernando Torres
+    (Spain), Lukas Podolski (Germany), Maxi Rodriguez (Argentina),
+    Ronaldo (Brazil), * Hernan Crespo (Argentina), David Villa (Spain);
+2 - Bastian Schweinsteiger (Germany), Luca Toni (Italy), Marco
+    Materazzi (Italy), Patrick Vieira (France), Tomas Rosicky (Czech
+    Republic), Tim Cahill (Australia), Paulo Wanchope (Costa Rica),
+    Omar Bravo (Mexico), Agustin Delgado (Ecuador), Carlos Tenorio
+    (Ecuador), Bartosz Bosacki (Poland), Steven Gerrard (England),
+    Aruna Dindane (Ivory Coast), Andriy Shevchenko (Ukraine), Alexander
+    Frei (Switzerland), Adriano (Brazil), Maniche Ribeiro (Portugal);
+1 - Jan Koller (Czech Republic), Zinha (Mexico), Jose Fonseca (Mexico),
+    Rafael Marquez (Mexico), Shunsuke Nakamura (Japan), Ahn Jung-hwan
+    (Korea Republic), Lee Chun-soo (Korea Republic), Park Ji-sung
+    (Korea Republic), Torsten Frings (Germany), Oliver Neuville
+    (Germany), Philipp Lahm (Germany), Yahya Golmohammadi (Iran),
+    Sohrab Bakhtiarizadeh (Iran), Flavio (Angola), Didier Drogba (Ivory
+    Coast), Bakary Kone (Ivory Coast), Bonaventure Kalou (Ivory Coast),
+    Nikola Zigic (Serbia & Montenegro), Sasa Ilic (Serbia & Montenegro),
+    Abdelkader Coubadja (Togo), John Aloisi (Australia), Craig Moore
+    (Australia), Harry Kewell (Australia), Kaka (Brazil), Fred (Brazil),
+    Gilberto (Brazil), Juninho Pernambucano (Brazil), Ze Roberto
+    (Brazil), Arjen Robben (Netherlands), Robin van Persie
+    (Netherlands), Ruud van Nistelrooy (Netherlands), Xabi Alonso
+    (Spain), Raul (Spain), Juanito (Spain), Franck Ribery (France),
+    Andrea Pirlo (Italy), Vincenzo Iaquinta (Italy), Alberto Gilardino
+    (Italy), Filippo Inzaghi (Italy), Francesco Totti (Italy), Gianluca
+    Zambrotta (Italy), Fabio Grosso (Italy), Alessandro Del Piero
+    (Italy), Clint Dempsey (United States), Pedro Pauleta (Portugal),
+    Deco Souza (Portugal), Cristiano Ronaldo (Portugal), Simao Sabrosa
+    (Portugal), Nuno Gomes (Portugal), Zied Jaziri (Tunisia), Radhi
+    Jaidi (Tunisia), Jaouhar Mnari (Tunisia), Yassir Al Qahtani (Saudi
+    Arabia), Sami Al Jaber (Saudi Arabia), Ivan Kaviedes (Ecuador),
+    Peter Crouch (England), Joe Cole (England), David Beckham (England),
+    Fredrik Ljungberg (Sweden), Henrik Larsson (Sweden), Marcus Allback
+    (Sweden), Esteban Cambiasso (Argentina), Lionel Messi (Argentina),
+    Carlos Tevez (Argentina), Javier Saviola (Argentina), Roberto Ayala
+    (Argentina), Asamoah Gyan (Ghana), Sulley Muntari (Ghana), Stephen
+    Appiah (Ghana), Haminu Dramani (Ghana), Andriy Rusol (Ukraine),
+    Serhiy Rebrov (Ukraine), Maksym Kalinichenko (Ukraine), Tranquillo
+    Barnetta (Switzerland), Philippe Senderos (Switzerland), Ronald
+    Gomez (Costa Rica), Nelson Cuevas (Paraguay), Darijo Srna (Croatia),
+    Niko Kovac (Croatia), Keiji Tamada (Japan).
+OG - Carlos Gamarra (Paraguay), Brent Sancho (Trinidad & Tobago),
+    Cristian Zaccardo (Italy), Armando Petit (Portugal).
+* - Argentina striker Hernan Crespo was credited by FIFA's Technical
+    Study Group as the scorer of their first goal in the second round
+    match against Mexico even though he appeared not to have made
+    contact with the ball.
+
+
+== Awards  ‹§awards›
+
+Tournament's Best Player:
+adidas Golden Ball - Zinedine Zidane (France) - 2,012 points
+adidas Silver Ball - Fabio Cannavaro (Italy) - 1,977 points
+adidas Bronze Ball - Andrea Pirlo (Italy) - 715 points
+Top Scorer:
+adidas Golden Shoe - Miroslav Klose (Germany) - 5 goals
+adidas Silver Shoe - Hernan Crespo (Argentina) - 3 goals
+adidas Bronze Shoe - Ronaldo (Brazil) - 3 goals
+Gillette Best Young Player - Lukas Podolski (Germany)
+Most Entertaining Team - Portugal
+Lev Yashin (Best Goalkeeper) - Gianluigi Buffon (Italy)
+FIFA Fair Play Trophy - Brazil and Spain
+
+
+== Statistics  ‹§stats›
+
+GOALS:
+147 in 64 matches, for an average of 2.30 per match (2002: 161 for
+average of 2.52)
+Total goals in tournament history: 2,063
+Top scorer in 2006: Miroslav Klose (Germany): 5
+Top scorer in history: Ronaldo (Brazil): 15 (3 in 2006)
+Fastest goal: Carlos Gamarra (Paraguay) 4th minute own goal against
+England
+Best attack: Germany (14)
+Best defence: Switzerland (0)
+Own goals: 4
+Penalties: 16
+Yellow cards: 305
+Red cards: 28
+Sent off: Abalo (TOG), Andre (ANG), Boulahrouz (NED), van Bronckhorst
+(NED), Costinha (POR), Cufre (ARG), Deco (POR), De Rossi (ITA),
+Domoraud (CIV), Emerton (AUS), Gyan (GHA), Jaziri (TUN), A John (TRI),
+Kezman (SCG), Lucic (SWE), Materazzi (ITA), Mastroeni (USA), Nadj (SCG),
+Perez (MEX), Polak (CZE), Pope (USA), Rooney (ENG), Simic (CRO),
+Simunic (CRO), Sobolewski (POL),  Ujfalusi (CZE), Vashchuk (UKR),
+Zidane (FRA)
+Spectators: 3.367 million (average 52,609)
+
+
+== Squads  ‹§squads›
+
+NB: below are the squad lists as submitted by the May 15 FIFA deadline;
+    various changes happened since which have not yet been included here.
+
+ANGOLA
+GK: Joao Ricardo (no club), Lama (Petro de Luanda), Mario (Inter de
+    Luanda).
+DF: Lebo Lebo (Petro de Luanda), Delgado (Petro de Luanda), Jamba
+    (ASA), Loco (Primeiro de Agosto), Kali (Barreirense), Marco Airosa
+    (Barreirense), Marco Abreu (Portimonense), Rui Marques (Leeds
+    United).
+MF: Ze Kalanga (Petro de Luanda), Miloy (Inter de Luanda), Figueiredo
+    (Varzim), Mendonca (Varzim), Edson Nobre (Pacos Ferreira).
+FW: Fabrice Akwa (no club), Love Kabungula (ASA), Pedro Mantorras
+    (Benfica), Titi Buengo (Clermont), Mateus Galiano (Gil Vicente),
+    Flavio Amado (Al-Ahly).
+
+ARGENTINA
+GK: Roberto Abbondanzieri (Boca Juniors), Leonardo Franco (Atletico
+    Madrid), Oscar Ustari (Independiente).
+DF: Fabricio Coloccini (Deportivo La Coruna), Roberto Ayala (Valencia),
+    Gabriel Heinze (Manchester United), Juan Pablo Sorin (Villarreal),
+    Lionel Scaloni (West Ham), Gabriel Milito (Zaragoza), Nicolas
+    Burdisso (Inter Milan), Leandro Cufre (AS Roma).
+MF: Maximiliano Rodriguez (Atletico Madrid), Javier Mascherano
+    (Corinthians), Esteban Cambiasso (Inter Milan), Juan Roman Riquelme
+    (Villarreal), Julio Ricardo Cruz (Inter Milan), Luis Gonzalez (FC
+    Porto), Pablo Aimar (Valencia).
+FW: Carlos Tevez (Corinthians), Hernan Crespo (Chelsea), Lionel Messi
+    (FC Barcelona), Rodrigo Palacio (Boca Juniors), Javier Saviola
+    (Sevilla).
+
+AUSTRALIA
+GK: Mark Schwarzer (Middlesbrough), Zeljko Kalac (AC Milan).
+DF: Mark Milligan (Sydney FC), Michael Beauchamp (Central Coast
+    Mariners), Ante Covic (Hammarby), Craig Moore (Newcastle), Lucas
+    Neill (Blackburn), Tony Popovic (Crystal Palace), Stan Lazaridis
+    (Birmingham City).
+MF: Tim Cahill (Everton), Marco Bresciano (Parma), Brett Emerton
+    (Blackburn), Vincenzo Grella (Parma), Jason Culina (PSV Eindhoven),
+    Josip Skoko (Wigan), Luke Wilkshire (Bristol City), Scott
+    Chipperfield (FC Basel).
+FW: Mark Viduka (Middlesbrough), Harry Kewell (Liverpool), John Aloisi
+    (Alaves), Mile Sterjovski (FC Basel), Archie Thompson (PSV
+    Eindhoven), Josh Kennedy (Dynamo Dresden).
+
+BRAZIL
+GK: Dida (AC Milan), Julio Cesar (Inter Milan), Rogerio Ceni (Sao
+    Paulo).
+DF: Juan (Bayer Leverkusen), Lucio (Bayern Munich), Luisao (Benfica),
+    Cris (Lyon), Cafu (AC Milan), Cicinho (Real Madrid), Roberto Carlos
+    (Real Madrid), Gilberto (Hertha Berlin).
+MF: Emerson (Juventus), Ze Roberto (Bayern Munich), Edmilson (FC
+    Barcelona), Gilberto Silva (Arsenal), Ronaldinho (FC Barcelona),
+    Kaka (AC Milan), Juninho Pernambucano (Lyon), Ricardinho
+    (Corinthians).
+FW: Ronaldo (Real Madrid), Adriano (Inter Milan), Robinho (Real
+    Madrid), Fred (Lyon).
+
+COSTA RICA
+GK: Jose Francisco Porras (Saprissa), Alvaro Mesen (Herediano), Wardy
+    Alfaro (Alajuelense).
+DF: Harold Wallace (Alajuelense), Jervis Drummond (Saprissa), Michael
+    Umana (Herediano), Michael Rodriguez (Alajuelense), Luis Marin
+    (Alajuelense), Gilberto Martinez (Brescia), Leonardo Gonzalez
+    (Herediano), Gabriel Badilla (Saprissa).
+MF: Randall Azofeifa (Saprissa), Carlos Hernandez (Alajuelense),
+    Mauricio Solis (Comunicaciones), Douglas Sequeira (Real Salt Lake),
+    Dany Fonseca (Brujas), Cristian Bolanos (Saprissa), Walter Centeno
+    (Saprissa).
+FW: Victor Nunez (Alajuelense), Ronald Gomez (Saprissa), Kurt Bernard
+    (Puntarenas), Alvaro Saborio (Saprissa), Paulo Wanchope (no club).
+
+CROATIA
+GK: Tomislav Butina (FC Brugge), Stipe Pletikosa (Hajduk Split), Joseph
+    Didulica (Austria Vienna).
+DF: Igor Tudor (Siena), Dario Simic (AC Milan), Robert Kovac
+    (Juventus), Stjepan Tomas (Galatasaray), Mario Tokic (Austria
+    Vienna), Josip Simunic (Hertha Berlin), Anthony Seric
+    (Panathinaikos).
+MF: Darijo Srna (Shakhtar Donetsk), Marko Babic (Bayer Leverkusen),
+    Niko Kranjcar (Hajduk Split), Ivan Leko (FC Brugge), Jerko Leko
+    (Dynamo Kyiv), Jurica Vranjes (Werder Bremen), Ivan Buljat (Dinamo
+    Zagreb), Luka Modric (Dinamo Zagreb).
+FW: Dado Prso (Rangers), Ivan Klasnic (Werder Bremen), Bosko Balaban
+    (FC Brugge), Ivan Bosnjak (Dinamo Zagreb), Ivica Olic (CSKA
+    Moscow).
+
+CZECH REPUBLIC
+GK: Petr Cech (Chelsea), Jaromir Blazek (Sparta Prague), Antonin Kinsky
+    (Saturn Ramenskoye).
+DF: Zdenek Grygera (Ajax), Pavel Mares (Peterburg), David Rozehnal
+    (Paris Saint-Germain), Tomas Ujfalusi (Fiorentina), Radoslav Kovac
+    (Spartak Moscow), Martin Jiranek (Spartak Moscow), Marek
+    Jankulovski (AC Milan).
+MF: Tomas Galasek (Ajax), Karel Poborsky (Ceske Budejovice), Jan Polak
+    (FC Nuremberg), Tomas Rosicky (Borussia Dortmund), Vladimir Smicer
+    (Bordeaux), David Jarolim (Hamburger SV), Jaroslav Plasil (Monaco),
+    Pavel Nedved (Juventus).
+FW: Milan Baros (Aston Villa), Jiri Stajner (Hannover), Marek Heinz
+    (Galatasaray), Jan Koller (Borussia Dortmund), Vratislav Lokvenc
+    (Salzburg).
+
+ECUADOR
+GK: Edwin Villafuerte (Deportivo Quito), Christian Mora (Liga de
+    Quito), Damian Lanza (Aucas).
+DF: Ivan Hurtado (Al Arabi), Giovanny Espinoza (Liga de Quito), Ulises
+    de la Cruz (Aston Villa), Paul Ambrosi (Liga de Quito), Neicer
+    Reasco (Liga de Quito), Jorge Guagua (El Nacional), Jose Luis
+    Perlaza (CD Olmedo).
+MF: Marlon Ayovi (Deportivo Quito), Edwin Tenorio (Barcelona, Ecuador),
+    Edison Mendez (Liga de Quito), Patricio Urrutia (Liga de Quito),
+    Christian Lara (El Nacional), Segundo Castillo (El Nacional), Luis
+    Antonio Valencia (Recreativo de Huelva), Luis Saritama (Deportivo
+    Quito).
+FW: Felix Borja (El Nacional), Ivan Kaviedes (Argentinos Juniors),
+    Agustin Delgado (Liga de Quito), Christian Benitez (El Nacional),
+    Carlos Tenorio (Al Sadd).
+
+ENGLAND
+GK: Paul Robinson (Tottenham), David James (Manchester City), Robert
+    Green (Norwich).
+DF: Gary Neville (Manchester United), Sol Campbell (Arsenal), Rio
+    Ferdinand (Manchester United), John Terry (Chelsea), Jamie
+    Carragher (Liverpool), Ashley Cole (Arsenal), Wayne Bridge
+    (Chelsea).
+MF: David Beckham (Real Madrid), Steven Gerrard (Liverpool), Frank
+    Lampard (Chelsea), Michael Carrick (Tottenham), Owen Hargreaves
+    (Bayern Munich), Jermaine Jenas (Tottenham), Joe Cole (Chelsea),
+    Stewart Downing (Middlesbrough), Aaron Lennon (Tottenham).
+FW: Wayne Rooney (Manchester United), Michael Owen (Newcastle), Peter
+    Crouch (Liverpool), Theo Walcott (Arsenal).
+
+FRANCE
+GK: Fabien Barthez (Marseille), Gregory Coupet (Lyon), Mickael Landreau
+    (Nantes).
+DF: Eric Abidal (Lyon), Jean-Alain Boumsong (Newcastle), Pascal
+    Chimbonda (Wigan), William Gallas (Chelsea), Gael Givet (Monaco),
+    Willy Sagnol (Bayern Munich), Mikael Silvestre (Manchester United),
+    Lilian Thuram (Juventus).
+MF: Vikash Dhorasoo (Paris Saint-Germain), Alou Diarra (Lens), Claude
+    Makelele (Chelsea), Florent Malouda (Lyon), Patrick Vieira
+    (Juventus), Zinedine Zidane (Real Madrid).
+FW: Djibril Cisse (Liverpool), Thierry Henry (Arsenal), Franck Ribery
+    (Marseille), Louis Saha (Manchester United), David Trezeguet
+    (Juventus), Sylvain Wiltord (Lyon).
+
+GERMANY
+GK: Jens Lehmann (Arsenal), Oliver Kahn (Bayern Munich), Timo
+    Hildebrand (Stuttgart).
+DF: Arne Friedrich (Hertha Berlin), Per Mertesacker (Hannover 96),
+    Phillipp Lahm (Bayern Munich), Robert Huth (Chelsea), Marcell
+    Jansen (Borussia Moenchengladbach), Christoph Metzelder (Borussia
+    Dortmund), Jens Nowotny (Bayer Leverkusen).
+MF: Michael Ballack (Chelsea), Tim Borowski (Werder Bremen), Thomas
+    Hitzlsperger (Stuttgart), Bastian Schweinsteiger (Bayern Munich),
+    Torsten Frings (Werder Bremen), Bernd Schneider (Bayer Leverkusen),
+    Sebastian Kehl (Borussia Dortmund), David Odonkor (Borussia
+    Dortmund).
+FW: Miroslav Klose (Werder Bremen), Gerald Asamoah (Schalke), Lukas
+    Podolski (Cologne), Oliver Neuville (Borussia Moenchengladbach),
+    Mike Hanke (Schalke).
+Standby: GK: Robert Enke (Hannover 96); DF: Manuel Friedrich (Mainz),
+    Patrick Owomoyela (Werder Bremen); MF: Fabian Ernst (Schalke), Paul
+    Freier (Bayer Leverkusen); FW: Kevin Kuranyi (Schalke).
+
+GHANA
+GK: Sammy Adjei (Mohadon Sports Ashdod), Richard Kingston (BB
+    Ankaraspor), George Owu (Ashanti Gold).
+DF: Addoquaye Pappoe (Ashdod Tel Aviv), John Painstil (Hapoel Tel
+    Aviv), John Mensah (Rennes), Issa Ahmed (Randers), Sammy Kuffour
+    (AS Roma), Hans Adu Sarpei (Vfl Wolfsburg), Dan Quaye (Hearts of
+    Oak), Habib Mohammed (King Faisal), Shilla Illiasu (Asante Kotoko).
+MF: Stephen Appiah (Fenerbache), Michael Essien (Chelsea), Sulley Ali
+    Muntari (Udinese), Haminu Dramani (Red Star Belgrade), Eric Addo
+    (PSV Eindhoven), Derek Boateng (AIK Solna), Otto Addo (Mainz 05).
+FW: Asamoah Gyan (Modena), Matthew Amoah (Borussia Dortmund), Razak
+    Pimpong (FC Copenhagen), Alex Tachie-Mensah (St Gallen).
+
+IRAN
+GK: Ebrahim Mirzapour (Foulad), Vahid Taleblou (Esteqlal), Hassan
+    Roudbarian (Pas).
+DF: Yahya Golmohammadi (Saba Battery), Mohammad Nosrati (Pas), Rahman
+    Rezaei (Messina), Sattar Zare' (Barq), Hossein Ka'bi (Foulad),
+    Sohrab Bakhtiarizadeh (Saba Battery), Amir-Hossein Sadeqi
+    (Esteqlal).
+MF: Javad Nekounam (Sharjah), Anderanik Teymourian (Abu Moslem), Mehdi
+    Mahdavikia (Hamburger SV), Fereydoun Zandi (Kaiserslautern), Ali
+    Karimi (Bayern Munich), Mehrzad Ma'danchi (Persepolis), Javad
+    Kazemian (Persepolis).
+FW: Ali Daei (Saba Battery), Vahid Hashemian (Hannover 96), Gholam-Reza
+    Enayati (Esteqlal), Arash Borhani (Pas), Massoud Shojaei (Saipa),
+    Rassoul Khatibi (Sepahan).
+
+ITALY
+GK: Gianluigi Buffon (Juventus), Angelo Peruzzi (Lazio), Marco Amelia
+    (Livorno).
+DF: Gianluca Zambrotta (Juventus), Alessandro Nesta (AC Milan), Fabio
+    Cannavaro (Juventus), Fabio Grosso (Palermo), Cristian Zaccardo
+    (Palermo), Andrea Barzagli (Palermo), Marco Materazzi (Inter
+    Milan), Massimo Oddo (Lazio).
+MF: Mauro Camoranesi (Juventus), Andrea Pirlo (AC Milan), Gennaro
+    Gattuso (AC Milan), Daniele De Rossi (AS Roma), Simone Perrotta (AS
+    Roma), Simone Barone (Palermo).
+FW: Francesco Totti (AS Roma), Luca Toni (Fiorentina), Alberto
+    Gilardino (AC Milan), Alessandro Del Piero (Juventus), Filippo
+    Inzaghi (AC Milan), Vincenzo Iaquinta (Udinese).
+Standby: Morgan De Sanctis (Udinese), Daniele Bonera (Parma), Marco
+    Marchionni (Parma), Franco Semioli (Chievo Verona).
+
+IVORY COAST
+GK: Jean-Jacques Tizie (Esperance Tunis), Boubacar Barry Copa (KSK
+    Beveren), Gerard Gnanhouan (Montpellier).
+DF: Cyrille Domoraud (Creteil), Blaise Kouassi (ES Troyes), Abdoulaye
+    Meite (Marseille), Etienne Arthur Boka (Strasbourg), Kolo Toure
+    (Arsenal), Emmanuel Eboue (Arsenal), Marc Zoro (Messina).
+MF: Didier Zokora (Saint-Etienne), Emerse Fae (Nantes), Kanga Gauthier
+    Akale (Auxerre), Romaric Ndri Koffi (Le Mans), Yaya Toure
+    (Olympiakos), Gilles Yapi Yapo (Young Boys), Guy Roland Demel
+    (Hamburg).
+FW: Bakari Kone (Nice), Didier Drogba (Chelsea), Arouna Kone (PSV
+    Eindhoven), Bonaventure Kalou (Paris Saint-Germain), Abdoul Kader
+    Keita (Lille), Aruna Dindane (Lens).
+
+JAPAN
+GK: Yoshikatsu Kawaguchi (Jubilo Iwata), Yoichi Doi (FC Tokyo), Seigo
+    Narazaki (Nagoya Grampus Eight).
+DF: Makoto Tanaka (Jubilo Iwata), Tsuneyasu Miyamoto (Gamba Osaka),
+    Alessandro Santos (Urawa Reds), Yuji Nakazawa (Yokohama F Marinos),
+    Keisuke Tsuboi (Urawa Reds), Akira Kaji (Gamba Osaka), Yuichi
+    Komano (Sanfrecce Hiroshima), Koji Nakata (Basel, Switzerland).
+MF: Takashi Fukunishi (Jubilo Iwata), Mitsuo Ogasawara (Kashima
+    Antlers), Shinji Ono (Urawa Reds), Yasuhito Endo (Gamba Osaka),
+    Hidetoshi Nakata (Bolton Wanderers, England), Shunsuke Nakamura
+    (Celtic, Scotland), Junichi Inamoto (West Bromwich Albion,
+    England).
+FW: Seiichiro Maki (JEF United Chiba), Keiji Tamada (Nagoya Grampus
+    Eight), Atsushi Yanagisawa (Kashima Antlers), Masashi Oguro
+    (Grenoble, France), Naohiro Takahara (Hamburg SV, Germany).
+
+MEXICO
+GK: Oswaldo Sanchez (Guadalajara), Jesus Corona (Tecos), Guillermo
+    Ochoa (America).
+DF: Rafael Marquez (FC Barcelona), Claudio Suarez (Chivas USA),
+    Francisco Rodriguez (Guadalajara), Jose Antonio Castro (America),
+    Mario Mendez (Monterrey), Ricardo Osorio (Cruz Azul), Carlos
+    Salcido (Guadalajara), Gonzalo Pineda (Guadalajara).
+MF: Jose Guardado (Atlas), Antonio Naelson (Toluca), Luis Perez
+    (Monterrey), Pavel Pardo (America), Gerardo Torrado (Cruz Azul),
+    Jose Garcia (Atlas), Ramon Morales (Guadalajara).
+FW: Guillermo Franco (Villarreal), Jared Borgetti (Bolton), Francisco
+    Fonseca (Cruz Azul), Jose Arellano (Monterrey), Omar Bravo
+    (Guadalajara).
+
+NETHERLANDS
+GK: Edwin van der Sar (Manchester United), Maarten Stekelenburg (Ajax),
+    Henk Timmer (AZ Alkmaar).
+DF: Johnny Heitinga (Ajax), Khalid Boulahrouz (Hamburg), Giovanni van
+    Bronckhorst (FC Barcelona), Tim de Cler (AZ Alkmaar), Kew Jaliens
+    (AZ Alkmaar), Jan Kromkamp (Liverpool), Joris Mathijsen (AZ
+    Alkmaar), Andre Ooijer (PSV Eindhoven).
+MF: Mark van Bommel (FC Barcelona), Phillip Cocu (PSV Eindhoven), Denny
+    Landzaat (AZ Alkmaar), Hedwiges Maduro (Ajax), Wesley Sneijder
+    (Ajax), Rafael van der Vaart (Hamburg).
+FW: Ryan Babel (Ajax), Dirk Kuyt (Feyenoord), Ruud van Nistelrooy
+    (Manchester United), Robin van Persie (Arsenal), Arjen Robben
+    (Chelsea), Jan Vennegoor of Hesselink (PSV Eindhoven).
+
+PARAGUAY
+GK: Justo Villar (Newell's Old Boys), Derlis Gomez (Luqueno), Aldo
+    Bobadilla (Libertad).
+DF: Denis Caniza (Cruz Azul), Carlos Gamarra (Palmeiras), Julio Cesar
+    Caceres (River Plate), Delio Toledo (Real Zaragoza), Paulo Da Silva
+    (Toluca), Julio Manzur (Santos, Brazil), Jorge Nunez (Estudiantes).
+MF: Edgar Barreto (NEC Nijmegen), Roberto Acuna (Deportivo La Coruna),
+    Carlos Humberto Paredes (Reggina), Julio Dos Santos (Bayern
+    Munich), Christian Riveros (Libertad), Carlos Bonet (Libertad),
+    Jose Montiel (Olimpia), Diego Gavilan (Newell's Old Boys).
+FW: Roque Santa Cruz (Bayern Munich), Nelson Haedo Valdez (Werder
+    Bremen), Jose Cardozo (no club), Salvador Cabanas (Jaguares),
+    Nelson Cuevas (Pachuca).
+
+POLAND
+GK: Artur Boruc (Celtic), Lukasz Fabianski (Legia Warsaw), Tomasz
+    Kuszczak (West Bromwich Albion).
+DF: Jacek Bak (Al Rayyan), Marcin Baszczynski (Wisla Krakow), Michal
+    Zewlakow (Anderlecht), Mariusz Jop (FC Moscow), Seweryn Gancarczyk
+    (Mettalist Kharkov), Mariusz Lewandowski (Shakhtar Donietsk),
+    Dariusz Dudka (Wisla Krakow).
+MF: Euzebiusz Smolarek (Borussia Dortmund), Jacek Krzynowek (Bayer
+    Leverkusen), Kamil Kosowski (Southampton), Radoslaw Sobolewski
+    (Wisla Krakow), Miroslaw Szymkowiak (Trabonzspor), Sebastian Mila
+    (Austria Vienna), Piotr Giza (Cracovia), Damian Gorawski (FC
+    Moscow), Arkadiusz Radomski (Austria Vienna).
+FW: Maciej Zurawski (Celtic), Grzegorz Rasiak (Southampton), Ireneusz
+    Jelen (Wisla Plock), Pawel Brozek (Wisla Krakow).
+
+PORTUGAL
+GK: Ricardo Pereira (Sporting), Quim Silva (Benfica), Bruno Vale
+    (Amadora).
+DF: Paulo Ferreira (Chelsea), Ricardo Carvalho (Chelsea), Nuno Valente
+    (Everton), Fernando Meira (Stuttgart), Miguel Monteiro (Valencia),
+    Marco Caneira (Valencia), Ricardo Costa (FC Porto).
+MF: Francisco Costinha (Dynamo Moscow), Nuno Maniche (Chelsea), Hugo
+    Viana (Valencia), Tiago (Lyon), Armando Petit (Benfica), Deco Souza
+    (FC Barcelona), Luis Figo (Inter Milan), Luis Boa Morte (Fulham),
+    Simao Sabrosa (Benfica), Cristiano Ronaldo (Manchester United).
+FW: Helder Postiga (FC Porto), Pedro Pauleta (Paris Saint-Germain),
+    Nuno Gomes (Benfica).
+
+SAUDI ARABIA
+GK: Mohammed Al-Deayea (Al Hilal), Mabrouk Zayed (Al Ittihad), Mohammad
+    Khoja (Al Shabab).
+DF: Ahmed Al-Dokhi (Al Ittihad), Ahmed Al-Bahri (Al Shabab), Mohammad
+    Missad (Al Ahli), Reda Tukar (Al Ittihad), Naif Al-Qadi (Al Ahli),
+    Hamad Al-Montashari (Al Ittihad), Hussein Abdul Ghani (Al Ahli).
+MF: Abdul Aziz Al-Khathran (Al Hilal), Saud Kareeri (Al Ittihad),
+    Khaled Aziz (Al Hilal), Omar Al-Ghamdi (Al Hilal), Mohammad Nur
+    (Al Ittihad), Nawaf Al-Tamyat (Al Hilal), Mohammed Ameen (Al
+    Ittihad), Sami Al-Jaber (Al Hilal).
+FW: Yasser Al-Qahtani (Al Hilal), Saad Al-Harithy (Al Nassr), Mohammad
+    Al-Anbar (Al Hilal), Malik Moud (Al Ahli), Mohammad Al-Shalhoub
+    (Al Hilal).
+
+SERBIA-MONTENEGRO
+GK: Dragoslav Jevric (Ankaraspor), Oliver Kovacevic (CKSA Sofia),
+    Vladimir Stojkovic (Red Star Belgrade).
+DF: Goran Gavrancic (Dynamo Kyiv), Ivica Dragutinovic (Sevilla),
+    Nemanja Vidic (Manchester United), Nenad Djordjevic (Partizan
+    Belgrade), Dusan Basta (Red Star Belgrade), Mladen Krstajic
+    (Schalke), Milan Dudic (Red Star Belgrade).
+MF: Dejan Stankovic (Inter Milan), Igor Duljaj (Shakhtar Donetsk),
+    Ognjen Koroman (Portsmouth), Albert Nadj (Partizan Belgrade), Ivan
+    Ergic (FC Basel), Zvonimir Vukic (Partizan Belgrade), Predrag
+    Djordjevic (Olympiakos), Sasa Ilic (Galatasaray).
+FW: Savo Milosevic (Osasuna), Mateja Kezman (Atletico Madrid), Danijel
+    Ljuboja (Stuttgart), Mirko Vucinic (Lecce), Nikola Zigic (Red Star
+    Belgrade).
+
+SOUTH KOREA
+GK: Lee Woon-jae (Suwon Samsung), Kim Young-kwang (Chunnam Dragons),
+    Kim Yong-dae (Busan I Park).
+DF: Lee Young-pyo (Tottenham Hotspur), Kim Sang-shik (Seongnam Ilhwa),
+    Cho Won-hee (Suwon Samsung), Kim Young-chul (Seongnam Ilhwa), Choi
+    Jin-cheul (Chonbuk Hyundai), Kim Jin-kyu (Jubilo Iwata), Kim
+    Dong-jin (FC Seoul), Song Chong-gug (Suwon Samsung).
+MF: Park Ji-sung (Manchester United), Kim Nam-il (Suwon Samsung), Lee
+    Ho (Ulsan Hyundai), Baek Ji-hoon (FC Seoul), Lee Eul-yong
+    (Trabzonspor), Kim Do-heon (Seongnam Ilhwa).
+FW: Ahn Jung-hwan (Duisburg), Seol Ki-hyun (Wolverhampton Wanderers),
+    Cho Jae-jin (Shimizu S-Pulse), Chung Kyung-ho (Gwangju Sangmu), Lee
+    Chun-soo (Ulsan Hyundai), Park Chu-young (FC Seoul).
+
+SPAIN
+GK: Iker Casillas (Real Madrid), Santiago Canizares (Valencia), Jose
+    Manuel Reina (Liverpool).
+DF: Michel Salgado (Real Madrid), Carles Puyol (FC Barcelona), Carlos
+    Marchena (Valencia), Juanito Gutierrez (Real Betis), Sergio Ramos
+    (Real Madrid), Pablo Ibanez (Atletico Madrid), Asier Del Horno
+    (Chelsea).
+MF: Joaquin Sanchez (Real Betis), David Albelda (Valencia), Xavi
+    Hernandez (FC Barcelona), Antonio Lopez (Atletico Madrid), Marcos
+    Senna (Villareal), Andres Iniesta (FC Barcelona), Cesc Fabregas
+    (Arsenal), Xabi Alonso (Liverpool).
+FW: David Villa (Valencia), Jose Antonio Reyes (Arsenal), Fernando
+    Torres (Atletico Madrid), Raul Gonzalez (Real Madrid), Luis Garcia
+    (Liverpool).
+
+SWEDEN
+GK: John Alvbage (Viborg), Andreas Isaksson (Rennes), Rami Shaaban
+    (Fredrikstad).
+DF: Erik Edman (Rennes), Petter Hansson (Heerenveen), Teddy Lucic
+    (Hacken), Olof Mellberg (Aston Villa), Mikael Nilsson
+    (Panathinaikos), Fredrik Stenman (Bayer Leverkusen), Karl Svensson
+    (IFK Goteborg).
+MF: Niclas Alexandersson (IFK Goteborg), Daniel Andersson (Malmo),
+    Johan Elmander (Brondby), Mattias Jonson (Djurgarden), Kim
+    Kallstrom (Rennes), Tobias Linderoth (Copenhagen), Fredrik
+    Ljungberg (Arsenal), Anders Svensson (Elfsborg), Christian
+    Wilhelmsson (Anderlecht).
+FW: Marcus Allback (Copenhagen), Zlatan Ibrahimovic (Juventus), Henrik
+    Larsson (FC Barcelona), Markus Rosenberg (Ajax).
+
+SWITZERLAND
+GK: Pascal Zuberbuehler (FC Basel), Diego Benaglio (CD Nacional), Fabio
+    Coltorti (Grasshoppers).
+DF: Valon Behrami (Lazio), Philipp Degen (Borussia Dortmund), Philippe
+    Senderos (Arsenal), Johan Djourou (Arsenal), Stephane Grichting
+    (Auxerre), Ludovic Magnin (VfB Stuttgart), Patrick Mueller (Lyon),
+    Christoph Spycher (Eintracht Frankfurt).
+MF: Tranquillo Barnetta (Bayer Leverkusen), Ricardo Cabanas (FC
+    Cologne), David Degen (FC Basel), Blerim Dzemaili (FC Zurich),
+    Daniel Gygax (Lille), Xavier Margairaz (FC Zurich), Johann Vogel
+    (AC Milan), Raphael Wicky (Hamburger SV).
+FW: Alexander Frei (Rennes), Mauro Lustrinelli (Sparta Prague), Marco
+    Streller (FC Cologne), Johan Vonlanthen (NAC Breda).
+
+TOGO
+GK: Kossi Agassa (Metz), Moumouni Ouro Tchagnirou (Djoliba), Kodjovi
+    Obilade (Etoile Filante).
+DF: Yaovi Dosseh Abalo (Apoel), Dare Nibombe (Mons), Ludovic
+    Assemouassa (Ciffon), Karim Guede (Hamburg), Komi Agbo (Beveren),
+    Eric Akoto (Admira Wadel), Richmond Forson (J.A. Poire), Toure
+    Assimiou (Bayern Leverkusen), Masama-Esso Tchangai (Beneveto).
+MF: Affo Erassa (Clermont), Kaka Aziawonou (YS Berne), Sheriff Toure
+    (Metz), Alexis Romao (CS Louhans Cuiseaux), Yao Junior Senaya
+    (Juventus Zurich), Moustapha Salifou (Brest).
+FW: Thomas Dossevi (Valenciennes), Adekambi Olufade (Al Siliyah),
+    Robert Malm (Brest), Abdel-Kader Kougbadja (Guingamp), Emmanuel
+    Adebayor (Arsenal).
+
+TRINIDAD-TOBAGO
+GK: Kelvin Jack (Dundee), Shaka Hislop (West Ham United), Clayton Ince
+    (Coventry City).
+DF: Dennis Lawrence (Wrexham), Cyd Gray (CL Financial San Juan
+    Jabloteh), Marvin Andrews (Rangers), Brent Sancho (Gillingham), Ian
+    Cox (Gillingham), Atiba Charles (W Connection), Avery John (New
+    England Revolution).
+MF: Silvio Spann (unattached), Chris Birchall (Port Vale), Aurtis
+    Whitley (CL Financial San Juan Jabloteh), Evans Wise (Waldhof
+    Mannheim), Densill Theobald (Falkirk), Carlos Edwards (Luton Town),
+    Russell Latapy (Falkirk).
+FW: Dwight Yorke (Sydney FC), Stern John (Coventry City), Kenwyne Jones
+    (Southampton), Collin Samuel (Dundee United), Jason Scotland (St
+    Johnstone), Cornell Glen (Los Angeles Galaxy), Anthony Wolfe (CL
+    Financial San Juan Jabloteh).
+
+TUNISIA
+GK: Ali Boumnijel (Club Africain), Hamdi Kasraoui (Esperance Tunis),
+    Adel Nefzi (US Monastir).
+DF: David Jemmali (Bordeaux), Hatem Trabelsi (Ajax), Mehdi Meriah
+    (Etoile du Sahel), Anis Ayari (Samsunspor), Alaeddine Yahya
+    (Saint-Etienne), Radhi Jaidi (Bolton), Karim Hagui (Strasbourg),
+    Karim Saidi (Lecce).
+MF: Jawhar Mnari (Nuremberg), Adel Chedli (Nuremberg), Mehdi Nafti
+    (Birmingham), Sofiene Melliti (Gaziantespor), Hamed Namouchi
+    (Rangers), Karim Zdiri (Rosenborg), Yassine Chikhaoui (Etoile du
+    Sahel), Riadh Boazizi (Kayserispor), Issam Jomaa (Lens), Kais
+    Ghodhbane (Diyarbakirspor).
+FW: Francileudo Santos (Toulouse), Ziad Jaziri (Troyes).
+
+UKRAINE
+GK: Oleksander Shovkovsky (Dynamo Kyiv), Andriy Pyatov (Vorskla
+    Poltava), Bogdan Shust (Shakhtar Donetsk).
+DF: Andriy Nesmachny (Dynamo Kyiv), Vladyslav Vashchyuk (Dynamo Kyiv),
+    Serhiy Fyodorov (Dynamo Kyiv), Volodymyr Yesersky (Dnipro
+    Dnipropetrovsk), Andriy Rusol (Dnipro Dnipropetrovsk), Dmytro
+    Chigrinsky (Shakhtar Donetsk), Vyacheslav Svidersky (Arsenal Kyiv).
+MF: Anatoly Tymoshchyuk (Shakhtar Donetsk), Oleg Gusiev (Dynamo Kyiv),
+    Ruslan Rotan (Dynamo Kyiv), Serhiy Nazarenko (Dnipro
+    Dnipropetrovsk), Oleg Shelayev (Dnipro Dnipropetrovsk), Andriy
+    Husin (Krylya Sovietov Samara), Serhiy Rebrov (Dynamo Kyiv), Maxim
+    Kalinichenko (Spartak Moscow).
+FW: Andriy Shevchenko (AC Milan), Andriy Voronin (Bayer Leverkusen),
+    Artyom Milevsky (Dynamo Kyiv), Andriy Vorobei (Shakhtar Donetsk),
+    Olexiy Belik (Shakhtar Donetsk).
+
+UNITED STATES
+GK: Marcus Hahnemann (Reading), Tim Howard (Manchester United), Kasey
+    Keller (Borussia Moenchengladbach).
+DF: Carlos Bocanegra (Fulham), Steve Cherundolo (Hannover 96), Jimmy
+    Conrad (Kansas City Wizards), Cory Gibbs (ADO The Hague), Frankie
+    Hejduk (Columbus Crew), Eddie Lewis (Leeds United), Oguchi Onyewu
+    (Standard Liege), Eddie Pope (Real Salt Lake).
+MF: DaMarcus Beasley (PSV Eindhoven), Bobby Convey (Reading), Clint
+    Dempsey (New England Revolution), Landon Donovan (Los Angeles
+    Galaxy), Pablo Mastroeni (Colorado Rapids), John O'Brien (Chivas
+    USA), Ben Olsen (DC United), Claudio Reyna (Manchester City).
+FW: Brian Ching (Houston), Eddie Johnson (Kansas City Wizards), Brian
+    McBride (Fulham), Josh Wolff (Kansas City Wizards).
+
+

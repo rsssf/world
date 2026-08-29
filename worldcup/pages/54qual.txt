@@ -1,0 +1,218 @@
+<!--
+   title:   World Cup 1954 qualifications
+   source:  https://rsssf.org/tables/54qual.html
+  -->
+
+<!--
+                     Contents:
+
+         Europe                           
+         South America                    
+         CONCACAF                         
+         Africa                           
+         Asia                             
+  -->
+
+
+
+
+== Europe
+
+16 teams entered, including SUI (hosts) and ISL after deadline. POL withdrew
+after seeding. Eleven places divided between winners of five groups of
+three teams and four pairs, also for the second team from the British
+Home group. Teams finishing level on points had a play-off game and
+then a coin toss.
+
+Group 1 (1953-54)  ‹§gr1›
+
+24.06. Oslo       NOR-SAA 2:3 (2:2) Thoresen 7, Dahlen 15 - Siedl 17,53,
+                                    Otto 30 (Bronkhorst HOL)
+19.08. Oslo       NOR-GER 1:1 (1:1) Hennum - F.Walter (Ausum HOL)
+11.10. Stuttgart  GER-SAA 3:0 (1:0) Morlock (2), Schade (van der Meer HOL)
+08.11. S'brücken  SAA-NOR 0:0       (Horn HOL)
+22.11. Hamburg    GER-NOR 5:1 (1:1) Morlock (2), Rahn, O.Walter, F.Walter -
+                                    Nordahl (Luty ENG)
+28.03. S'brücken  SAA-GER 1:3 (0:1) H.Martin 68 p - Morlock (2), Schâfer
+                                    (Bronkhorst HOL)
+
+1.GER^  4   7  3  1  0  12- 3
+2.SAA   4   3  1  1  2   4- 8
+3.NOR   4   2  0  0  2   4- 9
+
+Group 2 (1953)  ‹§gr2›
+
+25.05. Helsinki   FIN-BEL 2:4 (0:3) Lehtovirta 49, 75 - Coppens 4,26,83,
+                                    Anoul 9 (Helge DAN)
+28.05. Stockholm  SWE-BEL 2:3 (2:3) Bengtsson 20, Selmosson 26 - Anoul 28,
+                                    Straetmans 37, Lembrechts 40 (Mowat SCO)
+05.08. Helsinki   FIN-SWE 3:3 (0:2) Lehtovirta 63, Lahtinen 67, Rikberg 70 -
+                                    Sandell 9,71, Persson 23 (Baalstad NOR)
+16.08. Stockholm  SWE-FIN 4:0 (2:0) G. Sandberg 22, Sandell 24,61, Sandin 56
+                                    (Asmussen DAN)
+23.09. Brussels   BEL-FIN 2:2 (1:0) Bollen (2) - Lahtinen, Vaihela
+                                    (Baumberger SUI)
+08.10. Brussels   BEL-SWE 2:0 (1:0) Coppens 23, Mees 49 (Schipper HOL)
+
+1.BEL^  4   7  3  1  0  11- 6
+2.SWE   4   3  1  1  2   9- 8
+3.FIN   4   2  0  0  2   7-13
+
+Group 3 (1953-54)  ‹§gr3›
+
+03.10. Belfast    NIR-SCO 1:3 (0:0) Lockhart - Fleming (2), Henderson
+                                    (Ellis ENG)
+10.10. Cardiff    WAL-ENG 1:4 (1:1) Allchurch - Wilshaw (2), Lofthouse (2)
+                                    (Faultless SCO)
+04.11. Glasgow    SCO-WAL 3:3 (2:0) Brown, R. Johnstone, Reilly - J.Charles
+                                    (2), Allchurch (Mitchell NIR)
+11.11. Liverpool  ENG-NIR 3:1 (1:0) Hassall (2), Lofthouse - McMorran
+                                    (Smith WAL)
+31.03. Wrexham    WAL-NIR 1:2 (0:1) J.Charles - McParland (2) (Faultless SCO)
+03.04. Glasgow    SCO-ENG 2:4 (1:1) Brown, Byrne (og) - Broadis, Nicholls,
+                                    Ronnie Allen, Mullen (Mitchell NIR)
+
+1.ENG^  3   6  3  0  0  11- 4
+2.SCO   3   3  1  1  1   8- 8
+3.NIR   3   2  1  0  2   4- 7
+4.WAL   3   1  0  1  2   5- 9
+
+Group 4 (1953-54)  ‹§gr4›
+
+20.09. Luxembourg LUX-FRA 1:6 (1:4) Kohn 6 - Piantoni 5, Kopa 10, Cicci 41,
+                                    Kargu 73, Glovacki 44, Flamion 88
+                                    (Dörflinger SUI)
+04.10. Dublin     IRL-FRA 3:5 (0:2) Ryan 58p, Walsh 83, O'Farrel 88 - Glovacki
+                                    23, Penverne 40, Ujlaki 50,69, Flamion
+                                    72 (Franken BEL)
+28.10. Dublin     IRL-LUX 4:0 (1:0) Fitzimmons (2), Ryan, Eglinton (Bond ENG)
+25.11. Paris      FRA-IRL 1:0 (0:0) Piantoni 73 (van Nuffel BEL)
+27.12. Paris      FRA-LUX 8:0 (4:0) Desgranges 2,88, Vincent 6,10, Fontaine
+                                    21,75,80, Foix 57 (Roeykens BEL)
+07.03. Luxembourg LUX-IRL 0:1 (0:0) Cummins (Ausum HOL)
+
+1.FRA^  4   8  4  0  0  20- 4
+2.IRL   4   4  2  0  0   8- 6
+3.LUX   4   0  0  0  4   1-19
+
+Group 5 (1953)  ‹§gr5›
+
+27.09. Wien       AUT-POR 9:1 (4:1) Probst (5), Dienst, Wagner, Ocwirk,
+                                    Happel - J.Aguas (Bauwens BEL)
+29.11. Lisbona    POR-AUT 0:0       (Harzic FRA)
+
+Group 6 (1954)  ‹§gr6›
+
+06.01. Madrid     ESP-TUR 4:1 (1:1) Venancio (2), Alsua, Miguel - Recep 31
+                                    (Vincentini FRA)
+14.03. Stambul    TUR-ESP 1:0 (1:0) Burchan 16 (Schmetzer GER)
+17.03. Roma       TUR-ESP 2:2 (1:1,2:2,2:2) Burhan 32, Suat 65 - Arteche 18,
+                                    Escudero 79 (Bernardi ITA)
+- TUR qualified by drawing of lots.
+
+Group 7 - POL withdrew, HUN had a walkover  ‹§gr7›
+
+Group 8 (1953)  ‹§gr8›
+
+14.06 Prag        CZE-ROM 2:0 (1:0) Crha 52, Laskov 67 (Pósa HUN)
+28.06 Bukarest    ROM-BUL 3:1 (2:0) Petschovski 21,36, Ene 71 - Kolev 58
+                                    (Schulz DDR)
+06.09 Sofia       BUL-CZE 1:2 (0:2) Bozhkov - Vik (2) (Aleksandrowicz POL)
+11.10 Sofia       BUL-ROM 1:2 (1:1) Tashkov - Serfózó, Calinoiu (Dorogi HUN)
+25.10 Bukarest    ROM-CZE 0:1 (0:1) Safranek (Schulz DDR)
+08.11 Bratislava  CZE-BUL 0:0       (Chkhatarashvili ZSR)
+
+1.CZE^  4   7  3  1  0   5- 1
+2.ROM   4   4  2  0  2   5- 5
+3.BUL   4   1  0  1  3   3- 7
+
+Group 9 (1953-54)  ‹§gr9›
+
+13.11. Cairo      EGY-ITA 1:2 (1:0) Ad-Diba 23 - Frignani 61, Muccinelli 79
+                                    (Steiner AUT)
+24.01. Mediolan   ITA-EGY 5:1 (1:1) Pandolfini 1, Frignani 62, Boniperti
+                                    65,86, Ricagni 84 - El Din 32 (Horn HOL)
+
+Group 10 (1953-54)  ‹§gr10›
+
+09.05 Belgrad     JUG-GRE 1:0 (0:0) Matosić 71 (Steiner AUT)
+01.11 Athina      GRE-ISR 1:0 (0:0) Bempis (Massai ITA)
+08.11 Skopje      JUG-ISR 1:0 (0:0) Milutinović (Alsteen BEL)
+08.03 Tel-Aviv    ISR-GRE 0:2 (0:0) Kokkilakis, Kamaras (Buchmüller SUI)
+21.03 Tel-Aviv    ISR-JUG 0:1 (0:0) Zebec (Leafe ENG)
+28.03 Athina      GRE-JUG 0:1 (0:0) Veselinović (Rufli SUI)
+
+1.JUG^  4   8  4  0  0   4- 0
+2.GRE   4   4  2  0  2   3- 2
+3.ISR   4   0  0  0  4   0- 5
+
+== South America
+
+6 teams entered, including URU (champions) and PER, withdrawn after
+seeding and BOL after deadline.  The remaining three teams played for
+one final place in a single group.
+
+Group 11 (1954)  ‹§gr11›
+
+14.02. Asunción   PAR-CHI 4:0 (1:0) Lugo, S.Parodi, Hermosilla, J. Parodi
+                                    (Steiner AUT)
+21.02. Santiago   CHI-PAR 1:3 (1:1) Robledo - Lugo (2), J. Parodi
+                                    (Vincentini FRA)
+28.02. Santiago   CHI-BRA 0:2 (0:1) Baltazar (2)
+                                    (Vincentini FRA)
+07.03. Asunción   PAR-BRA 0:1 (0:0) Baltazar (Steiner AUT)
+14.03. R/Janeiro  BRA-CHI 1:0 (1:0) Baltazar (Steiner AUT)
+21.03. R/Janeiro  BRA-PAR 4:1 (0:0) Julinho (2), Baltazar, Humberto - Romerito
+                                    (Vincentini FRA)
+
+- PER withdrew after seeding
+
+1.BRA^  4   8  4  0  0   8- 1
+2.PAR   4   4  2  0  2   8- 6
+3.CHI   4   0  0  0  4   1-10
+
+== CONCACAF
+
+3 teams entered and COS and CUB after deadline. One place for the winner of
+a single group.
+
+Group 12 (1953-54)  ‹§gr12›
+
+19.07. Mexico Ct. MEX-HAI 8:0 (5:0) Amauda 38,67,84, Balcazar 22,25,82,
+                                    Tellez 33, Gómez 28 (Crawford ENG)
+27.12. Port-au-Pr.HAI-MEX 0:4 (0:2) Lamadrid 14,59, Balcazar 65, Avalos 4
+                                    (van Rosberg AHO)
+10.02. Mexico Ct. MEX-USA 4:0 (2:0) Naranjo 61, Lamadrid 14,57, Balcazar 4
+                                    (Sunderland ENG)
+14.01. Mexico Ct. MEX-USA 3:1 (0:1) A.Torres 59,89, Lamadrid 68 - Looby 7
+                                    (Best USA)
+03.04. Port-au-Pr.HAI-USA 2:3 (0:1) ? - Looby, Casey, Chachurian (van Rosberg
+                                    AHO)
+04.04. Port-au-Pr.HAI-USA 0:3 (0:2) Looby (2), Mendoza (van Rosberg AHO)
+
+- the MEX-USA refereed by an American referee. USA played all matches
+away
+
+1.MEX^  4   8  4  0  0  19- 1
+2.USA   4   4  2  0  2   7- 9
+3.HAI   4   0  0  0  4   2-18
+
+== Africa
+
+One team entered (EGY), alloted to the European zone
+
+== Asia
+
+4 teams entered, ISR alloted to the European zone. IND and VIE after
+deadline. TAI withdrawn after seeding. One place for the winner of a
+cup competition.
+
+- note: all goal info missing
+
+Group 13 (1954)  ‹§gr13›
+
+07.03. Tokyo      JAP-KOR 1:5 (1:2) (Haran HKG)
+14.03. Tokyo      JAP-KOR 2:2 (2:1) (Haran HKG)
+
+- both matches in Japan
+
